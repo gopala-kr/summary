@@ -1,6 +1,18 @@
 Summaries of papers on deep learning.
 
+*********************
+[[Week-1]()]
+Week-2
+Week-3
+Week-4
+Week-5
+Week-6
+Week-7
+Week-8
+Week-9
+Week-10
 
+*********************
 #### 2017-10
 
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
