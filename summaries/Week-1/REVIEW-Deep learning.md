@@ -6,7 +6,7 @@
 * This is papers mainly outlines the survey on deep learning techniques and thier applications.
 * Initially auther discusses about the significance and applications of machine learnig state-of-the-art in speech recognition,visual object recognition, object detection and many other domains such as drug discovery and genomics.
 * Later author discusses about limitations of conventional machine learning techniques and deep learning as a solution.
-* explaination of deep learning methods of representaion-learning.
+* explaination of deep learning methods are representaion-learning.
 * Deep learning is making major advances in solving problems that
 have resisted the best attempts of the artificial intelligence community
 for many years.
