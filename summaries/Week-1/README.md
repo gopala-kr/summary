@@ -22,10 +22,13 @@
 
 
 **[5]** Very deep convolutional networks for large-scale image recognition. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) (VGGNet,Neural Networks become very deep!) 
-[summary]  [revisit-notes]  [code]
+[summary]  [revisit-notes]  [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/cc3580_Simonyan.pptx)]
 
 **[6]** Going deeper with convolutions. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) (GoogLeNet) 
-[summary]  [revisit-notes]  [code]
+[summary]  [revisit-notes]  [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/20170110033002!State_of_the_art_CNNs.pptx)]
 
 **[7]** Deep residual learning for image recognition. [[pdf]](https://arxiv.org/pdf/1512.03385.pdf) (ResNet,Very very deep networks, CVPR best paper)  
 [summary]  [revisit-notes]  [code]
+
+![weneedto](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/weneedto.JPG)
+
