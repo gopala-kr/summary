@@ -28,7 +28,7 @@
 [summary]  [revisit-notes]  [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/20170110033002!State_of_the_art_CNNs.pptx)]
 
 **[7]** Deep residual learning for image recognition. [[pdf]](https://arxiv.org/pdf/1512.03385.pdf) (ResNet,Very very deep networks, CVPR best paper)  
-[summary]  [revisit-notes]  [code]
+[summary]  [revisit-notes]  [[code](https://github.com/KaimingHe/deep-residual-networks)] 
 
 ![weneedto](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/weneedto.JPG)
 
