@@ -10,8 +10,7 @@
 **[2]** A fast learning algorithm for deep belief nets.[[pdf]](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf)(Deep Learning Eve) 
 [[summary](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/A%20Fast%20Learning%20Algorithm%20for%20Deep%20Belief%20Nets.md)]  [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/Deep_Belief_nets.pptx)]  [revisit-notes] [[code](https://github.com/albertbup/deep-belief-network)]
 
-**[3]** Reducing the dimensionality of data with neural networks. [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf) (Milestone, Show the promise of deep learning)  
-[summary] [revisit-notes] [[code](https://github.com/Cospel/rbm-ae-tf)]
+**[3]** Reducing the dimensionality of data with neural networks. [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf) (Milestone, Show the promise of deep learning)[summary] [revisit-notes] [[code](https://github.com/Cospel/rbm-ae-tf)]
 
 
 
@@ -38,19 +37,19 @@
 [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/lec26_audio.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/LiDeng-BerlinOct2015-ASR-GenDisc-4by3.pptx)] [[PPT](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/HumansVsMachine-Afeka2017-invited.pdf)]
 
 **[8]** Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
-[[summary]()]  [revisit-notes]
+[[summary]]  [revisit-notes]
 
 **[9]** Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
-[[summary]()]  [revisit-notes]
+[[summary]]  [revisit-notes]
 
 **[10]** Towards End-To-End Speech Recognition with Recurrent Neural Networks[[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
-[[summary]()]  [revisit-notes]
+[[summary]]  [revisit-notes]
 
 **[11]** Fast and accurate recurrent neural network acoustic models for speech recognition [[pdf]](http://arxiv.org/pdf/1507.06947)(Google Speech Recognition System)
-[[summary]()]  [revisit-notes]
+[[summary]]  [revisit-notes]
 
 **[12]** Deep speech 2: End-to-end speech recognition in english and mandarin [[pdf]](https://arxiv.org/pdf/1512.02595.pdf) (Baidu Speech Recognition System)
-[[summary]()]  [revisit-notes]
+[[summary]]  [revisit-notes]
 
 **[13]** Achieving Human Parity in Conversational Speech Recognition [[pdf]](https://arxiv.org/pdf/1610.05256v1) (State-of-the-art in speech recognition, Microsoft)
-[[summary]()]  [revisit-notes]
+[[summary]]  [revisit-notes]
