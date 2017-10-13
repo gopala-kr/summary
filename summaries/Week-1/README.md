@@ -22,7 +22,7 @@
 
 
 **[5]** Very deep convolutional networks for large-scale image recognition. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) (VGGNet,Neural Networks become very deep!) 
-[summary]  [revisit-notes]  [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/cc3580_Simonyan.pptx)]
+[summary]  [revisit-notes]  [[code](https://github.com/eltonlaw/vgg-cifar10)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/cc3580_Simonyan.pptx)]
 
 **[6]** Going deeper with convolutions. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) (GoogLeNet) 
 [summary]  [revisit-notes]  [[code](https://github.com/lim0606/caffe-googlenet-bn)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/20170110033002!State_of_the_art_CNNs.pptx)]
