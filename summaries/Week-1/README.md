@@ -36,14 +36,19 @@
 **Speech Recognition Evolution**
 
 **[8]** Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
+[[summary]()]  [revisit-notes]  [code]
 
-[[summary](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/ImageNet.md)]  [revisit-notes]  [code]
 **[9]** Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
+[[summary]()]  [revisit-notes]  [code]
 
 **[10]** Towards End-To-End Speech Recognition with Recurrent Neural Networks[[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
+[[summary]()]  [revisit-notes]  [code]
 
 **[11]** Fast and accurate recurrent neural network acoustic models for speech recognition [[pdf]](http://arxiv.org/pdf/1507.06947)(Google Speech Recognition System)
+[[summary]()]  [revisit-notes]  [code]
 
 **[12]** Deep speech 2: End-to-end speech recognition in english and mandarin [[pdf]](https://arxiv.org/pdf/1512.02595.pdf) (Baidu Speech Recognition System)
+[[summary]()]  [revisit-notes]  [code]
 
 **[13]** Achieving Human Parity in Conversational Speech Recognition [[pdf]](https://arxiv.org/pdf/1610.05256v1) (State-of-the-art in speech recognition, Microsoft)
+[[summary]()]  [revisit-notes]  [code]
