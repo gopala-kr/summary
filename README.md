@@ -1,7 +1,7 @@
 Summaries of papers on deep learning.
 
 *********************
-* [[Week-1](https://github.com/gopala-kr/summary/tree/master/summaries/Week-1)]
+* [[Week-1](https://github.com/gopala-kr/summary/tree/master/summaries/Week-1)][15-Oct-2017] - DBN, AlexNet, VGGNet, GoogLeNet, ResNet, RNN(speech evolution) 
 * [Week-2]
 * [Week-3]
 * [Week-4]
