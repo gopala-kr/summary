@@ -19,7 +19,7 @@
 
 **[18]** Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to+ 1 or−1." [[pdf]](https://pdfs.semanticscholar.org/f832/b16cb367802609d91d400085eb87d630212a.pdf) (New Model,Fast)
 
-[[summary]]  [revisit-notes] [[code](https://github.com/codekansas/tinier-nn)] [[code](https://github.com/MatthieuCourbariaux/BinaryNet)] [PPT]
+[[summary]]  [revisit-notes] [[code](https://github.com/codekansas/tinier-nn)] [[code](https://github.com/MatthieuCourbariaux/BinaryNet)] [[PPT](http://web.eng.tau.ac.il/deep_learn/wp-content/uploads/2017/03/Binary-Deep-Learning.pdf)]
 
 **[19]** Decoupled neural interfaces using synthetic gradients. [[pdf]](https://arxiv.org/pdf/1608.05343) (Innovation of Training Method,Amazing Work)
 
