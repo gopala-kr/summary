@@ -11,11 +11,11 @@
 
 **[16]** Batch normalization: Accelerating deep network training by reducing internal covariate shift(2015). [[pdf]](http://arxiv.org/pdf/1502.03167) (An outstanding Work in 2015)
 
-[[summary]]  [revisit-notes] [code] [[PPT](http://people.ee.duke.edu/~lcarin/Zhao12.17.2015.pdf)]
+[[summary]]  [revisit-notes] [[code](https://github.com/ChenglongChen/batch_normalization)] [[code](https://github.com/shuuki4/Batch-Normalization)] [[code](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)] [[code](https://github.com/ChenglongChen/batch_normalization)] [[PPT](http://people.ee.duke.edu/~lcarin/Zhao12.17.2015.pdf)]
 
 **[17]** Layer normalization (2016). [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote) (Update of Batch Normalization)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [[code](https://github.com/ryankiros/layer-norm)] [[code](https://github.com/carlthome/tensorflow-convlstm-cell)]  [[code](https://github.com/pbhatia243/tf-layer-norm)] [[code](https://github.com/MycChiu/fast-LayerNorm-TF)] [PPT]
 
 **[18]** Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to+ 1 or−1." [[pdf]](https://pdfs.semanticscholar.org/f832/b16cb367802609d91d400085eb87d630212a.pdf) (New Model,Fast)
 
