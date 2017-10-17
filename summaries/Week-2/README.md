@@ -11,7 +11,7 @@
 
 **[16]** Batch normalization: Accelerating deep network training by reducing internal covariate shift(2015). [[pdf]](http://arxiv.org/pdf/1502.03167) (An outstanding Work in 2015)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [code] [[PPT](http://people.ee.duke.edu/~lcarin/Zhao12.17.2015.pdf)]
 
 **[17]** Layer normalization (2016). [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote) (Update of Batch Normalization)
 
