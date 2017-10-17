@@ -7,7 +7,7 @@
 
 **[15]** Dropout: a simple way to prevent neural networks from overfitting [[pdf]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-2/Lecture_04_Supervised_Pretraining.pptx)]
 
 **[16]** Batch normalization: Accelerating deep network training by reducing internal covariate shift(2015). [[pdf]](http://arxiv.org/pdf/1502.03167) (An outstanding Work in 2015)
 
