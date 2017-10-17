@@ -3,7 +3,7 @@
 
 **[14]** Improving neural networks by preventing co-adaptation of feature detectors. [[pdf]](https://arxiv.org/pdf/1207.0580.pdf) (Dropout)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [code] [[PPT](http://www.ke.tu-darmstadt.de/lehre/archiv/ws-13-14/seminarML/slides/folien13_Laux.pdf)]
 
 **[15]** Dropout: a simple way to prevent neural networks from overfitting [[pdf]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf)
 
