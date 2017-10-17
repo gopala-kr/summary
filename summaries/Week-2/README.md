@@ -23,7 +23,7 @@
 
 **[19]** Decoupled neural interfaces using synthetic gradients. [[pdf]](https://arxiv.org/pdf/1608.05343) (Innovation of Training Method,Amazing Work)
 
-[[summary]]  [revisit-notes] [code] [[PPT](https://www.slideshare.net/Eniod/019-20160907-decoupled-neural-interfaces-using-synthetic-gradients)]
+[[summary]]  [revisit-notes] [[code](https://github.com/andrewliao11/dni.pytorch)] [[code](https://github.com/vyraun/DNI-tensorflow)] [[PPT](https://www.slideshare.net/Eniod/019-20160907-decoupled-neural-interfaces-using-synthetic-gradients)]
 
 **[20]** Net2net: Accelerating learning via knowledge transfer.(2015). [[pdf]](https://arxiv.org/abs/1511.05641) (Modify previously trained network to reduce training epochs)
 
