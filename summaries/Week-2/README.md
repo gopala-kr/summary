@@ -27,7 +27,7 @@
 
 **[20]** Net2net: Accelerating learning via knowledge transfer.(2015). [[pdf]](https://arxiv.org/abs/1511.05641) (Modify previously trained network to reduce training epochs)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [[code](https://github.com/soumith/net2net.torch)] [[code](https://github.com/DanielSlater/Net2Net)] [[code](https://github.com/paengs/Net2Net)] [[code](https://github.com/erogol/Net2Net)] [PPT]
 
 **[21]** Network Morphism. [[pdf]](https://arxiv.org/abs/1603.01670) (Modify previously trained network to reduce training epochs)
 
