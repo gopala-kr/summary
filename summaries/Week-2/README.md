@@ -3,11 +3,11 @@
 
 **[14]** Improving neural networks by preventing co-adaptation of feature detectors. [[pdf]](https://arxiv.org/pdf/1207.0580.pdf) (Dropout)
 
-[[summary]]  [revisit-notes] [code] [[PPT](http://www.ke.tu-darmstadt.de/lehre/archiv/ws-13-14/seminarML/slides/folien13_Laux.pdf)]
+[[summary]]  [revisit-notes] [[code](https://github.com/mdenil/dropout)] [[code](https://github.com/dnouri/cuda-convnet)] [[PPT](http://www.ke.tu-darmstadt.de/lehre/archiv/ws-13-14/seminarML/slides/folien13_Laux.pdf)]
 
 **[15]** Dropout: a simple way to prevent neural networks from overfitting [[pdf]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf)
 
-[[summary]]  [revisit-notes] [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-2/Lecture_04_Supervised_Pretraining.pptx)]
+[[summary]]  [revisit-notes] [[code](https://github.com/yaringal/ConcreteDropout)] [[code](https://github.com/Philip-Bachman/NN-Dropout)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-2/Lecture_04_Supervised_Pretraining.pptx)]
 
 **[16]** Batch normalization: Accelerating deep network training by reducing internal covariate shift(2015). [[pdf]](http://arxiv.org/pdf/1502.03167) (An outstanding Work in 2015)
 
