@@ -59,31 +59,31 @@
 
 **Unsupervised Learning / Deep Generative Model**
 ------------------------------
-**[27]** Building high-level features using large scale unsupervised learning. [pdf] (Milestone, Andrew Ng, Google Brain Project, Cat) 
+**[27]** Building high-level features using large scale unsupervised learning. [[arXiv](https://arxiv.org/abs/1112.6209)] (Milestone, Andrew Ng, Google Brain Project, Cat) 
 
 ✔ [[summary]]  [revisit-notes] [code] [[PPT]]
 
-**[28]** Auto-encoding variational bayes.(2013). [pdf] (VAE)
+**[28]** Auto-encoding variational bayes.(2013). [[arXiv](https://arxiv.org/abs/1312.6114)] (VAE)
 
 ✔ [[summary]]  [revisit-notes] [code] [[PPT](http://dpkingma.com/wordpress/wp-content/uploads/2014/05/2014-03_talk_iclr.pdf)] [[PPT](http://www.mlsalt.eng.cam.ac.uk/foswiki/pub/Main/ClassOf2017/D423C_poster.pdf)] [[PPT](http://people.ee.duke.edu/~lcarin/DEC9.26.2014.pdf)]
 
-**[29]** Generative adversarial nets.2014. [pdf] (GAN,super cool idea)
+**[29]** Generative adversarial nets.2014. [[arXiv](https://arxiv.org/abs/1406.2661)] (GAN,super cool idea)
 
 ✔ [[summary]]  [revisit-notes] [[code](https://github.com/junyanz/CycleGAN)] [[code](https://github.com/ckmarkoh/GAN-tensorflow)] [[PPT](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)] [[PPT](https://www.slideshare.net/ckmarkohchang/generative-adversarial-networks)] [[PPT](http://dl.ee.cuhk.edu.hk/slides/gan.pdf)] [[PPT](http://www.cs.toronto.edu/~dtarlow/pos14/talks/goodfellow.pdf)] [[PPT](http://pages.cs.wisc.edu/~dpage/cs760/GANs.pdf)] [[PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf)] [[PPT](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)]
 
-**[30]** Unsupervised representation learning with deep convolutional generative adversarial networks.(2015). [pdf] (DCGAN)
+**[30]** Unsupervised representation learning with deep convolutional generative adversarial networks.(2015). [[arXiv](https://arxiv.org/abs/1511.06434)] (DCGAN)
 
 ✔ [[summary]]  [revisit-notes] [[code](https://github.com/Newmu/dcgan_code)] [[code](https://github.com/soumith/dcgan.torch)] [[code](https://github.com/mattya/chainer-DCGAN)] [[code](https://github.com/jacobgil/keras-dcgan)] [[code](https://github.com/YadiraF/GAN)] [[code](https://github.com/carpedm20/DCGAN-tensorflow)] [[PPT](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)]
 
-**[31]** DRAW: A recurrent neural network for image generation.(2015). [pdf] (VAE with attention, outstanding work)
+**[31]** DRAW: A recurrent neural network for image generation.(2015). [[arXiv](https://arxiv.org/abs/1502.04623)] (VAE with attention, outstanding work)
 
 ✔ [[summary]]  [revisit-notes] [[code](https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW)] [[code](https://github.com/ericjang/draw)] [[code](https://github.com/jbornschein/draw)] [[code](https://github.com/vivanov879/draw)] [[code]()] [[PPT](http://people.ee.duke.edu/~lcarin/Zhe10.2.2015.pdf)] [[PPT](http://cs231n.stanford.edu/slides/2016/winter1516_lecture10.pdf)]
 
-**[32]** Pixel recurrent neural networks.(2016). [pdf] (PixelRNN)
+**[32]** Pixel recurrent neural networks.(2016). [[arXiv](https://arxiv.org/abs/1601.06759)] (PixelRNN)
 
 ✔ [[summary](https://gist.github.com/shagunsodhani/e741ebd5ba0e0fc0f49d7836e30891a7)] [[summay](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pixel-rnn.md)] [revisit-notes] [[code](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/pixelrnn.md)] [[code](https://github.com/carpedm20/pixel-rnn-tensorflow)] [[code](https://github.com/igul222/pixel_rnn)]  [[code]()] [[PPT](https://www.slideshare.net/neouyghur/pixel-recurrent-neural-networks-73970786)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-2/lec10new.ppt)] [[PPT](http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L6-recurrent.pdf)] [[PPT](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pixel-rnn.md)]
 
-**[33]** Conditional image generation with PixelCNN decoders.(2016). [pdf] (PixelCNN)
+**[33]** Conditional image generation with PixelCNN decoders.(2016). [[arXiv](https://arxiv.org/abs/1606.05328)] (PixelCNN)
 
 ✔ [[summary](https://github.com/aleju/papers/blob/master/neural-nets/Conditional_Image_Generation_with_PixelCNN_Decoders.md)] [[summary](https://gist.github.com/shagunsodhani/3cc7066ce7de051d769908b8fab11990)]  [revisit-notes] [[code](https://github.com/anantzoid/Conditional-PixelCNN-decoder)] [[code](https://github.com/openai/pixel-cnn)] [[code](https://github.com/carpedm20/pixel-rnn-tensorflow)] [[code](https://github.com/kundan2510/pixelCNN)] [[code](https://github.com/dritchie/pixelCNN)] [[PPT](https://www.slideshare.net/suga93/conditional-image-generation-with-pixelcnn-decoders)] [[PPT](http://slazebni.cs.illinois.edu/spring17/lec13_advanced.pdf)]
 
