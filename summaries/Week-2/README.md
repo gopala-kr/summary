@@ -65,11 +65,11 @@
 
 **[28]** Auto-encoding variational bayes.(2013). [pdf] (VAE)
 
-[[summary]]  [revisit-notes] [code] [[PPT]]
+[[summary]]  [revisit-notes] [code] [[PPT](http://dpkingma.com/wordpress/wp-content/uploads/2014/05/2014-03_talk_iclr.pdf)] [[PPT](http://www.mlsalt.eng.cam.ac.uk/foswiki/pub/Main/ClassOf2017/D423C_poster.pdf)] [[PPT](http://people.ee.duke.edu/~lcarin/DEC9.26.2014.pdf)]
 
 **[29]** Generative adversarial nets.2014. [pdf] (GAN,super cool idea)
 
-[[summary]]  [revisit-notes] [code] [[PPT]]
+[[summary]]  [revisit-notes] [code] [[PPT](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)] [[PPT](https://www.slideshare.net/ckmarkohchang/generative-adversarial-networks)] [[PPT](http://dl.ee.cuhk.edu.hk/slides/gan.pdf)] [[PPT](http://www.cs.toronto.edu/~dtarlow/pos14/talks/goodfellow.pdf)] [[PPT](http://pages.cs.wisc.edu/~dpage/cs760/GANs.pdf)] [[PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf)] [[PPT](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)]
 
 **[30]** Unsupervised representation learning with deep convolutional generative adversarial networks.(2015). [pdf] (DCGAN)
 
