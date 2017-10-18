@@ -73,7 +73,7 @@
 
 **[30]** Unsupervised representation learning with deep convolutional generative adversarial networks.(2015). [pdf] (DCGAN)
 
-[[summary]]  [revisit-notes] [code] [[PPT]]
+[[summary]]  [revisit-notes] [[code](https://github.com/Newmu/dcgan_code)] [[PPT](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)]
 
 **[31]** DRAW: A recurrent neural network for image generation.(2015). [pdf] (VAE with attention, outstanding work)
 
