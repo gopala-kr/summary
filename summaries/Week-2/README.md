@@ -77,7 +77,7 @@
 
 **[31]** DRAW: A recurrent neural network for image generation.(2015). [pdf] (VAE with attention, outstanding work)
 
-[[summary]]  [revisit-notes] [code] [[PPT]]
+[[summary]]  [revisit-notes] [[code](https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW)] [[code](https://github.com/ericjang/draw)] [[code](https://github.com/jbornschein/draw)] [[code](https://github.com/vivanov879/draw)] [[code]()] [[PPT](http://people.ee.duke.edu/~lcarin/Zhe10.2.2015.pdf)] [[PPT](http://cs231n.stanford.edu/slides/2016/winter1516_lecture10.pdf)]
 
 **[32]** Pixel recurrent neural networks.(2016). [pdf] (PixelRNN)
 
