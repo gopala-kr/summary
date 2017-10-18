@@ -2,9 +2,13 @@
 <div class="post-headline">		<h1>Deep Learning Research Groups</h1></div>				
 <div class="post-bodycopy clearfix">
 <p>Some labs and research groups that are actively working on deep learning:</p>
-<p>University of Toronto &#8211; <a title="University of Toronto Machine Learning Group" href="http://learning.cs.toronto.edu/index.shtml?section=home" target="_blank">Machine Learning Group</a> (Geoffrey Hinton, Rich Zemel, Ruslan Salakhutdinov, Brendan Frey, Radford Neal)</p>
-<p>Université de Montréal &#8211; <a title="Lisa Lab " href="https://mila.umontreal.ca" target="_blank"> MILA Lab</a> (Yoshua Bengio, Pascal Vincent, Aaron Courville, Roland Memisevic)</p>
-<p>New York University &#8211; <a href="http://yann.lecun.com/ex/index.html" target="_blank">Yann Lecun</a>, <a href="http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Rob Fergus</a>, David Sontag and Kyunghyun Cho</p>
+
+* University of Toronto &#8211; <a title="University of Toronto Machine Learning Group" href="http://learning.cs.toronto.edu/index.shtml?section=home" target="_blank">Machine Learning Group</a> (Geoffrey Hinton, Rich Zemel, Ruslan Salakhutdinov, Brendan Frey, Radford Neal)
+
+* Université de Montréal &#8211; <a title="Lisa Lab " href="https://mila.umontreal.ca" target="_blank"> MILA Lab</a> (Yoshua Bengio, Pascal Vincent, Aaron Courville, Roland Memisevic)
+
+* <p>New York University &#8211; <a href="http://yann.lecun.com/ex/index.html" target="_blank">Yann Lecun</a>, <a href="http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Rob Fergus</a>, David Sontag and Kyunghyun Cho</p>
+
 <p>Stanford University &#8211; <a href="http://www.robotics.stanford.edu/~ang/group.html" target="_blank">Andrew Ng</a>, <a href="http://nlp.stanford.edu/manning/">Christopher Manning</a>&#8216;s, <a href="http://vision.stanford.edu/feifeili/">Fei-fei Li</a>&#8216;s group</p>
 <p>University of Oxford &#8211; <a href="http://www.cs.ox.ac.uk/projects/DeepLearn/index.html">Deep learning group</a>,  <a href="http://www.cs.ox.ac.uk/people/nando.defreitas/" target="_blank">Nando de Freitas</a> and <a href="http://www.cs.ox.ac.uk/people/phil.blunsom/" target="_blank">Phil Blunsom</a>, Andrew Zisserman</p>
 <p><a href="http://research.google.com">Google Research</a> &#8211; Jeff Dean, Geoffrey Hinton, Samy Bengio, Ilya Sutskever, Ian Goodfellow, Oriol Vinyals, Dumitru Erhan, Quoc Le et al</p>
