@@ -90,14 +90,15 @@
 
 
 **RNN / Sequence-to-Sequence Model**
+-----------------------------------------
 
 **[34]** Generating sequences with recurrent neural networks.(2013) [[arXiv]](http://arxiv.org/pdf/1308.0850) LSTM, very nice generating result, show the power of RNN)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+✔ [[summary](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/summary_generation_sequences.md)]  [revisit-notes] [[code](https://github.com/snowkylin/rnn-handwriting-generation)] [[PPT](https://www.slideshare.net/AndrePemmelaar/deep-lst-msandrnnsjulia)]
 
 **[35]** Learning phrase representations using RNN encoder-decoder for statistical machine translation.(2014) [[arXiv]](http://arxiv.org/pdf/1406.1078) (First Seq-to-Seq Paper)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+✔ [[summary](https://gist.github.com/shagunsodhani/9dccec626e68e495fd4577ecdca36b7b)]  [[summary](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/learning-phrase-representations.md)][revisit-notes] [code] [[PPT](https://www.slideshare.net/yutakikuchi927/learning-phrase-representations-using-rnn-encoderdecoder-for-statistical-machine-translation)]
 
 **[36]** Sequence to sequence learning with neural networks.(2014) [[pdf]](http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces.pdf) (Outstanding Work)
 
