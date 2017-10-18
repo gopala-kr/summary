@@ -1,6 +1,6 @@
 
 **Model**
-
+------------------------------
 **[14]** Improving neural networks by preventing co-adaptation of feature detectors. [[pdf]](https://arxiv.org/pdf/1207.0580.pdf) (Dropout)
 
 [[summary]]  [revisit-notes] [[code](https://github.com/mdenil/dropout)] [[code](https://github.com/dnouri/cuda-convnet)] [[PPT](http://www.ke.tu-darmstadt.de/lehre/archiv/ws-13-14/seminarML/slides/folien13_Laux.pdf)]
@@ -35,13 +35,23 @@
 
 
 **Optimization**
-
+---------------------------------------
 **[22]** On the importance of initialization and momentum in deep learning. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf) (Momentum optimizer)
+
+[[summary]]  [revisit-notes] [code] [PPT]
 
 **[23]** Adam: A method for stochastic optimization. [[pdf]](http://arxiv.org/pdf/1412.6980) (Maybe used most often currently)
 
+[[summary]]  [revisit-notes] [code] [PPT]
+
 **[24]** Learning to learn by gradient descent by gradient descent(2016). [[pdf]](https://arxiv.org/pdf/1606.04474) (Neural Optimizer,Amazing Work)
+
+[[summary]]  [revisit-notes] [code] [PPT]
 
 **[25]** Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding. [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf) (ICLR best paper, new direction to make NN running fast,DeePhi Tech Startup)
 
+[[summary]]  [revisit-notes] [code] [PPT]
+
 **[26]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size(2016). [[pdf]](http://arxiv.org/pdf/1602.07360) (Also a new direction to optimize NN,DeePhi Tech Startup)
+
+[[summary]]  [revisit-notes] [code] [PPT]
