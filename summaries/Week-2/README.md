@@ -102,7 +102,7 @@
 
 **[36]** Sequence to sequence learning with neural networks.(2014) [[pdf]](http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces.pdf) (Outstanding Work)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+✔ [[summary]()]  [revisit-notes] [[code](https://github.com/farizrahman4u/seq2seq)] [[code](https://github.com/pytorch/tutorials/blob/master/intermediate_source/seq2seq_translation_tutorial.py)] [[code](https://github.com/ichuang/tflearn_seq2seq)] [[code](https://github.com/harvardnlp/seq2seq-attn)] [[code](https://github.com/ma2rten/seq2seq)] [[code](https://github.com/JayParks/tf-seq2seq)] [[code](https://github.com/yoosan/mxnet-seq2seq)] [[code](https://github.com/fchollet/keras/issues/694)] [[code](https://gist.github.com/rouseguy/1122811f2375064d009dac797d59bae9)] [[PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi4quPtivvWAhXMRY8KHSLVAxgQFggqMAA&url=https%3A%2F%2Fcomputing.ece.vt.edu%2F~f15ece6504%2Fslides%2FL17_Sequence.pptx&usg=AOvVaw2-5t4RNS-meOmSqdYxuqSS)] [[PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwi4quPtivvWAhXMRY8KHSLVAxgQFghZMAg&url=http%3A%2F%2Fdialog-systems-class.org%2Fslides%2Fseq2seq-lec-6.ppt&usg=AOvVaw3OSpZDHjJTdgDRtCh9LUK4)]  [[PPT](http://www.phontron.com/slides/neubig14taiwa11.pdf)] [[PPT](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ilya_LSTMs_for_Translation.pdf)]
 
 **[37]** Neural Machine Translation by Jointly Learning to Align and Translate. [[arXiv]](https://arxiv.org/pdf/1409.0473v7.pdf) 
 
