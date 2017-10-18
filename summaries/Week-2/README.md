@@ -87,3 +87,26 @@
 
 ✔ [[summary](https://github.com/aleju/papers/blob/master/neural-nets/Conditional_Image_Generation_with_PixelCNN_Decoders.md)] [[summary](https://gist.github.com/shagunsodhani/3cc7066ce7de051d769908b8fab11990)]  [revisit-notes] [[code](https://github.com/anantzoid/Conditional-PixelCNN-decoder)] [[code](https://github.com/openai/pixel-cnn)] [[code](https://github.com/carpedm20/pixel-rnn-tensorflow)] [[code](https://github.com/kundan2510/pixelCNN)] [[code](https://github.com/dritchie/pixelCNN)] [[PPT](https://www.slideshare.net/suga93/conditional-image-generation-with-pixelcnn-decoders)] [[PPT](http://slazebni.cs.illinois.edu/spring17/lec13_advanced.pdf)]
 
+
+
+**RNN / Sequence-to-Sequence Model**
+
+**[34]** Generating sequences with recurrent neural networks.(2013) [[arXiv]](http://arxiv.org/pdf/1308.0850) LSTM, very nice generating result, show the power of RNN)
+
+✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+
+**[35]** Learning phrase representations using RNN encoder-decoder for statistical machine translation.(2014) [[arXiv]](http://arxiv.org/pdf/1406.1078) (First Seq-to-Seq Paper)
+
+✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+
+**[36]** Sequence to sequence learning with neural networks.(2014) [[pdf]](http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces.pdf) (Outstanding Work)
+
+✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+
+**[37]** Neural Machine Translation by Jointly Learning to Align and Translate. [[arXiv]](https://arxiv.org/pdf/1409.0473v7.pdf) 
+
+✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+
+**[38]** A neural conversational model.(2015) [[arXiv]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf))(Seq-to-Seq on Chatbot)
+
+✔ [[summary]]  [revisit-notes] [code] [[PPT]]
