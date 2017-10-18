@@ -38,7 +38,7 @@
 ---------------------------------------
 **[22]** On the importance of initialization and momentum in deep learning. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf) (Momentum optimizer)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [code] [[PPT](https://moodle2.cs.huji.ac.il/nu15/pluginfile.php/316969/mod_resource/content/1/adam_pres.pdf)]
 
 **[23]** Adam: A method for stochastic optimization. [[pdf]](http://arxiv.org/pdf/1412.6980) (Maybe used most often currently)
 
