@@ -55,3 +55,35 @@
 **[26]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size(2016). [[pdf]](http://arxiv.org/pdf/1602.07360) (Also a new direction to optimize NN,DeePhi Tech Startup)
 
 [[summary]]  [revisit-notes] [code] [[PPT](http://statsmaths.github.io/stat665/lectures/lec19/lecture19.pdf)]
+
+
+**Unsupervised Learning / Deep Generative Model**
+------------------------------
+[27] Building high-level features using large scale unsupervised learning. [pdf] (Milestone, Andrew Ng, Google Brain Project, Cat) 
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
+[28] Auto-encoding variational bayes.(2013). [pdf] (VAE)
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
+[29] Generative adversarial nets.2014. [pdf] (GAN,super cool idea)
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
+[30] Unsupervised representation learning with deep convolutional generative adversarial networks.(2015). [pdf] (DCGAN)
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
+[31] DRAW: A recurrent neural network for image generation.(2015). [pdf] (VAE with attention, outstanding work)
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
+[32] Pixel recurrent neural networks.(2016). [pdf] (PixelRNN)
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
+[33] Conditional image generation with PixelCNN decoders.(2016). [pdf] (PixelCNN)
+
+[[summary]]  [revisit-notes] [code] [[PPT]]
+
