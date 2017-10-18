@@ -106,8 +106,8 @@
 
 **[37]** Neural Machine Translation by Jointly Learning to Align and Translate. [[arXiv]](https://arxiv.org/pdf/1409.0473v7.pdf) 
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+✔ [[summary]]  [revisit-notes] [[code](https://github.com/tensorflow/nmt)] [[PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjK-N6ajfvWAhUJq48KHbgrBuMQFggwMAE&url=http%3A%2F%2Fwww.statmt.org%2Fwmt15%2Fslides%2Finvited-talk.pptx&usg=AOvVaw18s856F0j82-tSTnpzA4gB)] [[PPT](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:bahdanau-iclr2015.pdf)]
 
 **[38]** A neural conversational model.(2015) [[arXiv]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf))(Seq-to-Seq on Chatbot)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+✔ [[summary](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/neural-conversational-model.md)]  [revisit-notes] [[code(https://github.com/macournoyer/neuralconvo)]] [[code](https://github.com/Conchylicultor/DeepQA)] [[code](https://github.com/pbhatia243/Neural_Conversation_Models)] [[code](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)] [[code](https://github.com/mckinziebrandon/DeepChatModels)] [[code](https://github.com/jiweil/Neural-Dialogue-Generation)] [[PPT](http://www.cs.utoronto.ca/~fidler/teaching/2015/slides/CSC2523/conversation_berkay.pdf)] 
