@@ -38,11 +38,11 @@
 ---------------------------------------
 **[22]** On the importance of initialization and momentum in deep learning. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf) (Momentum optimizer)
 
-[[summary]]  [revisit-notes] [code] [[PPT](https://moodle2.cs.huji.ac.il/nu15/pluginfile.php/316969/mod_resource/content/1/adam_pres.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-2/Adam_slides.pdf)]
+[[summary]]  [revisit-notes] [code] [PPT] 
 
 **[23]** Adam: A method for stochastic optimization. [[pdf]](http://arxiv.org/pdf/1412.6980) (Maybe used most often currently)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [code] [[PPT](https://moodle2.cs.huji.ac.il/nu15/pluginfile.php/316969/mod_resource/content/1/adam_pres.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-2/Adam_slides.pdf)]
 
 **[24]** Learning to learn by gradient descent by gradient descent(2016). [[pdf]](https://arxiv.org/pdf/1606.04474) (Neural Optimizer,Amazing Work)
 
@@ -50,7 +50,7 @@
 
 **[25]** Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding. [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf) (ICLR best paper, new direction to make NN running fast,DeePhi Tech Startup)
 
-[[summary]]  [revisit-notes] [code] [PPT]
+[[summary]]  [revisit-notes] [code] [[PPT](http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf)] [[PPT](https://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf)]
 
 **[26]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size(2016). [[pdf]](http://arxiv.org/pdf/1602.07360) (Also a new direction to optimize NN,DeePhi Tech Startup)
 
