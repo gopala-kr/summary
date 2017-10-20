@@ -65,7 +65,7 @@
 
 **[28]** Auto-encoding variational bayes.(2013). [[arXiv](https://arxiv.org/abs/1312.6114)] (VAE)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT](http://dpkingma.com/wordpress/wp-content/uploads/2014/05/2014-03_talk_iclr.pdf)] [[PPT](http://www.mlsalt.eng.cam.ac.uk/foswiki/pub/Main/ClassOf2017/D423C_poster.pdf)] [[PPT](http://people.ee.duke.edu/~lcarin/DEC9.26.2014.pdf)]
+✔ [[summary]]  [revisit-notes] [[code](https://github.com/peiyunh/mat-vae)] [[code](https://github.com/dillonalaird/VAE)] [[PPT](http://dpkingma.com/wordpress/wp-content/uploads/2014/05/2014-03_talk_iclr.pdf)] [[PPT](http://www.mlsalt.eng.cam.ac.uk/foswiki/pub/Main/ClassOf2017/D423C_poster.pdf)] [[PPT](http://people.ee.duke.edu/~lcarin/DEC9.26.2014.pdf)]
 
 **[29]** Generative adversarial nets.2014. [[arXiv](https://arxiv.org/abs/1406.2661)] (GAN,super cool idea)
 
