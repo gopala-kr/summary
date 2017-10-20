@@ -50,7 +50,7 @@
 
 **[25]** Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding. [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf) (ICLR best paper, new direction to make NN running fast,DeePhi Tech Startup)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT](http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf)] [[PPT](https://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf)]
+✔ [[summary]]  [revisit-notes] [[code](https://github.com/songhan/SqueezeNet-Deep-Compression)] [[code](https://github.com/songhan/Deep-Compression-AlexNet)] [[PPT](http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf)] [[PPT](https://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf)]
 
 **[26]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size(2016). [[pdf]](http://arxiv.org/pdf/1602.07360) (Also a new direction to optimize NN,DeePhi Tech Startup)
 
