@@ -61,7 +61,7 @@
 ------------------------------
 **[27]** Building high-level features using large scale unsupervised learning. [[arXiv](https://arxiv.org/abs/1112.6209)] (Milestone, Andrew Ng, Google Brain Project, Cat) 
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT]]
+✔ [[summary]]  [revisit-notes] [code] [[PPT](https://www.robots.ox.ac.uk/~vgg/rg/slides/ali_eslami__vgg_rg_slides.pdf)]
 
 **[28]** Auto-encoding variational bayes.(2013). [[arXiv](https://arxiv.org/abs/1312.6114)] (VAE)
 
