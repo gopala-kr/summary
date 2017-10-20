@@ -46,7 +46,7 @@
 
 **[24]** Learning to learn by gradient descent by gradient descent(2016). [[pdf]](https://arxiv.org/pdf/1606.04474) (Neural Optimizer,Amazing Work)
 
-✔ [[summary]]  [revisit-notes] [code] [PPT]
+✔ [[summary]]  [revisit-notes] [[code](https://github.com/runopti/Learning-To-Learn)] [[code](https://github.com/ikostrikov/pytorch-meta-optimizer)] [[PPT](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)]
 
 **[25]** Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding. [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf) (ICLR best paper, new direction to make NN running fast,DeePhi Tech Startup)
 
