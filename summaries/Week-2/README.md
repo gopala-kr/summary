@@ -54,7 +54,7 @@
 
 **[26]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size(2016). [[pdf]](http://arxiv.org/pdf/1602.07360) (Also a new direction to optimize NN,DeePhi Tech Startup)
 
-✔ [[summary]]  [revisit-notes] [code] [[PPT](http://statsmaths.github.io/stat665/lectures/lec19/lecture19.pdf)]
+✔ [[summary]]  [revisit-notes] [[code](https://github.com/DeepScale/SqueezeNet)] [[PPT](http://statsmaths.github.io/stat665/lectures/lec19/lecture19.pdf)]
 
 
 **Unsupervised Learning / Deep Generative Model**
