@@ -1,7 +1,7 @@
 **Neural Turing Machine**
 ----------------------------
 
-**[39]** Neural turing machines(2014). [[arxiv]](http://arxiv.org/pdf/1410.5401.pdf) (Basic Prototype of Future Computer) [summary] [code] [PPT] 
+**[39]** Neural turing machines(2014). [[arxiv]](http://arxiv.org/pdf/1410.5401.pdf) (Basic Prototype of Future Computer) [summary] [code] [[PPT](http://klab.smpp.northwestern.edu/wiki/images/4/43/NTM2.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/Turing.ppt)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/lec27_memory.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/last_lecture.ppt)]
 
 **[40]** Reinforcement learning neural Turing machines(2015). [[pdf]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) [summary] [code] [PPT] 
 
