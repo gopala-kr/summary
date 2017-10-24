@@ -3,7 +3,7 @@
 
 **[39]** Neural turing machines(2014). [[arxiv]](http://arxiv.org/pdf/1410.5401.pdf) (Basic Prototype of Future Computer) [summary] [[code](https://github.com/carpedm20/NTM-tensorflow)] [[code](https://github.com/flomlo/ntm_keras)] [[code](https://github.com/snipsco/ntm-lasagne)] [[code](https://github.com/kaishengtai/torch-ntm)] [[code](https://github.com/jingweiz/pytorch-dnc)] [[code](https://github.com/shawntan/neural-turing-machines)] [[code](https://github.com/shawntan/neural-turing-machines)] [[PPT](http://klab.smpp.northwestern.edu/wiki/images/4/43/NTM2.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/Turing.ppt)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/lec27_memory.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/last_lecture.ppt)]
 
-**[40]** Reinforcement learning neural Turing machines(2015). [[pdf]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) [summary] [code] [PPT] 
+**[40]** Reinforcement learning neural Turing machines(2015). [[pdf]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) [summary] [code] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/L19_MemNN.pptx)]  [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/abordes-lxmlss.pptx)]  [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/presentation_v07.pptx)] 
 
 **[41]** Memory networks(2014). [[arxiv]](http://arxiv.org/pdf/1410.3916) [summary] [code] [PPT] 
 
