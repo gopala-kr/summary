@@ -11,7 +11,7 @@
 
 **[43]** Pointer networks(2015). [[pdf]](http://papers.nips.cc/paper/5866-pointer-networks.pdf) [summary] [[code](https://github.com/abisee/pointer-generator)] [[code](https://github.com/devsisters/pointer-network-tensorflow)] [[code](https://github.com/ikostrikov/TensorFlow-Pointer-Networks)] [[code](https://github.com/vshallc/PtrNets)] [[code](https://github.com/keon/pointer-networks)] [PPT] 
 
-**[44]** Hybrid computing using a neural network with dynamic external memory(2016). [[pdf]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf) (Milestone,combine above papers' ideas) [summary] [[code](https://github.com/deepmind/dnc)] [[code](https://github.com/Mostafa-Samir/DNC-tensorflow)]  [[code](https://github.com/bgavran/DNC)]  [[code](https://github.com/claymcleod/tf-differentiable-neural-computer)]  [[code](https://github.com/greydanus/dnc)]  [[code](https://github.com/ypxie/pytorch-NeuCom)] [PPT] 
+**[44]** Hybrid computing using a neural network with dynamic external memory(2016). [[pdf]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf) (Milestone,combine above papers' ideas) [summary] [[code](https://github.com/deepmind/dnc)] [[code](https://github.com/Mostafa-Samir/DNC-tensorflow)]  [[code](https://github.com/bgavran/DNC)]  [[code](https://github.com/claymcleod/tf-differentiable-neural-computer)]  [[code](https://github.com/greydanus/dnc)]  [[code](https://github.com/ypxie/pytorch-NeuCom)] [[PPT](https://courses.cs.ut.ee/MTAT.03.292/2016_fall/uploads/Main/externalmemory.pdf)] 
 
 **Deep Reinforcement Learning**
 ------------------------
