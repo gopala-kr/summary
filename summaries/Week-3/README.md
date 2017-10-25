@@ -41,8 +41,8 @@
 
 **[55]** Distilling the knowledge in a neural network(2015). [[arxiv]](http://arxiv.org/pdf/1503.02531) (Godfather's Work) [summary]  [[PPT](http://www.ttic.edu/dl/dark14.pdf)] [[PPT](https://www.slideshare.net/AlexanderKorbonits/distilling-dark-knowledge-from-neural-networks)] [[PPT](http://homepages.inf.ed.ac.uk/s1459647/posters/distilling_model_knowledge.pdf)] [[PPT](https://stanford.edu/~rezab/nips2014workshop/slides/jeff.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/20160616_yang_v2_Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/Distilling_Knowledge_in_a_Neural_Network.pptx)]
 
-**[56]** Policy distillation(2015). [[arxiv]](http://arxiv.org/pdf/1511.06295) (RL domain) [summary] [code] [PPT]
+**[56]** Policy distillation(2015). [[arxiv]](http://arxiv.org/pdf/1511.06295) (RL domain) [summary]  [[PPT](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Knowledge%20Transfer%20for%20Deep%20Reinforcement%20Learning%20with%20Hierarchical%20Experience%20Replay.pdf)]
 
-**[57]** Actor-mimic: Deep multitask and transfer reinforcement learning(2015). [[arxiv]](http://arxiv.org/pdf/1511.06342) (RL domain) [summary] [code] [PPT]
+**[57]** Actor-mimic: Deep multitask and transfer reinforcement learning(2015). [[arxiv]](http://arxiv.org/pdf/1511.06342) (RL domain) [summary]
 
-**[58]** Progressive neural networks(2016). [[arxiv]](https://arxiv.org/pdf/1606.04671) (Outstanding Work, A novel idea)  [summary] [code] [PPT]
+**[58]** Progressive neural networks(2016). [[arxiv]](https://arxiv.org/pdf/1606.04671) (Outstanding Work, A novel idea)  [summary]
