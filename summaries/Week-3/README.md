@@ -46,3 +46,16 @@
 **[57]** Actor-mimic: Deep multitask and transfer reinforcement learning(2015). [[arxiv]](http://arxiv.org/pdf/1511.06342) (RL domain) [summary]
 
 **[58]** Progressive neural networks(2016). [[arxiv]](https://arxiv.org/pdf/1606.04671) (Outstanding Work, A novel idea)  [summary]
+
+
+**One Shot Deep Learning**
+---------------
+**[59]** Human-level concept learning through probabilistic program induction. [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) (No Deep Learning,but worth reading)
+
+**[60]** Siamese Neural Networks for One-shot Image Recognition(2015) [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) 
+
+**[61]** One-shot Learning with Memory-Augmented Neural Networks(2016). [[arxiv]](http://arxiv.org/pdf/1605.06065) **(A basic step to one shot learning)
+
+**[62]** Matching Networks for One Shot Learning(2016). [[arxiv]](https://arxiv.org/pdf/1606.04080)
+
+**[63]** Low-shot visual object recognition**." arXiv preprint arXiv:1606.02819 (2016). [[arxiv]](http://arxiv.org/pdf/1606.02819) (A step to large data)
