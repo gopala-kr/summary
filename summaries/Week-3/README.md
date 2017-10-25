@@ -37,9 +37,9 @@
 **Deep Transfer Learning / Lifelong Learning / especially for RL**
 ---------------------
 **[53]** Deep Learning of Representations for Unsupervised and Transfer Learning(2012). [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) (A Tutorial) [summary] [code] [PPT]
-**[54]** Lifelong Machine Learning Systems: Beyond Learning Algorithms(2013). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) (A brief discussion about lifelong learning) [summary] [code] [[PPT](http://slideplayer.com/slide/6220039/)] [[PPT](https://www.slideshare.net/xavigiro/lifelong-incremental-learning-d3l2-2017-upc-deep-learning-for-computer-vision)] [[PPT](https://www.cs.uic.edu/~liub/Lifelong-Learning-tutorial-slides.pdf)] [[code](https://www.slideshare.net/guard0g/beyond-machine-learning-the-new-generation-of-learning-algorithms-coming-to-market)]
+**[54]** Lifelong Machine Learning Systems: Beyond Learning Algorithms(2013). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) (A brief discussion about lifelong learning) [summary] [[PPT](http://slideplayer.com/slide/6220039/)] [[PPT](https://www.slideshare.net/xavigiro/lifelong-incremental-learning-d3l2-2017-upc-deep-learning-for-computer-vision)] [[PPT](https://www.cs.uic.edu/~liub/Lifelong-Learning-tutorial-slides.pdf)] [[PPT](https://www.slideshare.net/guard0g/beyond-machine-learning-the-new-generation-of-learning-algorithms-coming-to-market)]
 
-**[55]** Distilling the knowledge in a neural network(2015). [[arxiv]](http://arxiv.org/pdf/1503.02531) (Godfather's Work) [summary] [code] [PPT]
+**[55]** Distilling the knowledge in a neural network(2015). [[arxiv]](http://arxiv.org/pdf/1503.02531) (Godfather's Work) [summary]  [[PPT](http://www.ttic.edu/dl/dark14.pdf)] [[PPT](https://www.slideshare.net/AlexanderKorbonits/distilling-dark-knowledge-from-neural-networks)] [[PPT](http://homepages.inf.ed.ac.uk/s1459647/posters/distilling_model_knowledge.pdf)] [[PPT](https://stanford.edu/~rezab/nips2014workshop/slides/jeff.pdf)] [[PPT]()] [[PPT]()]
 
 **[56]** Policy distillation(2015). [[arxiv]](http://arxiv.org/pdf/1511.06295) (RL domain) [summary] [code] [PPT]
 
