@@ -35,14 +35,14 @@
 
 
 **Deep Transfer Learning / Lifelong Learning / especially for RL**
-
+---------------------
 **[53]** Deep Learning of Representations for Unsupervised and Transfer Learning(2012). [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) (A Tutorial)
 **[54]** Lifelong Machine Learning Systems: Beyond Learning Algorithms(2013). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) (A brief discussion about lifelong learning)
 
-**[55]** Distilling the knowledge in a neural network(2015). [[pdf]](http://arxiv.org/pdf/1503.02531) (Godfather's Work)
+**[55]** Distilling the knowledge in a neural network(2015). [[arxiv]](http://arxiv.org/pdf/1503.02531) (Godfather's Work)
 
-**[56]** Policy distillation(2015). [[pdf]](http://arxiv.org/pdf/1511.06295) (RL domain)
+**[56]** Policy distillation(2015). [[arxiv]](http://arxiv.org/pdf/1511.06295) (RL domain)
 
-**[57]** Actor-mimic: Deep multitask and transfer reinforcement learning(2015). [[pdf]](http://arxiv.org/pdf/1511.06342) (RL domain)
+**[57]** Actor-mimic: Deep multitask and transfer reinforcement learning(2015). [[arxiv]](http://arxiv.org/pdf/1511.06342) (RL domain)
 
-**[58]** Progressive neural networks(2016). [[pdf]](https://arxiv.org/pdf/1606.04671) (Outstanding Work, A novel idea) 
+**[58]** Progressive neural networks(2016). [[arxiv]](https://arxiv.org/pdf/1606.04671) (Outstanding Work, A novel idea) 
