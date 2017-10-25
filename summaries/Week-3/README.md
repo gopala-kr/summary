@@ -36,7 +36,7 @@
 
 **Deep Transfer Learning / Lifelong Learning / especially for RL**
 ---------------------
-**[53]** Deep Learning of Representations for Unsupervised and Transfer Learning(2012). [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) (A Tutorial) [summary] [code] [PPT]
+**[53]** Deep Learning of Representations for Unsupervised and Transfer Learning(2012). [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) (A Tutorial) [summary]
 **[54]** Lifelong Machine Learning Systems: Beyond Learning Algorithms(2013). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) (A brief discussion about lifelong learning) [summary] [[PPT](http://slideplayer.com/slide/6220039/)] [[PPT](https://www.slideshare.net/xavigiro/lifelong-incremental-learning-d3l2-2017-upc-deep-learning-for-computer-vision)] [[PPT](https://www.cs.uic.edu/~liub/Lifelong-Learning-tutorial-slides.pdf)] [[PPT](https://www.slideshare.net/guard0g/beyond-machine-learning-the-new-generation-of-learning-algorithms-coming-to-market)]
 
 **[55]** Distilling the knowledge in a neural network(2015). [[arxiv]](http://arxiv.org/pdf/1503.02531) (Godfather's Work) [summary]  [[PPT](http://www.ttic.edu/dl/dark14.pdf)] [[PPT](https://www.slideshare.net/AlexanderKorbonits/distilling-dark-knowledge-from-neural-networks)] [[PPT](http://homepages.inf.ed.ac.uk/s1459647/posters/distilling_model_knowledge.pdf)] [[PPT](https://stanford.edu/~rezab/nips2014workshop/slides/jeff.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/20160616_yang_v2_Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-3/ppt/Distilling_Knowledge_in_a_Neural_Network.pptx)]
@@ -50,11 +50,11 @@
 
 **One Shot Deep Learning**
 ---------------
-**[59]** Human-level concept learning through probabilistic program induction. [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) (No Deep Learning,but worth reading)
+**[59]** Human-level concept learning through probabilistic program induction. [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) (No Deep Learning,but worth reading) [[PDF](https://blogs.commons.georgetown.edu/cctp-820-fall2015/files/2015/12/CompInterpretBLURRY-Science-2015-Lake-1332-8.pdf)] [[PPT](http://davidnagy.web.elte.hu/eloadas/kiseloadas/BPL_brendenlake_science_journalclub_WIGNER.pdf)]
 
 **[60]** Siamese Neural Networks for One-shot Image Recognition(2015) [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) 
 
-**[61]** One-shot Learning with Memory-Augmented Neural Networks(2016). [[arxiv]](http://arxiv.org/pdf/1605.06065) **(A basic step to one shot learning)
+**[61]** One-shot Learning with Memory-Augmented Neural Networks(2016). [[arxiv]](http://arxiv.org/pdf/1605.06065) (A basic step to one shot learning) [[code](https://github.com/hmishra2250/NTM-One-Shot-TF)] [[code](https://github.com/tristandeleu/ntm-one-shot)] [[code](https://github.com/snowkylin/ntm)] [[code](https://github.com/ywatanabex/ntm-meta-learning)] [[code](https://github.com/llSourcell/How-to-Learn-from-Little-Data)] [[code](https://github.com/johnsmithm/NTM-One-Shot-TF)]
 
 **[62]** Matching Networks for One Shot Learning(2016). [[arxiv]](https://arxiv.org/pdf/1606.04080)
 
