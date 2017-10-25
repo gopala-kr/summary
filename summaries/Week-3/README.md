@@ -52,10 +52,10 @@
 ---------------
 **[59]** Human-level concept learning through probabilistic program induction. [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) (No Deep Learning,but worth reading) [[PDF](https://blogs.commons.georgetown.edu/cctp-820-fall2015/files/2015/12/CompInterpretBLURRY-Science-2015-Lake-1332-8.pdf)] [[PPT](http://davidnagy.web.elte.hu/eloadas/kiseloadas/BPL_brendenlake_science_journalclub_WIGNER.pdf)]
 
-**[60]** Siamese Neural Networks for One-shot Image Recognition(2015) [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) 
+**[60]** Siamese Neural Networks for One-shot Image Recognition(2015) [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) [[PPT](http://mlg.postech.ac.kr/~readinglist/slides/20161122.pdf)]
 
 **[61]** One-shot Learning with Memory-Augmented Neural Networks(2016). [[arxiv]](http://arxiv.org/pdf/1605.06065) (A basic step to one shot learning) [[code](https://github.com/hmishra2250/NTM-One-Shot-TF)] [[code](https://github.com/tristandeleu/ntm-one-shot)] [[code](https://github.com/snowkylin/ntm)] [[code](https://github.com/ywatanabex/ntm-meta-learning)] [[code](https://github.com/llSourcell/How-to-Learn-from-Little-Data)] [[code](https://github.com/johnsmithm/NTM-One-Shot-TF)]
 
-**[62]** Matching Networks for One Shot Learning(2016). [[arxiv]](https://arxiv.org/pdf/1606.04080)
+**[62]** Matching Networks for One Shot Learning(2016). [[arxiv]](https://arxiv.org/pdf/1606.04080) [[code](https://github.com/AntreasAntoniou/MatchingNetworks)] [[code](https://github.com/zergylord/oneshot)] [[code](https://github.com/gitabcworld/MatchingNetworks)] [[PPT](https://www.slideshare.net/masa_s/dlmatching-networks-for-one-shot-learning-71539566)] [[PPT](https://www.slideshare.net/KazukiFujikawa/matching-networks-for-one-shot-learning-71257100)] [[PPT](https://www.slideshare.net/JisungDavidKim/oneshot-learning)] [[PPT](http://mlg.postech.ac.kr/~readinglist/slides/20161122.pdf)]
 
-**[63]** Low-shot visual object recognition**." arXiv preprint arXiv:1606.02819 (2016). [[arxiv]](http://arxiv.org/pdf/1606.02819) (A step to large data)
+**[63]** Low-shot visual object recognition**.(2016). [[arxiv]](http://arxiv.org/pdf/1606.02819) (A step to large data)
