@@ -16,7 +16,7 @@
 **Deep Reinforcement Learning**
 ------------------------
 
-**[45]** Playing atari with deep reinforcement learning(2013). [[pdf]](http://arxiv.org/pdf/1312.5602.pdf)) (First Paper named deep reinforcement learning) [summary] [[code](https://github.com/kristjankorjus/Replicating-DeepMind)] [[code](https://github.com/gliese581gg/DQN_tensorflow)] [[code](https://github.com/daemonmaker/hedgehog)] [[code](https://github.com/Andy-P/DeepQLearning.jl)] [PPT] 
+**[45]** Playing atari with deep reinforcement learning(2013). [[pdf]](http://arxiv.org/pdf/1312.5602.pdf)) (First Paper named deep reinforcement learning) [summary] [[code](https://github.com/kristjankorjus/Replicating-DeepMind)] [[code](https://github.com/gliese581gg/DQN_tensorflow)] [[code](https://github.com/daemonmaker/hedgehog)] [[code](https://github.com/Andy-P/DeepQLearning.jl)] [[PPT](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)] [[PPT](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources_files/deep_rl.pdf)] [[PPT](https://www.cl.cam.ac.uk/~pv273/slides/RL-PetarV-Presentation.pdf)] 
 
 **[46]** Human-level control through deep reinforcement learning(2015). [[pdf]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) (Milestone) [summary] [code] [PPT] 
 
