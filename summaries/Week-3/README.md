@@ -31,3 +31,18 @@
 **[51]** Trust region policy optimization(2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf) (TRPO) [summary] [[code](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)] [[code](https://github.com/openai/imitation)] [[code](https://github.com/pat-coady/trpo)] [[code](https://github.com/mjacar/pytorch-trpo)] [[code](https://github.com/ikostrikov/pytorch-trpo)] [[code](https://github.com/kvfrans/parallel-trpo)] [[code](https://github.com/jjkke88/trpo)] [[code](https://github.com/jjkke88/trpo)] [[PPT](http://www.cs.toronto.edu/~tingwuwang/trpo.pdf)] [[PPT](https://www.slideshare.net/mooopan/trust-region-policy-optimization)] [[PPT](https://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)] [[PPT](http://yixinlin.net/trpo/presentation.pdf)] [[PPT](https://jmk.pe.kr/media/attachments/5bcf0aca45da310a434bbc093799c85e/trpo.pdf)] [[PPT](http://joschu.net/docs/thesis.pdf)]
 
 **[52]** Mastering the game of Go with deep neural networks and tree search(2016). [[pdf]](http://willamette.edu/~levenick/cs448/goNature.pdf) (AlphaGo) [summary] [[code](https://github.com/brilee/MuGo)] [[code](https://github.com/maxpumperla/betago)] [[code](https://github.com/chncwang/FoolGo)] [[code](https://github.com/gcp/leela-zero)] [[code](https://github.com/Rochester-NRT/RocAlphaGo.data)] [[code](https://github.com/pycharming/AlphaGo)] [[code](https://github.com/yenw/computer-go-dataset)] [[code](https://github.com/alphagov/alphagov.github.io)] [[PPT](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)] [[PPT](https://www.slideshare.net/KarelHa1/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search-presentation)] [[PPT](https://www.slideshare.net/SanFengChang/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search)] [[PPT](http://www3.cs.stonybrook.edu/~cse634/G6present.pdf)] [[PPT](https://cs.uwaterloo.ca/~nasghar/alphagoslides.pdf)] [[PPT](http://classes.engr.oregonstate.edu/eecs/spring2017/cs331/slides/alpha-go.2pp.pdf)] [[PPT](https://www.reddit.com/r/MachineLearning/comments/42ytdx/pdf_mastering_the_game_of_go_with_deep_neural/?st=j975g88c&sh=bbbc611b)] [[PPT](https://deepmind.com/research/alphago/)]
+
+
+
+**Deep Transfer Learning / Lifelong Learning / especially for RL**
+
+**[53]** Deep Learning of Representations for Unsupervised and Transfer Learning(2012). [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) (A Tutorial)
+**[54]** Lifelong Machine Learning Systems: Beyond Learning Algorithms(2013). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) (A brief discussion about lifelong learning)
+
+**[55]** Distilling the knowledge in a neural network(2015). [[pdf]](http://arxiv.org/pdf/1503.02531) (Godfather's Work)
+
+**[56]** Policy distillation(2015). [[pdf]](http://arxiv.org/pdf/1511.06295) (RL domain)
+
+**[57]** Actor-mimic: Deep multitask and transfer reinforcement learning(2015). [[pdf]](http://arxiv.org/pdf/1511.06342) (RL domain)
+
+**[58]** Progressive neural networks(2016). [[pdf]](https://arxiv.org/pdf/1606.04671) (Outstanding Work, A novel idea) 
