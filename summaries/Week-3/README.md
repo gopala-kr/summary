@@ -18,7 +18,7 @@
 
 **[45]** Playing atari with deep reinforcement learning(2013). [[pdf]](http://arxiv.org/pdf/1312.5602.pdf)) (First Paper named deep reinforcement learning) [summary] [[code](https://github.com/kristjankorjus/Replicating-DeepMind)] [[code](https://github.com/gliese581gg/DQN_tensorflow)] [[code](https://github.com/daemonmaker/hedgehog)] [[code](https://github.com/Andy-P/DeepQLearning.jl)] [[PPT](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)] [[PPT](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources_files/deep_rl.pdf)] [[PPT](https://www.cl.cam.ac.uk/~pv273/slides/RL-PetarV-Presentation.pdf)] 
 
-**[46]** Human-level control through deep reinforcement learning(2015). [[pdf]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) (Milestone) [summary] [code] [PPT] 
+**[46]** Human-level control through deep reinforcement learning(2015). [[pdf]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) (Milestone) [summary] [code] [[PPT](https://www.slideshare.net/MuhammedKocaba/humanlevel-control-through-deep-reinforcement-learning-presentation)] [[PPT](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)] [[PPT](http://www.teach.cs.toronto.edu/~csc2542h/fall/material/csc2542f16_dqn.pdf)] [[PPT](http://llcao.net/cu-deeplearning15/presentation/DeepMindNature-preso-w-David-Silver-RL.pdf)] [[PPT]()]
 
 **[47]** Dueling network architectures for deep reinforcement learning(2015). [[pdf]](http://arxiv.org/pdf/1511.06581) (ICLR best paper,great idea) [summary] [code] [PPT] 
 
