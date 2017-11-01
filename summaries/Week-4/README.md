@@ -64,6 +64,7 @@ Region-based Fully Convolutional Networks (2016). [[arxiv]](https://arxiv.org/ab
 **[1]** Every picture tells a story: Generating sentences from images 2010. Springer Berlin Heidelberg:15-29, 2010. [[pdf]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf)
 
 **[2]** Baby talk: Understanding and generating image descriptions 2011. [[pdf]](http://tamaraberg.com/papers/generation_cvpr11.pdf)
+
 **[3]** Show and tell: A neural image caption generator 2014. [[arxiv]](https://arxiv.org/pdf/1411.4555.pdf)
 
 **[4]** Long-term recurrent convolutional networks for visual recognition and description 2014. [[arxiv]](https://arxiv.org/pdf/1411.4389.pdf)
