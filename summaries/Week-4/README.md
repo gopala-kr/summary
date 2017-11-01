@@ -71,6 +71,7 @@ Region-based Fully Convolutional Networks (2016). [[arxiv]](https://arxiv.org/ab
 
 **[5]** Deep visual-semantic alignments for generating image descriptions 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 
+
 **[6]** Deep fragment embeddings for bidirectional image sentence mapping 2014. [[arxiv]](https://arxiv.org/pdf/1406.5679v1.pdf)
 
 **[7]** From captions to visual concepts and back 2014. [[arxiv]](https://arxiv.org/pdf/1411.4952v3.pdf)
