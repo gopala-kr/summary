@@ -14,13 +14,13 @@
    [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/)] [[PPT](http://on-demand.gputechconf.com/gtc/2016/presentation/s6861-stephen-merity-dynamic-memory-networks.pdf)] [[PPT](https://www.slideshare.net/carpedm20/deep-reasoning)] [[PPT](http://www.icassp2016.org/SP16_PlenaryDeng_Slides.pdf)]
    
 **[5]** Character-Aware Neural Language Models(2015) [[arxiv]](https://arxiv.org/abs/1508.06615)
-   [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+   [[PPT](https://people.csail.mit.edu/dsontag/papers/kim_etal_AAAI16_slides.pdf)] [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture13-highlight.pdf)] [[PPT](https://nlp.seas.harvard.edu/slides/aaai16.pdf)] 
    
 **[6]** Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks(2015). [[pdf]](https://arxiv.org/abs/1502.05698) (bAbI tasks) 
-  [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+  [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf)]
   
 **[7]** Teaching Machines to Read and Comprehend(2015) [[arxiv]](https://arxiv.org/abs/1506.03340) (CNN/DailyMail cloze style questions) 
-   [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+   [[PPT](http://www.karlmoritz.com/publications)] [[PPT](http://lxmls.it.pt/2015/lxmls15.pdf)] [[PPT](http://egrefen.com/docs/HowMuchLinguistics2015.pdf)]
    
 **[8]** Very Deep Convolutional Networks for Natural Language Processing(2016) [[arxiv]](https://arxiv.org/abs/1606.01781) (state-of-the-art in text classification)
   [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
