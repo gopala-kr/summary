@@ -2,23 +2,31 @@
 ----------------------------------
 
 **[1]** Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf)
-
+    [[PPT](https://www.slideshare.net/kushalarora11/nn-kb)] [[PPT](http://slideplayer.com/slide/5270778/)] [[PPT](https://cilvr.cs.nyu.edu/lib/exe/fetch.php?media=deeplearning:2015:dl-nyu-bordes.pdf)]
+    
 **[2]** Distributed representations of words and phrases and their compositionality(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (word2vec)
-
+   [[PPT](http://people.ee.duke.edu/~lcarin/ChunyuanLi4.17.2015.pdf)] [[PPT](http://www.coli.uni-saarland.de/courses/comsem-15/material/Slides_Yauhen.pdf)]
+   
 **[3]** Sequence to sequence learning with neural networks(2014) [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-
+   [[PPT](http://www.phontron.com/slides/neubig14taiwa11.pdf)] [[PPT](https://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml)] [[PPT](https://www.slideshare.net/quangntta/sequence-to-sequence-learning-with-neural-networks)]
+   
 **[4]** Ask Me Anything: Dynamic Memory Networks for Natural Language Processing(2015) [[arxiv]](https://arxiv.org/abs/1506.07285)
-
+   [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/)] [[PPT](http://on-demand.gputechconf.com/gtc/2016/presentation/s6861-stephen-merity-dynamic-memory-networks.pdf)] [[PPT](https://www.slideshare.net/carpedm20/deep-reasoning)] [[PPT](http://www.icassp2016.org/SP16_PlenaryDeng_Slides.pdf)]
+   
 **[5]** Character-Aware Neural Language Models(2015) [[arxiv]](https://arxiv.org/abs/1508.06615)
-
+   [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+   
 **[6]** Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks(2015). [[pdf]](https://arxiv.org/abs/1502.05698) (bAbI tasks) 
-
+  [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+  
 **[7]** Teaching Machines to Read and Comprehend(2015) [[arxiv]](https://arxiv.org/abs/1506.03340) (CNN/DailyMail cloze style questions) 
-
+   [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+   
 **[8]** Very Deep Convolutional Networks for Natural Language Processing(2016) [[arxiv]](https://arxiv.org/abs/1606.01781) (state-of-the-art in text classification)
-
+  [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
+  
 **[9]** Bag of Tricks for Efficient Text Classification(2016) [[arxiv]](https://arxiv.org/abs/1607.01759) (slightly worse than state-of-the-art, but a lot faster)
-
+  [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] 
 
 **Object Detection**
 ----------------------
