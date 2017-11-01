@@ -5,7 +5,7 @@
     [[PPT](https://www.slideshare.net/kushalarora11/nn-kb)] [[PPT](http://slideplayer.com/slide/5270778/)] [[PPT](https://cilvr.cs.nyu.edu/lib/exe/fetch.php?media=deeplearning:2015:dl-nyu-bordes.pdf)]
     
 **[2]** Distributed representations of words and phrases and their compositionality(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (word2vec)
-   [[PPT](http://people.ee.duke.edu/~lcarin/ChunyuanLi4.17.2015.pdf)] [[PPT](http://www.coli.uni-saarland.de/courses/comsem-15/material/Slides_Yauhen.pdf)]
+   [[PPT](http://people.ee.duke.edu/~lcarin/ChunyuanLi4.17.2015.pdf)] [[PPT](http://www.coli.uni-saarland.de/courses/comsem-15/material/Slides_Yauhen.pdf)] [[code](https://github.com/deborausujono/word2vecpy)]
    
 **[3]** Sequence to sequence learning with neural networks(2014) [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
    [[PPT](http://www.phontron.com/slides/neubig14taiwa11.pdf)] [[PPT](https://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml)] [[PPT](https://www.slideshare.net/quangntta/sequence-to-sequence-learning-with-neural-networks)]
