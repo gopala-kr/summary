@@ -23,11 +23,10 @@
    [[PPT](http://www.karlmoritz.com/publications)] [[PPT](http://lxmls.it.pt/2015/lxmls15.pdf)] [[PPT](http://egrefen.com/docs/HowMuchLinguistics2015.pdf)]
    
 **[8]** Very Deep Convolutional Networks for Natural Language Processing(2016) [[arxiv]](https://arxiv.org/abs/1606.01781) (state-of-the-art in text classification)
-  [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()]
   
 **[9]** Bag of Tricks for Efficient Text Classification(2016) [[arxiv]](https://arxiv.org/abs/1607.01759) (slightly worse than state-of-the-art, but a lot faster)
-  [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] 
-
+  [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture5-highlight.pdf)] [[PPT](https://www.slideshare.net/lvcs_ucu/fasttext)]
+  
 **Object Detection**
 ----------------------
 
