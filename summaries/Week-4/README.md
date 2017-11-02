@@ -25,7 +25,7 @@
 **[8]** Very Deep Convolutional Networks for Natural Language Processing(2016) [[arxiv]](https://arxiv.org/abs/1606.01781) (state-of-the-art in text classification)
   
 **[9]** Bag of Tricks for Efficient Text Classification(2016) [[arxiv]](https://arxiv.org/abs/1607.01759) (slightly worse than state-of-the-art, but a lot faster)
-  [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture5-highlight.pdf)] [[PPT](https://www.slideshare.net/lvcs_ucu/fasttext)]
+  [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture5-highlight.pdf)] [[summary](https://gist.github.com/shagunsodhani/432746f15889f7f4a798bf7f9ec4b7d8)] [[PPT](https://www.slideshare.net/lvcs_ucu/fasttext)] [[code](https://github.com/facebookresearch/fastText)] [[code](https://github.com/poliglot/fasttext)] [[code](https://github.com/vrasneur/FastRText)] [[code](https://github.com/brightmart/text_classification)] [[code](https://github.com/salestock/fastText.py)] [[code](https://github.com/kemaswill/fasttext_torch)] [[code](https://github.com/vinhkhuc/JFastText)] [[code](https://github.com/sjhddh/fastText)] [[code](https://github.com/giacbrd/ShallowLearn)]
   
 **Object Detection**
 ----------------------
