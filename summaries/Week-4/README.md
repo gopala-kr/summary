@@ -14,7 +14,7 @@
    [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/)] [[PPT](http://on-demand.gputechconf.com/gtc/2016/presentation/s6861-stephen-merity-dynamic-memory-networks.pdf)] [[PPT](https://www.slideshare.net/carpedm20/deep-reasoning)] [[PPT](http://www.icassp2016.org/SP16_PlenaryDeng_Slides.pdf)]
    
 **[5]** Character-Aware Neural Language Models(2015) [[arxiv]](https://arxiv.org/abs/1508.06615)
-   [[PPT](https://people.csail.mit.edu/dsontag/papers/kim_etal_AAAI16_slides.pdf)] [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture13-highlight.pdf)] [[PPT](https://nlp.seas.harvard.edu/slides/aaai16.pdf)] 
+   [[PPT](https://people.csail.mit.edu/dsontag/papers/kim_etal_AAAI16_slides.pdf)] [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture13-highlight.pdf)] [[PPT](https://nlp.seas.harvard.edu/slides/aaai16.pdf)] [[code](https://github.com/carpedm20/lstm-char-cnn-tensorflow)] [[code](https://github.com/yoonkim/lstm-char-cnn)] [[code](https://github.com/jarfo/kchar)] [[code](https://github.com/jarfo/kchar)] [[code](https://github.com/dhyeon/character-aware-neural-language-models)]
    
 **[6]** Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks(2015). [[pdf]](https://arxiv.org/abs/1502.05698) (bAbI tasks) 
   [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf)] [[code](https://github.com/facebook/bAbI-tasks)] [[code](https://github.com/vinhkhuc/MemN2N-babi-python)] [[code](https://github.com/Smerity/keras_qa)] [[code](https://github.com/siddk/relation-network)] [[code](https://github.com/ishalyminov/babi_tools)] [[code](https://github.com/raviraju/NLP_QA_Project)] [[code]()] 
