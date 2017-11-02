@@ -17,7 +17,7 @@
    [[PPT](https://people.csail.mit.edu/dsontag/papers/kim_etal_AAAI16_slides.pdf)] [[PPT](https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture13-highlight.pdf)] [[PPT](https://nlp.seas.harvard.edu/slides/aaai16.pdf)] 
    
 **[6]** Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks(2015). [[pdf]](https://arxiv.org/abs/1502.05698) (bAbI tasks) 
-  [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf)]
+  [[PPT](http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf)] [[code](https://github.com/facebook/bAbI-tasks)] [[code](https://github.com/vinhkhuc/MemN2N-babi-python)] [[code](https://github.com/Smerity/keras_qa)] [[code](https://github.com/siddk/relation-network)] [[code](https://github.com/ishalyminov/babi_tools)] [[code](https://github.com/raviraju/NLP_QA_Project)] [[code]()] 
   
 **[7]** Teaching Machines to Read and Comprehend(2015) [[arxiv]](https://arxiv.org/abs/1506.03340) (CNN/DailyMail cloze style questions) 
    [[summary](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/teaching-machines-to-read-and-comprehend.md)] [[PPT](http://www.karlmoritz.com/publications)] [[PPT](http://lxmls.it.pt/2015/lxmls15.pdf)] [[PPT](http://egrefen.com/docs/HowMuchLinguistics2015.pdf)] [[code](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend)] [[code](https://github.com/adbrebs/rnn_reader)] [[code](https://github.com/carpedm20/attentive-reader-tensorflow)] [[code](https://github.com/lhoang29/attentive-reader)] [[code](https://github.com/deepmind/rc-data)] [[code](https://github.com/soroushmehr/DeepMind-Teaching-Machines-to-Read-and-Comprehend?files=1)] [[code](https://github.com/KHN190/machine_compreh)]
