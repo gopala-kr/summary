@@ -52,19 +52,19 @@ Region-based Fully Convolutional Networks (2016). [[arxiv]](https://arxiv.org/ab
 **Visual Tracking**
 ----------------
 
-**[1]** Learning a deep compact image representation for visual tracking 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) (First Paper to do visual tracking using Deep Learning,DLT Tracker) [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[PPT]()] [[code]()] [[code]()] [[code]()] [[code]()] [[code]()] 
+**[1]** Learning a deep compact image representation for visual tracking 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) (First Paper to do visual tracking using Deep Learning,DLT Tracker)  [[PPT](http://mac.xmu.edu.cn/valse2017/ppt/APR/valse-2017-tracking_wy.pdf)] [[summay](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)] [[summary](https://github.com/foolwood/benchmark_results)]
 
-**[2]** Transferring rich feature hierarchies for robust visual tracking (2015). [[arxiv]](http://arxiv.org/pdf/1501.04587) (SO-DLT)
+**[2]** Transferring rich feature hierarchies for robust visual tracking (2015). [[arxiv]](http://arxiv.org/pdf/1501.04587) (SO-DLT) 
 
-**[3]** Visual tracking with fully convolutional networks 2015. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Visual_Tracking_With_ICCV_2015_paper.pdf) (FCNT)
+**[3]** Visual tracking with fully convolutional networks 2015. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Visual_Tracking_With_ICCV_2015_paper.pdf) (FCNT) [[PPT](http://cvlab.postech.ac.kr/~bhhan/class/cse703r_2016s/csed703r_lecture6.pdf)] [[PPT](https://www.camdemy.com/media/22088)]  [[code](https://github.com/torrvision/siamfc-tf)] [[code](https://github.com/scott89/FCNT)]
 
-**[4]** Learning to Track at 100 FPS with Deep Regression Networks (2016). [[pdf]](http://arxiv.org/pdf/1604.01802) (GOTURN,Really fast as a deep learning method,but still far behind un-deep-learning methods)
+**[4]** Learning to Track at 100 FPS with Deep Regression Networks (2016). [[pdf]](http://arxiv.org/pdf/1604.01802) (GOTURN,Really fast as a deep learning method,but still far behind un-deep-learning methods) [[PPT](http://16623.courses.cs.cmu.edu/slides/Lecture_17.pdf)]  [[code](https://github.com/autocyz/concise-GOTURN)] [[code](https://github.com/davheld/GOTURN)]
 
-**[5]** Fully-Convolutional Siamese Networks for Object Tracking (2016). [[pdf]](https://arxiv.org/pdf/1606.09549) (SiameseFC,New state-of-the-art for real-time object tracking)
+**[5]** Fully-Convolutional Siamese Networks for Object Tracking (2016). [[pdf]](https://arxiv.org/pdf/1606.09549) (SiameseFC,New state-of-the-art for real-time object tracking) [[PPT](http://16423.courses.cs.cmu.edu/slides/Spring_2017/Lecture_22.pdf)]  [[PPT](http://www.ittc.ku.edu/cviu/presentation/SiameseFC_10212016.pdf)][[code](https://github.com/bertinetto/siamese-fc)]
 
-**[6]** Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (2016) [[pdf]](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf) (C-COT)
+**[6]** Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (2016) [[pdf]](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf) (C-COT)  [[PPT](https://pdfs.semanticscholar.org/c07a/8c62d4e9fd82f2e67a22374735b35893fbf9.pdf)] [[PPT](http://wasp-sweden.org/custom/uploads/2017/03/MartinDanelljan-poster.pdf)] [[code](https://github.com/martin-danelljan/ECO)] [[code]()] [[code](https://github.com/martin-danelljan/Continuous-ConvOp)]
 
-**[7]** Modeling and Propagating CNNs in a Tree Structure for Visual Tracking (2016). [[arxiv]](https://arxiv.org/pdf/1608.07242) (VOT2016 Winner,TCNN)
+**[7]** Modeling and Propagating CNNs in a Tree Structure for Visual Tracking (2016). [[arxiv]](https://arxiv.org/pdf/1608.07242) (VOT2016 Winner,TCNN)  
 
 **Image Caption**
 ----------------
