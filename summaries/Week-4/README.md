@@ -68,23 +68,23 @@ Region-based Fully Convolutional Networks (2016). [[arxiv]](https://arxiv.org/ab
 
 **Image Caption**
 ----------------
-**[1]** Every picture tells a story: Generating sentences from images 2010. Springer Berlin Heidelberg:15-29, 2010. [[pdf]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf)
+**[1]** Every picture tells a story: Generating sentences from images 2010.[[pdf]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf) [[PPT(https://www.slideshare.net/antarleena/sentence-generation)] [[PPT(http://slideplayer.com/slide/4908520/)] [[PPT(http://www.cs.utoronto.ca/~fidler/slides/CSC2523/YukunZhu_EveryPicTellsAStory.pdf)] [[PPT(http://dsba.korea.ac.kr/wp/wp-content/seminar/Paper%20Review/ZFNet%20et%20al%20-%20%EC%9E%A5%EB%AA%85%EC%A4%80.pdf)] [[code(https://github.com/ryankiros/neural-storyteller)] [[code(https://github.com/karpathy/neuraltalk)]
 
-**[2]** Baby talk: Understanding and generating image descriptions 2011. [[pdf]](http://tamaraberg.com/papers/generation_cvpr11.pdf)
+**[2]** Baby talk: Understanding and generating image descriptions 2011. [[pdf]](http://tamaraberg.com/papers/generation_cvpr11.pdf) [[PPT(http://www.cs.toronto.edu/~fidler/slides/2017/CSC2539/tianyang_slides.pdf)] [[PPT(http://www.umiacs.umd.edu/~yzyang/course/lectures/Lec15ImageAndText.pdf)] [[PPT(http://web.cs.ucdavis.edu/~yjlee/teaching/ecs289h-fall2014/BabyTalk.pdf)] 
 
-**[3]** Show and tell: A neural image caption generator 2014. [[arxiv]](https://arxiv.org/pdf/1411.4555.pdf)
+**[3]** Show and tell: A neural image caption generator 2014. [[arxiv]](https://arxiv.org/pdf/1411.4555.pdf) [[PPT(https://www.slideshare.net/eunjileee/show-attend-and-tell-neural-image-caption-generation-with-visual-attention)] [[PPT(http://www.statnlp.org/wp-content/uploads/2016/02/showandtell_paperreading.pdf)] [[PPT(http://techtalks.tv/talks/show-and-tell-a-neural-image-caption-generator/61592/)] [[PPT(https://cs224d.stanford.edu/reports/mcelamri.pdf)] [[PPT()] [[code(https://github.com/jazzsaxmafia/show_and_tell.tensorflow)] [[code(https://github.com/KranthiGV/Pretrained-Show-and-Tell-model)] [[code(https://github.com/yunjey/show-attend-and-tell)] [[code(https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)] [[code(https://github.com/anuragmishracse/caption_generator)] [[code(https://github.com/tensorflow/models/tree/master/research/im2txt)] [[code(https://github.com/neural-nuts/image-caption-generator)]
 
-**[4]** Long-term recurrent convolutional networks for visual recognition and description 2014. [[arxiv]](https://arxiv.org/pdf/1411.4389.pdf)
+**[4]** Long-term recurrent convolutional networks for visual recognition and description 2014. [[arxiv]](https://arxiv.org/pdf/1411.4389.pdf) [[PPT(http://jeffdonahue.com/lrcn/)] [[PPT(https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w10-lrcn.pdf)] [[PPT(http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)] [[PPT(https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-180.pdf)] [[PPT(http://cs231n.stanford.edu/slides/2016/winter1516_lecture10.pdf)] [[code(https://github.com/RPI-ISL/Recurrent-Convolutional-Networks-Recreation)] [[code(https://github.com/JaggerYoung/LRCN-for-Activity-Recognition)] [[code(https://github.com/garythung/torch-lrcn)]
 
-**[5]** Deep visual-semantic alignments for generating image descriptions 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
+**[5]** Deep visual-semantic alignments for generating image descriptions 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf) [[PPT(http://www.cs.ucf.edu/~bgong/CAP6412/lec7.pdf)] [[PPT(http://techtalks.tv/talks/deep-visual-semantic-alignments-for-generating-image-descriptions/61593/)] [[PPT(https://pdfs.semanticscholar.org/49ba/0fe8dc1932a4d6fa5db40fb0b496d4358340.pdf)] [[PPT(https://kiranvodrahalli.github.io/projects/598b_img_captions.pdf)] [[code(https://github.com/karpathy/neuraltalk2)] [[code(https://github.com/karpathy/neuraltalk)]
 
 
-**[6]** Deep fragment embeddings for bidirectional image sentence mapping 2014. [[arxiv]](https://arxiv.org/pdf/1406.5679v1.pdf)
+**[6]** Deep fragment embeddings for bidirectional image sentence mapping 2014. [[arxiv]](https://arxiv.org/pdf/1406.5679v1.pdf) [[PPT(http://mcnn.noahlab.com.hk/project.html)] 
 
-**[7]** From captions to visual concepts and back 2014. [[arxiv]](https://arxiv.org/pdf/1411.4952v3.pdf)
+**[7]** From captions to visual concepts and back 2014. [[arxiv]](https://arxiv.org/pdf/1411.4952v3.pdf) [[PPT(http://www.cs.virginia.edu/~vicente/vislang/slides/fowler_jones_captions_and_back.pdf)] [[PPT(https://people.eecs.berkeley.edu/~sgupta/pdf/captions_abstract.pdf)]  [[code(https://github.com/s-gupta/visual-concepts)] [[code(https://github.com/DeepRNN/image_captioning)] [[code(https://github.com/wenhuchen/ETHZ-Bootstrapped-Captioning/tree/master/visual-concepts)]
 
-**[8]** Learning a recurrent visual representation for image caption generation 2014. [[arxiv]](https://arxiv.org/pdf/1411.5654v1.pdf)
+**[8]** Learning a recurrent visual representation for image caption generation 2014. [[arxiv]](https://arxiv.org/pdf/1411.5654v1.pdf) [[PPT(https://www.microsoft.com/en-us/research/wp-content/uploads/2015/03/Zitnick-Larry_Understanding.pdf)] 
 
-**[9]** Deep captioning with multimodal recurrent neural networks (m-rnn) 2014. [[arxiv]](https://arxiv.org/pdf/1412.6632v5.pdf)
+**[9]** Deep captioning with multimodal recurrent neural networks (m-rnn) 2014. [[arxiv]](https://arxiv.org/pdf/1412.6632v5.pdf) [[code(https://github.com/mjhucla/TF-mRNN)]  [[code(https://github.com/sussillo/hfopt-matlab/tree/master/mrnn)]
 
-**[10]** Show, attend and tell: Neural image caption generation with visual attention 2015. [[arxiv]](https://arxiv.org/pdf/1502.03044v3.pdf)
+**[10]** Show, attend and tell: Neural image caption generation with visual attention 2015. [[arxiv]](https://arxiv.org/pdf/1502.03044v3.pdf) [[PPT(https://www.slideshare.net/eunjileee/show-attend-and-tell-neural-image-caption-generation-with-visual-attention)] [[PPT(http://www.cs.virginia.edu/~vicente/vislang/slides/sivahaina.pdf)] [[PPT(https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w10-show-attend-and-tell.pdf)] [[PPT(http://www.cs.toronto.edu/~fidler/slides/2017/CSC2539/Katherine_slides.pdf)] [[code(https://github.com/kelvinxu/arctic-captions)] 
