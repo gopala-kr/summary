@@ -5,7 +5,7 @@ Summaries of papers on deep learning.
 * [[Week-2](https://github.com/gopala-kr/summary/tree/master/summaries/Week-2)] 22-Oct-2017 - DL methods : models, optimization, deep generative model, rnn/seq-to-seq model
 * [[Week-3](https://github.com/gopala-kr/summary/tree/master/summaries/Week-3)] 29-Oct-2017 - DL methods : Neural Turing Machine,Reinforcement-Transfer-One-Shot Deep Learning
 * [[Week-4](https://github.com/gopala-kr/summary/tree/master/summaries/Week-4)] 06-Nov-2017 - DL applications : nlp, object detection, visual tracking, image caption
-* [Week-5]
+* [[Week-5](https://github.com/gopala-kr/summary/tree/master/summaries/Week-5)] 12-Nov-2017 - DL applications : Machine Translation, Robotics, Art, Object Segmentation
 * [Week-6]
 * [Week-7]
 * [Week-8]
