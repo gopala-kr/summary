@@ -62,7 +62,7 @@
 **Object Segmentation**
 -------------------------------
 
-**[1]** J. Fully convolutional networks for semantic segmentation 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) 
+**[1]** Fully convolutional networks for semantic segmentation 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) 
 
 **[2]** Semantic image segmentation with deep convolutional nets and fully connected crfs 2015. [[pdf]](https://arxiv.org/pdf/1606.00915v1.pdf) 
 
