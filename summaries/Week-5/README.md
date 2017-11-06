@@ -24,52 +24,52 @@
 
 **[2]** End-to-end training of deep visuomotor policies (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) 
 
-**[3]** Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours (2015). [[pdf]](http://arxiv.org/pdf/1509.06825)
+**[3]** Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours (2015). [[arxiv]](http://arxiv.org/pdf/1509.06825)
 
-**[4]** Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016). [[pdf]](http://arxiv.org/pdf/1603.02199)
+**[4]** Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016). [[arxiv]](http://arxiv.org/pdf/1603.02199)
 
-**[5]** Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning (2016). [[pdf]](https://arxiv.org/pdf/1609.05143)
+**[5]** Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning (2016). [[arxiv]](https://arxiv.org/pdf/1609.05143)
 
-**[6]** Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search (2016). [[pdf]](https://arxiv.org/pdf/1610.00673)
+**[6]** Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search (2016). [[arxiv]](https://arxiv.org/pdf/1610.00673)
 
-**[7]** Deep Reinforcement Learning for Robotic Manipulation (2016). [[pdf]](https://arxiv.org/pdf/1610.00633) 
+**[7]** Deep Reinforcement Learning for Robotic Manipulation (2016). [[arxiv]](https://arxiv.org/pdf/1610.00633) 
 
-**[8]** Sim-to-Real Robot Learning from Pixels with Progressive Nets (2016). [[pdf]](https://arxiv.org/pdf/1610.04286.pdf) 
+**[8]** Sim-to-Real Robot Learning from Pixels with Progressive Nets (2016). [[arxiv]](https://arxiv.org/pdf/1610.04286.pdf) 
 
-**[9]** Learning to navigate in complex environments (2016). [[pdf]](https://arxiv.org/pdf/1611.03673)
+**[9]** Learning to navigate in complex environments (2016). [[arxiv]](https://arxiv.org/pdf/1611.03673)
 
 **Art**
 --------------------------
 **[1]** Inceptionism: Going Deeper into Neural Networks. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (Deep Dream)
 
 
-**[2]** A neural algorithm of artistic style (2015). [[pdf]](http://arxiv.org/pdf/1508.06576) (Outstanding Work, most successful method currently)
+**[2]** A neural algorithm of artistic style (2015). [[arxiv]](http://arxiv.org/pdf/1508.06576) (Outstanding Work, most successful method currently)
 
-**[3]** Generative Visual Manipulation on the Natural Image Manifold 2016. [[pdf]](https://arxiv.org/pdf/1609.03552) (iGAN) 
+**[3]** Generative Visual Manipulation on the Natural Image Manifold 2016. [[arxiv]](https://arxiv.org/pdf/1609.03552) (iGAN) 
 
-**[4]** Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks (2016). [[pdf]](http://arxiv.org/pdf/1603.01768) (Neural Doodle)
+**[4]** Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks (2016). [[arxiv]](http://arxiv.org/pdf/1603.01768) (Neural Doodle)
 
-**[5]** Colorful Image Colorization (2016). [[pdf]](http://arxiv.org/pdf/1603.08511)
+**[5]** Colorful Image Colorization (2016). [[arxiv]](http://arxiv.org/pdf/1603.08511)
 
-**[6]** Perceptual losses for real-time style transfer and super-resolution (2016). [[pdf]](https://arxiv.org/pdf/1603.08155.pdf)
+**[6]** Perceptual losses for real-time style transfer and super-resolution (2016). [[arxiv]](https://arxiv.org/pdf/1603.08155.pdf)
 
-**[7]** A learned representation for artistic style (2016). [[pdf]](https://arxiv.org/pdf/1610.07629v1.pdf) 
+**[7]** A learned representation for artistic style (2016). [[arxiv]](https://arxiv.org/pdf/1610.07629v1.pdf) 
 
-**[8]** Controlling Perceptual Factors in Neural Style Transfer (2016). [[pdf]](https://arxiv.org/pdf/1611.07865.pdf) (control style transfer over spatial location,colour information and across spatial scale)
+**[8]** Controlling Perceptual Factors in Neural Style Transfer (2016). [[arxiv]](https://arxiv.org/pdf/1611.07865.pdf) (control style transfer over spatial location,colour information and across spatial scale)
 
-**[9]** Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(2016). [[pdf]](http://arxiv.org/abs/1603.03417) (texture generation and style transfer) 
+**[9]** Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(2016). [[arxiv]](http://arxiv.org/abs/1603.03417) (texture generation and style transfer) 
 
 
 **Object Segmentation**
 -------------------------------
 
-**[1]** Fully convolutional networks for semantic segmentation 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) 
+**[1]** Fully convolutional networks for semantic segmentation 2015. [[arxiv]](https://arxiv.org/pdf/1411.4038v2.pdf) 
 
-**[2]** Semantic image segmentation with deep convolutional nets and fully connected crfs 2015. [[pdf]](https://arxiv.org/pdf/1606.00915v1.pdf) 
+**[2]** Semantic image segmentation with deep convolutional nets and fully connected crfs 2015. [[arxiv]](https://arxiv.org/pdf/1606.00915v1.pdf) 
 
-**[3]** Learning to segment object candidates. 2015. [[pdf]](https://arxiv.org/pdf/1506.06204v2.pdf)
+**[3]** Learning to segment object candidates. 2015. [[arxiv]](https://arxiv.org/pdf/1506.06204v2.pdf)
 
-**[4]** Instance-aware semantic segmentation via multi-task network cascades 2016 [[pdf]](https://arxiv.org/pdf/1512.04412v1.pdf)
+**[4]** Instance-aware semantic segmentation via multi-task network cascades 2016 [[arxiv]](https://arxiv.org/pdf/1512.04412v1.pdf)
 
-**[5]** Instance-sensitive Fully Convolutional Networks (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf)
+**[5]** Instance-sensitive Fully Convolutional Networks (2016). [[arxiv]](https://arxiv.org/pdf/1603.08678v1.pdf)
 
