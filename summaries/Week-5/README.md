@@ -16,7 +16,8 @@
 **[6]** Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation 2016. [[arxiv]](https://arxiv.org/pdf/1609.08144v2.pdf) (Milestone) [[summary](http://wenchenli.github.io/2016/11/GNMT)] [[PPT](http://llcao.net/cu-deeplearning17/pp/class12_googletranslation.pdf)] 
 
 
-## 3.6 Robotics
+**Robotics**
+-----------------------
 
 **[1]** Evolving large-scale neural networks for vision-based reinforcement learning 2013. [[pdf]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf)
 
@@ -36,8 +37,8 @@
 
 **[9]** Learning to navigate in complex environments (2016). [[pdf]](https://arxiv.org/pdf/1611.03673)
 
-## 3.7 Art
-
+**Art**
+--------------------------
 **[1]** Inceptionism: Going Deeper into Neural Networks. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (Deep Dream)
 
 
@@ -58,7 +59,8 @@
 **[9]** Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(2016). [[pdf]](http://arxiv.org/abs/1603.03417) (texture generation and style transfer) 
 
 
-## 3.8 Object Segmentation
+**Object Segmentation**
+-------------------------------
 
 **[1]** J. Fully convolutional networks for semantic segmentation 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) 
 
