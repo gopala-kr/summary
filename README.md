@@ -842,10 +842,3 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 * Hu, Baotian, et al. "[Convolutional neural network architectures for matching natural language sentences](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/hu-etal-nips2014.pdf)." Advances in Neural Information Processing Systems. 2014. [CNN]
 * Santos, Cicero D., and Bianca Zadrozny. "[Learning character-level representations for part-of-speech tagging](http://jmlr.csail.mit.edu/proceedings/papers/v32/santos14.pdf)." Proceedings of the 31st International Conference on Machine Learning (ICML-14). 2014. [Character, CNN]
 * Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](https://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014). [Paragraph Vector]
-
-
-## 2003-2013
-* Bengio, Y.; Ducharme, R.; and Vincent, P. 2003. [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf). Journal of Machine Learning Research 3:1137–1155. [NNLM]
-* Tomas, Mikolov, and Geoffrey Zweig. "[Context dependent recurrent neural network language model](http://www.msr-waypoint.com/pubs/176926/rnn_ctxt.pdf)." SLT. 2012. [Contextual RNNLM]
-* Tomas, Mikolov. [Statistical language models based on neural networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf). Diss. PhD thesis, Brno University of Technology. 2012.[PDF], 2012. [RNNLM]
-* Mikolov, Tomas, et al. "[Efficient estimation of word representations in vector space](http://arxiv.org/abs/1301.3781)." arXiv preprint arXiv:1301.3781 (2013).
