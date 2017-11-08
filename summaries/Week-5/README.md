@@ -19,27 +19,28 @@
 
 **Robotics**
 -----------------------
-
+[[Sergey Levine from UC Berkeley](https://people.eecs.berkeley.edu/~svlevine/)]
 
 **[1]** Evolving large-scale neural networks for vision-based reinforcement learning 2013. [[pdf]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) [[PPT](https://computing.ece.vt.edu/~f15ece6504/slides/L26_RL.pdf)] 
 
 **[2]** End-to-end training of deep visuomotor policies (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) 
 [[PPT]()] [[summary](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/End-to-End_Training_of_Deep_Visuomotor_Policies.md)] [[PPT](https://pdfs.semanticscholar.org/15b9/12202d75ac67eb1dfbf39c00c74fea961e31.pdf)]  [[code](https://github.com/Kaixhin/end-to-end)] 
 
-**[3]** Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours (2015). [[arxiv]](http://arxiv.org/pdf/1509.06825) 
+**[3]** Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours (2015). [[arxiv]](http://arxiv.org/pdf/1509.06825)  [[PPT](http://www.cs.columbia.edu/~allen/F17/NOTES/grasping_class.pdf)]     
 
 
-**[4]** Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016). [[arxiv]](http://arxiv.org/pdf/1603.02199)  
+**[4]** Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016). [[arxiv]](http://arxiv.org/pdf/1603.02199)  [[PPT](http://robotics.itee.uq.edu.au/~PomdpInRobotics/slides/sergeyLevine-rss17PomdpWorkshop.pdf)] [[iee spectrum news](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/google-large-scale-robotic-grasping-project)]
 
-**[5]** Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning (2016). [[arxiv]](https://arxiv.org/pdf/1609.05143) 
+**[5]** Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning (2016). [[arxiv]](https://arxiv.org/pdf/1609.05143) [[PPT](http://slazebni.cs.illinois.edu/spring17/lec17_rl.pdf)] [[PPT](http://valser.org/2017/ppt/VOOC/valse_2017_lcw.pdf)] [[code](https://github.com/caomw/icra2017-visual-navigation)]
 
 **[6]** Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search (2016). [[arxiv]](https://arxiv.org/pdf/1610.00673) 
 
 **[7]** Deep Reinforcement Learning for Robotic Manipulation (2016). [[arxiv]](https://arxiv.org/pdf/1610.00633) 
 
-**[8]** Sim-to-Real Robot Learning from Pixels with Progressive Nets (2016). [[arxiv]](https://arxiv.org/pdf/1610.04286.pdf) 
+**[8]** Sim-to-Real Robot Learning from Pixels with Progressive Nets (2016). [[arxiv]](https://arxiv.org/pdf/1610.04286.pdf) [[PPT](http://juxi.net/workshop/deep-learning-rss-2016/slides/Raia_Hadsell_RSS_DL_workshop.pdf)] [[PPT](https://rueckert.lima-city.de/NIPSWS2016/WebContent/slides/2016_12_09_NIPS-neurorobotics-workshop-Hadsell.pdf)] [[PPT](http://raiahadsell.com/uploads/3/6/4/2/36428762/erf2017_keynote_talk.pdf)] 
 
-**[9]** Learning to navigate in complex environments (2016). [[arxiv]](https://arxiv.org/pdf/1611.03673) 
+
+**[9]** Learning to navigate in complex environments (2016). [[arxiv]](https://arxiv.org/pdf/1611.03673) [[code](https://github.com/tgangwani/GA3C-DeepNavigation)]  
 
 **Art**
 --------------------------
