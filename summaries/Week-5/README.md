@@ -44,10 +44,10 @@
 
 **Art**
 --------------------------
-**[1]** Inceptionism: Going Deeper into Neural Networks. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (Deep Dream)
+**[1]** Inceptionism: Going Deeper into Neural Networks. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (Deep Dream) [[PPT](http://6.869.csail.mit.edu/fa15/lecture/6.869-DeepLearningApplications3.pdf)] [[PPT](http://www3.cs.stonybrook.edu/~cse352/G15Dream.pdf)] [[PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)] 
 
 
-**[2]** A neural algorithm of artistic style (2015). [[arxiv]](http://arxiv.org/pdf/1508.06576) (Outstanding Work, most successful method currently)
+**[2]** A neural algorithm of artistic style (2015). [[arxiv]](http://arxiv.org/pdf/1508.06576) (Outstanding Work, most successful method currently) [[PPT](http://web.cs.ucdavis.edu/~yjlee/teaching/ecs289g-fall2015/jchu2.pdf)] [[PPT](http://www.cs.ubc.ca/labs/lci/mlrg/slides/AST_slides.pdf)] [[PPT](https://www.slideshare.net/ckmarkohchang/a-neural-algorithm-of-artistic-style)] [[PPT](http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf)]
 
 **[3]** Generative Visual Manipulation on the Natural Image Manifold 2016. [[arxiv]](https://arxiv.org/pdf/1609.03552) (iGAN) 
 
