@@ -44,25 +44,30 @@
 
 **Art**
 --------------------------
+[[neural style-code](https://github.com/topics/neural-style)]
 **[1]** Inceptionism: Going Deeper into Neural Networks. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (Deep Dream) [[PPT](http://6.869.csail.mit.edu/fa15/lecture/6.869-DeepLearningApplications3.pdf)] [[PPT](http://www3.cs.stonybrook.edu/~cse352/G15Dream.pdf)] [[PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)] 
 
 
 **[2]** A neural algorithm of artistic style (2015). [[arxiv]](http://arxiv.org/pdf/1508.06576) (Outstanding Work, most successful method currently) [[PPT](http://web.cs.ucdavis.edu/~yjlee/teaching/ecs289g-fall2015/jchu2.pdf)] [[PPT](http://www.cs.ubc.ca/labs/lci/mlrg/slides/AST_slides.pdf)] [[PPT](https://www.slideshare.net/ckmarkohchang/a-neural-algorithm-of-artistic-style)] [[PPT](http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf)]
 
-**[3]** Generative Visual Manipulation on the Natural Image Manifold 2016. [[arxiv]](https://arxiv.org/pdf/1609.03552) (iGAN) 
+**[3]** Generative Visual Manipulation on the Natural Image Manifold 2016. [[arxiv]](https://arxiv.org/pdf/1609.03552) (iGAN) [[PPT](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)] [[PPT](http://www.eccv2016.org/files/posters/P-4B-10.pdf)] [[PPT](https://www.reddit.com/r/MachineLearning/comments/52rqu2/generative_visual_manipulation_on_the_natural/)] [[PPT](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)] [[PPT](https://vision.cs.hacettepe.edu.tr/siu2017-tutorial/slides/tutorial_SIU2017_part3.pdf)] [[code](https://github.com/junyanz/iGAN)]
 
-**[4]** Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks (2016). [[arxiv]](http://arxiv.org/pdf/1603.01768) (Neural Doodle)
+**[4]** Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks (2016). [[arxiv]](http://arxiv.org/pdf/1603.01768) (Neural Doodle) [[PPT](https://github.com/alexjc/neural-doodle)] [[PPT](http://www.cs.ubc.ca/labs/lci/mlrg/slides/AST_slides.pdf)] [[PPT](https://news.ycombinator.com/item?id=11257566)] [[[code](https://github.com/alexjc/neural-doodle)] [[code](https://github.com/DmitryUlyanov/fast-neural-doodle)] 
 
-**[5]** Colorful Image Colorization (2016). [[arxiv]](http://arxiv.org/pdf/1603.08511)
+**[5]** Colorful Image Colorization (2016). [[arxiv]](http://arxiv.org/pdf/1603.08511) [[PPT](https://www.slideshare.net/harmonylab/colorful-image-colorization-76474734)] [[PPT](http://richzhang.github.io/colorization/)] [[PPT](https://www.cc.gatech.edu/~hays/compvision2016/lectures/38.pdf)] [[PPT](https://courses.cs.washington.edu/courses/cse590v/16au/slides/colorful_colorization.pdf)] [[PPT](http://www.eccv2016.org/files/posters/O-2B-03.pdf)] [[PPT](https://www.cs.unc.edu/~lazebnik/research/fall08/lec06_colorization.pdf)]
 
-**[6]** Perceptual losses for real-time style transfer and super-resolution (2016). [[arxiv]](https://arxiv.org/pdf/1603.08155.pdf)
+**[6]** Perceptual losses for real-time style transfer and super-resolution (2016). [[arxiv]](https://arxiv.org/pdf/1603.08155.pdf) [[PPT](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)] [[PPT](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf)] [[PPT](http://cs.stanford.edu/people/jcjohns/)] [[PPT](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)] [[PPT](https://dade-ai.github.io/paperclip/style/realtime.style/README.html)] [[code](https://github.com/jcjohnson/fast-neural-style)] [[PPT](https://www.slideshare.net/yusuketomoto/realtime-style-transfer-63669036)] 
 
-**[7]** A learned representation for artistic style (2016). [[arxiv]](https://arxiv.org/pdf/1610.07629v1.pdf) 
+**[7]** A learned representation for artistic style (2016). [[arxiv]](https://arxiv.org/pdf/1610.07629v1.pdf) [[PPT](http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf)] [[PPT](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-fun-with-deep-learning.md)] [[PPT](https://openreview.net/forum?id=BJO-BuT1g)] [[PPT](http://web.cs.ucdavis.edu/~yjlee/teaching/ecs289g-fall2015/jchu2.pdf)] [[PPT](https://www.robots.ox.ac.uk/~vgg/rg/slides/weidi_rg.pdf)] [[code](https://github.com/joelmoniz/gogh-figure)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)] [[code](https://github.com/anishathalye/neural-style)] [[code](https://github.com/robertomest/neural-style-keras)] [[code](https://github.com/andersbll/neural_artistic_style)] [[code](https://github.com/cysmith/neural-style-tf)] [[code](https://github.com/Heumi/Fast_Multi_Style_Transfer-tensorflow)] [[review(https://github.com/tensorflow/magenta/blob/master/magenta/reviews/styletransfer.md)] [[code](https://github.com/manumathewthomas/CS523Project1)] [[code](https://github.com/titu1994/Neural-Style-Transfer)]
 
-**[8]** Controlling Perceptual Factors in Neural Style Transfer (2016). [[arxiv]](https://arxiv.org/pdf/1611.07865.pdf) (control style transfer over spatial location,colour information and across spatial scale)
+**[8]** Controlling Perceptual Factors in Neural Style Transfer (2016). [[arxiv]](https://arxiv.org/pdf/1611.07865.pdf) (control style transfer over spatial location,colour information and across spatial scale)  [[code](https://github.com/leongatys/NeuralImageSynthesis)] [[code](https://github.com/jcjohnson/neural-style/issues/376)] [[code](https://github.com/leongatys/fast-neural-style)] [[code](https://github.com/leongatys)] [[code](https://github.com/xunhuang1995/AdaIN-style)] [[code](https://github.com/leongatys/PytorchNeuralStyleTransfer)]
 
-**[9]** Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(2016). [[arxiv]](http://arxiv.org/abs/1603.03417) (texture generation and style transfer) 
+**[9]** Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(2016). [[arxiv]](http://arxiv.org/abs/1603.03417) (texture generation and style transfer) [[PPT](http://www.skoltech.ru/app/data/uploads/sites/2/2016/05/V.Lebedev-talk.pdf)]  [[code](https://github.com/DmitryUlyanov/texture_nets)] 
 
+![gh](https://github.com/manumathewthomas/CS523Project1/blob/master/dataset.PNG)
+![gh](https://raw.githubusercontent.com/titu1994/Neural-Style-Transfer/master/images/inputs/style/misty-mood-leonid-afremov.jpg)
+
+<br>
 
 **Object Segmentation**
 -------------------------------
