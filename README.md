@@ -18,24 +18,21 @@ Summaries of papers on deep learning.
 
 [highscalability](http://highscalability.com/)
 
-*********************
 * [Week-1]
 * [Week-2]
 * [Week-3]
 * [Week-4]
 * [Week-5]
-----------------------
+
 *********************
 blockchain 
 
-*********************
 * [Week-1]
 * [Week-2]
 * [Week-3]
 * [Week-4]
 * [Week-5]
 ----------------------
-*************************
 
 #### 2017-10
 
