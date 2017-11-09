@@ -15,10 +15,8 @@ Summaries of papers on deep learning.
 [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups)
 
 *********************
-*********************
 
-
-highscalability 
+[highscalability](http://highscalability.com/)
 
 *********************
 * [Week-1]
