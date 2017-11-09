@@ -15,6 +15,30 @@ Summaries of papers on deep learning.
 [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups)
 
 *********************
+*********************
+
+
+highscalability 
+
+*********************
+* [Week-1]
+* [Week-2]
+* [Week-3]
+* [Week-4]
+* [Week-5]
+----------------------
+*********************
+blockchain 
+
+*********************
+* [Week-1]
+* [Week-2]
+* [Week-3]
+* [Week-4]
+* [Week-5]
+----------------------
+*************************
+
 #### 2017-10
 
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
