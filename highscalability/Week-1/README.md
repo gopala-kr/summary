@@ -1,7 +1,6 @@
 
 
 <ol>
-<li>All the <a href="http://highscalability.com/blog/category/hot-links">Stuff the Internet Says on Scalability</a> articles.</li>
 <li><a href="http://highscalability.com/youtube-architecture">YouTube Architecture</a></li>
 <li><a href="http://highscalability.com/blog/2010/9/5/hilarious-video-relational-database-vs-nosql-fanbois.html">Hilarious Video: Relational Database Vs NoSQL Fanbois</a></li>
 <li><a href="http://highscalability.com/plentyoffish-architecture">Plenty Of Fish Architecture</a></li>
