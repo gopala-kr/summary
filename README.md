@@ -12,9 +12,7 @@ Summaries of papers on deep learning.
 * [Week-9]
 * [Week-10]
 ----------------------
-[dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups)
-
-[outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md)
+| [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md) |
 
 *********************
 
