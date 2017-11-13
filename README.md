@@ -12,11 +12,11 @@ Summaries of papers on deep learning.
 * [Week-9]
 * [Week-10]
 ----------------------
-| [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md) | [CB-Insights_AI-100-2017](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) | [ai-angelList](https://angel.co/artificial-intelligence) |
+| [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [CB-Insights_AI-100-2017](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) | [ai-angelList](https://angel.co/artificial-intelligence) |
 
 *********************
 
-[highscalability](http://highscalability.com/) - to dive in [All Time Favorites list](http://highscalability.com/all-time-favorites/)
+[highscalability](http://highscalability.com/) - to dive in [all time favorites list](http://highscalability.com/all-time-favorites/)
 
 * [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)]
 * [Week-2]
