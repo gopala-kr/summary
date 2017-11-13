@@ -16,9 +16,9 @@ Summaries of papers on deep learning.
 
 *********************
 
-[highscalability](http://highscalability.com/)
+[highscalability](http://highscalability.com/) - to dive in [All Time Favorites list](http://highscalability.com/all-time-favorites/)
 
-* [Week-1]
+* [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)]
 * [Week-2]
 * [Week-3]
 * [Week-4]
