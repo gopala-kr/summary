@@ -14,6 +14,8 @@ Summaries of papers on deep learning.
 ----------------------
 [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups)
 
+[outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md)
+
 *********************
 
 [highscalability](http://highscalability.com/)
