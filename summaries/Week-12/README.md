@@ -1,0 +1,75 @@
+#### 2016-12
+
+- [A recurrent neural network without Chaos](notes/rnn_no_chaos.md) [[arXiv](https://arxiv.org/abs/1612.06212)]
+- Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
+- Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv](https://arxiv.org/abs/1612.07828)]
+- How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
+- Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
+- DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)] [[code](https://github.com/deepmind/lab)]
+- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
+- Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
+
+#### 2016-11 (ICLR Edition)
+
+- Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)]
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](notes/mixture-experts.md) [[OpenReview](https://openreview.net/forum?id=B1ckMDqlg)]
+- Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
+- A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs [[arXiv](https://arxiv.org/abs/1611.05104)]
+- [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
+- Importance Sampling with Unequal Support [[arXiv](https://arxiv.org/abs/1611.03451)]
+- Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
+- Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
+- Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
+- Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
+- Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
+- Incremental Sequence Learning [[arXiv](https://arxiv.org/abs/1611.03068)]
+- Delving into Transferable Adversarial Examples and Black-box Attacks [[arXiv](https://arxiv.org/abs/1611.02770)] [[code](https://github.com/ReDeiPirati/transferability-advdnn-pub)]
+- b-GAN: Unified Framework of Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=S1JG13oee)]
+- A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
+- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
+- Lip Reading Sentences in the Wild [[arXiv](https://arxiv.org/abs/1611.05358)]
+
+Reinforcement Learning:
+
+-Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
+- A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv](https://arxiv.org/abs/1611.03852)]
+- The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
+- [Third-Person Imitation Learning](notes/third-person-imitation-learning.md) [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
+- Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
+- Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](notes/rl-auxiliary-tasks.md) [[arXiv](https://arxiv.org/abs/1611.05397)]
+- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
+- Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
+- Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
+- Improving Policy Gradient by Exploring Under-appreciated Rewards [[OpenReview](http://openreview.net/forum?id=ryT4pvqll)]
+- Stochastic Neural Networks for Hierarchical Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=B1oK8aoxe)]
+- Tuning Recurrent Neural Networks with Reinforcement Learning [[OpenReview](https://arxiv.org/abs/1611.02796)]
+- RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning [[arXiv](https://arxiv.org/abs/1611.02779)]
+- Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Hyq4yhile)]
+- Learning to Perform Physics Experiments via Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1nTpv9eg)]
+- Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU [[OpenReview](http://openreview.net/forum?id=r1VGvBcxl)]
+- Learning to Compose Words into Sentences with Reinforcement Learning[[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
+- Deep Reinforcement Learning for Accelerating the Convergence Rate [[OpenReview](http://openreview.net/forum?id=Syg_lYixe)]
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](notes/count-based-exploration.md) [[arXiv](https://arxiv.org/abs/1611.04717)]
+- Learning to Compose Words into Sentences with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
+- Learning to Navigate in Complex Environments [[arXiv](https://arxiv.org/abs/1611.03673)]
+- Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
+- Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic [[OpenReview](http://openreview.net/forum?id=SJ3rcZcxl)]
+
+
+Machine Translation & Dialog
+
+- [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-multilingual.md) [[arXiv](https://arxiv.org/abs/1611.04558)]
+- [Neural Machine Translation with Reconstruction](notes/nmt-with-reconstruction.md) [[arXiv](https://arxiv.org/abs/1611.01874v1)]
+- Iterative Refinement for Machine Translation [[OpenReview](http://openreview.net/forum?id=r1y1aawlg)]
+- A Convolutional Encoder Model for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1611.02344)]
+- Improving Neural Language Models with a Continuous Cache [[OpenReview](http://openreview.net/forum?id=B184E5qee)]
+- Vocabulary Selection Strategies for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=Bk8N0RLxx)]
+- Towards an automatic Turing test: Learning to evaluate dialogue responses [[OpenReview](http://openreview.net/forum?id=HJ5PIaseg)]
+- Dialogue Learning With Human-in-the-Loop [[OpenReview](http://openreview.net/forum?id=HJgXCV9xx)]
+- Batch Policy Gradient Methods for Improving Neural Conversation Models [[OpenReview](http://openreview.net/forum?id=rJfMusFll)]
+- Learning through Dialogue Interactions [[OpenReview](http://openreview.net/forum?id=rkE8pVcle)]
+- [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
+- Unsupervised Pretraining for Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1611.02683)]
+
+
