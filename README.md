@@ -20,7 +20,7 @@ Summaries of papers on deep learning.
 [highscalability](http://highscalability.com/) - to dive in [all time favorites list](http://highscalability.com/all-time-favorites/)
 
 
-* [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)]
+* [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)] - 19-Nov-2017
 * [Week-2]
 * [Week-3]
 * [Week-4]
@@ -29,7 +29,7 @@ Summaries of papers on deep learning.
 *********************
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)
 
-* [Week-1]
+* [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - understand decentralized systems
 * [Week-2]
 * [Week-3]
 * [Week-4]
