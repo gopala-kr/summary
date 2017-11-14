@@ -13,11 +13,12 @@ Summaries of papers on deep learning.
 * [Week-10]
 ----------------------
 | [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) | [ai-angelList](https://angel.co/artificial-intelligence) |
-------
+
 
 *********************
 
 [highscalability](http://highscalability.com/) - to dive in [all time favorites list](http://highscalability.com/all-time-favorites/)
+
 
 * [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)]
 * [Week-2]
@@ -27,11 +28,11 @@ Summaries of papers on deep learning.
 
 *********************
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)
-******************
+
 * [Week-1]
 * [Week-2]
 * [Week-3]
 * [Week-4]
 * [Week-5]
 ----------------------
--------
+
