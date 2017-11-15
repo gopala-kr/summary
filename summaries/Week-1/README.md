@@ -1,5 +1,25 @@
 
- **Survey**
+
+| [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) |[Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) | [Timeline of machine learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning) | [A History of Deep Learning](https://www.import.io/post/history-of-deep-learning/) | 
+
+---------------------------
+
+<h2 style=\"font-family:'HelveticaNeue-CondensedBold', helvetica, sans-serif;font-size:1.125em;padding:5px 20px;margin-bottom:35px;text-transform:uppercase;letter-spacing:.05em;background-color:#ed422c;color:#fff;\">A Glossary of Artificial-Intelligence Terms<\/h2>\n<ul style=\"font-size:.875em;border:2px solid #999;padding:10px;margin:0;\">\n<li style=\"list-style-type:square;font-family:'HelveticaNeue-CondensedBold', helvetica, sans-serif;font-size:1.1em;padding-left:5px;\">ARTIFICIAL INTELLIGENCE<\/li>\n<li style=\"list-style-type:none;margin-bottom:17px;\">AI is the broadest term, \u00adapplying to any technique that enables computers to mimic human intelligence, using logic, if-then rules, decision trees, and machine learning (including deep learning).<\/li>\n<div style=\"border:2px solid #999;padding:10px;\">\n<li style=\"list-style-type:square;font-family:'HelveticaNeue-CondensedBold', helvetica, sans-serif;font-size:1.1em;padding-left:5px;\">MACHINE LEARNING<\/li>\n<li style=\"list-style-type:none;margin-bottom:17px;\">The subset of AI that includes abstruse statistical techniques that enable machines to improve at tasks with experience. The category includes deep learning.<\/li>\n<div style=\"border:2px solid #999;padding:10px;\">\n<li style=\"list-style-type:square;font-family:'HelveticaNeue-CondensedBold', helvetica, sans-serif;font-size:1.1em;padding-left:5px;\">DEEP LEARNING<\/li>\n<li style=\"list-style-type:none;margin-bottom:17px;\">The subset of machine learning composed of algorithms that permit software to train itself to perform tasks, like speech and image recognition, by exposing multilayered neural networks to vast amounts of data.<\/li>\n<\/div>\n<\/div>\n<\/ul>\n<\/aside>\n
+
+
+---------------------------------
+
+<p><center><img src="https://webassets.mongodb.com/_com_assets/cms/breadth-cskq2zo1b8.png" alt=""></center>
+<strong><center>Timeline of Artificial Intelligence, Machine Learning, and Deep Learning</center></strong></p>
+
+<br>
+
+![neural-net](https://raw.githubusercontent.com/qingkaikong/blog/master/38_ANN_part1/figures/figure1_ANN_history.jpg)
+
+-------------------------------
+
+
+**Survey**
 
 **[1]** REVIEW : Deep learning[[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (Three Giants' Survey)   
 [[summary](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/REVIEW-Deep%20learning.md)]
