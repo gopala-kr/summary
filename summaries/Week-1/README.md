@@ -1,6 +1,7 @@
 
 
-| [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) |[Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) | [Timeline of machine learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning) | [A History of Deep Learning](https://www.import.io/post/history-of-deep-learning/) | 
+
+| ![timeline](https://upload.wikimedia.org/wikipedia/commons/c/cc/8bit-dynamiclist_%28reversed%29.gif) | [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) |[Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) | [Timeline of machine learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning) | [A History of Deep Learning](https://www.import.io/post/history-of-deep-learning/) | 
 
 ---------------------------------
 
@@ -12,7 +13,6 @@
 
 -------------------------------
 
-![timeline](https://upload.wikimedia.org/wikipedia/commons/c/cc/8bit-dynamiclist_%28reversed%29.gif)
 
 
 **Survey**
