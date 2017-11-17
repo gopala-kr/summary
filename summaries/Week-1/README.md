@@ -49,6 +49,8 @@
 
 ![weneedto](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/weneedto.JPG)
 
+![deep](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/image_folder_5/BranchingFactor.gif)
+
 
 **Speech Recognition Evolution**
 
