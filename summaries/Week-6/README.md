@@ -172,3 +172,4 @@
   [[pdf]](http://people.csail.mit.edu/romer/papers/TISTRespPredAds.pdf)   | [PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwi57oOZ7sjXAhUBmBoKHcn3CwoQFghBMAQ&url=https%3A%2F%2Fwww.slideshare.net%2Fsermakarevich%2Fsimple-and-scalable-response-prediction-for-display-advertising&usg=AOvVaw0srW5FibOVyDbPV_75XCfF)  | [code](https://github.com/warshmellow/adtech-dash) |
   
 
+[Paper Collection of Real-Time Bidding](https://github.com/wnzhang/rtb-papers)
