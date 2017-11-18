@@ -1,12 +1,11 @@
 
-## 2017-10-30 ~ 2017-11-05
+## 2017-10
 
 - A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[C]// the Eleventh ACM Conference. ACM, 2017:23-31.[[pdf]](http://www.hongliangjie.com/publications/recsys2017.pdf)
 - BPR: Bayesian personalized ranking from implicit feedback[C]// Conference on Uncertainty in Artificial Intelligence. AUAI Press, 2009:452-461.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2009-Bayesian_Personalized_Ranking.pdf)
 
----
 
-## 2017-10-23~ 2017-10-29
+
 
 -  Gradient boosting factorization machines[C]// ACM Conference on Recommender Systems. ACM, 2014:265-272.[[pdf]](http://pdfs.semanticscholar.org/cd57/9e1e9cc350c3f7746e6ae6911a97e21ba27c.pdf)
 - He X, Chua T S. Neural Factorization Machines for Sparse Predictive Analytics[J]. 2017:355-364.[[pdf]](https://arxiv.org/pdf/1708.05027.pdf)
@@ -14,9 +13,9 @@
 -  Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers[J]. Foundations & Trends in Machine Learning, 2010, 3(1):1-122.[[pdf]](http://www.cuisineraufourabois.com/Distributed-Optimization-and-Statistical-Learning-Via-the-Alternating-Direction-Method-of-Multipliers.pdf)
 -  Regularized Paths for Generalized Linear Models via Coordinate Descent. Journal of Statistical Software, 33(1) (2008)[[pdf]](http://www.jstatsoft.org/v33/i01/paper)
 
----
 
-## 2017-10-16 ~ 2017-10-22
+
+
 
 -  Deep content-based music 
   recommendation[C]//Advances in neural information processing systems. 2013: 2643-2651.[[pdf]](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf) 
@@ -28,9 +27,9 @@
 -  BDT- Boosting Decision Tables for High Accuracy and Scoring Efficiency. KDD2017.[[pdf]](http://delivery.acm.org/10.1145/3100000/3098175/p1893-lou.pdf?ip=114.221.71.73&id=3098175&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&CFID=996660400&CFTOKEN=49966860&__acm__=1508423525_a65e902e920624f4b0cca5049fee3916) 
 - Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[J]. 2017. [[pdf]](http://people.cs.vt.edu/naren/papers/recs254-ningA.pdf)
 
----
 
-## 2017-10-09 ~ 2017-10-15
+
+
 
 -  Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
 -  Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
