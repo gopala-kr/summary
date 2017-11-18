@@ -1,45 +1,45 @@
 
 ## 2017-10-30 ~ 2017-11-05
 
-- Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[C]// the Eleventh ACM Conference. ACM, 2017:23-31.[[pdf]](http://www.hongliangjie.com/publications/recsys2017.pdf)
-- Rendle S, Freudenthaler C, Gantner Z, et al. BPR: Bayesian personalized ranking from implicit feedback[C]// Conference on Uncertainty in Artificial Intelligence. AUAI Press, 2009:452-461.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2009-Bayesian_Personalized_Ranking.pdf)
+- A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[C]// the Eleventh ACM Conference. ACM, 2017:23-31.[[pdf]](http://www.hongliangjie.com/publications/recsys2017.pdf)
+- BPR: Bayesian personalized ranking from implicit feedback[C]// Conference on Uncertainty in Artificial Intelligence. AUAI Press, 2009:452-461.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2009-Bayesian_Personalized_Ranking.pdf)
 
 ---
 
 ## 2017-10-23~ 2017-10-29
 
-- Zhang T, Zhang T, Zhang T, et al. Gradient boosting factorization machines[C]// ACM Conference on Recommender Systems. ACM, 2014:265-272.[[pdf]](http://pdfs.semanticscholar.org/cd57/9e1e9cc350c3f7746e6ae6911a97e21ba27c.pdf)
+-  Gradient boosting factorization machines[C]// ACM Conference on Recommender Systems. ACM, 2014:265-272.[[pdf]](http://pdfs.semanticscholar.org/cd57/9e1e9cc350c3f7746e6ae6911a97e21ba27c.pdf)
 - He X, Chua T S. Neural Factorization Machines for Sparse Predictive Analytics[J]. 2017:355-364.[[pdf]](https://arxiv.org/pdf/1708.05027.pdf)
-- Goodfellow I J, Pouget-Abadie J, Mirza M, et al. Generative Adversarial Networks[J]. Advances in Neural Information Processing Systems, 2014, 3:2672-2680.[[pdf]](https://arxiv.org/pdf/1406.2661.pdf)
-- Boyd S, Parikh N, Chu E, et al. Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers[J]. Foundations & Trends in Machine Learning, 2010, 3(1):1-122.[[pdf]](http://www.cuisineraufourabois.com/Distributed-Optimization-and-Statistical-Learning-Via-the-Alternating-Direction-Method-of-Multipliers.pdf)
-- Friedman,  J. H., Hastie, T. and Tibshirani, R. Regularized Paths for Generalized Linear Models via Coordinate Descent. Journal of Statistical Software, 33(1) (2008)[[pdf]](http://www.jstatsoft.org/v33/i01/paper)
+-  Generative Adversarial Networks[J]. Advances in Neural Information Processing Systems, 2014, 3:2672-2680.[[pdf]](https://arxiv.org/pdf/1406.2661.pdf)
+-  Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers[J]. Foundations & Trends in Machine Learning, 2010, 3(1):1-122.[[pdf]](http://www.cuisineraufourabois.com/Distributed-Optimization-and-Statistical-Learning-Via-the-Alternating-Direction-Method-of-Multipliers.pdf)
+-  Regularized Paths for Generalized Linear Models via Coordinate Descent. Journal of Statistical Software, 33(1) (2008)[[pdf]](http://www.jstatsoft.org/v33/i01/paper)
 
 ---
 
 ## 2017-10-16 ~ 2017-10-22
 
-- Van den Oord A, Dieleman S, Schrauwen B. Deep content-based music 
+-  Deep content-based music 
   recommendation[C]//Advances in neural information processing systems. 2013: 2643-2651.[[pdf]](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf) 
-- Rendle, Steffen. "Factorization machines with libfm." *ACM Transactions on Intelligent Systems and Technology (TIST)* 3.3 (2012): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
-- Juan Y, Zhuang Y, Chin W S, et al. Field-aware factorization machines for CTR prediction[C]//Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016: 43-50.[[pdf]](http://ntucsu.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) 
-- Rendle S, Schmidt-Thieme L. Pairwise interaction tensor factorization for personalized tag recommendation[C]//Proceedings of the third ACM international conference on Web search and data mining. ACM, 2010: 81-90.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010-PITF.pdf) 
-- Blondel M, Fujino A, Ueda N, et al. Higher-order factorization machines[C]//Advances in Neural Information Processing Systems. 2016: 3351-3359.[[pdf]](http://papers.nips.cc/paper/6144-higher-order-factorization-machines.pdf) 
-- Rendle S. Factorization machines with libfm[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2012, 3(3): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
-- Yin Lou, Mikhail Obukhov. BDT- Boosting Decision Tables for High Accuracy and Scoring Efficiency. KDD2017.[[pdf]](http://delivery.acm.org/10.1145/3100000/3098175/p1893-lou.pdf?ip=114.221.71.73&id=3098175&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&CFID=996660400&CFTOKEN=49966860&__acm__=1508423525_a65e902e920624f4b0cca5049fee3916) 
+-  "Factorization machines with libfm." *ACM Transactions on Intelligent Systems and Technology (TIST)* 3.3 (2012): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
+-  Field-aware factorization machines for CTR prediction[C]//Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016: 43-50.[[pdf]](http://ntucsu.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) 
+-  Pairwise interaction tensor factorization for personalized tag recommendation[C]//Proceedings of the third ACM international conference on Web search and data mining. ACM, 2010: 81-90.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010-PITF.pdf) 
+-  Higher-order factorization machines[C]//Advances in Neural Information Processing Systems. 2016: 3351-3359.[[pdf]](http://papers.nips.cc/paper/6144-higher-order-factorization-machines.pdf) 
+-  Factorization machines with libfm[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2012, 3(3): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
+-  BDT- Boosting Decision Tables for High Accuracy and Scoring Efficiency. KDD2017.[[pdf]](http://delivery.acm.org/10.1145/3100000/3098175/p1893-lou.pdf?ip=114.221.71.73&id=3098175&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&CFID=996660400&CFTOKEN=49966860&__acm__=1508423525_a65e902e920624f4b0cca5049fee3916) 
 - Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[J]. 2017. [[pdf]](http://people.cs.vt.edu/naren/papers/recs254-ningA.pdf)
 
 ---
 
 ## 2017-10-09 ~ 2017-10-15
 
-- Qu Y, Cai H, Ren K, et al. Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
-- Zhang W, Du T, Wang J, et al. Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
-- Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://arxiv.org/pdf/1703.04247.pdf)
-- Xiao J, Ye H, He X, et al. Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks[J]. 2017.[[pdf]](https://ru.arxiv.org/pdf/1708.04617.pdf)
-- Chen J, Sun B, Li H, et al. Deep ctr prediction in display 
+-  Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
+-  Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
+-  DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://arxiv.org/pdf/1703.04247.pdf)
+-  Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks[J]. 2017.[[pdf]](https://ru.arxiv.org/pdf/1708.04617.pdf)
+-  Deep ctr prediction in display 
   advertising[C]//Proceedings of the 2016 ACM on Multimedia Conference. 
   ACM, 2016: 811-820.[[pdf]](https://arxiv.org/pdf/1609.06018.pdf) 
-- Shan Y, Hoens T R, Jiao J, et al. Deep Crossing: Web-scale modeling 
+-  Deep Crossing: Web-scale modeling 
   without manually crafted combinatorial features[C]//Proceedings of the 
   22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016: 255-262.[[pdf]](www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf) 
 
