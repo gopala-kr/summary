@@ -47,37 +47,37 @@
 
 ### Content-based Recommendations
 - Utility-based repair of inconsistent requirements (2009), Felfernig A, Mairitsch M, Mandl M, et al.
-  [[pdf]](http://link.springer.com/content/pdf/10.1007/978-3-642-02568-6_17.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](http://link.springer.com/content/pdf/10.1007/978-3-642-02568-6_17.pdf)   | [PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwiEnqWb_cjXAhXF0RoKHRGFBMcQFghRMAY&url=https%3A%2F%2Fwww.ijcai.org%2FProceedings%2F16%2FPapers%2F140.pdf&usg=AOvVaw3t7PmzFL47dVUshUmUjbqr) | 
 
 ### Probability Graph Model and Byesian Inference
 - Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo (2008),R Salakhutdinov, et al.
-  [[pdf]](http://www.cs.utoronto.ca/~amnih/papers/bpmf.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](http://www.cs.utoronto.ca/~amnih/papers/bpmf.pdf)   | [PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=0ahUKEwjvzo64_cjXAhVDSRoKHWWOAbcQFghnMAk&url=http%3A%2F%2Fpages.cs.wisc.edu%2F~beechung%2Ficml11-tutorial%2FBin.ICML-RecommenderProblems-Offline.ppt&usg=AOvVaw18UUWggJRLC_JeKjD8FpAv) |  [code](https://github.com/jrkerse/PMF) | [code](https://github.com/chyikwei/recommend) | [code](https://github.com/wolfbrother/Bayesian-Probabilistic-Matrix-Factorization) | [code](https://github.com/ExaScience/bpmf) |
 
 - Bayesian Personalized Ranking from Implicit Feedback (2009), S Rendle, C Freudenthaler, Z Gantner.
-  [[pdf]](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)   | [PPT](https://github.com/gamboviol/bpr) | [PPT](https://github.com/hainguyen-telenor/Learning-to-rank-from-implicit-feedback) |  [code](https://github.com/lyst/lightfm/tree/master/examples/movielens) | [code](https://github.com/maciejkula/triplet_recommendations_keras) | [code](https://github.com/valerystrizh/bpr) |
 
 
 
 ### Other methods for Recommendations
 - Supporting user query relaxation in a recommender system (2004),Mirzadeh N, Ricci F, Bansal M.
-  [[pdf]](https://www.researchgate.net/profile/Francesco_Ricci5/publication/221017551_Supporting_User_Query_Relaxation_in_a_Recommender_System/links/0deec524dcde30df0d000000.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](https://www.researchgate.net/profile/Francesco_Ricci5/publication/221017551_Supporting_User_Query_Relaxation_in_a_Recommender_System/links/0deec524dcde30df0d000000.pdf)   | [PPT](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjxj4y0_sjXAhWDnBoKHQilBqQQFghYMAg&url=https%3A%2F%2Fwww.slideshare.net%2Firecsys%2Ftutorial-context-in-recommender-systems&usg=AOvVaw18vRwFey44k0CHnMSc83kB) | [code](https://github.com/lyst/lightfm) |
 
 - Case-based recommender systems: a unifying view.Intelligent Techniques for Web Personalization (2005),Lorenzi F, Ricci F. 
-  [[pdf]](www.inf.unibz.it/~ricci//papers/LorenziRicciCameraReady.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](www.inf.unibz.it/~ricci//papers/LorenziRicciCameraReady.pdf)   
 
 - Fast computation of query relaxations for knowledge-based recommenders (2009),Jannach D.
-  [[pdf]](http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/Journal_AICOM09.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/Journal_AICOM09.pdf)    | [code](https://github.com/shmsw25/amazon-recommender-system) |
 
 - Tag-aware recommender systems: a state-of-the-art survey (2011), Zhang Z K, Zhou T, Zhang Y C. 
-  [[pdf]](http://arxiv.org/pdf/1202.5820.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](http://arxiv.org/pdf/1202.5820.pdf)   | [PPT](https://github.com/cheungdaven/cheungdaven.github.io/blob/master/_posts/2017-7-28-Summary-of%20Recommender%20System%20Surveys%20in%20recent%20years.md) 
 
 
 ### Hybrid Recommendations
 - Hybrid recommender systems: Survey and experiments (2002), Burke R.
-  [[pdf]](https://www.researchgate.net/profile/Robin_Burke/publication/263377228_Hybrid_Recommender_Systems_Survey_and_Experiments/links/5464ddc20cf2f5eb17ff3149.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](https://www.researchgate.net/profile/Robin_Burke/publication/263377228_Hybrid_Recommender_Systems_Survey_and_Experiments/links/5464ddc20cf2f5eb17ff3149.pdf)   
 
 - A hybrid approach to item recommendation in folksonomies (2009), Wetzker R, Umbrath W, Said A.
-  [[pdf]](http://www.dai-labor.de/fileadmin/Files/Publikationen/Buchdatei/wetzker_folksonomyrecommendation_esair2009_final.pdf)   | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [PPT]() | [code]() | [code]() | [code]() | [code]() |
+  [[pdf]](http://www.dai-labor.de/fileadmin/Files/Publikationen/Buchdatei/wetzker_folksonomyrecommendation_esair2009_final.pdf)   
 
 -----------
 
