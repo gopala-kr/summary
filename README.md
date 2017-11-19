@@ -35,6 +35,13 @@ summaries of papers on deep learning.
 * [Week-4]
 * [Week-5]
 ----------------------
+
+**Machine Learning / Deep Learning conferences in 2017 and 2018**
+
+* [aideadlin.es](https://aideadlin.es/)
+* [/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+
 <table class="conferences">
    <thead>
       <tr>
