@@ -21,7 +21,7 @@ summaries of papers on deep learning.
 
 
 * [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)] 19-Nov-2017
-* [Week-2]
+* [[Week-2](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-2/README.md)] 26-Nov-2017
 * [Week-3]
 * [Week-4]
 * [Week-5]
