@@ -36,6 +36,16 @@ summaries of papers on deep learning.
 * [Week-5]
 ----------------------
 
+to dive in [db-readings](https://github.com/rxin/db-readings)
+
+* [Week-1]
+* [Week-2]
+* [Week-3]
+* [Week-4]
+* [Week-5]
+
+------------------
+
 **Machine Learning / Deep Learning conferences in 2017 and 2018**
 
 * [aideadlin.es](https://aideadlin.es/)
