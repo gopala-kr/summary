@@ -1,1 +1,44 @@
-
+<ol>
+<li><a href="http://highscalability.com/blog/2016/7/18/how-does-google-do-planet-scale-engineering-for-a-planet-sca.html">How Does Google Do Planet-Scale Engineering For A Planet-Scale Infrastructure?</a></li>
+<li><a href="http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html">7 Years Of YouTube Scalability Lessons In 30 Minutes</a></li>
+<li><a href="http://highscalability.com/blog/category/facebook">Facebook</a></li>
+<li><a href="http://highscalability.com/blog/2015/11/14/how-facebooks-safety-check-works.html">How Facebook's Safety Check Works</a></li>
+<li><a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">The Architecture Twitter Uses To Deal With 150M Active Users, 300K QPS, A 22 MB/S Firehose, And Send Tweets In Under 5 Seconds</a></li>
+<li><a href="http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html">Google On Latency Tolerant Systems: Making A Predictable Whole Out Of Unpredictable Parts</a>&nbsp;&nbsp;</li>
+<li><a href="http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html">An Unorthodox Approach to Database Design : The Coming of the Shard</a></li>
+<li><a href="/blog/2009/12/16/building-super-scalable-systems-blade-runner-meets-autonomic.html">Building Super Scalable Systems: Blade Runner Meets Autonomic Computing in the Ambient&nbsp;Cloud</a></li>
+<li><a href="http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html">Startups Are Creating A New System Of The World For IT</a></li>
+<li><a href="http://highscalability.com/blog/2009/3/16/are-cloud-based-memory-architectures-the-next-big-thing.html">Are Cloud Based Memory Architectures the Next Big Thing?</a></li>
+<li><a href="http://highscalability.com/blog/2009/7/25/latency-is-everywhere-and-it-costs-you-sales-how-to-crush-it.html">Latency is Everywhere and it Costs You Sales - How to Crush it</a></li>
+<li><a href="http://highscalability.com/blog/2010/5/5/how-will-memristors-change-everything.html">How will memristors change everything?</a>&nbsp;</li>
+<li><a href="http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html">A 360 Degree View Of The Entire Netflix Stack</a></li>
+<li><a href="http://highscalability.com/blog/2011/11/29/datasift-architecture-realtime-datamining-at-120000-tweets-p.html">DataSift Architecture: Realtime Datamining At 120,000 Tweets Per Second</a></li>
+<li><a href="http://highscalability.com/blog/category/blog">Useful Scalability Blogs</a></li>
+<li><a href="http://highscalability.com/blog/2012/5/21/pinterest-architecture-update-18-million-visitors-10x-growth.html">Pinterest Architecture Update - 18 Million Visitors, 10x Growth,12 Employees, 410 TB Of Data</a></li>
+<li><a href="http://highscalability.com/blog/category/blog"></a><a class="journal-entry-navigation-current" href="http://highscalability.com/blog/2009/7/16/scaling-traffic-people-pod-pool-of-on-demand-self-driving-ro.html">Scaling Traffic: People Pod Pool of On Demand Self Driving Robotic Cars who Automatically Refuel from Cheap&nbsp;Solar</a></li>
+<li><a href="http://highscalability.com/blog/2015/7/22/architecting-backend-for-a-social-product.html">Architecting Backend For A Social Product</a></li>
+<li><a href="http://highscalability.com/blog/2012/4/9/why-my-slime-mold-is-better-than-your-hadoop-cluster.html">Why My Slime Mold Is Better Than Your Hadoop Cluster</a></li>
+<li><a href="http://highscalability.com/blog/2010/6/28/voltdb-decapitates-six-sql-urban-myths-and-delivers-internet.html">VoltDB Decapitates Six SQL Urban Myths And Delivers Internet Scale OLTP In The Process</a></li>
+<li><a href="/blog/2009/8/7/the-canonical-cloud-architecture.html">The Canonical Cloud Architecture&nbsp;</a></li>
+<li><a href="http://highscalability.com/blog/2015/8/5/how-do-you-program-a-computer-with-10-terabytes-of-ram.html">How Do You Program A Computer With 10 Terabytes Of RAM?</a></li>
+<li><a href="http://highscalability.com/blog/2010/3/16/justintvs-live-video-broadcasting-architecture.html">Justin.Tv's Live Video Broadcasting Architecture</a></li>
+<li><a href="http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html">Why Are Facebook, Digg, And Twitter So Hard To Scale?</a></li>
+<li><a href="http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html">What The Heck Are You Actually Using NoSQL For?</a></li>
+<li><a href="http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html">How Google Invented An Amazing Datacenter Network Only They Could Create</a></li>
+<li><a href="http://highscalability.com/blog/2010/9/21/playfishs-social-gaming-architecture-50-million-monthly-user.html">Playfish's Social Gaming Architecture - 50 Million Monthly Users And Growing</a> </li>
+<li><a href="http://highscalability.com/blog/2011/5/2/the-updated-big-list-of-articles-on-the-amazon-outage.html">The Updated Big List Of Articles On The Amazon Outage</a></li>
+<li><a href="http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html">Using Gossip Protocols For Failure Detection, Monitoring, Messaging And Other Good Things</a></li>
+<li><a href="http://highscalability.com/blog/2012/1/9/the-etsy-saga-from-silos-to-happy-to-billions-of-pageviews-a.html">The Etsy Saga: From Silos To Happy To Billions Of Pageviews A Month</a></li>
+<li><a href="http://highscalability.com/blog/2011/12/19/how-twitter-stores-250-million-tweets-a-day-using-mysql.html">How Twitter Stores 250 Million Tweets A Day Using MySQL</a></li>
+<li><a href="http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html">Tumblr Architecture - 15 Billion Page Views A Month And Harder To Scale Than Twitter</a> </li>
+<li><a href="http://highscalability.com/blog/2012/1/19/is-it-time-to-get-rid-of-the-linux-os-model-in-the-cloud.html">Is It Time To Get Rid Of The Linux OS Model In The Cloud?</a></li>
+<li><a href="http://highscalability.com/blog/2012/1/24/the-state-of-nosql-in-2012.html">The State Of NoSQL In 2012</a></li>
+<li><a href="http://highscalability.com/blog/2012/8/13/ask-highscalability-facing-scaling-issues-with-news-feeds-on.html">Ask HighScalability: Facing Scaling Issues With News Feeds On Redis. Any Advice?</a></li>
+<li><a href="http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html">Facebook Timeline: Brought To You By The Power Of Denormalization</a></li>
+<li><a href="http://highscalability.com/blog/2012/1/10/a-perfect-fifth-of-notes-on-scalability.html">A Perfect Fifth Of Notes On Scalability</a></li>
+<li><a href="http://highscalability.com/blog/2012/5/9/cell-architectures.html">Cell Architectures</a></li>
+<li><a href="http://highscalability.com/blog/2015/5/4/elements-of-scale-composing-and-scaling-data-platforms.html">Elements Of Scale: Composing And Scaling Data Platforms</a></li>
+<li><a href="http://highscalability.com/blog/2014/9/29/instagram-improved-their-apps-performance-heres-how.html">Instagram Improved Their App's Performance. Here's How.</a></li>
+<li><a href="http://highscalability.com/blog/2011/12/12/netflix-developing-deploying-and-supporting-software-accordi.html">Netflix: Developing, Deploying, And Supporting Software According To The Way Of The Cloud</a></li>
+<li><a href="http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html">Instagram Architecture: 14 Million Users, Terabytes Of Photos, 100s Of Instances, Dozens Of Technologies</a></li>
+</ol>
