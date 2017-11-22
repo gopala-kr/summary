@@ -23,6 +23,7 @@
 - [Neural Machine Translation by Jointly Learning to Align and Translate](notes/nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](notes/properties-of-neural-mt.md) [[arXiv](http://arxiv.org/abs/1409.1259)]
 - [Recurrent Neural Network Regularization](notes/rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
+
 - Very Deep Convolutional Networks for Large-Scale Image Recognition [[arXiv](http://arxiv.org/abs/1409.1556)]
 - Going Deeper with Convolutions [[arXiv](http://arxiv.org/abs/1409.4842)]
 
