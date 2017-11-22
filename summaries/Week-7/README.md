@@ -1,7 +1,9 @@
 #### 2014-12
 
 - Learning Longer Memory in Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1412.7753)]
+
 - [Neural Turing Machines](notes/neural-turing-machines.md) [[arxiv](http://arxiv.org/abs/1410.5401)]
+
 - [Grammar as a Foreign Langauage](notes/grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)]
 - [On Using Very Large Target Vocabulary for Neural Machine Translation](notes/on-using-very-large-target-vocabulary-for-nmt.md) [[arXiv](http://arxiv.org/abs/1412.2007)]
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]
