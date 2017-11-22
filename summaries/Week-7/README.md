@@ -57,7 +57,9 @@
 #### 2013
 
 - Visualizing and Understanding Convolutional Networks [[arXiv](http://arxiv.org/abs/1311.2901)]
+
 - DeViSE: A Deep Visual-Semantic Embedding Model [[pub](http://research.google.com/pubs/pub41473.html)]
+
 - Maxout Networks [[arXiv](http://arxiv.org/abs/1302.4389)]
 - Exploiting Similarities among Languages for Machine Translation [[arXiv](http://arxiv.org/abs/1309.4168)]
 - Efficient Estimation of Word Representations in Vector Space [[arXiv](http://arxiv.org/abs/1301.3781)]
