@@ -16,7 +16,7 @@ summaries of papers on deep learning.
 
 > **publications :**
 
-| [MILA](https://mila.quebec/en/publications/) |  [FAIR](https://research.fb.com/publications/?cat=13) | [deepmind](https://deepmind.com/research/publications/) | [brain team](https://research.google.com/pubs/BrainTeam.html) | [andrewng](http://www.robotics.stanford.edu/~ang/papers.php) | [karpathy](http://cs.stanford.edu/people/karpathy/) | [Nils J. Nilsson](http://ai.stanford.edu/~nilsson/publications.html) | [koller](http://ai.stanford.edu/users/koller/papers.cgi) | [trevor](https://people.eecs.berkeley.edu/~trevor/) | [pabbeel](https://people.eecs.berkeley.edu/~pabbeel/) | [Bruno](http://redwood.berkeley.edu/bruno/) | [ayuille](http://www.cs.jhu.edu/~ayuille/publications.html) | [pedrod](https://homes.cs.washington.edu/~pedrod/) |
+| [MILA](https://mila.quebec/en/publications/) |  [FAIR](https://research.fb.com/publications/?cat=13) | [deepmind](https://deepmind.com/research/publications/) | [brain team](https://research.google.com/pubs/BrainTeam.html) | [andrewng](http://www.robotics.stanford.edu/~ang/papers.php) | [karpathy](http://cs.stanford.edu/people/karpathy/) | [Nils J. Nilsson](http://ai.stanford.edu/~nilsson/publications.html) | [koller](http://ai.stanford.edu/users/koller/papers.cgi) | [trevor](https://people.eecs.berkeley.edu/~trevor/) | [pabbeel](https://people.eecs.berkeley.edu/~pabbeel/) | [Bruno](http://redwood.berkeley.edu/bruno/) | [ayuille](http://www.cs.jhu.edu/~ayuille/publications.html) | [pedrod](https://homes.cs.washington.edu/~pedrod/)|
 
 *********************
 
