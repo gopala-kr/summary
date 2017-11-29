@@ -8,7 +8,7 @@ summaries of papers on deep learning.
 * [[Week-5](https://github.com/gopala-kr/summary/tree/master/summaries/Week-5)] 12-Nov-2017 - DL applications : Machine Translation, Robotics, Art, Object Segmentation
 * [[Week-6](https://github.com/gopala-kr/summary/tree/master/summaries/Week-6)] 19-Nov-2017 - recommender systems
 * [[Week-7](https://github.com/gopala-kr/summary/tree/master/summaries/Week-7)] 26-Nov-2017 - ftm : 01/2011 - 12/2014
-* [Week-8]
+* [[Week-8](https://github.com/gopala-kr/summary/tree/master/summaries/Week-8)] 03-Dec-2017 - ftm : 01/2015 - 12/2015
 * [Week-9]
 * [Week-10]
 ----------------------
