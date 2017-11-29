@@ -247,3 +247,27 @@
 <li><a href="http://highscalability.com/blog/2016/4/12/the-gig-economy-breaks-social-security.html">The Gig Economy Breaks Social Security</a></li>
 <li><a href="http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html">A Journey Through How Zapier Automates Billions Of Workflow Automation Tasks</a></li>
 </ol>
+
+<h2>Posts Teaching the Basics&nbsp;</h2>
+<ul>
+<li><a href="http://highscalability.com/blog/2014/3/17/intuitively-showing-how-to-scale-a-web-application-using-a-c.html">Intuitively Showing How To Scale A Web Application Using A Coffee Shop As An Example</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/2/7-scaling-strategies-facebook-used-to-grow-to-500-million-us.html">7 Scaling Strategies Facebook Used To Grow To 500 Million Users</a></li>
+<li><a href="http://highscalability.com/blog/2008/9/23/the-7-stages-of-scaling-web-apps.html">The 7 Stages Of Scaling Web Apps</a></li>
+<li><a href="http://highscalability.com/blog/2012/9/19/the-4-building-blocks-of-architecting-systems-for-scale.html">The 4 Building Blocks Of Architecting Systems For Scale</a></li>
+<li><a href="http://www.lecloud.net/search/scalability">Scalability for Dummies</a>&nbsp;by&nbsp;Sebastian Kreutzberger</li>
+<li><a href="http://highscalability.com/blog/2010/11/24/great-introductory-video-on-scalability-from-harvard-compute.html">Great Introductory Video On Scalability From Harvard Computer Science</a></li>
+<li><a href="http://highscalability.com/7-stages-scaling-web-apps">The 7 Stages Of Scaling Web Apps</a></li>
+<li><a href="http://highscalability.com/five-ways-stop-framework-fixation-crashing-your-scaling-strategy">Five Ways To Stop Framework Fixation From Crashing Your Scaling Strategy</a></li>
+<li><a href="http://highscalability.com/blog/2008/2/13/whats-your-scalability-plan.html">What's Your Scalability Plan?</a></li>
+<li><a href="http://highscalability.com/blog/2008/9/3/some-facebook-secrets-to-better-operations.html">Some Facebook Secrets To Better Operations</a></li>
+<li><a href="http://highscalability.com/blog/2009/1/19/papers-readings-in-distributed-systems.html">Papers: Readings In Distributed Systems</a></li>
+<li><a href="http://highscalability.com/blog/2009/7/30/learn-how-to-think-at-scale.html">Learn How To Think At Scale</a></li>
+<li><a href="http://highscalability.com/blog/2009/8/18/real-world-web-performance-scalability.html">Real World Web: Performance &amp; Scalability</a></li>
+<li><a href="http://highscalability.com/blog/2009/8/7/the-canonical-cloud-architecture.html">The Canonical Cloud Architecture</a></li>
+<li><a href="http://highscalability.com/blog/2009/9/12/how-google-taught-me-to-cache-and-cash-in.html">How Google Taught Me To Cache And Cash-In</a></li>
+<li><a href="http://highscalability.com/blog/2010/12/1/8-commonly-used-scalable-system-design-patterns.html">8 Commonly Used Scalable System Design Patterns</a></li>
+<li><a href="http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html">Google Pro Tip: Use Back-Of-The-Envelope-Calculations To Choose The Best Design</a></li>
+<li><a href="http://highscalability.com/blog/2011/5/31/awesome-list-of-advanced-distributed-systems-papers.html">Awesome List Of Advanced Distributed Systems Papers</a></li>
+<li><a href="http://highscalability.com/blog/2014/11/24/a-flock-of-tasty-sources-on-how-to-start-learning-high-scala.html">A Flock Of Tasty Sources On How To Start Learning High Scalability</a></li>
+<li><a href="http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html">A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS</a></li>
+</ul>
