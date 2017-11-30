@@ -133,7 +133,7 @@ General
 
 - Human-level control through deep reinforcement
 learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)] [[code](https://github.com/deepmind/dqn)]
-- [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
+- [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)] [[PPT](http://llcao.net/cu-deeplearning15/presentation/zhang%20and%20lecun%20presentation.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-8/flower_project.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-8/topicsandprojects.ppt)]
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)] [[PPT](https://www.slideshare.net/eunjileee/show-attend-and-tell-neural-image-caption-generation-with-visual-attention)] [[PPT](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w10-show-attend-and-tell.pdf)] [[PPT](http://www.cs.toronto.edu/~fidler/slides/2017/CSC2539/Katherine_slides.pdf)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-8/160804_SEMINAR.pdf)]
 
 #### 2015-01
