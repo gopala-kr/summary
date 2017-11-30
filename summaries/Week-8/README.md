@@ -12,6 +12,7 @@ NLP
 
 Vision
 
+
 - [Deep Residual Learning for Image Recognition](notes/deep-residual-learning.md) [[arXiv](http://arxiv.org/abs/1512.03385)]
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
