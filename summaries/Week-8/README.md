@@ -3,6 +3,7 @@
 
 NLP
 
+
 - [Strategies for Training Large Vocabulary Neural Language Models](notes/strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
 - [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](notes/learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
