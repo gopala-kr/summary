@@ -66,6 +66,7 @@ General
 
 #### 2015-10
 
+
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](notes/sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
 - [Attention with Intention for a Neural Network Conversation Model](notes/attention-with-intention.md) [[arXiv](http://arxiv.org/abs/1510.08565)]
 - Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
