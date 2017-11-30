@@ -138,4 +138,4 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 
 #### 2015-01
 
-- Hidden Technical Debt in Machine Learning Systems [[NIPS](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)]
+- Hidden Technical Debt in Machine Learning Systems [[NIPS](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)]  [[PPT](https://www.slideshare.net/JeniaGorokhovsky/machine-learning-the-high-interest-card-of-technical-debt-pwl)] 
