@@ -129,7 +129,7 @@ General
 - [Distilling the Knowledge in a Neural Network](notes/distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
 - [End-To-End Memory Networks](notes/end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
 - [Neural Responding Machine for Short-Text Conversation](notes/neural-responding-machine.md) [[arXiv](http://arxiv.org/abs/1503.02364)]
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](notes/batch-normalization.md) [[arXiv](http://arxiv.org/abs/1502.03167)]
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](notes/batch-normalization.md) [[arXiv](http://arxiv.org/abs/1502.03167)] [[PPT](http://people.ee.duke.edu/~lcarin/Zhao12.17.2015.pdf)] [[code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/layers/normalization.py)]
 - Escaping From Saddle Points --- Online Stochastic Gradient for Tensor Decomposition [[arXiv](https://arxiv.org/abs/1503.02101)] [[article](Escaping from Saddle Points)]
 
 
