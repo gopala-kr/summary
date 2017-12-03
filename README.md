@@ -28,7 +28,7 @@ publications
 * [[Week-1](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-1/README.md)] 19-Nov-2017
 * [[Week-2](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-2/README.md)] 26-Nov-2017
 * [[Week-3](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-3/README.md)] 03-Dec-2017
-* [Week-4]
+* [[Week-4](https://github.com/gopala-kr/summary/tree/master/highscalability/week-4)] 10-Dec-2017
 * [Week-5]
 
 *********************
