@@ -1,10 +1,6 @@
 <ol>
 
-<li><a href="http://highscalability.com/blog/2012/8/20/the-performance-of-distributed-data-structures-running-on-a.html">The Performance Of Distributed Data-Structures Running On A "Cache-Coherent" In-Memory Data Grid</a></li>
-<li><a href="http://highscalability.com/blog/2012/8/14/memsql-architecture-the-fast-mvcc-inmem-lockfree-codegen-and.html">MemSQL Architecture - The Fast (MVCC, InMem, LockFree, CodeGen) And Familiar (SQL)</a></li>
-<li><a href="http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html">Prismatic Architecture - Using Machine Learning On Social Networks To Figure Out What You Should Read On The Web</a></li>
-<li><a href="http://highscalability.com/blog/2012/9/11/changing-architectures-new-datacenter-networks-will-set-your.html">Changing Architectures: New Datacenter Networks Will Set Your Code And Data Free</a>&nbsp;&nbsp;</li>
-<li><a href="http://highscalability.com/blog/2012/8/14/memsql-architecture-the-fast-mvcc-inmem-lockfree-codegen-and.html">MemSQL Architecture - The Fast (MVCC, InMem, LockFree, CodeGen) And Familiar (SQL)</a></li>
+
 <li><a href="http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html">Prismatic Architecture - Using Machine Learning On Social Networks To Figure Out What You Should Read On The Web</a>&nbsp;</li>
 <li><a href="http://highscalability.com/blog/2013/11/27/hidden-history-driving-the-last-spike-of-the-transcontinenta.html">Hidden History: Driving The Last Spike Of The Transcontinental Railroad Was An Early Version Of The Internet Of Things</a></li>
 <li><a href="http://highscalability.com/blog/2015/10/5/your-load-generator-is-probably-lying-to-you-take-the-red-pi.html">Your Load Generator Is Probably Lying To You - Take The Red Pill And Find Out Why</a></li>
