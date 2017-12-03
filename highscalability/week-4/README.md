@@ -28,4 +28,19 @@
 <li><a href="http://highscalability.com/blog/2012/7/5/10-golden-principles-for-building-successful-mobileweb-appli.html">10 Golden Principles For Building Successful Mobile/Web Applications</a></li>
 <li><a href="http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-from-the-foursquare.html">Troubles With Sharding - What Can We Learn From The Foursquare Incident?</a></li>
 <li><a href="http://highscalability.com/blog/2010/9/11/googles-colossus-makes-search-real-time-by-dumping-mapreduce.html">Google's Colossus Makes Search Real-Time By Dumping MapReduce</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/23/6-ways-to-kill-your-servers-learning-how-to-scale-the-hard-w.html">6 Ways To Kill Your Servers - Learning How To Scale The Hard Way</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/18/misco-a-mapreduce-framework-for-mobile-systems-start-of-the.html">Misco: A MapReduce Framework For Mobile Systems - Start Of The Ambient Cloud?</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/16/scaling-an-aws-infrastructure-tools-and-patterns.html">Scaling An AWS Infrastructure - Tools And Patterns</a></li>
+<li><a href="http://highscalability.com/blog/2012/7/25/vertical-scaling-ascendant-how-are-ssds-changing-architectur.html">Vertical Scaling Ascendant - How Are SSDs Changing &nbsp;Architectures?</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/12/think-of-latency-as-a-pseudo-permanent-network-partition.html">Think Of Latency As A Pseudo-Permanent Network Partition</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/2/7-scaling-strategies-facebook-used-to-grow-to-500-million-us.html">7 Scaling Strategies Facebook Used To Grow To 500 Million Users</a></li>
+<li><a href="http://highscalability.com/blog/2010/7/22/how-can-we-spark-the-movement-of-research-out-of-the-ivory-t.html">How Can We Spark The Movement Of Research Out Of The Ivory Tower And Into Production?</a></li>
+<li><a href="http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html">Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory</a></li>
+<li><a href="http://highscalability.com/blog/2012/3/12/google-taming-the-long-latency-tail-when-more-machines-equal.html">Google: Taming The Long Latency Tail - When More Machines Equals Worse Results</a></li>
+<li><a href="http://highscalability.com/blog/2012/3/6/ask-for-forgiveness-programming-or-how-well-program-1000-cor.html">Ask For Forgiveness Programming - Or How We'll Program 1000 Cores</a></li>
+<li><a href="http://highscalability.com/blog/2012/3/1/grace-hopper-to-programmers-mind-your-nanoseconds.html">Grace Hopper To Programmers: Mind Your Nanoseconds!</a></li>
+<li><a href="http://highscalability.com/blog/2012/4/25/the-anatomy-of-search-technology-blekkos-nosql-database.html">The Anatomy Of Search Technology: Blekko&rsquo;s NoSQL Database</a></li>
+<li><a href="http://highscalability.com/blog/2012/5/28/the-anatomy-of-search-technology-crawling-using-combinators.html">The Anatomy Of Search Technology: Crawling Using Combinators</a></li>
+<li><a href="http://highscalability.com/blog/2012/7/2/c-is-for-compute-google-compute-engine-gce.html">C Is For Compute - Google Compute Engine (GCE)</a></li>
+<li><a href="http://highscalability.com/blog/2012/7/5/10-golden-principles-for-building-successful-mobileweb-appli.html">10 Golden Principles For Building Successful Mobile/Web Applications</a></li>
 </ol>
