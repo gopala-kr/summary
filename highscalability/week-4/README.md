@@ -43,4 +43,9 @@
 <li><a href="http://highscalability.com/blog/2012/5/28/the-anatomy-of-search-technology-crawling-using-combinators.html">The Anatomy Of Search Technology: Crawling Using Combinators</a></li>
 <li><a href="http://highscalability.com/blog/2012/7/2/c-is-for-compute-google-compute-engine-gce.html">C Is For Compute - Google Compute Engine (GCE)</a></li>
 <li><a href="http://highscalability.com/blog/2012/7/5/10-golden-principles-for-building-successful-mobileweb-appli.html">10 Golden Principles For Building Successful Mobile/Web Applications</a></li>
+  <li><a href="http://highscalability.com/blog/2012/8/20/the-performance-of-distributed-data-structures-running-on-a.html">The Performance Of Distributed Data-Structures Running On A "Cache-Coherent" In-Memory Data Grid</a></li>
+<li><a href="http://highscalability.com/blog/2012/8/14/memsql-architecture-the-fast-mvcc-inmem-lockfree-codegen-and.html">MemSQL Architecture - The Fast (MVCC, InMem, LockFree, CodeGen) And Familiar (SQL)</a></li>
+<li><a href="http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html">Prismatic Architecture - Using Machine Learning On Social Networks To Figure Out What You Should Read On The Web</a></li>
+<li><a href="http://highscalability.com/blog/2012/9/11/changing-architectures-new-datacenter-networks-will-set-your.html">Changing Architectures: New Datacenter Networks Will Set Your Code And Data Free</a>&nbsp;&nbsp;</li>
+<li><a href="http://highscalability.com/blog/2012/8/14/memsql-architecture-the-fast-mvcc-inmem-lockfree-codegen-and.html">MemSQL Architecture - The Fast (MVCC, InMem, LockFree, CodeGen) And Familiar (SQL)</a></li>
 </ol>
