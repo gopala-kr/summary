@@ -42,7 +42,7 @@ publications
 
 -------------
 
-| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | 
+| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) |
 
 ----------------------
 
