@@ -1,6 +1,8 @@
 
 #### 2016-12
 
+
+
 - [A recurrent neural network without Chaos](https://github.com/dennybritz/deeplearning-papernotes/tree/master/notes/rnn_no_chaos.md) [[arXiv](https://arxiv.org/abs/1612.06212)]
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
 - Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv](https://arxiv.org/abs/1612.07828)]
