@@ -39,6 +39,11 @@ publications
 * [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Nov-2017 - bitcoin content
 * [Week-4]
 * [Week-5]
+
+-------------
+
+| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | 
+
 ----------------------
 
 to dive in [db-readings](https://github.com/rxin/db-readings)
