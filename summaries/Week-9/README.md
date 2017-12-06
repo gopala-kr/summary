@@ -299,6 +299,7 @@ Machine Translation & Dialog
 - Language to Logical Form with Neural Attention [[arXiv](http://arxiv.org/abs/1601.01280)]
 - Learning to Compose Neural Networks for Question Answering [[arXiv](http://arxiv.org/abs/1601.01705)]
 - The Inevitability of Probability: Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback [[arXiv](http://arxiv.org/abs/1601.03060)]
+
 - COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [[arXiv](http://arxiv.org/abs/1601.07140)]
 - Survey on the attention based RNN model and its applications in computer vision [[arXiv](http://arxiv.org/abs/1601.06823)]
 
