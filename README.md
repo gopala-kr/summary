@@ -1,5 +1,6 @@
 summaries of papers on deep learning.
 
+
 *********************
 * [[Week-1](https://github.com/gopala-kr/summary/tree/master/summaries/Week-1)] 15-Oct-2017 - DL history and basics : DBN, AlexNet, VGGNet, GoogLeNet, ResNet, RNN(speech evolution) 
 * [[Week-2](https://github.com/gopala-kr/summary/tree/master/summaries/Week-2)] 22-Oct-2017 - DL methods : models, optimization, deep generative model, rnn/seq-to-seq model
