@@ -43,7 +43,7 @@ publications
 
 -------------
 
-| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [cryptocurrency-whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) |
+| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) |
 
 ----------------------
 
