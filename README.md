@@ -38,7 +38,7 @@ publications
 
 * [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - decentralized systems(blockchain)
 * [[Week-2](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-2)] 26-Nov-2017 - decentralized systems(blockchain)
-* [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Nov-2017 - bitcoin content
+* [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - bitcoin content
 * [Week-4]
 * [Week-5]
 
