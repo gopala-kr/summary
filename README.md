@@ -11,8 +11,8 @@ summaries of papers on deep learning.
 * [[Week-6](https://github.com/gopala-kr/summary/tree/master/summaries/Week-6)] 19-Nov-2017 - recommender systems
 * [[Week-7](https://github.com/gopala-kr/summary/tree/master/summaries/Week-7)] 26-Nov-2017 - ftm : 01/2011 - 12/2014
 * [[Week-8](https://github.com/gopala-kr/summary/tree/master/summaries/Week-8)] 03-Dec-2017 - ftm : 01/2015 - 12/2015
-* [[Week-9](https://github.com/gopala-kr/summary/tree/master/summaries/Week-9)] 10-Dec-2017 - ftm : 01/2016 - 12/2016
-* [Week-10]
+* [[Week-9](https://github.com/gopala-kr/summary/tree/master/summaries/Week-9)] 10-Dec-2017 - ftm : 01/2016 - 05/2016
+* [[Week-10](https://github.com/gopala-kr/summary/blob/master/summaries/Week-10)] 17-Dec-2017 ftm : 06/2016 - 12/2016
 
 ----------------------
 | [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [outline-of-ai](https://github.com/gopala-kr/summary/blob/master/outline-of-ai.md) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) | [ai-angelList](https://angel.co/artificial-intelligence) |
