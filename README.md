@@ -68,6 +68,7 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 * [/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [conference paper templates](https://github.com/wk910930/paper-template)
+* [resources](https://github.com/gopala-kr/summary/blob/master/resources.md)
 
 <table class="conferences">
    <thead>
