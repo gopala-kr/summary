@@ -257,4 +257,4 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 
 -----------------
 
-if you found something useful [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/gopala-kr) :smiley:
+if you found something useful [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/gopala-kr) :blush:
