@@ -26,7 +26,7 @@ publications
 
 ---------------
 
-information retrieval - [ir-wiki](https://en.wikipedia.org/wiki/Information_retrieval) | [arxiv.ir](https://arxiv.org/list/cs.IR/recent) | [goog-research-IR.Web](https://research.google.com/pubs/InformationRetrievalandtheWeb.html) | [Stanford-IR resources](https://nlp.stanford.edu/IR-book/information-retrieval.html) + [slides](https://nlp.stanford.edu/IR-book/newslides.html) | [search-tools](http://www.searchtools.com/info/index.html) | [cs.ucy.ac.cy](http://www.cs.ucy.ac.cy/courses/EPL660/resources.html) | [web-search.wiki](https://en.wikipedia.org/wiki/Web_search_engine) | 
+information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_retrieval) | [arxiv.ir](https://arxiv.org/list/cs.IR/recent) | [goog-research-IR.Web](https://research.google.com/pubs/InformationRetrievalandtheWeb.html) | [Stanford-IR resources](https://nlp.stanford.edu/IR-book/information-retrieval.html) + [slides](https://nlp.stanford.edu/IR-book/newslides.html) | [search-tools](http://www.searchtools.com/info/index.html) | [cs.ucy.ac.cy](http://www.cs.ucy.ac.cy/courses/EPL660/resources.html) | [web-search.wiki](https://en.wikipedia.org/wiki/Web_search_engine) | [otline of internet search](https://github.com/gopala-kr/summary/blob/master/internet-search.md) |
 
 *********************
 
