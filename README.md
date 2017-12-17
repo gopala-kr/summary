@@ -44,16 +44,15 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 
-* [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - decentralized systems(blockchain)
-* [[Week-2](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-2)] 26-Nov-2017 - decentralized systems(blockchain)
-* [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - bitcoin content
-* [[Week-4](https://github.com/gopala-kr/summary/tree/master/blockchains/week-4)] 17-Dec-2017 - bitcoin code
-* [Week-5]
+* [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - decentralized systems(Blockchain)
+* [[Week-2](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-2)] 26-Nov-2017 - decentralized systems(Blockchain)
+* [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - Bitcoin content
+* [[Week-4](https://github.com/gopala-kr/summary/tree/master/blockchains/week-4)] 17-Dec-2017 - Bitcoin code
+* [[Week-5](https://github.com/gopala-kr/summary/blob/master/blockchains/Week-4/README.md)]24-Dec-2017 - Ethereum content
 
 -------------
 
 | [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) |
-| ------------- | ------------- | ------------- | ------------- |
 
 ----------------------
 
