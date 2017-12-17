@@ -41,7 +41,8 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 * [[Week-6](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-6/README.md)] 24-Dec-2017
 
 *********************
-| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)
+| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq) |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 
 * [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - decentralized systems(blockchain)
 * [[Week-2](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-2)] 26-Nov-2017 - decentralized systems(blockchain)
@@ -52,6 +53,7 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 -------------
 
 | [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) |
+| ------------- | ------------- | ------------- | ------------- |
 
 ----------------------
 
