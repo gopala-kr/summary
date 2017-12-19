@@ -27,7 +27,7 @@ publications
 
 implementations
 
-|| [ml.python](https://github.com/rasbt/python-machine-learning-book) |  [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) |  [RL](https://github.com/yandexdataschool/Practical_RL) |  [dl.keras.tf](https://github.com/leriomaggio/deep-learning-keras-tensorflow) |  [pytorch](https://github.com/ritchieng/the-incredible-pytorch) |  [ml.algorithms](https://github.com/rushter/MLAlgorithms) |  [cnn.benchmarks](https://github.com/soumith/convnet-benchmarks) |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() | 
+|| [ml.python](https://github.com/rasbt/python-machine-learning-book) |  [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) |  [RL](https://github.com/yandexdataschool/Practical_RL) |  [dl.keras.tf](https://github.com/leriomaggio/deep-learning-keras-tensorflow) |  [pytorch](https://github.com/ritchieng/the-incredible-pytorch) |  [ml.algorithms](https://github.com/rushter/MLAlgorithms) |  [cnn.benchmarks](https://github.com/soumith/convnet-benchmarks) |  [pytorch.tut](https://github.com/pytorch/tutorials) |  [pytorch.ex](https://github.com/pytorch/examples) |  [torch.sart](https://github.com/cvondrick/torch-starter) |  [dl.tool](https://github.com/rasmusbergpalm/DeepLearnToolbox) |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() | 
 
 [ml-engineering](https://github.com/ZuzooVn/machine-learning-for-software-engineers) |
 
