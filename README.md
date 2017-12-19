@@ -28,9 +28,9 @@ publications
 imple-ment-atio-ns/pract-kals
 
 
-|| [frameworks.dl](https://github.com/zer0n/deepframeworks)| [ml.python](https://github.com/rasbt/python-machine-learning-book) |  [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) |  [RL](https://github.com/yandexdataschool/Practical_RL) |  [dl.keras.tf](https://github.com/leriomaggio/deep-learning-keras-tensorflow) |  [pytorch](https://github.com/ritchieng/the-incredible-pytorch) |  [ml.algorithms](https://github.com/rushter/MLAlgorithms) |  [cnn.benchmarks](https://github.com/soumith/convnet-benchmarks) |  [pytorch.tut](https://github.com/pytorch/tutorials) |  [pytorch.ex](https://github.com/pytorch/examples) |  [torch.sart](https://github.com/cvondrick/torch-starter) |  [dl.tool](https://github.com/rasmusbergpalm/DeepLearnToolbox) |  [rl.tf](https://github.com/carpedm20/deep-rl-tensorflow) |  [DCGAN.tf](https://github.com/carpedm20/DCGAN-tensorflow) |  [ntm.tf](https://github.com/carpedm20/NTM-tensorflow) |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() | 
+|| [frameworks.dl](https://github.com/zer0n/deepframeworks)| [ml.python](https://github.com/rasbt/python-machine-learning-book) |  [deep.nlp.models.pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) |  [rl](https://github.com/yandexdataschool/Practical_RL) |  [dl.keras.tf](https://github.com/leriomaggio/deep-learning-keras-tensorflow) |  [pytorch.list](https://github.com/ritchieng/the-incredible-pytorch) |  [ml.algorithms](https://github.com/rushter/MLAlgorithms) |  [cnn.benchmarks](https://github.com/soumith/convnet-benchmarks) |  [pytorch.tut](https://github.com/pytorch/tutorials) |  [pytorch.ex](https://github.com/pytorch/examples) |  [torch.start](https://github.com/cvondrick/torch-starter) |  [dl.tool](https://github.com/rasmusbergpalm/DeepLearnToolbox) |  [rl.tf](https://github.com/carpedm20/deep-rl-tensorflow) |  [DCGAN.tf](https://github.com/carpedm20/DCGAN-tensorflow) |  [ntm.tf](https://github.com/carpedm20/NTM-tensorflow) |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() | 
 
-[ml-engineering](https://github.com/ZuzooVn/machine-learning-for-software-engineers) |
+[ml.sf.engineering](https://github.com/ZuzooVn/machine-learning-for-software-engineers) |
 
 
 
