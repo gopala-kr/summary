@@ -1,5 +1,5 @@
 #### 2017-12
-
+- MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels [[arxiv](https://arxiv.org/pdf/1712.05055.pdf)]
 - Deliberation Network: Pushing the frontiers of neural machine translation [[Research at Microsoft](https://www.microsoft.com/en-us/research/publication/deliberation-networks-sequence-generation-beyond-one-pass-decoding/)] [[article](https://www.microsoft.com/en-us/research/blog/deliberation-networks/)]
 - GPU Kernels for Block-Sparse Weights [[Research at OpenAI](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)] [[article](https://blog.openai.com/block-sparse-gpu-kernels/)] [[code](https://github.com/openai/blocksparse)]
 - Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm [[arXiv](https://arxiv.org/abs/1712.01815)]
