@@ -1,4 +1,5 @@
 #### 2017-12
+- Predicting emotion in movies: Recurrent and convolutional models applied to videos [[upcommons](https://upcommons.upc.edu/bitstream/handle/2117/112152/Report_OriolBernal.pdf)]
 - MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels [[arxiv](https://arxiv.org/pdf/1712.05055.pdf)]
 - Deliberation Network: Pushing the frontiers of neural machine translation [[Research at Microsoft](https://www.microsoft.com/en-us/research/publication/deliberation-networks-sequence-generation-beyond-one-pass-decoding/)] [[article](https://www.microsoft.com/en-us/research/blog/deliberation-networks/)]
 - GPU Kernels for Block-Sparse Weights [[Research at OpenAI](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)] [[article](https://blog.openai.com/block-sparse-gpu-kernels/)] [[code](https://github.com/openai/blocksparse)]
