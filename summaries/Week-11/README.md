@@ -1,4 +1,9 @@
 #### 2017-12
+- SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution[[arxiv](https://arxiv.org/abs/1712.05927)]
+- SEE: Towards Semi-Supervised End-to-End Scene Text Recognition[[arxiv](https://arxiv.org/abs/1712.05404)]
+- Adversarial Examples: Attacks and Defenses for Deep Learning[[arxiv](https://arxiv.org/abs/1712.07107)]
+- clcNet: Improving the Efficiency of Convolutional Neural Network using Channel Local Convolutions[[arxiv](https://arxiv.org/abs/1712.06145)]
+- Generating and designing DNA with deep generative models [[arxiv](https://arxiv.org/abs/1712.06148)]
 - Predicting emotion in movies: Recurrent and convolutional models applied to videos [[upcommons](https://upcommons.upc.edu/bitstream/handle/2117/112152/Report_OriolBernal.pdf)]
 - MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels [[arxiv](https://arxiv.org/pdf/1712.05055.pdf)]
 - Deliberation Network: Pushing the frontiers of neural machine translation [[Research at Microsoft](https://www.microsoft.com/en-us/research/publication/deliberation-networks-sequence-generation-beyond-one-pass-decoding/)] [[article](https://www.microsoft.com/en-us/research/blog/deliberation-networks/)]
