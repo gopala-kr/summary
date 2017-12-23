@@ -48,7 +48,7 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 * [[Week-6](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-6/README.md)] 24-Dec-2017
 
 *********************
-| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq) |
+| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](https://bitcoin.org/bitcoin.pdf) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 
 * [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - decentralized systems(Blockchain)
