@@ -17,13 +17,13 @@ summaries of papers on deep learning.
 * [[Week-8](https://github.com/gopala-kr/summary/tree/master/summaries/Week-8)] 03-Dec-2017 - ftm : 01/2015 - 12/2015
 * [[Week-9](https://github.com/gopala-kr/summary/tree/master/summaries/Week-9)] 10-Dec-2017 - ftm : 01/2016 - 05/2016
 * [[Week-10](https://github.com/gopala-kr/summary/blob/master/summaries/Week-10)] 17-Dec-2017 - ftm : 06/2016 - 12/2016
-* [[Week-11](https://github.com/gopala-kr/summary/tree/master/summaries/Week-11)] 24-Dec-2017 - ftm : 01/2017 - 12/2017
+* [[Week-11](https://github.com/gopala-kr/summary/tree/master/summaries/Week-11)] 24-Dec-2017 - ftm : 01/2017 - 07/2017
 * [[Week-12](https://github.com/gopala-kr/summary/tree/master/summaries/Week-12)] 31-Dec-2017 - ftm : 08/2017 -12/2017 + review
 
 ----------------------
 || [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) + [AI100_2](https://www.cbinsights.com/research/artificial-intelligence-top-startups/) | [ai-angelList](https://angel.co/artificial-intelligence) ||
 
-|| [a--rnn](https://github.com/kjw0612/awesome-rnn) | [a-deep-vision](https://github.com/kjw0612/awesome-deep-vision) | [a--random-forest)](https://github.com/kjw0612/awesome-random-forest) | [a-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | [a-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | [a-p](https://github.com/abhshkdz/papers) | [d-l-p](https://github.com/sbrugman/deep-learning-papers) | [drlp](https://github.com/junhyukoh/deep-reinforcement-learning-papers) | [DeepLearningImplementations](https://github.com/tdeboissiere/DeepLearningImplementations) | [drlp2](https://github.com/muupan/deep-reinforcement-learning-papers) | [dl-papernotes](https://github.com/dennybritz/deeplearning-papernotes) [dl-r](https://github.com/endymecy/awesome-deeplearning-resources) [med-appl](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) | [very-dl](https://github.com/daviddao/awesome-very-deep-learning) | | [a-GAN](https://github.com/nightrome/really-awesome-gan) || 
+|| [a--rnn](https://github.com/kjw0612/awesome-rnn) | [a-deep-vision](https://github.com/kjw0612/awesome-deep-vision) | [a--random-forest)](https://github.com/kjw0612/awesome-random-forest) | [a-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | [a-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | [a-p](https://github.com/abhshkdz/papers) | [d-l-p](https://github.com/sbrugman/deep-learning-papers) | [drlp](https://github.com/junhyukoh/deep-reinforcement-learning-papers) | [DeepLearningImplementations](https://github.com/tdeboissiere/DeepLearningImplementations) | [drlp2](https://github.com/muupan/deep-reinforcement-learning-papers) | [dl-papernotes](https://github.com/dennybritz/deeplearning-papernotes) | [dl-r](https://github.com/endymecy/awesome-deeplearning-resources) | [med-appl](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) | [very-dl](https://github.com/daviddao/awesome-very-deep-learning) | | [a-GAN](https://github.com/nightrome/really-awesome-gan) || 
 
 || [Outline of artificial intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence) | [Outline of machine learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms) | [Outline of computer vision](https://en.wikipedia.org/wiki/Outline_of_computer_vision) | [Outline of natural language processing](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing) | [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics) | [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)| [ai applications](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence) | [UCI.ML.DATASETS](http://archive.ics.uci.edu/ml/index.php) | [public.datasets](https://github.com/caesar0301/awesome-public-datasets) | [kaggle.datasets](https://www.kaggle.com/datasets) || 
 
@@ -65,9 +65,10 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 
 * [[Week-1](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-1)] 19-Nov-2017 - decentralized systems(Blockchain)
 * [[Week-2](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-2)] 26-Nov-2017 - decentralized systems(Blockchain)
-* [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - Bitcoin content
-* [[Week-4](https://github.com/gopala-kr/summary/tree/master/blockchains/week-4)] 17-Dec-2017 - Bitcoin code
-* [[Week-5](https://github.com/gopala-kr/summary/blob/master/blockchains/Week-4/README.md)]24-Dec-2017 - Ethereum content
+* [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - bitcoin content
+* [[Week-4](https://github.com/gopala-kr/summary/tree/master/blockchains/week-4)] 17-Dec-2017 - bitcoin code
+* [[Week-5](https://github.com/gopala-kr/summary/blob/master/blockchains/Week-4/README.md)] 24-Dec-2017 - ethereum content
+* [[Week-6](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-6) 31-Dec-2017 - ethereum programming
 
 -------------
 
