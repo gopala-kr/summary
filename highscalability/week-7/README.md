@@ -1,0 +1,85 @@
+<ol>
+
+<li><a href="http://highscalability.com/blog/2014/12/31/linus-the-whole-parallel-computing-is-the-future-is-a-bunch.html">Linus: The Whole "Parallel Computing Is The Future" Is A Bunch Of Crock.</a></li>
+<li><a href="http://highscalability.com/blog/2014/12/22/scalability-as-a-service.html">Scalability As A Service</a></li>
+<li><a href="http://highscalability.com/blog/2015/4/16/paper-large-scale-cluster-management-at-google-with-borg.html">Paper: Large-Scale Cluster Management At Google With Borg</a></li>
+<li><a href="http://highscalability.com/blog/2014/12/17/the-big-problem-is-medium-data.html">The Big Problem Is Medium Data</a></li>
+<li><a href="http://highscalability.com/blog/2014/12/16/multithreaded-programming-has-really-gone-to-the-dogs.html">Multithreaded Programming Has Really Gone To The Dogs</a></li>
+<li><a href="http://highscalability.com/blog/2014/12/16/the-machine-hps-new-memristor-based-datacenter-scale-compute.html">The Machine: HP's New Memristor Based Datacenter Scale Computer - Still Changing Everything</a></li>
+<li><a href="http://highscalability.com/blog/2014/12/3/all-employees-should-be-limited-only-by-their-ability-rather.html">All Employees Should Be Limited Only By Their Ability Rather Than An Absence Of Resources.</a></li>
+<li><a href="http://highscalability.com/blog/2014/12/1/auth0-architecture-running-in-multiple-cloud-providers-and-r.html">Auth0 Architecture - Running In Multiple Cloud Providers And Regions</a></li>
+<li><a href="http://highscalability.com/blog/2014/11/26/make-any-framework-suck-less-with-these-10-insightful-lesson.html">Make Any Framework Suck Less With These 10 Insightful Lessons</a></li>
+<li><a href="http://highscalability.com/blog/2015/4/8/the-black-magic-of-systematically-reducing-linux-os-jitter.html">The Black Magic Of Systematically Reducing Linux OS Jitter</a></li>
+<li><a href="http://highscalability.com/blog/2015/4/1/6-ways-to-defeat-the-coming-robot-army-swarms.html">6 Ways To Defeat The Coming Robot Army Swarms</a></li>
+<li><a href="http://highscalability.com/blog/2015/3/30/how-we-scale-vividcortexs-backend-systems.html">How We Scale VividCortex's Backend Systems</a></li>
+<li><a href="http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html">Seven Of The Nastiest Anti-Patterns In Microservices </a></li>
+<li><a href="http://highscalability.com/blog/2015/2/23/happypancake-a-retrospective-on-building-a-simple-and-scalab.html">HappyPancake: A Retrospective On Building A Simple And Scalable Foundation</a></li>
+<li><a href="http://highscalability.com/blog/2015/3/25/the-convergence-that-changes-everything-data-gravity-contain.html">The Convergence That Changes Everything: Data Gravity + Containers + Microservices</a></li>
+<li><a href="http://highscalability.com/blog/2015/3/9/applovin-marketing-to-mobile-consumers-worldwide-by-processi.html">AppLovin: Marketing To Mobile Consumers Worldwide By Processing 30 Billion Requests A Day</a></li>
+<li><a href="http://highscalability.com/blog/2015/2/16/scaling-kim-kardashian-to-100-million-page-views.html">Scaling Kim Kardashian To 100 Million Page Views</a></li>
+<li><a href="http://highscalability.com/blog/2015/2/11/rescuing-an-outsourced-project-from-collapse-8-problems-foun.html">Rescuing An Outsourced Project From Collapse: 8 Problems Found And 8 Lessons Learned</a></li>
+<li><a href="http://highscalability.com/blog/2015/2/9/vinted-architecture-keeping-a-busy-portal-stable-by-deployin.html">Vinted Architecture: Keeping A Busy Portal Stable By Deploying Several Hundred Times Per Day</a></li>
+<li><a href="http://highscalability.com/blog/2015/7/30/how-debugging-is-like-hunting-serial-killers.html">How Debugging Is Like Hunting Serial Killers</a></li>
+<li><a href="http://highscalability.com/blog/2015/7/27/algolias-fury-road-to-a-worldwide-api-part-3.html">Algolia's Fury Road To A Worldwide API Part 3</a></li>
+<li><a href="http://highscalability.com/blog/2015/7/22/architecting-backend-for-a-social-product.html">Architecting Backend For A Social Product</a></li>
+<li><a href="http://highscalability.com/blog/2015/7/16/this-just-this.html">This. Just. This.</a></li>
+<li><a href="http://highscalability.com/blog/2015/7/15/64-network-dos-and-donts-for-game-engines-part-iiia-server-s.html">64 Network DO&rsquo;s And DON&rsquo;Ts For Game Engines. Part IIIa: Server-Side</a>&nbsp;</li>
+<li><a href="http://highscalability.com/blog/2015/8/12/why-my-water-droplet-is-better-than-your-hadoop-cluster.html">Why My Water Droplet Is Better Than Your Hadoop Cluster</a></li>
+<li><a href="http://highscalability.com/blog/2015/8/17/how-autodesk-implemented-scalable-eventing-over-mesos.html">How Autodesk Implemented Scalable Eventing Over Mesos</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/7/want-iot-heres-how-a-major-us-utility-collects-power-data-fr.html">Want IoT? Here's How A Major US Utility Collects Power Data From Over 5.5 Million Meters</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html">How Uber Scales Their Real-Time Market Platform</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/9/trade-stimulators-and-the-very-old-idea-of-increasing-user-e.html">Trade Stimulators And The Very Old Idea Of Increasing User Engagement&nbsp;</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/2/building-globally-distributed-mission-critical-applications.html">Building Globally Distributed, Mission Critical Applications: Lessons From The Trenches Part 2</a></li>
+<li><a href="http://highscalability.com/blog/2015/8/26/7-strategies-for-10x-transformative-change.html">7 Strategies For 10x Transformative Change</a></li>
+<li><a href="http://highscalability.com/blog/2015/8/24/ask-highscalability-choose-an-async-app-server-or-multiple-b.html">Ask HighScalability: Choose An Async App Server Or Multiple Blocking Servers?</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/28/how-facebook-tells-your-friends-youre-safe-in-a-disaster-in.html">How Facebook Tells Your Friends You're Safe In A Disaster In Under Five Minutes</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/23/how-will-new-memory-technologies-impact-in-memory-databases.html">How Will New Memory Technologies Impact In-Memory Databases?</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/21/uber-goes-unconventional-using-driver-phones-as-a-backup-dat.html">Uber Goes Unconventional: Using Driver Phones As A Backup Datacenter</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/16/5-lessons-and-8-industry-changes-over-5-years-as-etsy-cto.html">5 Lessons And 8 Industry Changes Over 5 Years As Etsy CTO</a></li>
+<li><a href="http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html">How Uber Scales Their Real-Time Market Platform</a></li>
+<li><a href="http://highscalability.com/blog/2015/11/2/how-shopify-scales-to-handle-flash-sales-from-kanye-west-and.html">How Shopify Scales To Handle Flash Sales From Kanye West And The Superbowl</a></li>
+<li><a href="http://highscalability.com/blog/2015/10/26/what-ideas-in-it-must-die.html">What Ideas In IT Must Die?</a></li>
+<li><a href="http://highscalability.com/blog/2015/10/21/5-lessons-from-5-years-of-building-instagram.html">5 Lessons From 5 Years Of Building Instagram</a></li>
+<li><a href="http://highscalability.com/blog/2015/10/19/segment-rebuilding-our-infrastructure-with-docker-ecs-and-te.html">Segment: Rebuilding Our Infrastructure With Docker, ECS, And Terraform</a></li>
+<li><a href="http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html">Deep Lessons From Google And EBay On Building Ecosystems Of Microservices</a></li>
+<li><a href="http://highscalability.com/blog/2015/12/16/how-does-the-use-of-docker-effect-latency.html">How Does The Use Of Docker Effect Latency?</a></li>
+<li><a href="http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html">The Serverless Start-Up - Down With Servers!</a></li>
+<li><a href="http://highscalability.com/blog/2016/3/2/malice-or-stupidity-or-inattention-using-code-reviews-to-fin.html">Malice Or Stupidity Or Inattention? Using Code Reviews To Find Backdoors</a></li>
+<li><a href="http://highscalability.com/blog/2016/2/23/googles-transition-from-single-datacenter-to-failover-to-a-n.html">Google's Transition From Single Datacenter, To Failover, To A Native Multihomed Architecture</a></li>
+<li><a href="http://highscalability.com/blog/2016/2/10/how-to-build-your-property-management-system-integration-usi.html">How To Build Your Property Management System Integration Using Microservices</a></li>
+<li><a href="http://highscalability.com/blog/2016/1/6/lets-donate-our-organs-and-unused-cloud-cycles-to-science.html">Let's Donate Our Organs And Unused Cloud Cycles To Science</a></li>
+<li><a href="http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html">Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories</a></li>
+<li><a href="http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html">How Uber Manages A Million Writes Per Second Using Mesos And Cassandra Across Multiple Datacenters</a>&nbsp;</li>
+<li><a href="http://highscalability.com/blog/2016/9/13/the-dollar-shave-club-architecture-unilever-bought-for-1-bil.html">The Dollar Shave Club Architecture Unilever Bought For $1 Billion</a></li>
+<li><a href="http://highscalability.com/blog/2016/9/7/code-generation-the-inner-sanctum-of-database-performance.html">Code Generation: The Inner Sanctum Of Database Performance</a></li>
+<li><a href="http://highscalability.com/blog/2016/8/30/the-cat-and-mouse-story-of-implementing-anti-spam-for-mailru.html">The Cat-And-Mouse Story Of Implementing Anti-Spam For Mail.Ru Group&rsquo;s Email Service And What Tarantool Has To Do With This</a></li>
+<li><a href="http://highscalability.com/blog/2016/8/23/the-always-on-architecture-moving-beyond-legacy-disaster-rec.html">The Always On Architecture - Moving Beyond Legacy Disaster Recovery</a></li>
+<li><a href="http://highscalability.com/blog/2016/6/27/how-facebook-live-streams-to-800000-simultaneous-viewers.html">How Facebook Live Streams To 800,000 Simultaneous Viewers</a></li>
+<li><a href="http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html">How Twitter Handles 3,000 Images Per Second</a></li>
+<li><a href="http://highscalability.com/blog/2016/4/12/the-gig-economy-breaks-social-security.html">The Gig Economy Breaks Social Security</a></li>
+<li><a href="http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html">A Journey Through How Zapier Automates Billions Of Workflow Automation Tasks</a></li>
+</ol>
+
+<h2>Posts Teaching the Basics&nbsp;</h2>
+<ul>
+<li><a href="http://highscalability.com/blog/2014/3/17/intuitively-showing-how-to-scale-a-web-application-using-a-c.html">Intuitively Showing How To Scale A Web Application Using A Coffee Shop As An Example</a></li>
+<li><a href="http://highscalability.com/blog/2010/8/2/7-scaling-strategies-facebook-used-to-grow-to-500-million-us.html">7 Scaling Strategies Facebook Used To Grow To 500 Million Users</a></li>
+<li><a href="http://highscalability.com/blog/2008/9/23/the-7-stages-of-scaling-web-apps.html">The 7 Stages Of Scaling Web Apps</a></li>
+<li><a href="http://highscalability.com/blog/2012/9/19/the-4-building-blocks-of-architecting-systems-for-scale.html">The 4 Building Blocks Of Architecting Systems For Scale</a></li>
+<li><a href="http://www.lecloud.net/search/scalability">Scalability for Dummies</a>&nbsp;by&nbsp;Sebastian Kreutzberger</li>
+<li><a href="http://highscalability.com/blog/2010/11/24/great-introductory-video-on-scalability-from-harvard-compute.html">Great Introductory Video On Scalability From Harvard Computer Science</a></li>
+<li><a href="http://highscalability.com/7-stages-scaling-web-apps">The 7 Stages Of Scaling Web Apps</a></li>
+<li><a href="http://highscalability.com/five-ways-stop-framework-fixation-crashing-your-scaling-strategy">Five Ways To Stop Framework Fixation From Crashing Your Scaling Strategy</a></li>
+<li><a href="http://highscalability.com/blog/2008/2/13/whats-your-scalability-plan.html">What's Your Scalability Plan?</a></li>
+<li><a href="http://highscalability.com/blog/2008/9/3/some-facebook-secrets-to-better-operations.html">Some Facebook Secrets To Better Operations</a></li>
+<li><a href="http://highscalability.com/blog/2009/1/19/papers-readings-in-distributed-systems.html">Papers: Readings In Distributed Systems</a></li>
+<li><a href="http://highscalability.com/blog/2009/7/30/learn-how-to-think-at-scale.html">Learn How To Think At Scale</a></li>
+<li><a href="http://highscalability.com/blog/2009/8/18/real-world-web-performance-scalability.html">Real World Web: Performance &amp; Scalability</a></li>
+<li><a href="http://highscalability.com/blog/2009/8/7/the-canonical-cloud-architecture.html">The Canonical Cloud Architecture</a></li>
+<li><a href="http://highscalability.com/blog/2009/9/12/how-google-taught-me-to-cache-and-cash-in.html">How Google Taught Me To Cache And Cash-In</a></li>
+<li><a href="http://highscalability.com/blog/2010/12/1/8-commonly-used-scalable-system-design-patterns.html">8 Commonly Used Scalable System Design Patterns</a></li>
+<li><a href="http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html">Google Pro Tip: Use Back-Of-The-Envelope-Calculations To Choose The Best Design</a></li>
+<li><a href="http://highscalability.com/blog/2011/5/31/awesome-list-of-advanced-distributed-systems-papers.html">Awesome List Of Advanced Distributed Systems Papers</a></li>
+<li><a href="http://highscalability.com/blog/2014/11/24/a-flock-of-tasty-sources-on-how-to-start-learning-high-scala.html">A Flock Of Tasty Sources On How To Start Learning High Scalability</a></li>
+<li><a href="http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html">A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS</a></li>
+</ul>
