@@ -68,11 +68,11 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 * [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - bitcoin content
 * [[Week-4](https://github.com/gopala-kr/summary/tree/master/blockchains/week-4)] 17-Dec-2017 - bitcoin code
 * [[Week-5](https://github.com/gopala-kr/summary/blob/master/blockchains/Week-4/README.md)] 24-Dec-2017 - ethereum content
-* [[Week-6](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-6) 31-Dec-2017 - ethereum programming
+* [[Week-6](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-6) 31-Dec-2017 - ethereum programming + ICO
 
 -------------
 
-| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) |
+| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) | [ICO](http://www.coincatalyst.com/ultimate-guide-to-initial-coin-offerings-research-reading-list/) | 
 
 [Bitcoin Resources](http://www.jeremydjacksonphd.com/tag/crypto/)
 
