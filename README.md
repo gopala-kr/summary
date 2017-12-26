@@ -68,7 +68,7 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 * [[Week-3](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-3)] 03-Dec-2017 - bitcoin content
 * [[Week-4](https://github.com/gopala-kr/summary/tree/master/blockchains/week-4)] 17-Dec-2017 - bitcoin code
 * [[Week-5](https://github.com/gopala-kr/summary/blob/master/blockchains/Week-4/README.md)] 24-Dec-2017 - ethereum content
-* [[Week-6](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-6) 31-Dec-2017 - ethereum programming + ICO
+* [[Week-6](https://github.com/gopala-kr/summary/tree/master/blockchains/Week-6)] 31-Dec-2017 - ethereum programming + ICO
 
 -------------
 
