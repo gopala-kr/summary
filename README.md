@@ -42,26 +42,24 @@ implementations/pract-kals
  
  || [cs231n.stanford.edu/](http://cs231n.stanford.edu/) | [cs224d.stanford.edu/](http://cs224d.stanford.edu/) | [oxford-cs-deepnlp-2017](https://github.com/oxford-cs-deepnlp-2017/lectures) |  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 |  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
-|  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)|
-|  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
-|  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
-|  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
-|  [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
-| [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
-|  [Torch7 Tutorials](https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials)
-|  [The Best Machine Learning Tutorials On The Web](https://github.com/josephmisiti/machine-learning-module)
-| [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
-| [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-| [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials)
-| [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
-| [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
-| [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
-| [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
-| [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)
-| [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-| [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) | [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
-| [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511) 
-| [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) | [Ray Kurzweil ](https://www.youtube.com/watch?v=RIkxVci-R4k)  | [Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24) | [Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) | [Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI) | [Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)  | [Jeff Hawkins ](https://www.youtube.com/watch?v=6ufPpZDmPKA)  | [Adam Coates ](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT)  |  [Adam Coates ](http://vimeo.com/80821560)  | [Adam Coates ](https://www.youtube.com/watch?v=wZfVBwOO0-k)  |  [ Yann LeCun](https://www.youtube.com/watch?v=3boKlkPBckA)   |  [Geoffrey Hinton at GoogleTechTalks ](https://www.youtube.com/watch?v=AyzOUbkUf3M)  |  [Jeremy Howard at TEDxBrussels](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)  |  [ Andrew Ng in Stanford (2011)](http://web.stanford.edu/class/cs294a/handouts.html)  |  [ Chris Manning in Stanford ](http://web.stanford.edu/class/cs224n/handouts/)  |  [ Natalie Hammel and Lorraine Yurshansky](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html)   | [Steve Jurvetson (and panel) at VLAB in Stanford](https://www.youtube.com/watch?v=czLI3oLDe8M)   | [Leo Isikdogan at Motorola Mobility HQ](https://www.youtube.com/watch?v=FoO8qDB8gUU) | [NIPS 2016](https://nips.cc/Conferences/2016/Schedule)  ||
+|  [dl.NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)|
+|  [dl.p.dn](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+|  [dl.bu](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+|  [Theano.tut](http://deeplearning.net/tutorial/deeplearning.pdf)
+|  [nn.Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
+| [cnn.face](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+|  [Torch7.tut](https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials)
+|  [ml.tut.web](https://github.com/josephmisiti/machine-learning-module)
+| [VGG.cnn](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+| [TensorFlow.tut](https://github.com/nlintz/TensorFlow-Tutorials)
+| [TensorFlow.tut+](https://github.com/pkmital/tensorflow_tutorials)
+| [TensorFlow.py.n](https://github.com/aymericdamien/TensorFlow-Examples)
+| [Keras.Lasagne.tut](https://github.com/Vict0rSch/deep_learning)
+| [TensorFlow.LSTM.RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
+| [TensorFlow.World](https://github.com/astorfi/TensorFlow-World)
+| [dl.py](https://www.manning.com/books/deep-learning-with-python)
+| [Grokking.dl](https://www.manning.com/books/grokking-deep-learning) | [dl.Search](https://www.manning.com/books/deep-learning-for-search) | [Keras.tut](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511) 
+| [Pytorch.tut](https://github.com/yunjey/pytorch-tutorial) | [Ray Kurzweil ](https://www.youtube.com/watch?v=RIkxVci-R4k)  | [Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24) | [Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) | [Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI) | [Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)  | [Jeff Hawkins ](https://www.youtube.com/watch?v=6ufPpZDmPKA)  | [Adam Coates ](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT)  |  [Adam Coates ](http://vimeo.com/80821560)  | [Adam Coates ](https://www.youtube.com/watch?v=wZfVBwOO0-k)  |  [ Yann LeCun](https://www.youtube.com/watch?v=3boKlkPBckA)   |  [Geoffrey Hinton at GoogleTechTalks ](https://www.youtube.com/watch?v=AyzOUbkUf3M)  |  [Jeremy Howard at TEDxBrussels](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)  |  [ Andrew Ng in Stanford (2011)](http://web.stanford.edu/class/cs294a/handouts.html)  |  [ Chris Manning in Stanford ](http://web.stanford.edu/class/cs224n/handouts/)  |  [ Natalie Hammel and Lorraine Yurshansky](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html)   | [Steve Jurvetson (and panel) at VLAB in Stanford](https://www.youtube.com/watch?v=czLI3oLDe8M)   | [Leo Isikdogan at Motorola Mobility HQ](https://www.youtube.com/watch?v=FoO8qDB8gUU) | [NIPS 2016](https://nips.cc/Conferences/2016/Schedule)  ||
  
 ---------------
 
