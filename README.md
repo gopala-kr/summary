@@ -18,7 +18,7 @@ summaries of papers on deep learning.
 * [[Week-9](https://github.com/gopala-kr/summary/tree/master/summaries/Week-9)] 10-Dec-2017 - ftm : 01/2016 - 05/2016
 * [[Week-10](https://github.com/gopala-kr/summary/blob/master/summaries/Week-10)] 17-Dec-2017 - ftm : 06/2016 - 12/2016
 * [[Week-11](https://github.com/gopala-kr/summary/tree/master/summaries/Week-11)] 24-Dec-2017 - ftm : 01/2017 - 07/2017
-* [[Week-12](https://github.com/gopala-kr/summary/tree/master/summaries/Week-12)] 31-Dec-2017 - ftm : 08/2017 -12/2017 + review
+* [[Week-12](https://github.com/gopala-kr/summary/tree/master/summaries/Week-12)] 31-Dec-2017 - ftm : 08/2017 - 12/2017 + review
 
 ----------------------
 || [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) + [AI100_2](https://www.cbinsights.com/research/artificial-intelligence-top-startups/) | [ai-angelList](https://angel.co/artificial-intelligence) ||
@@ -61,27 +61,24 @@ implementations/pract-kals
 | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 | [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) | [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 | [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511) 
-| [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) || 
-
-
-* | [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil |
-* | [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
-* | [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton |
-* | [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun |
-* | [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio |
-* | [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins |
-* | [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates |
-* |  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates |
-* | [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates |
-* |  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun | 
-* |  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks |
-* |  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels |
-* |  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011) |
-* |  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford |
-* |  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky |
-* | [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford. |
-* | [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ |
-* | [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016 |
+| [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) | [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil |
+ | [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
+ | [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton |
+ | [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun |
+ | [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio |
+ | [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins |
+ | [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates |
+ |  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates |
+ | [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates |
+ |  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun | 
+ |  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks |
+ |  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels |
+ |  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011) |
+ |  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford |
+ |  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky |
+ | [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford. |
+ | [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ |
+ | [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016 ||
  
 ---------------
 
