@@ -322,7 +322,7 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
    </tbody>
 </table>
 
-### Conferences
+### conferences
 
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
 2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
