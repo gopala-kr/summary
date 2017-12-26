@@ -61,24 +61,7 @@ implementations/pract-kals
 | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 | [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) | [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 | [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511) 
-| [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) | [Ray Kurzweil ](https://www.youtube.com/watch?v=RIkxVci-R4k) |
- | [Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
- | [Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) 
- | [Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI) 
- | [Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0) 
- | [Jeff Hawkins ](https://www.youtube.com/watch?v=6ufPpZDmPKA) 
- | [Adam Coates ](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) 
- |  [Adam Coates ](http://vimeo.com/80821560) 
- | [Adam Coates ](https://www.youtube.com/watch?v=wZfVBwOO0-k) 
- |  [ Yann LeCun](https://www.youtube.com/watch?v=3boKlkPBckA)  
- |  [Geoffrey Hinton at GoogleTechTalks ](https://www.youtube.com/watch?v=AyzOUbkUf3M) 
- |  [Jeremy Howard at TEDxBrussels](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) 
- |  [ Andrew Ng in Stanford (2011)](http://web.stanford.edu/class/cs294a/handouts.html) 
- |  [ Chris Manning in Stanford ](http://web.stanford.edu/class/cs224n/handouts/) 
- |  [ Natalie Hammel and Lorraine Yurshansky](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html)  
- | [Steve Jurvetson (and panel) at VLAB in Stanford](https://www.youtube.com/watch?v=czLI3oLDe8M)  
- | [Leo Isikdogan at Motorola Mobility HQ](https://www.youtube.com/watch?v=FoO8qDB8gUU)  
- | [NIPS 2016](https://nips.cc/Conferences/2016/Schedule)  ||
+| [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) | [Ray Kurzweil ](https://www.youtube.com/watch?v=RIkxVci-R4k)  | [Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24) | [Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) | [Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI) | [Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)  | [Jeff Hawkins ](https://www.youtube.com/watch?v=6ufPpZDmPKA)  | [Adam Coates ](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT)  |  [Adam Coates ](http://vimeo.com/80821560)  | [Adam Coates ](https://www.youtube.com/watch?v=wZfVBwOO0-k)  |  [ Yann LeCun](https://www.youtube.com/watch?v=3boKlkPBckA)   |  [Geoffrey Hinton at GoogleTechTalks ](https://www.youtube.com/watch?v=AyzOUbkUf3M)  |  [Jeremy Howard at TEDxBrussels](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)  |  [ Andrew Ng in Stanford (2011)](http://web.stanford.edu/class/cs294a/handouts.html)  |  [ Chris Manning in Stanford ](http://web.stanford.edu/class/cs224n/handouts/)  |  [ Natalie Hammel and Lorraine Yurshansky](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html)   | [Steve Jurvetson (and panel) at VLAB in Stanford](https://www.youtube.com/watch?v=czLI3oLDe8M)   | [Leo Isikdogan at Motorola Mobility HQ](https://www.youtube.com/watch?v=FoO8qDB8gUU) | [NIPS 2016](https://nips.cc/Conferences/2016/Schedule)  ||
  
 ---------------
 
