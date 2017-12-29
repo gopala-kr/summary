@@ -1,5 +1,8 @@
 #### 2017-12
-- Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works [[arxiv](https://arxiv.org/abs/1712.07525v1)]
+- Modeling Past and Future for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1711.09502v2)]
+- Zero-Shot Learning via Latent Space Encoding [[arxiv](https://arxiv.org/abs/1712.09300v1)]
+- Deep Unsupervised Clustering Using Mixture of Autoencoders [[arxiv](https://arxiv.org/abs/1712.07788v2)]
+- Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works  [[arxiv](https://arxiv.org/abs/1712.07525v1)]
 - SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution[[arxiv](https://arxiv.org/abs/1712.05927)]
 - SEE: Towards Semi-Supervised End-to-End Scene Text Recognition[[arxiv](https://arxiv.org/abs/1712.05404)]
 - Adversarial Examples: Attacks and Defenses for Deep Learning[[arxiv](https://arxiv.org/abs/1712.07107)]
