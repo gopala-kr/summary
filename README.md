@@ -334,5 +334,3 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
 -----------------
-
-if you found something useful [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/gopala-kr) :blush:
