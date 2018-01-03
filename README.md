@@ -31,7 +31,6 @@ summaries of papers on deep learning.
 - Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
 - Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
 - State-of-the-art Speech Recognition With Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1712.01769)] [[article](https://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)]
-- Peephole: Predicting Network Performance Before Training [[arXiv](https://arxiv.org/abs/1712.03351)]
 
 
 ********************************
