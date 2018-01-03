@@ -23,10 +23,18 @@ summaries of papers on deep learning.
 
    ----------------------------------
    
-  [01/2018]
+####### 01/2018
   
-  
-  
+  - The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
+- Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
+- Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
+- Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
+- Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
+- State-of-the-art Speech Recognition With Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1712.01769)] [[article](https://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)]
+- Peephole: Predicting Network Performance Before Training [[arXiv](https://arxiv.org/abs/1712.03351)]
+
+
+---------------------------  
 ----------------------
 || [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) + [AI100_2](https://www.cbinsights.com/research/artificial-intelligence-top-startups/) | [ai-angelList](https://angel.co/artificial-intelligence) ||
 
