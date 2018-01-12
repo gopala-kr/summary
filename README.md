@@ -25,13 +25,37 @@ summaries of papers on deep learning.
    
 #### 01/2018
   
-- The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
-- Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
-- Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
-- Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
-- Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
-- State-of-the-art Speech Recognition With Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1712.01769)] [[article](https://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)]
+**Thesis**
+  
+- Deep Learning: A Critical Appraisal, 2018 [[arXiv](https://arxiv.org/abs/1801.00631v1)] 
+- Multi-platform Version of StarCraft: Brood War in a Docker Container: Technical Report, 2018 [[arXiv](https://arxiv.org/abs/1801.02193v1)] 
+- Novel Methods for Enhancing the Performance of Genetic Algorithms, 2018 [[arXiv](https://arxiv.org/abs/1801.02827v1)]
+- Generating adversarial examples with adversarial networks, 2018  [[arXiv](https://arxiv.org/abs/1801.02610v1)]
+- Generating Neural Networks with Neural Networks, 2018 [[arXiv](https://arxiv.org/abs/1801.01952v1)]
+- Adversarial Spheres, 2018 [[arXiv](https://arxiv.org/abs/1801.02774v1)]
+- Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes, 2018 [[arXiv](https://arxiv.org/abs/1801.02852v1)]
+- Less is More: Culling the Training Set to Improve Robustness of Deep Neural Networks, 2018 [[arXiv](https://arxiv.org/abs/1801.02850v1)]
+- Sample-Efficient Reinforcement Learning through Transfer and Architectural Priors, 2018 [[arXiv](https://arxiv.org/abs/1801.02268v1)]
+- Using reinforcement learning to learn how to play text-based games, 2018 [[arXiv](https://arxiv.org/abs/1801.01999v1)]
+- Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time, 2018 [[arXiv](https://arxiv.org/abs/1801.02668v1)]
+- Boundary Optimizing Network (BON), 2018 [[arXiv](https://arxiv.org/abs/1801.02642v1)]
+- Approximate FPGA-based LSTMs under Computation Time Constraints, 2018 [[arXiv](https://arxiv.org/abs/1801.02190v1)]
+- A Note on the Inception Score, 2018 [[arXiv](https://arxiv.org/abs/1801.01973v1)]
 
+**Applications**
+
+- Learning Tree-based Deep Model for Recommender Systems, 2018 [[arXiv](https://arxiv.org/abs/1801.02294v1)]
+- Fusion of ANN and SVM Classifiers for Network Attack Detection, 2018 [[arXiv](https://arxiv.org/abs/1801.02746v1)]
+- Learning to Infer Graphics Programs from Hand-Drawn Images, 2017 [[arXiv](https://arxiv.org/abs/1707.09627v4)]
+- Building Generalizable Agents with a Realistic and Rich 3D Environment, 2018 [[arXiv](https://arxiv.org/abs/1801.02209v1)]
+- Audio Adversarial Examples: Targeted Attacks on Speech-to-Text, 2018 [[arXiv](https://arxiv.org/abs/1801.01944v1)]
+- Attacking Speaker Recognition With Deep Generative Models, 2018 [[arXiv](https://arxiv.org/abs/1801.02384v1)]
+- SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis, 2018 [[arXiv](https://arxiv.org/abs/1801.02753v1)]
+- Biomedical Question Answering via Weighted Neural Network Passage Retrieval, 2018 [[arXiv](https://arxiv.org/abs/1801.02832v1)]
+- DeepTraffic: Driving Fast through Dense Traffic with Deep Reinforcement Learning, 2018 [[arXiv](https://arxiv.org/abs/1801.02805v1)]
+- Trading the Twitter Sentiment with Reinforcement Learning, 2018 [[arXiv](https://arxiv.org/abs/1801.02243v1)]
+- From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots, 2018 [[arXiv](https://arxiv.org/abs/1801.01957v1)]
+- A Predictive Approach Using Deep Feature Learning for Electronic Medical Records: A Comparative Study, 2018 [[arXiv](https://arxiv.org/abs/1801.02961v1)]
 
 ********************************
 ----------------------
