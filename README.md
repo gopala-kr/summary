@@ -41,6 +41,13 @@ summaries of papers on deep learning.
 - Boundary Optimizing Network (BON), 2018 [[arXiv](https://arxiv.org/abs/1801.02642v1)]
 - Approximate FPGA-based LSTMs under Computation Time Constraints, 2018 [[arXiv](https://arxiv.org/abs/1801.02190v1)]
 - A Note on the Inception Score, 2018 [[arXiv](https://arxiv.org/abs/1801.01973v1)]
+- Fix your classifier: the marginal value of training the last weight layer[[arXiv](https://arxiv.org/abs/1801.04540v1)]
+- Can Computers Create Art?[[arXiv](https://arxiv.org/abs/1801.04486v1)]
+- Generalizing, Decoding, and Optimizing Support Vector Machine Classification[[arXiv](https://arxiv.org/abs/1801.04929v1)]
+- Deep Reinforcement Fuzzing[[arXiv](https://arxiv.org/abs/1801.04589v1)]
+- Top k Memory Candidates in Memory Networks for Common Sense Reasoning[[arXiv](https://arxiv.org/abs/1801.04622v1)]
+- Deep Learning: An Introduction for Applied Mathematicians[[arXiv]()]
+
 
 **Applications**
 
@@ -56,6 +63,11 @@ summaries of papers on deep learning.
 - Trading the Twitter Sentiment with Reinforcement Learning, 2018 [[arXiv](https://arxiv.org/abs/1801.02243v1)]
 - From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots, 2018 [[arXiv](https://arxiv.org/abs/1801.01957v1)]
 - A Predictive Approach Using Deep Feature Learning for Electronic Medical Records: A Comparative Study, 2018 [[arXiv](https://arxiv.org/abs/1801.02961v1)]
+- Building a Conversational Agent Overnight with Dialogue Self-Play[[arXiv](https://arxiv.org/abs/1801.04871v1)]
+- Unsupervised Cipher Cracking Using Discrete GANs[[arXiv](https://arxiv.org/abs/1801.04883v1)]
+- The Case for Automatic Database Administration using Deep Reinforcement Learning[[arXiv](https://arxiv.org/abs/1801.05643v1)]
+
+
 
 ********************************
 ----------------------
