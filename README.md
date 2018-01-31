@@ -148,9 +148,7 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 
 -------------
 
-| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [blockchain-influencers](https://www.rise.global/top-fintech-people) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) + [whitepapers](https://github.com/kasketis/awesome-cryptocurrencies) + [cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) | [ICO](http://www.coincatalyst.com/ultimate-guide-to-initial-coin-offerings-research-reading-list/) | 
-
-[Bitcoin Resources](http://www.jeremydjacksonphd.com/tag/crypto/)
+|| [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) | [blockchain in action](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/09-blockchain-in-action) | [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain)+[influencers](https://www.rise.global/top-fintech-people)+[whitepapers](https://github.com/kasketis/awesome-cryptocurrencies)+[cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) | [ICO](http://www.coincatalyst.com/ultimate-guide-to-initial-coin-offerings-research-reading-list/)+[Resources](http://www.jeremydjacksonphd.com/tag/crypto/)|| 
 
 ----------------------
 
@@ -358,6 +356,8 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
       </tr>
    </tbody>
 </table>
+
+---------------------
 
 ### conferences
 
