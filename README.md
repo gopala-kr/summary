@@ -134,6 +134,7 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 * [[Week-6](https://github.com/gopala-kr/summary/blob/master/highscalability/Week-6/README.md)] 24-Dec-2017
 * [[Week-7](https://github.com/gopala-kr/summary/tree/master/highscalability/week-7)] 31-Dec-2017
 * [[startupreadings](https://github.com/dennybritz/startupreadings)]
+* [[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)]
 *********************
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](https://bitcoin.org/bitcoin.pdf) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
