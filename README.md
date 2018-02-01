@@ -23,9 +23,9 @@ summaries of papers on deep learning.
 
    ----------------------------------
    
-#### 01/2018
+01/2018
   
-**Thesis**
+thesis
   
 - Deep Learning: A Critical Appraisal, 2018 [[arXiv](https://arxiv.org/abs/1801.00631v1)] 
 - Multi-platform Version of StarCraft: Brood War in a Docker Container: Technical Report, 2018 [[arXiv](https://arxiv.org/abs/1801.02193v1)] 
@@ -47,9 +47,30 @@ summaries of papers on deep learning.
 - Deep Reinforcement Fuzzing[[arXiv](https://arxiv.org/abs/1801.04589v1)]
 - Top k Memory Candidates in Memory Networks for Common Sense Reasoning[[arXiv](https://arxiv.org/abs/1801.04622v1)]
 - Deep Learning: An Introduction for Applied Mathematicians[[arXiv]()]
+- Understanding Human Behaviors in Crowds by Imitating the Decision-Making Process, 2018 [[arXiv](https://arxiv.org/abs/1801.08391v1)]
+- Active Neural Localization, 2018 [[arXiv](https://arxiv.org/abs/1801.08214v1)]
+- Deep Reinforcement Learning using Capsules in Advanced Game Environments, 2018 [[arXiv](https://arxiv.org/abs/1801.09597v1)]
+- Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning, 2018 [[arXiv](https://arxiv.org/abs/1801.08459v2)]
+- Global and Local Consistent Age Generative Adversarial Networks, 2018 [[arXiv](https://arxiv.org/abs/1801.08390v1)]
+- Deep Interactive Evolution, 2018 [[arXiv](https://arxiv.org/abs/1801.08230v1)]
+- A Question-Focused Multi-Factor Attention Network for Question Answering, 2018 [[arXiv](https://arxiv.org/abs/1801.08290v1)]
+- DKN: Deep Knowledge-Aware Network for News Recommendation, 2018 [[arXiv](https://arxiv.org/abs/1801.08284v2)]
+- Etymo: A New Discovery Engine for AI Research, 2018 [[arXiv](https://arxiv.org/abs/1801.08573v1)]
+- NDDR-CNN: Layer-wise Feature Fusing in Multi-Task CNN by Neural Discriminative Dimensionality Reduction, 2018 [[arXiv](https://arxiv.org/abs/1801.08297v1)]
+- Deflecting Adversarial Attacks with Pixel Deflection, 2018 [[arXiv](https://arxiv.org/abs/1801.08926v1)]
+- Neural Algebra of Classifiers, 2018 [[arXiv](https://arxiv.org/abs/1801.08676v1)]
+- Hierarchical Spatial Transformer Network, 2018 [[arXiv](https://arxiv.org/abs/1801.09467v2)]
+- Improved Training of Generative Adversarial Networks Using Representative Features, 2018 [[arXiv](https://arxiv.org/abs/1801.09195v1)]
+- Using Additional Indexes for Fast Full-Text Search of Phrases That Contains Frequently Used Words, 2018 [[arXiv](https://arxiv.org/abs/1801.09079v1)]
+- Human-Machine Inference Networks For Smart Decision Making: Opportunities and Challenges- , 2018 [[arXiv](https://arxiv.org/abs/1801.09626v1)]
 
 
-**Applications**
+
+
+
+
+
+applications
 
 - Learning Tree-based Deep Model for Recommender Systems, 2018 [[arXiv](https://arxiv.org/abs/1801.02294v1)]
 - Fusion of ANN and SVM Classifiers for Network Attack Detection, 2018 [[arXiv](https://arxiv.org/abs/1801.02746v1)]
@@ -66,6 +87,13 @@ summaries of papers on deep learning.
 - Building a Conversational Agent Overnight with Dialogue Self-Play[[arXiv](https://arxiv.org/abs/1801.04871v1)]
 - Unsupervised Cipher Cracking Using Discrete GANs[[arXiv](https://arxiv.org/abs/1801.04883v1)]
 - The Case for Automatic Database Administration using Deep Reinforcement Learning[[arXiv](https://arxiv.org/abs/1801.05643v1)]
+- Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification, 2018 [[arXiv](https://arxiv.org/abs/1801.08570v1)]
+- DeepWriting: Making Digital Ink Editable via Deep Generative Modeling, 2018 [[arXiv](https://arxiv.org/abs/1801.08379v1)]
+- CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition, 2018 [[arXiv](https://arxiv.org/abs/1801.08535v1)]
+- FlashRL: A Reinforcement Learning Platform for Flash Games, 2018 [[arXiv](https://arxiv.org/abs/1801.08841v1)]
+- Using Deep Autoencoders for Facial Expression Recognition, 2018 [[arXiv](https://arxiv.org/abs/1801.08329v1)]
+- Multi-Pointer Co-Attention Networks for Recommendation, 2018 [[arXiv](https://arxiv.org/abs/1801.09251v1)]
+- Marketing Analytics: Methods, Practice, Implementation, and Links to Other Fields, 2018 [[arXiv](https://arxiv.org/abs/1801.09185v1)]
 
 
 
