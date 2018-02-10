@@ -108,7 +108,7 @@ applications
 
 || [Outline of artificial intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence) | [Outline of machine learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms) | [Outline of computer vision](https://en.wikipedia.org/wiki/Outline_of_computer_vision) | [Outline of natural language processing](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing) | [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics) | [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)| [ai applications](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence) | [UCI.ML.DATASETS](http://archive.ics.uci.edu/ml/index.php) | [public.datasets](https://github.com/caesar0301/awesome-public-datasets) | [kaggle.datasets](https://www.kaggle.com/datasets) | [datasets.gh.list](https://github.com/ChristosChristofidis/awesome-deep-learning#datasets) || 
 
-> **[[Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)]**
+> **[[Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)]**,  [[DL_libraries_final_Rankings](https://github.com/thedataincubator/data-science-blogs/blob/master/output/DL_libraries_final_Rankings.csv)]
 
 publications
 
