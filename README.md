@@ -21,8 +21,50 @@ summaries of papers on deep learning.
 * [[Week-11](https://github.com/gopala-kr/summary/tree/master/summaries/Week-11)] 24-Dec-2017 - ftm : 01/2017 - 07/2017
 * [[Week-12](https://github.com/gopala-kr/summary/tree/master/summaries/Week-12)] 31-Dec-2017 - ftm : 08/2017 - 12/2017
 
-   ----------------------------------
+----------------------------------
+02/2018
+
+thesis
+
+- The Matrix Calculus You Need For Deep Learning. 2018,[arxiv](https://arxiv.org/abs/1802.01528v2)
+- A Survey on Acceleration of Deep Convolutional Neural Networks2018,[arxiv](https://arxiv.org/abs/1802.00939v1)
+- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, 2018,[arxiv](https://arxiv.org/abs/1802.01561v1)
+- Regularized Evolution for Image Classifier Architecture Search, 2018,[arxiv](https://arxiv.org/abs/1802.01548v2)
+- Hierarchical Adversarially Learned Inference, 2018,[arxiv](https://arxiv.org/abs/1802.01071v1)
+- To understand deep learning we need to understand kernel learning, 2018,[arxiv](https://arxiv.org/abs/1802.01396v2)
+- One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning, 2018,[arxiv](https://arxiv.org/abs/1802.01557v1)
+- Efficient Video Object Segmentation via Network Modulation, 2018,[arxiv](https://arxiv.org/abs/1802.01218v1)
+- Multi-task Learning for Continuous Control, 2018,[arxiv](https://arxiv.org/abs/1802.01034v1)
+- DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text, 2018,[arxiv](https://arxiv.org/abs/1802.01345v2)
+- Software Engineers vs. Machine Learning Algorithms: An Empirical Study Assessing Performance and Reuse Tasks, 2018,[arxiv](https://arxiv.org/abs/1802.01096v2)
+- AFT*: Integrating Active Learning and Transfer Learning to Reduce Annotation Efforts, 2018,[arxiv](https://arxiv.org/abs/1802.00912v1)
+- Improving Variational Encoder-Decoders in Dialogue Generation, 2018,[arxiv](https://arxiv.org/abs/1802.02032v1)
+- Texygen: A Benchmarking Platform for Text Generation Models, 2018,[arxiv](https://arxiv.org/abs/1802.01886v1)
+- Shared Autonomy via Deep Reinforcement Learning, 2018,[arxiv](https://arxiv.org/abs/1802.01744v1)
+- A Method for Restoring the Training Set Distribution in an Image Classifier, 2018,[arxiv](https://arxiv.org/abs/1802.01435v1)
+- Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings,2018,[arxiv](https://arxiv.org/abs/1802.01241v1) 
+- Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective, 2018,[arxiv](https://arxiv.org/abs/1801.06274v2)
+- Digital Watermarking for Deep Neural Networks,2018,[arxiv](https://arxiv.org/abs/1802.02601v1) 
+- Online Learning: A Comprehensive Survey, 2018,[arxiv](https://arxiv.org/abs/1802.02871v1)
+- Expressive power of recurrent neural networks, 2018,[arxiv](https://arxiv.org/abs/1711.00811v2)
+- Geometry Score: A Method For Comparing Generative Adversarial Networks, 2018,[arxiv](https://arxiv.org/abs/1802.02664v1)
+- Capsule Network Performance on Complex Data, 2018,[arxiv](https://arxiv.org/abs/1712.03480v1)
+
+
+
+applications
+
+- Mining Public Opinion about Economic Issues: Twitter and the U.S. Presidential Election, 2018,[arxiv](https://arxiv.org/abs/1802.01786v1)
+- Structural Recurrent Neural Network (SRNN) for Group Activity Analysis, 2018,[arxiv](https://arxiv.org/abs/1802.02091v1)
+- Multimodal Image Captioning for Marketing Analysis, 2018,[arxiv](https://arxiv.org/abs/1802.01958v1)
+- Highly accurate model for prediction of lung nodule malignancy with CT scans, 2018,[arxiv](https://arxiv.org/abs/1802.01756v1)
+- Data Augmentation of Railway Images for Track Inspection, 2018,[arxiv](https://arxiv.org/abs/1802.01286v1)
+- Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time, 2018,[arxiv](https://arxiv.org/abs/1801.02668v2)
+- A Deep Reinforcement Learning Chatbot (Short Version), 2018,[arxiv](https://arxiv.org/abs/1801.06700v1)
+
    
+   
+-------------------------------------
 01/2018
   
 thesis
