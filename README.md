@@ -41,7 +41,7 @@ thesis
 - Digital Watermarking for Deep Neural Networks,2018,[[arxiv](https://arxiv.org/abs/1802.02601v1)]
 - Online Learning: A Comprehensive Survey, 2018,[[arxiv](https://arxiv.org/abs/1802.02871v1)]
 - Expressive power of recurrent neural networks, 2018,[[arxiv](https://arxiv.org/abs/1711.00811v2)]
-- Geometry Score: A Method For Comparing Generative Adversarial Networks, 2018,[[arxiv](https://arxiv.org/abs/1802.02664v1)]
+- Geometry Score: A Method For Comparing Generative Adversarial Networks, 2018,[[arxiv](https://arxiv.org/abs/1802.02664v1)] [[code](https://github.com/geom-score/geometry-score)]
 - Capsule Network Performance on Complex Data, 2018,[[arxiv](https://arxiv.org/abs/1712.03480v1)]
 
 
@@ -53,7 +53,6 @@ applications
 - Multimodal Image Captioning for Marketing Analysis, 2018,[[arxiv](https://arxiv.org/abs/1802.01958v1)]
 - Highly accurate model for prediction of lung nodule malignancy with CT scans, 2018,[[arxiv](https://arxiv.org/abs/1802.01756v1)]
 - Data Augmentation of Railway Images for Track Inspection, 2018,[[arxiv](https://arxiv.org/abs/1802.01286v1)]
-- Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time, 2018,[[arxiv](https://arxiv.org/abs/1801.02668v2)]
 - A Deep Reinforcement Learning Chatbot (Short Version), 2018,[[arxiv](https://arxiv.org/abs/1801.06700v1)]
 - Efficient Video Object Segmentation via Network Modulation, 2018,[[arxiv](https://arxiv.org/abs/1802.01218v1)]
 - DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text, 2018,[[arxiv](https://arxiv.org/abs/1802.01345v2)]
