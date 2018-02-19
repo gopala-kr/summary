@@ -146,6 +146,8 @@ applications
 
 || [Outline of artificial intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence) | [Outline of machine learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms) | [Outline of computer vision](https://en.wikipedia.org/wiki/Outline_of_computer_vision) | [Outline of natural language processing](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing) | [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics) | [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)| [ai applications](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence) | [UCI.ML.DATASETS](http://archive.ics.uci.edu/ml/index.php) | [public.datasets](https://github.com/caesar0301/awesome-public-datasets) | [kaggle.datasets](https://www.kaggle.com/datasets) | [datasets.gh.list](https://github.com/ChristosChristofidis/awesome-deep-learning#datasets) || 
 
+|| [awesome-nlp](https://github.com/keon/awesome-nlp) | [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) | [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) | [oxford.nlp.lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) | [stanford.nlp.lectures](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) ||
+
 > **[[Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)]**,  [[DL_libraries_final_Rankings](https://github.com/thedataincubator/data-science-blogs/blob/master/output/DL_libraries_final_Rankings.csv)]
 
 publications
@@ -185,7 +187,6 @@ implementations/pract-kals
 
 
 information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_retrieval) | [arxiv.ir](https://arxiv.org/list/cs.IR/recent) | [goog-research-IR.Web](https://research.google.com/pubs/InformationRetrievalandtheWeb.html) | [Stanford-IR resources](https://nlp.stanford.edu/IR-book/information-retrieval.html) + [slides](https://nlp.stanford.edu/IR-book/newslides.html) | [search-tools](http://www.searchtools.com/info/index.html) | [cs.ucy.ac.cy](http://www.cs.ucy.ac.cy/courses/EPL660/resources.html) | [web-search.wiki](https://en.wikipedia.org/wiki/Web_search_engine) | [outline of internet search](https://github.com/gopala-kr/summary/tree/master/information-retrieval) | [ir.cat.wiki](https://en.wikipedia.org/wiki/Category:Information_retrieval) |
-
 
 *********************
 
