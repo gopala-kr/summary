@@ -60,11 +60,17 @@ thesis
 - DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference, 2018, [[arxiv](https://arxiv.org/abs/1802.05577v1)]
 - Uncertainty Estimation via Stochastic Batch Normalization, 2018, [[arxiv](https://arxiv.org/abs/1802.04893v1)]
 - GILBO: One Metric to Measure Them All, 2018, [[arxiv](https://arxiv.org/abs/1802.04874v1)]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
+- High Dimensional Bayesian Optimization Using Dropout, 2018, [[arxiv](https://arxiv.org/abs/1802.05400v1)]
+- Fooling OCR Systems with Adversarial Text Images, 2018, [[arxiv](https://arxiv.org/abs/1802.05385v1)]
+- On the Blindspots of Convolutional Networks, 2018, [[arxiv](https://arxiv.org/abs/1802.05187v1)]
+- History PCA: A New Algorithm for Streaming PCA, 2018, [[arxiv](https://arxiv.org/abs/1802.05447v1)]
+- Stealing Hyperparameters in Machine Learning, 2018, [[arxiv](https://arxiv.org/abs/1802.05351v1)]
+- DVAE++: Discrete Variational Autoencoders with Overlapping Transformations, 2018, [[arxiv](https://arxiv.org/abs/1802.04920v1)]
+- Gradient Boosting With Piece-Wise Linear Regression Trees, 2018, [[arxiv](https://arxiv.org/abs/1802.05640v1)]
+- On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo, 2018, [[arxiv](https://arxiv.org/abs/1802.05431v1)]
+- Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)]
+- Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
+
 
 applications
 
@@ -83,10 +89,13 @@ applications
 - Web-Scale Responsive Visual Search at Bing, 2018, [[arxiv](https://arxiv.org/abs/1802.04914v1)]
 - Towards End-to-End Lane Detection: an Instance Segmentation Approach, 2018, [[arxiv](https://arxiv.org/abs/1802.05591v1)]
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring, 2018, [[arxiv](https://arxiv.org/abs/1802.04633v2)]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
-- , 2018, [[arxiv]()]
+- Universal Neural Machine Translation for Extremely Low Resource Languages, 2018, [[arxiv](https://arxiv.org/abs/1802.05368v1)]
+- Speech Emotion Recognition with Data Augmentation and Layer-wise Learning Rate Adjustment, 2018, [[arxiv](https://arxiv.org/abs/1802.05630v1)]
+- 500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow), 2018, [[arxiv](https://arxiv.org/abs/1802.05319v1)]
+- Convolutional Neural Networks over Control Flow Graphs for Software Defect Prediction, 2018, [[arxiv](https://arxiv.org/abs/1802.04986v1)]
+- Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier, 2018, [[arxiv](https://arxiv.org/abs/1802.04881v1)]
+- Identify Susceptible Locations in Medical Records via Adversarial Attacks on Deep Predictive Models, 2018, [[arxiv](https://arxiv.org/abs/1802.04822v1)]
+- Tools and resources for Romanian text-to-speech and speech-to-text applications, 2018, [[arxiv](https://arxiv.org/abs/1802.05583v1)]
 
 -------------------------------------
 01/2018
