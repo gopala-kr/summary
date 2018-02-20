@@ -70,7 +70,10 @@ thesis
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo, 2018, [[arxiv](https://arxiv.org/abs/1802.05431v1)]
 - Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)]
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
-
+- DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
+- uantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
+- DeepXplore: Automated Whitebox Testing of Deep Learning Systems. 2018, [[arxiv](https://arxiv.org/abs/1705.06640v4)]
+- Image Tranformer. 2018, [[arxiv](https://arxiv.org/abs/1802.05751v1)]
 
 applications
 
@@ -96,6 +99,11 @@ applications
 - Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier, 2018, [[arxiv](https://arxiv.org/abs/1802.04881v1)]
 - Identify Susceptible Locations in Medical Records via Adversarial Attacks on Deep Predictive Models, 2018, [[arxiv](https://arxiv.org/abs/1802.04822v1)]
 - Tools and resources for Romanian text-to-speech and speech-to-text applications, 2018, [[arxiv](https://arxiv.org/abs/1802.05583v1)]
+- URLNet: Learning a URL Representation with Deep Learning for Malicious URL Detection, 2018, [[arxiv](https://arxiv.org/abs/1802.03162v1)]
+- Generating Wikipedia by Summarizing Long Sequences, 2018, [[arxiv](https://arxiv.org/abs/1801.10198v1)]
+- Predicting short-term Bitcoin price fluctuations from buy and sell orders. 2018, [[arxiv](https://arxiv.org/abs/1802.04065v1)]
+- WebEye - Automated Collection of Malicious HTTP Traffic, [[arxiv](https://arxiv.org/abs/1802.06012v1)]
+- Sentiment Perception of Readers and Writers in Emoji use, 2018, [[arxiv](https://arxiv.org/abs/1710.00888v2)]
 
 -------------------------------------
 01/2018
