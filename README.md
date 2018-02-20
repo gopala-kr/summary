@@ -43,8 +43,28 @@ thesis
 - Expressive power of recurrent neural networks, 2018,[[arxiv](https://arxiv.org/abs/1711.00811v2)]
 - Geometry Score: A Method For Comparing Generative Adversarial Networks, 2018,[[arxiv](https://arxiv.org/abs/1802.02664v1)] [[code](https://github.com/geom-score/geometry-score)]
 - Capsule Network Performance on Complex Data, 2018,[[arxiv](https://arxiv.org/abs/1712.03480v1)]
-
-
+- Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions, 2018, [[arxi](https://arxiv.org/abs/1802.04730v1)]
+- Learning to Search with MCTSnets , 2018, [[arxiv](https://arxiv.org/abs/1802.04697v1)]
+- Neural Relational Inference for Interacting Systems, 2018, [[arxiv](https://arxiv.org/abs/1802.04687v1)]
+- Deep contextualized word representations, 2018, [[arxiv](https://arxiv.org/abs/1802.05365v1)]
+- DiCE: The Infinitely Differentiable Monte-Carlo Estimator, 2018, [[arxiv](https://arxiv.org/abs/1802.05098v1)]
+- Evolved Policy Gradients, 2018, [[arxiv](https://arxiv.org/abs/1802.04821v1)]
+- Reinforcement Learning from Imperfect Demonstrations, 2018, [[arxiv](https://arxiv.org/abs/1802.05313v1)]
+- GEP-PG: Decoupling Exploration and Exploitation in Deep Reinforcement Learning Algorithms, 2018, [[arxiv](https://arxiv.org/abs/1802.05054v1)]
+- Graph2Seq: Scalable Learning Dynamics for Graphs, 2018, [[arxiv](https://arxiv.org/abs/1802.04948v1)]
+- Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control, 2018, [[arxiv](https://arxiv.org/abs/1802.04765v1)]
+- Training and Inference with Integers in Deep Neural Networks, 2018, [[arxiv](https://arxiv.org/abs/1802.04680v1)]
+- Putting a bug in ML: The moth olfactory network learns to read MNIST, 2018, [[arxiv](https://arxiv.org/abs/1802.05405v1)]
+- From Gameplay to Symbolic Reasoning: Learning SAT Solver Heuristics in the Style of Alpha(Go) Zero, 2018, [[arxiv](https://arxiv.org/abs/1802.05340v1)]
+- L4: Practical loss-based stepsize adaptation for deep learning, 2018, [[arxiv](https://arxiv.org/abs/1802.05074v2)]
+- DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference, 2018, [[arxiv](https://arxiv.org/abs/1802.05577v1)]
+- Uncertainty Estimation via Stochastic Batch Normalization, 2018, [[arxiv](https://arxiv.org/abs/1802.04893v1)]
+- GILBO: One Metric to Measure Them All, 2018, [[arxiv](https://arxiv.org/abs/1802.04874v1)]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
 
 applications
 
@@ -59,6 +79,14 @@ applications
 - Shared Autonomy via Deep Reinforcement Learning, 2018,[arxiv](https://arxiv.org/abs/1802.01744v1)
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective, 2018,[[arxiv](https://arxiv.org/abs/1801.06274v2)]
 - Software Engineers vs. Machine Learning Algorithms: An Empirical Study Assessing Performance and Reuse Tasks, 2018,[[arxiv](https://arxiv.org/abs/1802.01096v2)]
+- Explainable Prediction of Medical Codes from Clinical Text, 2018, [[arxiv](https://arxiv.org/abs/1802.05695v1)]
+- Web-Scale Responsive Visual Search at Bing, 2018, [[arxiv](https://arxiv.org/abs/1802.04914v1)]
+- Towards End-to-End Lane Detection: an Instance Segmentation Approach, 2018, [[arxiv](https://arxiv.org/abs/1802.05591v1)]
+- Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring, 2018, [[arxiv](https://arxiv.org/abs/1802.04633v2)]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
+- , 2018, [[arxiv]()]
 
 -------------------------------------
 01/2018
