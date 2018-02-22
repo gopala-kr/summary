@@ -25,11 +25,15 @@ summaries of papers on deep learning.
 02/2018
 
 thesis
-
-- The Matrix Calculus You Need For Deep Learning. 2018,[[arxiv](https://arxiv.org/abs/1802.01528v2)]
+- The Matrix Calculus You Need For Deep Learning [[arXiv](https://arxiv.org/abs/1802.01528v2)]
+- Regularized Evolution for Image Classifier Architecture Search [[arXiv](https://arxiv.org/abs/1802.01548)]
+- Online Learning: A Comprehensive Survey [[arXiv](https://arxiv.org/abs/1802.02871)]
+- Visual Interpretability for Deep Learning: a Survey [[arXiv](https://arxiv.org/abs/1802.00614)]
+- Behavior is Everything – Towards Representing Concepts with Sensorimotor Contingencies [[paper](https://www.vicarious.com/wp-content/uploads/2018/01/AAAI18-pixelworld.pdf)] [[article](https://www.vicarious.com/2018/02/07/learning-concepts-through-sensorimotor-interactions/)] [[code](https://github.com/vicariousinc/pixelworld)]
+- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures [[arXiv](https://arxiv.org/abs/1802.01561)] [[article](https://deepmind.com/blog/impala-scalable-distributed-deeprl-dmlab-30/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/dmlab30)]
+- DeepType: Multilingual Entity Linking by Neural Type System Evolution [[arXiv](https://arxiv.org/abs/1802.01021)] [[article](https://blog.openai.com/discovering-types-for-entity-disambiguation/)] [[code](https://github.com/openai/deeptype)]
+- DensePose: Dense Human Pose Estimation In The Wild [[arXiv](https://arxiv.org/abs/1802.00434)] [[article](http://densepose.org/)]
 - A Survey on Acceleration of Deep Convolutional Neural Networks2018,[[arxiv](https://arxiv.org/abs/1802.00939v1)]
-- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures, 2018,[[arxiv](https://arxiv.org/abs/1802.01561v1)]
-- Regularized Evolution for Image Classifier Architecture Search, 2018,[[arxiv](https://arxiv.org/abs/1802.01548v2)]
 - To understand deep learning we need to understand kernel learning, 2018,[[arxiv](https://arxiv.org/abs/1802.01396v2)]
 - One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning, 2018,[[arxiv](https://arxiv.org/abs/1802.01557v1)]
 - Multi-task Learning for Continuous Control, 2018,[[arxiv](https://arxiv.org/abs/1802.01034v1)]
@@ -39,7 +43,6 @@ thesis
 - A Method for Restoring the Training Set Distribution in an Image Classifier, 2018,[[arxiv](https://arxiv.org/abs/1802.01435v1)]
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings,2018,[[arxiv](https://arxiv.org/abs/1802.01241v1)]
 - Digital Watermarking for Deep Neural Networks,2018,[[arxiv](https://arxiv.org/abs/1802.02601v1)]
-- Online Learning: A Comprehensive Survey, 2018,[[arxiv](https://arxiv.org/abs/1802.02871v1)]
 - Expressive power of recurrent neural networks, 2018,[[arxiv](https://arxiv.org/abs/1711.00811v2)]
 - Geometry Score: A Method For Comparing Generative Adversarial Networks, 2018,[[arxiv](https://arxiv.org/abs/1802.02664v1)] [[code](https://github.com/geom-score/geometry-score)]
 - Capsule Network Performance on Complex Data, 2018,[[arxiv](https://arxiv.org/abs/1712.03480v1)]
@@ -71,7 +74,7 @@ thesis
 - Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)]
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
 - DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
-- uantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
+- Quantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
 - DeepXplore: Automated Whitebox Testing of Deep Learning Systems. 2018, [[arxiv](https://arxiv.org/abs/1705.06640v4)]
 - Image Tranformer. 2018, [[arxiv](https://arxiv.org/abs/1802.05751v1)]
 
