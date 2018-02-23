@@ -59,7 +59,7 @@ thesis
 - Training and Inference with Integers in Deep Neural Networks, 2018, [[arxiv](https://arxiv.org/abs/1802.04680v1)]
 - Putting a bug in ML: The moth olfactory network learns to read MNIST, 2018, [[arxiv](https://arxiv.org/abs/1802.05405v1)]
 - From Gameplay to Symbolic Reasoning: Learning SAT Solver Heuristics in the Style of Alpha(Go) Zero, 2018, [[arxiv](https://arxiv.org/abs/1802.05340v1)]
-- L4: Practical loss-based stepsize adaptation for deep learning, 2018, [[arxiv](https://arxiv.org/abs/1802.05074v2)]
+- L4: Practical loss-based stepsize adaptation for deep learning, 2018, [[arxiv](https://arxiv.org/abs/1802.05074v2)] [[code](https://github.com/martius-lab/l4-optimizer)]
 - DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference, 2018, [[arxiv](https://arxiv.org/abs/1802.05577v1)]
 - Uncertainty Estimation via Stochastic Batch Normalization, 2018, [[arxiv](https://arxiv.org/abs/1802.04893v1)]
 - GILBO: One Metric to Measure Them All, 2018, [[arxiv](https://arxiv.org/abs/1802.04874v1)]
