@@ -238,7 +238,7 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 
 *********************
 
-Quantum Computing - | [Quantum_computing](https://en.wikipedia.org/wiki/Quantum_computing) | [Quantum_information_science](https://en.wikipedia.org/wiki/Quantum_information_science) | [Quantum_algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm) | [List_of_quantum_processors](https://en.wikipedia.org/wiki/List_of_quantum_processors) |  [Quantum_Turing_machine](https://en.wikipedia.org/wiki/Quantum_Turing_machine) | [D-Wave_Systems](https://en.wikipedia.org/wiki/D-Wave_Systems) ||
+Quantum Computing - | [Quantum_computing](https://en.wikipedia.org/wiki/Quantum_computing) | [Quantum_information_science](https://en.wikipedia.org/wiki/Quantum_information_science) | [Quantum_algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm) | [List_of_quantum_processors](https://en.wikipedia.org/wiki/List_of_quantum_processors) |  [Quantum_Turing_machine](https://en.wikipedia.org/wiki/Quantum_Turing_machine) | [D-Wave_Systems](https://en.wikipedia.org/wiki/D-Wave_Systems) | [Quantum_machine_learning](https://en.wikipedia.org/wiki/Quantum_machine_learning) ||
 
 publications
 
