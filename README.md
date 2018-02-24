@@ -238,6 +238,20 @@ information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_re
 
 *********************
 
+Quantum Computing - | [Quantum_computing](https://en.wikipedia.org/wiki/Quantum_computing) | [Quantum_information_science](https://en.wikipedia.org/wiki/Quantum_information_science) | [Quantum_algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm) | [List_of_quantum_processors](https://en.wikipedia.org/wiki/List_of_quantum_processors) |  [Quantum_Turing_machine](https://en.wikipedia.org/wiki/Quantum_Turing_machine) | [D-Wave_Systems](https://en.wikipedia.org/wiki/D-Wave_Systems) ||
+
+publications
+
+|| [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) |  [d-wave systems](https://www.dwavesys.com/resources/publications) | [research.google.QuantumAI](https://research.google.com/pubs/QuantumAI.html) | [quantum_algorithms tutorial](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf) | [eecs.berkeley.quantumalgorithms](https://people.eecs.berkeley.edu/~vazirani/algorithms/chap10.pdf) |  [arxiv](https://arxiv.org/abs/1511.04206) | [ibm-q](https://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/) | [qiskit](https://www.qiskit.org/) ||
+
+Quora
+
+|| [Quantum-Information](https://www.quora.com/topic/Quantum-Information) | [Quantum-Computing](https://www.quora.com/topic/Quantum-Computing-4) | [Quantum-Mechanics](https://www.quora.com/topic/Quantum-Mechanics) | [D-Wave-company](https://www.quora.com/topic/D-Wave-company) | [Quantum-Computers](https://www.quora.com/topic/Quantum-Computers-3) ||
+
+
+
+-------------------------------
+
 [highscalability](http://highscalability.com/) - to dive in [all time favorites list](http://highscalability.com/all-time-favorites/)
 
 
