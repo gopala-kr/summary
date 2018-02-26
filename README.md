@@ -113,7 +113,8 @@ applications
 thesis
 
 - Deep Learning: A Critical Appraisal, 2018 [[arXiv](https://arxiv.org/abs/1801.00631v1)] 
-- Nested LSTMs [[arXiv](https://arxiv.org/abs/1801.10308)
+- Nested LSTMs, 2018. [[arXiv](https://arxiv.org/abs/1801.10308)
+- Mask R-CNN, 2018. [arxiv](https://arxiv.org/abs/1703.06870v3)
 - Kernel Feature Selection via Conditional Covariance Minimization [[NIPS paper](https://papers.nips.cc/paper/7270-kernel-feature-selection-via-conditional-covariance-minimization.pdf)] [[article](http://bair.berkeley.edu/blog/2018/01/23/kernels/)] [[code](https://github.com/Jianbo-Lab/CCM)]
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1801.08116)] [[article](https://deepmind.com/blog/open-sourcing-psychlab/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)]
 - Fine-tuned Language Models for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)] [[code]()] (soon)
