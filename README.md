@@ -39,7 +39,7 @@ thesis
 - Multi-task Learning for Continuous Control, 2018,[[arxiv](https://arxiv.org/abs/1802.01034v1)]
 - AFT*: Integrating Active Learning and Transfer Learning to Reduce Annotation Efforts, 2018,[[arxiv](https://arxiv.org/abs/1802.00912v1)]
 - Improving Variational Encoder-Decoders in Dialogue Generation, 2018,[[arxiv](https://arxiv.org/abs/1802.02032v1)] [[experiments](https://github.com/lethienhoa/Variational-AutoEncoder-for-Dialogue-Generation)]
-- Texygen: A Benchmarking Platform for Text Generation Models, 2018,[[arxiv](https://arxiv.org/abs/1802.01886v1)]
+- Texygen: A Benchmarking Platform for Text Generation Models, 2018,[[arxiv](https://arxiv.org/abs/1802.01886v1)] [[code](https://github.com/geek-ai/Texygen)]
 - A Method for Restoring the Training Set Distribution in an Image Classifier, 2018,[[arxiv](https://arxiv.org/abs/1802.01435v1)]
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings,2018,[[arxiv](https://arxiv.org/abs/1802.01241v1)]
 - Digital Watermarking for Deep Neural Networks,2018,[[arxiv](https://arxiv.org/abs/1802.02601v1)]
