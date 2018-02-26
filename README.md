@@ -71,7 +71,7 @@ thesis
 - DVAE++: Discrete Variational Autoencoders with Overlapping Transformations, 2018, [[arxiv](https://arxiv.org/abs/1802.04920v1)]
 - Gradient Boosting With Piece-Wise Linear Regression Trees, 2018, [[arxiv](https://arxiv.org/abs/1802.05640v1)]
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo, 2018, [[arxiv](https://arxiv.org/abs/1802.05431v1)]
-- Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)]
+- Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)] [[code](https://github.com/untrix/im2latex)] [[refrencecode](https://github.com/emilwallner/Screenshot-to-code-in-Keras)] [[refrencecode](https://github.com/tonybeltramelli/pix2code)] 
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
 - DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
 - Quantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
