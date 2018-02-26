@@ -35,7 +35,7 @@ thesis
 - DensePose: Dense Human Pose Estimation In The Wild [[arXiv](https://arxiv.org/abs/1802.00434)] [[article](http://densepose.org/)]
 - A Survey on Acceleration of Deep Convolutional Neural Networks2018,[[arxiv](https://arxiv.org/abs/1802.00939v1)]
 - To understand deep learning we need to understand kernel learning, 2018,[[arxiv](https://arxiv.org/abs/1802.01396v2)]
-- One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning, 2018,[[arxiv](https://arxiv.org/abs/1802.01557v1)]
+- One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning, 2018,[[arxiv](https://arxiv.org/abs/1802.01557v1)] [[video](https://www.youtube.com/watch?v=1eYqV_vGlJY)]
 - Multi-task Learning for Continuous Control, 2018,[[arxiv](https://arxiv.org/abs/1802.01034v1)]
 - AFT*: Integrating Active Learning and Transfer Learning to Reduce Annotation Efforts, 2018,[[arxiv](https://arxiv.org/abs/1802.00912v1)]
 - Improving Variational Encoder-Decoders in Dialogue Generation, 2018,[[arxiv](https://arxiv.org/abs/1802.02032v1)]
