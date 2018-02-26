@@ -135,7 +135,7 @@ thesis
 - Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time, 2018 [[arXiv](https://arxiv.org/abs/1801.02668v1)]
 - Boundary Optimizing Network (BON), 2018 [[arXiv](https://arxiv.org/abs/1801.02642v1)]
 - Approximate FPGA-based LSTMs under Computation Time Constraints, 2018 [[arXiv](https://arxiv.org/abs/1801.02190v1)]
-- A Note on the Inception Score, 2018 [[arXiv](https://arxiv.org/abs/1801.01973v1)]
+- A Note on the Inception Score, 2018 [[arXiv](https://arxiv.org/abs/1801.01973v1)] [code](https://github.com/sbarratt/inception-score-pytorch)
 - Fix your classifier: the marginal value of training the last weight layer[[arXiv](https://arxiv.org/abs/1801.04540v1)]
 - Can Computers Create Art?[[arXiv](https://arxiv.org/abs/1801.04486v1)]
 - Generalizing, Decoding, and Optimizing Support Vector Machine Classification[[arXiv](https://arxiv.org/abs/1801.04929v1)]
