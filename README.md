@@ -46,7 +46,7 @@ thesis
 - Expressive power of recurrent neural networks, 2018,[[arxiv](https://arxiv.org/abs/1711.00811v2)]
 - Geometry Score: A Method For Comparing Generative Adversarial Networks, 2018,[[arxiv](https://arxiv.org/abs/1802.02664v1)] [[code](https://github.com/geom-score/geometry-score)]
 - Capsule Network Performance on Complex Data, 2018,[[arxiv](https://arxiv.org/abs/1712.03480v1)]
-- Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions, 2018, [[arxi](https://arxiv.org/abs/1802.04730v1)]
+- Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions, 2018, [[arxi](https://arxiv.org/abs/1802.04730v1)] [[code](https://github.com/facebookresearch/TensorComprehensions)]
 - Learning to Search with MCTSnets , 2018, [[arxiv](https://arxiv.org/abs/1802.04697v1)]
 - Neural Relational Inference for Interacting Systems, 2018, [[arxiv](https://arxiv.org/abs/1802.04687v1)]
 - Deep contextualized word representations, 2018, [[arxiv](https://arxiv.org/abs/1802.05365v1)]
