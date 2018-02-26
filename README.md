@@ -38,7 +38,7 @@ thesis
 - One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning, 2018,[[arxiv](https://arxiv.org/abs/1802.01557v1)] [[video](https://www.youtube.com/watch?v=1eYqV_vGlJY)]
 - Multi-task Learning for Continuous Control, 2018,[[arxiv](https://arxiv.org/abs/1802.01034v1)]
 - AFT*: Integrating Active Learning and Transfer Learning to Reduce Annotation Efforts, 2018,[[arxiv](https://arxiv.org/abs/1802.00912v1)]
-- Improving Variational Encoder-Decoders in Dialogue Generation, 2018,[[arxiv](https://arxiv.org/abs/1802.02032v1)]
+- Improving Variational Encoder-Decoders in Dialogue Generation, 2018,[[arxiv](https://arxiv.org/abs/1802.02032v1)] [[experiments](https://github.com/lethienhoa/Variational-AutoEncoder-for-Dialogue-Generation)]
 - Texygen: A Benchmarking Platform for Text Generation Models, 2018,[[arxiv](https://arxiv.org/abs/1802.01886v1)]
 - A Method for Restoring the Training Set Distribution in an Image Classifier, 2018,[[arxiv](https://arxiv.org/abs/1802.01435v1)]
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings,2018,[[arxiv](https://arxiv.org/abs/1802.01241v1)]
