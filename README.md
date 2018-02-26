@@ -71,7 +71,7 @@ thesis
 - DVAE++: Discrete Variational Autoencoders with Overlapping Transformations, 2018, [[arxiv](https://arxiv.org/abs/1802.04920v1)]
 - Gradient Boosting With Piece-Wise Linear Regression Trees, 2018, [[arxiv](https://arxiv.org/abs/1802.05640v1)]
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo, 2018, [[arxiv](https://arxiv.org/abs/1802.05431v1)]
-- Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)] [[code](https://github.com/untrix/im2latex)] [[refrencecode](https://github.com/emilwallner/Screenshot-to-code-in-Keras)] [[refrencecode](https://github.com/tonybeltramelli/pix2code)] 
+- Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)] [[code](https://github.com/untrix/im2latex)] [[referencecode](https://github.com/emilwallner/Screenshot-to-code-in-Keras)] [[referencecode](https://github.com/tonybeltramelli/pix2code)] 
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
 - DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
 - Quantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
@@ -103,7 +103,6 @@ applications
 - Identify Susceptible Locations in Medical Records via Adversarial Attacks on Deep Predictive Models, 2018, [[arxiv](https://arxiv.org/abs/1802.04822v1)]
 - Tools and resources for Romanian text-to-speech and speech-to-text applications, 2018, [[arxiv](https://arxiv.org/abs/1802.05583v1)]
 - URLNet: Learning a URL Representation with Deep Learning for Malicious URL Detection, 2018, [[arxiv](https://arxiv.org/abs/1802.03162v1)]
-- Generating Wikipedia by Summarizing Long Sequences, 2018, [[arxiv](https://arxiv.org/abs/1801.10198v1)]
 - Predicting short-term Bitcoin price fluctuations from buy and sell orders. 2018, [[arxiv](https://arxiv.org/abs/1802.04065v1)]
 - WebEye - Automated Collection of Malicious HTTP Traffic, [[arxiv](https://arxiv.org/abs/1802.06012v1)]
 - Sentiment Perception of Readers and Writers in Emoji use, 2018, [[arxiv](https://arxiv.org/abs/1710.00888v2)]
@@ -112,8 +111,18 @@ applications
 01/2018
   
 thesis
-  
+
 - Deep Learning: A Critical Appraisal, 2018 [[arXiv](https://arxiv.org/abs/1801.00631v1)] 
+- Nested LSTMs [[arXiv](https://arxiv.org/abs/1801.10308)
+- Kernel Feature Selection via Conditional Covariance Minimization [[NIPS paper](https://papers.nips.cc/paper/7270-kernel-feature-selection-via-conditional-covariance-minimization.pdf)] [[article](http://bair.berkeley.edu/blog/2018/01/23/kernels/)] [[code](https://github.com/Jianbo-Lab/CCM)]
+- Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1801.08116)] [[article](https://deepmind.com/blog/open-sourcing-psychlab/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)]
+- Fine-tuned Language Models for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)] [[code]()] (soon)
+- Innateness, AlphaZero, and Artificial Intelligence [[arXiv](https://arxiv.org/abs/1801.05667)]
+- Expected Policy Gradients for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1801.03326)]
+- DroNet: Learning to Fly by Driving [[UZH docs](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf)] [[article](http://rpg.ifi.uzh.ch/dronet.html)] [[code](https://github.com/uzh-rpg/rpg_public_dronet)]
+- Symmetric Decomposition of Asymmetric Games [[Scientific Reports](https://www.nature.com/articles/s41598-018-19194-4)] [[article](https://deepmind.com/blog/game-theory-insights-asymmetric-multi-agent-games/)]
+- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)] [[code](https://github.com/haarnoja/sac)]
+- SBNet: Sparse Blocks Network for Fast Inference [[arXiv](https://arxiv.org/pdf/1801.02108.pdf)] [[article](https://eng.uber.com/sbnet/)] [[code](https://github.com/uber/sbnet)]
 - Multi-platform Version of StarCraft: Brood War in a Docker Container: Technical Report, 2018 [[arXiv](https://arxiv.org/abs/1801.02193v1)] 
 - Novel Methods for Enhancing the Performance of Genetic Algorithms, 2018 [[arXiv](https://arxiv.org/abs/1801.02827v1)]
 - Generating adversarial examples with adversarial networks, 2018  [[arXiv](https://arxiv.org/abs/1801.02610v1)]
@@ -158,6 +167,8 @@ thesis
 
 applications
 
+- Generating Wikipedia by Summarizing Long Sequences [[arXiv](https://arxiv.org/abs/1801.10198)]
+- eCommerceGAN : A Generative Adversarial Network for E-commerce [[arXiv](https://arxiv.org/abs/1801.03244)]
 - Learning Tree-based Deep Model for Recommender Systems, 2018 [[arXiv](https://arxiv.org/abs/1801.02294v1)]
 - Fusion of ANN and SVM Classifiers for Network Attack Detection, 2018 [[arXiv](https://arxiv.org/abs/1801.02746v1)]
 - Learning to Infer Graphics Programs from Hand-Drawn Images, 2017 [[arXiv](https://arxiv.org/abs/1707.09627v4)]
@@ -180,7 +191,7 @@ applications
 - Using Deep Autoencoders for Facial Expression Recognition, 2018 [[arXiv](https://arxiv.org/abs/1801.08329v1)]
 - Multi-Pointer Co-Attention Networks for Recommendation, 2018 [[arXiv](https://arxiv.org/abs/1801.09251v1)]
 - Marketing Analytics: Methods, Practice, Implementation, and Links to Other Fields, 2018 [[arXiv](https://arxiv.org/abs/1801.09185v1)]
-
+- Scalable and accurate deep learning for electronic health records [[arXiv](https://arxiv.org/abs/1801.07860)]
 
 
 ********************************
