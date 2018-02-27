@@ -75,7 +75,6 @@ thesis
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
 - DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
 - Quantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
-- DeepXplore: Automated Whitebox Testing of Deep Learning Systems. 2018, [[arxiv](https://arxiv.org/abs/1705.06640v4)]
 - Image Tranformer. 2018, [[arxiv](https://arxiv.org/abs/1802.05751v1)]
 
 applications
