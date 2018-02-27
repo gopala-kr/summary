@@ -25,6 +25,8 @@ summaries of papers on deep learning.
 02/2018
 
 thesis
+
+- Machine Theory of Mind, 2018. [arxiv](https://arxiv.org/abs/1802.07740)
 - The Matrix Calculus You Need For Deep Learning [[arXiv](https://arxiv.org/abs/1802.01528v2)]
 - Regularized Evolution for Image Classifier Architecture Search [[arXiv](https://arxiv.org/abs/1802.01548)]
 - Online Learning: A Comprehensive Survey [[arXiv](https://arxiv.org/abs/1802.02871)]
