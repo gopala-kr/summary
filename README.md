@@ -73,7 +73,6 @@ thesis
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo, 2018, [[arxiv](https://arxiv.org/abs/1802.05431v1)]
 - Teaching Machines to Code: Neural Markup Generation with Visual Attention, 2018, [[arxiv](https://arxiv.org/abs/1802.05415v1)] [[code](https://github.com/untrix/im2latex)] [[referencecode](https://github.com/emilwallner/Screenshot-to-code-in-Keras)] [[referencecode](https://github.com/tonybeltramelli/pix2code)] 
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
-- DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
 - Quantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
 - Image Tranformer. 2018, [[arxiv](https://arxiv.org/abs/1802.05751v1)]
 
@@ -114,6 +113,7 @@ thesis
 - Deep Learning: A Critical Appraisal, 2018 [[arXiv](https://arxiv.org/abs/1801.00631v1)] 
 - Nested LSTMs, 2018. [[arXiv](https://arxiv.org/abs/1801.10308)
 - Mask R-CNN, 2018. [arxiv](https://arxiv.org/abs/1703.06870v3)
+- DeepMind Control Suite , 2018, [[arxiv](https://arxiv.org/abs/1801.00690v1)] [[code](https://github.com/deepmind/dm_control)]
 - Kernel Feature Selection via Conditional Covariance Minimization [[NIPS paper](https://papers.nips.cc/paper/7270-kernel-feature-selection-via-conditional-covariance-minimization.pdf)] [[article](http://bair.berkeley.edu/blog/2018/01/23/kernels/)] [[code](https://github.com/Jianbo-Lab/CCM)]
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1801.08116)] [[article](https://deepmind.com/blog/open-sourcing-psychlab/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)]
 - Fine-tuned Language Models for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)] [[code]()] (soon)
