@@ -511,3 +511,7 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
 -----------------
+
+## Maintainer
+
+Gopala KR / @gopala-kr
