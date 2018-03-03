@@ -77,6 +77,16 @@ thesis
 - Deep Learning Based Speech Beamforming, 2018, [[arxiv](https://arxiv.org/abs/1802.05383v1)]
 - Quantum Variational Autoencoder. 2018, [[arxiv](https://arxiv.org/abs/1802.05779v1)]
 - Image Tranformer. 2018, [[arxiv](https://arxiv.org/abs/1802.05751v1)]
+- One Big Net For Everything, 2018. [[arxiv](https://arxiv.org/abs/1802.08864v1)]
+- Stochastic Hyperparameter Optimization through Hypernetworks, 2018. [[arxiv](https://arxiv.org/abs/1802.09419v1)]
+- Temporal Difference Models: Model-Free Deep RL for Model-Based Control, 2018. [[arxiv](https://arxiv.org/abs/1802.09081v1)]
+- Learning by Playing - Solving Sparse Reward Tasks from Scratch, 2018. [[arxiv](https://arxiv.org/abs/1802.10567v1)]
+- Attention-Aware Generative Adversarial Networks (ATA-GANs), 2018. [[arxiv](https://arxiv.org/abs/1802.09070v1)]
+- Computational Theories of Curiosity-Driven Learning, 2018. [[arxiv](https://arxiv.org/abs/1802.10546v1)]
+- Link Prediction Based on Graph Neural Networks, 2018. [[arxiv](https://arxiv.org/abs/1802.09691v1)]
+- Tell Me Where to Look: Guided Attention Inference Network, 2018. [[arxiv](https://arxiv.org/abs/1802.10171v1)]
+- Adversarial Examples that Fool both Human and Computer Vision, 2018. [[arxiv](https://arxiv.org/abs/1802.08195v2)]
+
 
 applications
 
@@ -106,6 +116,14 @@ applications
 - Predicting short-term Bitcoin price fluctuations from buy and sell orders. 2018, [[arxiv](https://arxiv.org/abs/1802.04065v1)]
 - WebEye - Automated Collection of Malicious HTTP Traffic, [[arxiv](https://arxiv.org/abs/1802.06012v1)]
 - Sentiment Perception of Readers and Writers in Emoji use, 2018, [[arxiv](https://arxiv.org/abs/1710.00888v2)]
+- Live Blog Corpus for Summarization, 2018. [[arxiv](https://arxiv.org/abs/1802.09884v1)]
+- Novelty Detection with GAN, 2018. [[arxiv](https://arxiv.org/abs/1802.10560v1)]
+- Pop Music Highlighter: Marking the Emotion Keypoints, 2018. [[arxiv](https://arxiv.org/abs/1802.10495v1)]
+- Extractive Text Summarization using Neural Networks, 2018. [[arxiv](https://arxiv.org/abs/1802.10137v1)]
+- A Hybrid Word-Character Model for Abstractive Summarization, 2018. [[arxiv](https://arxiv.org/abs/1802.09968v1)]
+- Convolutional Neural Networks for Toxic Comment Classification, 2018. [[arxiv](https://arxiv.org/abs/1802.09957v1)]
+- Tone Biased MMR Text Summarization, 2018. [[arxiv](https://arxiv.org/abs/1802.09426v2)]
+- Hybrid User Behavioral Analysis with Deep Neural Network for Notifications/Pop-ups Recommendation, 2018. [[arxiv](https://arxiv.org/abs/1803.00458v1)]
 
 -------------------------------------
 01/2018
