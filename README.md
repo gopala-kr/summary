@@ -22,6 +22,11 @@ summaries of papers on deep learning.
 * [[Week-12](https://github.com/gopala-kr/summary/tree/master/summaries/Week-12)] 31-Dec-2017 - ftm : 08/2017 - 12/2017
 
 ----------------------------------
+03/2018
+
+- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018.[[arxiv](https://arxiv.org/abs/1803.01271v1)]
+
+----------------
 02/2018
 
 thesis
