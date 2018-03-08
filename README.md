@@ -25,7 +25,10 @@ summaries of papers on deep learning.
 03/2018
 
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018.[[arxiv](https://arxiv.org/abs/1803.01271v1)]
-
+- The 2018 DAVIS Challenge on Video Object Segmentation, 2018. [[arxiv](https://arxiv.org/abs/1803.00557v1)] [[benchmarks](http://davischallenge.org/soa_compare.html)
+- A computational perspective of the role of Thalamus in cognition, 2018. [[arxiv](https://arxiv.org/abs/1803.00997v1)]
+- Evaluating Overfit and Underfit in Models of Network Community Structure, 2018. [[arxiv](https://arxiv.org/abs/1802.10582v2)]
+- Totally Looks Like - How Humans Compare, Compared to Machines, 2018. [[arxiv](https://arxiv.org/abs/1803.01485v1)]
 ----------------
 02/2018
 
@@ -225,7 +228,7 @@ applications
 
 || [Outline of artificial intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence) | [Outline of machine learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms) | [Outline of computer vision](https://en.wikipedia.org/wiki/Outline_of_computer_vision) | [Outline of natural language processing](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing) | [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics) | [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)| [ai applications](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence) | [UCI.ML.DATASETS](http://archive.ics.uci.edu/ml/index.php) | [public.datasets](https://github.com/caesar0301/awesome-public-datasets) | [kaggle.datasets](https://www.kaggle.com/datasets) | [datasets.gh.list](https://github.com/ChristosChristofidis/awesome-deep-learning#datasets) || 
 
-|| [awesome-nlp](https://github.com/keon/awesome-nlp) | [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) | [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) | [oxford.nlp.lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) | [stanford.nlp.lectures](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [nltk.org/book](http://www.nltk.org/book/) | [DL4NLP](https://github.com/andrewt3000/DL4NLP) | [cs388.utexas.nlp](https://www.cs.utexas.edu/~mooney/cs388/) | [nlp-datasets](https://github.com/karthikncode/nlp-datasets) ||
+|| [awesome-nlp](https://github.com/keon/awesome-nlp) | [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) | [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) | [oxford.nlp.lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) | [stanford.nlp.lectures](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [nltk.org/book](http://www.nltk.org/book/) | [DL4NLP](https://github.com/andrewt3000/DL4NLP) | [cs388.utexas.nlp](https://www.cs.utexas.edu/~mooney/cs388/) | [nlp-datasets](https://github.com/karthikncode/nlp-datasets) | [DL-NLP-Readings](https://github.com/IsaacChanghau/DL-NLP-Readings) ||
 
 > **[[Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)]**,  [[DL_libraries_final_Rankings](https://github.com/thedataincubator/data-science-blogs/blob/master/output/DL_libraries_final_Rankings.csv)]
 
