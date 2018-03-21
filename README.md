@@ -32,7 +32,7 @@ summaries of papers on deep learning.
 - D2: Decentralized Training over Decentralized Data, 2018 [[arxiv](https://arxiv.org/abs/1803.07068v1)]
 - Reptile: a Scalable Metalearning Algorithm, 2018. [[arxiv](https://arxiv.org/abs/1803.02999v1)]
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018.[[arxiv](https://arxiv.org/abs/1803.01271v1)]
-- The 2018 DAVIS Challenge on Video Object Segmentation, 2018. [[arxiv](https://arxiv.org/abs/1803.00557v1)] [[benchmarks](http://davischallenge.org/soa_compare.html)
+- The 2018 DAVIS Challenge on Video Object Segmentation, 2018. [[arxiv](https://arxiv.org/abs/1803.00557v1)] [[benchmarks](http://davischallenge.org/soa_compare.html)]
 - A computational perspective of the role of Thalamus in cognition, 2018. [[arxiv](https://arxiv.org/abs/1803.00997v1)]
 - Evaluating Overfit and Underfit in Models of Network Community Structure, 2018. [[arxiv](https://arxiv.org/abs/1802.10582v2)]
 - Totally Looks Like - How Humans Compare, Compared to Machines, 2018. [[arxiv](https://arxiv.org/abs/1803.01485v1)]
