@@ -28,7 +28,7 @@ summaries of papers on deep learning.
 - ORGaNICs: A Theory of Working Memory in Brains and Machines, 2018. [[arxiv](https://arxiv.org/abs/1803.06288v1)]
 - Distributed Data Vending on Blockchain, 2018. [[arxiv](https://arxiv.org/abs/1803.05871v2)]
 - Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge, 2018. [[arxiv](https://arxiv.org/abs/1803.05457v1)]
-- Word2Bits - Quantized Word Vectors, 2018 [[arxiv](https://arxiv.org/abs/1803.05651v1)]
+- Word2Bits - Quantized Word Vectors, 2018 [[arxiv](https://arxiv.org/abs/1803.05651v1)] [[code](https://github.com/agnusmaximus/Word2Bits)]
 - D2: Decentralized Training over Decentralized Data, 2018 [[arxiv](https://arxiv.org/abs/1803.07068v1)]
 - Reptile: a Scalable Metalearning Algorithm, 2018. [[arxiv](https://arxiv.org/abs/1803.02999v1)]
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018.[[arxiv](https://arxiv.org/abs/1803.01271v1)]
