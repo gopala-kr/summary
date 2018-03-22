@@ -38,7 +38,28 @@ summaries of papers on deep learning.
 - Totally Looks Like - How Humans Compare, Compared to Machines, 2018. [[arxiv](https://arxiv.org/abs/1803.01485v1)]
 - The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2018. [[arxiv](https://arxiv.org/abs/1803.03453v1)]
 
+   ----------to complete-----------
+ - Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions, 2018. [[arxiv](https://arxiv.org/abs/1803.05900v1)]
+ - Theory and Algorithms for Forecasting Time Series, 2018. [[arxiv](https://arxiv.org/abs/1803.05814v1)]
+ - Simple random search provides a competitive approach to reinforcement learning, 2018.[[arxiv](https://arxiv.org/abs/1803.07055v1)]
+ - Snap Machine Learning, 2018. [[arxiv](https://arxiv.org/abs/1803.06333v1)]
+ - The ApolloScape Dataset for Autonomous Driving, 2018. [[arxiv](https://arxiv.org/abs/1803.06184v1)]
+ - Learning Region Features for Object Detection, 2018. [[arxiv](https://arxiv.org/abs/1803.07066v1)] 
+ - Vulnerability of Deep Learning, 2018. [[arxiv](https://arxiv.org/abs/1803.06111v1)]
+ - RankME: Reliable Human Ratings for Natural Language Generation, 2018. [[arxiv](https://arxiv.org/abs/1803.05928v1)]
+ - The Web as a Knowledge-base for Answering Complex Questions, 2018. [[arxiv](https://arxiv.org/abs/1803.06643v1)]
+ - Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains, 2018. [[arxiv](https://arxiv.org/abs/1803.06641v1)]
+ - Variational Knowledge Graph Reasoning, 2018. [[arxiv](https://arxiv.org/abs/1803.06581v1)]
+ - EVA2 : Exploiting Temporal Redundancy in Live Computer Vision, 2018. [[arxiv]](https://arxiv.org/abs/1803.06312v1)]
+ - A Meaning-based Statistical English Math Word Problem Solver, 2018. [[arxiv](https://arxiv.org/abs/1803.06064v1)]
+ - Advancing Acoustic-to-Word CTC Model, 2018. [[arxiv](https://arxiv.org/abs/1803.05566v1)]
+ - Polyglot Semantic Parsing in APIs, 2018. [[arxiv](https://arxiv.org/abs/1803.06966v1)]
+ - Deja Vu: Motion Prediction in Static Images, 2018. [[arxiv](https://arxiv.org/abs/1803.06951v1)]
+ - Advancing Connectionist Temporal Classification With Attention Modeling, 2018. [[arxiv](https://arxiv.org/abs/1803.05563v1)]
+ 
+
 ----------------
+
 02/2018
 
 thesis
