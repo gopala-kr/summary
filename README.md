@@ -56,7 +56,8 @@ summaries of papers on deep learning.
  - Polyglot Semantic Parsing in APIs, 2018. [[arxiv](https://arxiv.org/abs/1803.06966v1)]
  - Deja Vu: Motion Prediction in Static Images, 2018. [[arxiv](https://arxiv.org/abs/1803.06951v1)]
  - Advancing Connectionist Temporal Classification With Attention Modeling, 2018. [[arxiv](https://arxiv.org/abs/1803.05563v1)]
- 
+ - DataBright: Towards a Global Exchange for Decentralized Data Ownership and Trusted Computation, 2018 [[arxiv](https://arxiv.org/abs/1802.04780v1)]
+ - Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent,2018. [[arxiv](https://arxiv.org/abs/1705.09056v5)]
 
 ----------------
 02/2018
