@@ -59,7 +59,7 @@ summaries of papers on deep learning.
  - DataBright: Towards a Global Exchange for Decentralized Data Ownership and Trusted Computation, 2018 [[arxiv](https://arxiv.org/abs/1802.04780v1)]
  - Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent,2018. [[arxiv](https://arxiv.org/abs/1705.09056v5)]
  - Blockchain and Artificial Intelligence, 2018. [[arxiv](https://arxiv.org/abs/1802.04451v1)]
- - 
+ - Morpheo: Traceable Machine Learning on Hidden data, 2018. [[arxiv](https://arxiv.org/abs/1704.05017v1)]
 
 ----------------
 02/2018
