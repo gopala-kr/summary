@@ -61,6 +61,24 @@ summaries of papers on deep learning.
  - Blockchain and Artificial Intelligence, 2018. [[arxiv](https://arxiv.org/abs/1802.04451v1)]
  - Morpheo: Traceable Machine Learning on Hidden data, 2018. [[arxiv](https://arxiv.org/abs/1704.05017v1)]
 - Communication-Efficient Learning of Deep Networks from Decentralized Data,2018. [[arxiv](https://arxiv.org/abs/1602.05629v3)]
+
+  --------decentralized systems-----------
+  
+ - A blockchain-based Decentralized System for proper handling of temporary Employment contracts,2018. [[arxiv](https://arxiv.org/abs/1711.09758)]
+ - From Centralized to Decentralized Coded Caching,2018. [[arxiv](https://arxiv.org/abs/1801.07734)]
+ - Sentiment Protocol: A Decentralized Protocol Leveraging Crowd Sourced Wisdom,2018. [[arxiv](https://arxiv.org/abs/1710.11597)]
+ - Data-Efficient Decentralized Visual SLAM,2018. [[arxiv](https://arxiv.org/abs/1710.05772)]
+ - Decentralized Base-Graph Routing for the Quantum Internet,2018. [[arxiv](https://arxiv.org/abs/1801.02020)]
+ - Decentralization in Bitcoin and Ethereum Networks,2018. [[arxiv](https://arxiv.org/abs/1801.03998)]
+ - Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective,2018. [[arxiv](https://arxiv.org/abs/1801.07604)]
+ - Decentralized User-Centric Access Control using PubSub over Blockchain,2018. [[arxiv](https://arxiv.org/abs/1710.00110)]
+ - A model of a virtual community with a decentralized reputation-based peer evaluation,2018. [[arxiv](https://arxiv.org/abs/1710.07984)]
+ - Robust Decentralized Secondary Frequency Control in Power Systems: Merits and Trade-Offs,2018. [[arxiv](https://arxiv.org/abs/1711.07332)]
+ - Witnet: A Decentralized Oracle Network Protocol,2018. [[arxiv](https://arxiv.org/abs/1711.09756)]
+ - On the Feasibility of Decentralized Derivatives Markets,2018. [[arxiv](http://arxiv-export-lb.library.cornell.edu/abs/1802.04915)]
+ - The Art of Crypto Currencies,2018. [[arxiv](https://pdfs.semanticscholar.org/c0f5/62f2134a6712a4e6a0d20a99093b30b9c63d.pdf)]
+ - Informational Openness Enhances Decentralized Decision-Making: A Cognitive Agent Based Study,2018. [[arxiv](https://psyarxiv.com/uma4b)]
+
 ----------------
 02/2018
 
