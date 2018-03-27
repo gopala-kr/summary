@@ -22,7 +22,14 @@ summaries of papers on deep learning.
 ----------------------------------
 
 03/2018
-
+- , 2018. [[arxiv]()]
+- , 2018. [[arxiv]()]
+- , 2018. [[arxiv]()]
+- , 2018. [[arxiv]()]
+- , 2018. [[arxiv]()]
+- , 2018. [[arxiv]()]
+- Some Theoretical Properties of GANs, 2018. [[arxiv](https://arxiv.org/abs/1803.07819v1)]
+- Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings, 2018. [[arxiv](https://arxiv.org/abs/1803.08495v1)]
 - Neural Network Quine, 2018. [[arxiv](https://arxiv.org/abs/1803.05859v2)]
 - ORGaNICs: A Theory of Working Memory in Brains and Machines, 2018. [[arxiv](https://arxiv.org/abs/1803.06288v1)]
 - Distributed Data Vending on Blockchain, 2018. [[arxiv](https://arxiv.org/abs/1803.05871v2)]
