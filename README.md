@@ -23,9 +23,10 @@ summaries of papers on deep learning.
 
 03/2018
 
-- , 2018. [[arxiv]()]
-- , 2018. [[arxiv]()]
-- , 2018. [[arxiv]()]
+- Fractal AI: A fragile theory of intelligence, 2018. [[arxiv](https://arxiv.org/abs/1803.05049v1)]
+- Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints, 2018. [[arxiv](https://arxiv.org/abs/1707.09457v1)]
+- The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation, 2018. [[arxiv](https://arxiv.org/abs/1802.07228v1)]
+- A high-bias, low-variance introduction to Machine Learning for physicists, 2018. [[arxiv](https://arxiv.org/abs/1803.08823v1)]
 - An Analysis of Neural Language Modeling at Multiple Scales, 2018. [[arxiv](https://arxiv.org/abs/1803.08240v1)]
 - AllenNLP: A Deep Semantic Natural Language Processing Platform, 2018. [[arxiv](https://arxiv.org/abs/1803.07640v1)]
 - Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges, 2018. [[arxiv](https://arxiv.org/abs/1803.07517v1)]
