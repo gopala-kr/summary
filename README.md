@@ -22,9 +22,13 @@ summaries of papers on deep learning.
 ----------------------------------
 
 03/2018
+
 - , 2018. [[arxiv]()]
 - , 2018. [[arxiv]()]
 - , 2018. [[arxiv]()]
+- An Analysis of Neural Language Modeling at Multiple Scales, 2018. [[arxiv](https://arxiv.org/abs/1803.08240v1)]
+- AllenNLP: A Deep Semantic Natural Language Processing Platform, 2018. [[arxiv](https://arxiv.org/abs/1803.07640v1)]
+- Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges, 2018. [[arxiv](https://arxiv.org/abs/1803.07517v1)]
 - Efficient Recurrent Neural Networks using Structured Matrices in FPGAs, 2018. [[arxiv](https://arxiv.org/abs/1803.07661v2)]
 - Attention on Attention: Architectures for Visual Question Answering (VQA), 2018. [[arxiv](https://arxiv.org/abs/1803.07724v1)]
 - Information Theoretic Interpretation of Deep learning, 2018. [[arxiv](https://arxiv.org/abs/1803.07980v2)]
