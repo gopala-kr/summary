@@ -23,6 +23,8 @@ summaries of papers on deep learning.
 
 03/2018
 
+
+- World Models, 2018. [[arxiv](https://arxiv.org/abs/1803.10122v1)]
 - Neural Baby Talk, 2018. [[arxiv](https://arxiv.org/abs/1803.09845v1)]
 - Group Normalization,2018. [[arxiv](https://arxiv.org/abs/1803.08494v1)]
 - The Rapidly Changing Landscape of Conversational Agents,2018. [[arxiv](https://arxiv.org/abs/1803.08419v1)]
