@@ -23,6 +23,8 @@ summaries of papers on deep learning.
 
 03/2018
 
+- Group Normalization,2018. [[arxiv](https://arxiv.org/abs/1803.08494v1)]
+- The Rapidly Changing Landscape of Conversational Agents,2018. [[arxiv](https://arxiv.org/abs/1803.08419v1)]
 - Fractal AI: A fragile theory of intelligence, 2018. [[arxiv](https://arxiv.org/abs/1803.05049v1)]
 - Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints, 2018. [[arxiv](https://arxiv.org/abs/1707.09457v1)]
 - The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation, 2018. [[arxiv](https://arxiv.org/abs/1802.07228v1)]
