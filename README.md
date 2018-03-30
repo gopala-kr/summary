@@ -95,6 +95,8 @@ summaries of papers on deep learning.
  - On the Feasibility of Decentralized Derivatives Markets,2018. [[arxiv](http://arxiv-export-lb.library.cornell.edu/abs/1802.04915)]
  - The Art of Crypto Currencies,2018. [[arxiv](https://pdfs.semanticscholar.org/c0f5/62f2134a6712a4e6a0d20a99093b30b9c63d.pdf)]
  - Informational Openness Enhances Decentralized Decision-Making: A Cognitive Agent Based Study,2018. [[arxiv](https://psyarxiv.com/uma4b)]
+ - UnLynx: A Decentralized
+System for Privacy-Conscious Data Sharing.2017, [[paper](https://petsymposium.org/2017/papers/issue4/paper54-2017-4-source.pdf)]
 
 ----------------
 02/2018
