@@ -58,6 +58,7 @@ summaries of papers on deep learning.
 - The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2018. [[arxiv](https://arxiv.org/abs/1803.03453v1)]
    
     ----------to complete-----------
+ - A Survey on Deep Learning Methods for Robot Vision, 2018. [[arxiv](https://arxiv.org/abs/1803.10862v1)]
  - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, 2018. [[v](https://arxiv.org/abs/1803.10892v1)]
  - Simple Large-scale Relation Extraction from Unstructured Text, 20q8. 2018. [[arxiv](https://arxiv.org/abs/1803.09091v1)]
  - ClickBAIT-v2: Training an Object Detector in Real-Time, 2018. [[arxiv](https://arxiv.org/abs/1803.09820v1)] 
