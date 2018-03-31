@@ -23,7 +23,8 @@ summaries of papers on deep learning.
 
 03/2018
 
-
+- 
+- Universal Sentence Encoder, 2018. [[arxiv](https://arxiv.org/abs/1803.11175v1)]
 - World Models, 2018. [[arxiv](https://arxiv.org/abs/1803.10122v1)]
 - Neural Baby Talk, 2018. [[arxiv](https://arxiv.org/abs/1803.09845v1)]
 - Group Normalization,2018. [[arxiv](https://arxiv.org/abs/1803.08494v1)]
