@@ -58,7 +58,7 @@ summaries of papers on deep learning.
 - The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2018. [[arxiv](https://arxiv.org/abs/1803.03453v1)]
    
     ----------to complete-----------
-    
+ - ClickBAIT-v2: Training an Object Detector in Real-Time, 2018. [[arxiv](https://arxiv.org/abs/1803.09820v1)] 
  - Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions, 2018. [[arxiv](https://arxiv.org/abs/1803.05900v1)]
  - Theory and Algorithms for Forecasting Time Series, 2018. [[arxiv](https://arxiv.org/abs/1803.05814v1)]
  - Simple random search provides a competitive approach to reinforcement learning, 2018.[[arxiv](https://arxiv.org/abs/1803.07055v1)]
