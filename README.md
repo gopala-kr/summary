@@ -58,7 +58,7 @@ summaries of papers on deep learning.
 - The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2018. [[arxiv](https://arxiv.org/abs/1803.03453v1)]
    
     ----------to complete-----------
-    
+ - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, 2018. [[v](https://arxiv.org/abs/1803.10892v1)]
  - Simple Large-scale Relation Extraction from Unstructured Text, 20q8. 2018. [[arxiv](https://arxiv.org/abs/1803.09091v1)]
  - ClickBAIT-v2: Training an Object Detector in Real-Time, 2018. [[arxiv](https://arxiv.org/abs/1803.09820v1)] 
  - Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions, 2018. [[arxiv](https://arxiv.org/abs/1803.05900v1)]
@@ -83,6 +83,7 @@ summaries of papers on deep learning.
  - Blockchain and Artificial Intelligence, 2018. [[arxiv](https://arxiv.org/abs/1802.04451v1)]
  - Morpheo: Traceable Machine Learning on Hidden data, 2018. [[arxiv](https://arxiv.org/abs/1704.05017v1)]
 - Communication-Efficient Learning of Deep Networks from Decentralized Data,2018. [[arxiv](https://arxiv.org/abs/1602.05629v3)]
+Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks
 
   --------decentralized systems-----------
   
