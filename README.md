@@ -23,6 +23,7 @@ summaries of papers on deep learning.
 
 03/2018
 
+- A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay, 2018. [[arxiv](https://arxiv.org/abs/1803.09820v1)]
 - code2vec: Learning Distributed Representations of Code, 2018. [[arxiv](https://arxiv.org/abs/1803.09473v2)]
 - Equation Embeddings, 2018. [[arxiv](https://arxiv.org/abs/1803.09123v1)]
 - Universal Sentence Encoder, 2018. [[arxiv](https://arxiv.org/abs/1803.11175v1)]
