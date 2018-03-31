@@ -24,6 +24,7 @@ summaries of papers on deep learning.
 03/2018
 
 - 
+- Equation Embeddings, 2018. [[arxiv](https://arxiv.org/abs/1803.09123v1)]
 - Universal Sentence Encoder, 2018. [[arxiv](https://arxiv.org/abs/1803.11175v1)]
 - World Models, 2018. [[arxiv](https://arxiv.org/abs/1803.10122v1)]
 - Neural Baby Talk, 2018. [[arxiv](https://arxiv.org/abs/1803.09845v1)]
