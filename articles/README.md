@@ -1,5 +1,8 @@
 
 
+
+> Blog posts/articles from pioneers in AI
+
 ### Intel AI
 
 * [Checking in with the Intel® AI Lab](https://ai.intel.com/checking-in-with-the-intel-ai-lab/)
@@ -25,3 +28,41 @@
 * [TensorFlow* Optimizations for the Intel® Xeon® Scalable Processor](https://ai.intel.com/tensorflow-optimizations-intel-xeon-scalable-processor/)
 * [Teaching Machines to do Image Classification in Health and Life Sciences: Intel® Xeon® Scalable Processors in Lab Coats](https://ai.intel.com/teaching-machines-image-classification-health-life-sciences-intel-xeon-scalable-processors-lab-coats/)
 * [Powering Precision Medicine with Artificial Intelligence](https://ai.intel.com/powering-precision-medicine-artificial-intelligence/)
+
+
+---------------------
+
+### FAIR
+
+
+
+### Google AI
+
+
+### Apple AI
+
+
+### Amazon AI
+
+
+### Microsoft AI
+
+
+### Nvidia AI
+
+
+### Uber AI
+
+### IBM AI
+
+### Deepmind
+
+
+### Open AI
+
+
+
+### Biadu AI
+
+
+### Accenture
