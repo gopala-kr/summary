@@ -1,7 +1,7 @@
 
 
 
-> Blog posts/articles from pioneers in AI
+> Blog posts/articles from pioneers in AI(industrial)
 
 ### Intel AI
 
