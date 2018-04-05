@@ -59,6 +59,9 @@
 * [Advancing computer vision technologies at CVPR 2017](https://research.fb.com/advancing-computer-vision-technologies-at-cvpr-2017/)
 * [Join us live for the ACM’s Celebration of 50 years of the ACM A.M. Turing Award](https://research.fb.com/turing50/)
 * [Deal or no deal? Training AI bots to negotiate](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)
+* [Facebook Disaster Maps: Methodology](https://research.fb.com/facebook-disaster-maps-methodology/)
+
+
 
 ### Google AI
 
