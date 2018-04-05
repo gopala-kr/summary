@@ -34,6 +34,7 @@
 
 ### FAIR
 
+
 * [Announcing the DeepGlobe Satellite Challenge for CVPR 2018](https://research.fb.com/announcing-the-deepglobe-satellite-challenge-for-cvpr-2018/)
 * [The next step in Facebook's AI hardware infrastructure](https://code.facebook.com/posts/187912491817160/the-next-step-in-facebook-s-ai-hardware-infrastructure/)
 * [Announcing Tensor Comprehensions](https://research.fb.com/announcing-tensor-comprehensions/)
