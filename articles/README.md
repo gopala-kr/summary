@@ -62,8 +62,7 @@
 * [Join us live for the ACM’s Celebration of 50 years of the ACM A.M. Turing Award](https://research.fb.com/turing50/)
 * [Deal or no deal? Training AI bots to negotiate](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)
 * [Facebook Disaster Maps: Methodology](https://research.fb.com/facebook-disaster-maps-methodology/)
-
-
+* [Accelerating machine learning for computer vision](https://code.facebook.com/posts/260115687797006/accelerating-machine-learning-for-computer-vision/)
 
 ### Google AI
 
