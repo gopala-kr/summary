@@ -50,7 +50,10 @@
 * [Using social media data to help measure smoke exposure](https://research.fb.com/using-social-media-data-to-help-measure-smoke-exposure/)
 * [Expanding Facebook AI Research to Montreal](https://newsroom.fb.com/news/2017/09/fair-montreal/)
 * [Facebook and Microsoft introduce new open ecosystem for interchangeable AI frameworks](https://research.fb.com/facebook-and-microsoft-introduce-new-open-ecosystem-for-interchangeable-ai-frameworks/)
-
+* [Facebook memories: the research behind the products that connect you with your past](https://research.fb.com/facebook-memories-the-research-behind-the-products-that-connect-you-with-your-past/)
+* [Optimizing 360 photos at scale](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
+* [Introducing Social Hash Partitioner, a scalable distributed hypergraph partitioner](https://research.fb.com/introducing-social-hash-partitioner-a-scalable-distributed-hypergraph-partitioner/)
+* []()
 
 ### Google AI
 
