@@ -53,7 +53,12 @@
 * [Facebook memories: the research behind the products that connect you with your past](https://research.fb.com/facebook-memories-the-research-behind-the-products-that-connect-you-with-your-past/)
 * [Optimizing 360 photos at scale](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 * [Introducing Social Hash Partitioner, a scalable distributed hypergraph partitioner](https://research.fb.com/introducing-social-hash-partitioner-a-scalable-distributed-hypergraph-partitioner/)
-* []()
+* [Facebook awards $100,000 to 2017 Internet Defense Prize winners](https://research.fb.com/facebook-awards-100000-to-2017-internet-defense-prize-winners/)
+* [Machine learning insights from ICML 2017](https://research.fb.com/sharing-new-machine-learning-advances-at-icml-2017/)
+* [Using AI for new visual storytelling techniques in VR](https://code.facebook.com/posts/158223298060942/using-ai-for-new-visual-storytelling-techniques-in-vr/)
+* [Advancing computer vision technologies at CVPR 2017](https://research.fb.com/advancing-computer-vision-technologies-at-cvpr-2017/)
+* [Join us live for the ACM’s Celebration of 50 years of the ACM A.M. Turing Award](https://research.fb.com/turing50/)
+* [Deal or no deal? Training AI bots to negotiate](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)
 
 ### Google AI
 
