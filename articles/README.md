@@ -63,6 +63,55 @@
 * [Deal or no deal? Training AI bots to negotiate](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)
 * [Facebook Disaster Maps: Methodology](https://research.fb.com/facebook-disaster-maps-methodology/)
 * [Accelerating machine learning for computer vision](https://code.facebook.com/posts/260115687797006/accelerating-machine-learning-for-computer-vision/)
+* [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)
+* [A novel approach to neural machine translation](https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/)
+
+* [Expanded fastText library now fits on smaller-memory devices](https://code.facebook.com/posts/162370720961195/expanded-fasttext-library-now-fits-on-smaller-memory-devices/)
+
+* [FAIR research being presented at ICLR 2017](https://research.fb.com/fair-work-being-presented-at-iclr-2017/)
+
+* [The long game towards understanding dialog](https://research.fb.com/the-long-game-towards-understanding-dialog/)
+
+* [Introducing Caffe2 to the academic community](https://research.fb.com/introducing-caffe2-to-the-academic-community/)
+
+* [Connectivity: A building block approach](https://code.facebook.com/posts/183097092210150)
+
+* [Caffe2 Open Source Brings Cross Platform Machine Learning Tools to Developers](https://caffe2.ai/blog/2017/04/18/caffe2-open-source-announcement.html)
+
+* [Faiss: A library for efficient similarity search](https://code.facebook.com/posts/1373769912645926/faiss-a-library-for-efficient-similarity-search/)
+
+* [Facebook AI Academy](https://research.fb.com/facebook-ai-academy/)
+
+* [A look at Facebook AI Research Paris](https://research.fb.com/a-look-at-facebook-ai-research-fair-paris/)
+
+* [Accessibility Research: Developing automatic-alt text for Facebook screen reader users](https://research.fb.com/accessibility-research-developing-automatic-alt-text-for-facebook-screen-reader-users/)
+
+* [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+
+* [The value of diversity in data science research](https://research.fb.com/the-value-of-diversity-in-data-science-research/)
+
+* [Yann LeCun elected to the National Academy of Engineering for advances in AI](https://research.fb.com/yann-lecun-elected-to-the-national-academy-of-engineering-for-advances-in-ai/)
+* [Beringei: A high-performance time series storage engine](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine/)
+
+* [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
+
+* []()
+
+* []()
+* []()
+
+* []()
+
+* []()
+
+* []()
+* []()
+
+* []()
+
+* []()
+
+* []()
 
 ### Google AI
 
