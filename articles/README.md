@@ -37,6 +37,9 @@
 * [Announcing the DeepGlobe Satellite Challenge for CVPR 2018](https://research.fb.com/announcing-the-deepglobe-satellite-challenge-for-cvpr-2018/)
 * [The next step in Facebook's AI hardware infrastructure](https://code.facebook.com/posts/187912491817160/the-next-step-in-facebook-s-ai-hardware-infrastructure/)
 * [Announcing Tensor Comprehensions](https://research.fb.com/announcing-tensor-comprehensions/)
+* [Enabling full body AR with Mask R-CNN2Go](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
+* [Facebook partners with the University of Washington to create new AR/VR research center](https://research.fb.com/facebook-partners-with-the-university-of-washington-to-create-new-ar-vr-research-center/)
+* [Facebook showcases latest research at NIPS 2017](https://research.fb.com/facebook-research-at-nips-2017/)
 
 
 
