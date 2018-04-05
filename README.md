@@ -56,7 +56,6 @@ summaries of papers on deep learning.
 - Evaluating Overfit and Underfit in Models of Network Community Structure, 2018. [[arxiv](https://arxiv.org/abs/1802.10582v2)]
 - Totally Looks Like - How Humans Compare, Compared to Machines, 2018. [[arxiv](https://arxiv.org/abs/1803.01485v1)]
 - The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities, 2018. [[arxiv](https://arxiv.org/abs/1803.03453v1)]
-   
     ----------to complete-----------
  - A Survey on Deep Learning Methods for Robot Vision, 2018. [[arxiv](https://arxiv.org/abs/1803.10862v1)]
  - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, 2018. [[v](https://arxiv.org/abs/1803.10892v1)]
@@ -83,11 +82,8 @@ summaries of papers on deep learning.
  - Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent,2018. [[arxiv](https://arxiv.org/abs/1705.09056v5)]
  - Blockchain and Artificial Intelligence, 2018. [[arxiv](https://arxiv.org/abs/1802.04451v1)]
  - Morpheo: Traceable Machine Learning on Hidden data, 2018. [[arxiv](https://arxiv.org/abs/1704.05017v1)]
-- Communication-Efficient Learning of Deep Networks from Decentralized Data,2018. [[arxiv](https://arxiv.org/abs/1602.05629v3)]
-Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks
-
-  --------decentralized systems-----------
-  
+ - Communication-Efficient Learning of Deep Networks from Decentralized Data,2018. [[arxiv](https://arxiv.org/abs/1602.05629v3)]
+  --------decentralized systems----------- 
  - A blockchain-based Decentralized System for proper handling of temporary Employment contracts,2018. [[arxiv](https://arxiv.org/abs/1711.09758)]
  - From Centralized to Decentralized Coded Caching,2018. [[arxiv](https://arxiv.org/abs/1801.07734)]
  - Sentiment Protocol: A Decentralized Protocol Leveraging Crowd Sourced Wisdom,2018. [[arxiv](https://arxiv.org/abs/1710.11597)]
