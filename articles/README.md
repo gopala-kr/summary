@@ -40,7 +40,16 @@
 * [Enabling full body AR with Mask R-CNN2Go](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 * [Facebook partners with the University of Washington to create new AR/VR research center](https://research.fb.com/facebook-partners-with-the-university-of-washington-to-create-new-ar-vr-research-center/)
 * [Facebook showcases latest research at NIPS 2017](https://research.fb.com/facebook-research-at-nips-2017/)
-
+* [Visual reasoning and dialog: Towards natural language conversations about visual data](https://research.fb.com/visual-reasoning-and-dialog-towards-natural-language-conversations-about-visual-data/)
+* [Amazon Web Services to join ONNX AI format, drive MXNET support](https://research.fb.com/amazon-to-join-onnx-ai-format-drive-mxnet-support/)
+* [Facebook SOSP papers present real-world solutions to complex system challenges](https://research.fb.com/facebook-sosp-papers-present-real-world-solutions-to-complex-system-challenges/)
+* [Facebook at ICCV 2017](https://research.fb.com/facebook-at-iccv-2017/)
+* [Inventing the Future](https://www.oculus.com/blog/inventing-the-future/)
+* [ONNX AI Format Adds Partners](https://research.fb.com/onnx-ai-format-adds-partners/)
+* [A conversation with Dr. Joëlle Pineau, head of new FAIR lab in Montreal](https://research.fb.com/a-conversation-with-dr-joelle-pineau-head-of-new-fair-lab-in-montreal/)
+* [Using social media data to help measure smoke exposure](https://research.fb.com/using-social-media-data-to-help-measure-smoke-exposure/)
+* [Expanding Facebook AI Research to Montreal](https://newsroom.fb.com/news/2017/09/fair-montreal/)
+* [Facebook and Microsoft introduce new open ecosystem for interchangeable AI frameworks](https://research.fb.com/facebook-and-microsoft-introduce-new-open-ecosystem-for-interchangeable-ai-frameworks/)
 
 
 ### Google AI
