@@ -174,6 +174,25 @@
 * [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html)
 * [Launching the Speech Commands Dataset](https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html)
 * [Google at KDD’17: Graph Mining and Beyond](https://research.googleblog.com/2017/08/google-at-kdd17-graph-mining-and-beyond.html)
+* [Announcing the NYC Algorithms and Optimization Site](https://research.googleblog.com/2017/08/announcing-nyc-algorithms-and.html)
+* [Making Visible Watermarks More Effective](https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html)
+* [Harness the Power of Machine Learning in Your Browser with Deeplearn.js](https://research.googleblog.com/2017/08/harness-power-of-machine-learning-in.html)
+* [Google at ICML 2017](https://research.googleblog.com/2017/08/google-at-icml-2017.html)
+* [Google at ACL 2017](https://research.googleblog.com/2017/07/google-at-acl-2017.html)
+* [Expressions in Virtual Reality](https://research.googleblog.com/2017/07/expressions-in-virtual-reality.html)
+* [So there I was, firing a megawatt plasma collider at work...](https://research.googleblog.com/2017/07/so-there-i-was-firing-megawatt-plasma.html)
+* [Teaching Robots to Understand Semantic Concepts](https://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html)
+* [Google at CVPR 2017](https://research.googleblog.com/2017/07/google-at-cvpr-2017.html)
+* [An Update to Open Images - Now with Bounding-Boxes](https://research.googleblog.com/2017/07/an-update-to-open-images-now-with.html)
+* [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+* [Using Deep Learning to Create Professional-Level Photographs](https://research.googleblog.com/2017/07/using-deep-learning-to-create.html)
+* [Building Your Own Neural Machine Translation System in TensorFlow](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html)
+* [The Google Brain Residency Program — One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
+* [MultiModel: Multi-Task Machine Learning Across Domains](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
+* [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html)
+* [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+* [MobileNets: Open-Source Models for Efficient On-Device Vision](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
+* [The Machine Intelligence Behind Gboard](https://research.googleblog.com/2017/05/the-machine-intelligence-behind-gboard.html)
 * []()
 * []()
 * []()
@@ -188,8 +207,10 @@
 * []()
 * []()
 * []()
-
-
+* []()
+* []()
+* []()
+* []()
 
 
 ### Apple AI
