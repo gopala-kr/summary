@@ -118,8 +118,56 @@
 * [The strange truth about fiction](https://research.fb.com/the-strange-truth-about-fiction/)
 * [Deep learning tutorial at CVPR 2014](https://research.fb.com/deep-learning-tutorial-at-cvpr-2014/)
 
+----------------------------
 
 ### Google AI
+
+* [MobileNetV2: The Next Generation of On-Device Computer Vision Networks](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
+* [Investing in France’s AI Ecosystem](https://research.googleblog.com/2018/03/investing-in-frances-ai-ecosystem.html)
+* [Using Machine Learning to Discover Neural Network Optimizers](https://research.googleblog.com/2018/03/using-machine-learning-to-discover.html)
+* [Reformulating Chemistry for More Efficient Quantum Computation](https://research.googleblog.com/2018/03/reformulating-chemistry-for-more.html)
+* [Using Deep Learning to Facilitate Scientific Image Analysis](https://research.googleblog.com/2018/03/using-deep-learning-to-facilitate.html)
+* [Using Evolutionary AutoML to Discover Neural Network Architectures](https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
+* [Balanced Partitioning and Hierarchical Clustering at Scale](https://research.googleblog.com/2018/03/balanced-partitioning-and-hierarchical.html)
+* [Behind the Motion Photos Technology in Pixel 2](https://research.googleblog.com/2018/03/behind-motion-photos-technology-in.html)
+* [Semantic Image Segmentation with DeepLab in TensorFlow](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
+* [Introducing the iNaturalist 2018 Challenge](https://research.googleblog.com/2018/03/introducing-inaturalist-2018-challenge.html)
+* [Open Sourcing the Hunt for Exoplanets](https://research.googleblog.com/2018/03/open-sourcing-hunt-for-exoplanets.html)
+* [The Building Blocks of Interpretability](https://research.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)
+* [A Preview of Bristlecone, Google’s New Quantum Processor](https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html)
+* [Making Healthcare Data Work Better with Machine Learning](https://research.googleblog.com/2018/03/making-healthcare-data-work-better-with.html)
+* [Mobile Real-time Video Segmentation](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
+* [Google-Landmarks: A New Dataset and Challenge for Landmark Recognition](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
+* [A Summary of the Google Zürich Algorithms & Optimization Workshop](https://research.googleblog.com/2018/02/a-summary-of-google-zurich-algorithms.html)
+* [Assessing Cardiovascular Risk Factors with Computer Vision](https://research.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html)
+* [Introducing the HDR+ Burst Photography Dataset](https://research.googleblog.com/2018/02/introducing-hdr-burst-photography.html)
+* [The Instant Motion Tracking Behind Motion Stills AR](https://research.googleblog.com/2018/02/the-instant-motion-tracking-behind.html)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
 
 
 ### Apple AI
