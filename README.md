@@ -32,11 +32,8 @@ summaries of papers on deep learning.
 - Self-Organization and Artificial Life: A Review. 2018. [arxiv](https://arxiv.org/abs/1804.01144v1)
 - Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions. 2018. [arxiv](https://arxiv.org/abs/1804.01694v1)
 - An End-to-end Neural Natural Language Interface for Databases. 2018. [arxiv](https://arxiv.org/abs/1804.00401v1)
-- Multi-lingual neural title generation for e-Commerce browse pages. 2018. [arxiv](https://arxiv.org/abs/1804.01041v1)
 - DeSIGN: Design Inspiration from Generative Networks. 2018. [arxiv](https://arxiv.org/abs/1804.00921v1)
-- SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval. 2018. [arxiv](https://arxiv.org/abs/1804.01401v1)
 - End-to-End Learning of Motion Representation for Video Understanding. 2018. [arxiv](https://arxiv.org/abs/1804.00413v1)
-- Image Generation from Scene Graphs. 2018. [arxiv](https://arxiv.org/abs/1804.01622v1)
 
 
 ********************************
