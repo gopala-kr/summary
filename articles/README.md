@@ -231,8 +231,47 @@
 * [Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant](https://machinelearning.apple.com/2017/10/01/hey-siri.html)
 * [Learning with Privacy at Scale](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 
+--------------------
+
 ### Amazon AI
 
+* [Building Better Bots Using Amazon Lex (Part 1)](https://aws.amazon.com/blogs/machine-learning/building-better-bots/)
+* [Building Better Bots Using Amazon Lex (Part 2)](https://aws.amazon.com/blogs/machine-learning/building-better-bots-part-2/)
+* [Predicting Customer Churn with Amazon Machine Learning](https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-amazon-machine-learning/)
+* [Use Amazon Rekognition to Build an End-to-End Serverless Photo Recognition System](https://aws.amazon.com/blogs/machine-learning/use-amazon-rekognition-to-build-an-end-to-end-serverless-photo-recognition-system/)
+* [Build Your Own Text-to-Speech Applications with Amazon Polly](https://aws.amazon.com/blogs/machine-learning/build-your-own-text-to-speech-applications-with-amazon-polly/)
+* [Deploy Deep Learning Models on Amazon ECS](https://aws.amazon.com/blogs/machine-learning/deploy-deep-learning-models-on-amazon-ecs/)
+* [Running BigDL, Deep Learning for Apache Spark, on AWS](https://aws.amazon.com/blogs/machine-learning/running-bigdl-deep-learning-for-apache-spark-on-aws/)
+* [Amazon and Facebook Collaborate to Optimize Caffe2 for the AWS Cloud](https://aws.amazon.com/blogs/machine-learning/amazon-and-facebook-collaborate-to-optimize-caffe2-for-the-aws-cloud/)
+* [Fast CNN Tuning with AWS GPU Instances and SigOpt](https://aws.amazon.com/blogs/machine-learning/fast-cnn-tuning-with-aws-gpu-instances-and-sigopt/)
+* [Deep Learning on AWS at NVIDIA’s GPU Technology Conference, GTC 2017](https://aws.amazon.com/blogs/machine-learning/deep-learning-on-aws-at-nvidias-gpu-technology-conference-gtc-2017/)
+* [Create Audiobooks with Amazon Polly and AWS Batch](https://aws.amazon.com/blogs/machine-learning/create-audiobooks-with-amazon-polly-and-aws-batch/)
+* [Powering Language Learning on Duolingo with Amazon Polly](https://aws.amazon.com/blogs/machine-learning/powering-language-learning-on-duolingo-with-amazon-polly/)
+* [Integrate Your Amazon Lex Bot with Any Messaging Service](https://aws.amazon.com/blogs/machine-learning/integrate-your-amazon-lex-bot-with-any-messaging-service/)
+* [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/machine-learning/tuning-your-dbms-automatically-with-machine-learning/)
+* [Capturing Voice Input in a Browser and Sending it to Amazon Lex](https://aws.amazon.com/blogs/machine-learning/capturing-voice-input-in-a-browser/)
+* [Activity Tracking with a Voice-Enabled Bot on AWS](https://aws.amazon.com/blogs/machine-learning/activity-tracking-with-a-voice-enabled-bot-on-aws/)
+* [Using Amazon Rekognition to Identify Persons of Interest for Law Enforcement](https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-to-identify-persons-of-interest-for-law-enforcement/)
+* [Build a Real-time Object Classification System with Apache MXNet on Raspberry Pi](https://aws.amazon.com/blogs/machine-learning/build-a-real-time-object-classification-system-with-apache-mxnet-on-raspberry-pi/)
+* [Using Amazon Polly to Deliver Health Care for People with Long-Term Conditions](https://aws.amazon.com/blogs/machine-learning/using-amazon-polly-to-deliver-health-care-for-people-with-long-term-conditions/)
+* [Find Distinct People in a Video with Amazon Rekognition](https://aws.amazon.com/blogs/machine-learning/find-distinct-people-in-a-video-with-amazon-rekognition/)
+* [Voice-Enabled Mobile Bot Drives Auto Industry Innovation with Real-Time Trade-in Values for Vehicles](https://aws.amazon.com/blogs/machine-learning/voice-enabled-mobile-bot-drives-auto-industry-innovation-with-real-time-trade-in-values-for-vehicles/)
+* [Building a Reliable Text-to-Speech Service with Amazon Polly](https://aws.amazon.com/blogs/machine-learning/building-a-reliable-text-to-speech-service-with-amazon-polly/)
+* [Train Neural Machine Translation Models with Sockeye](https://aws.amazon.com/blogs/machine-learning/train-neural-machine-translation-models-with-sockeye/)
+* [Create a Serverless Solution for Video Frame Analysis and Alerting](https://aws.amazon.com/blogs/machine-learning/create-a-serverless-solution-for-video-frame-analysis-and-alerting/)
+* [Exploiting the Unique Features of the Apache MXNet Deep Learning Framework with a Cheat Sheet](https://aws.amazon.com/blogs/machine-learning/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet/)
+* [Analyze Emotion in Video Frame Samples Using Amazon Rekognition on AWS](https://aws.amazon.com/blogs/machine-learning/analyze-emotion-in-video-frame-samples-using-amazon-rekognition-on-aws/)
+* [Estimating the Location of Images Using Apache MXNet and Multimedia Commons Dataset on AWS EC2](https://aws.amazon.com/blogs/machine-learning/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2/)
+* [Build Your Own Face Recognition Service Using Amazon Rekognition](https://aws.amazon.com/blogs/machine-learning/build-your-own-face-recognition-service-using-amazon-rekognition/)
+* [How Amazon Polly Breathed Life into Dan Brown’s Digital Assistant](https://aws.amazon.com/blogs/machine-learning/how-amazon-polly-breathed-life-into-dan-browns-digital-assistant/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Microsoft AI
 
