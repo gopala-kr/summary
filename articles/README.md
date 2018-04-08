@@ -223,8 +223,11 @@
 * [A Large Corpus for Supervised Word-Sense Disambiguation](https://research.googleblog.com/2017/01/a-large-corpus-for-supervised-word.html)
 * [Google Brain Residency Program - 7 months in and looking ahead](https://research.googleblog.com/2017/01/google-brain-residency-program-7-months_5.html)
 
+---------------------
+
 ### Apple AI
 
+* [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/2017/08/06/siri-voices.html)
 
 ### Amazon AI
 
