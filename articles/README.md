@@ -286,10 +286,22 @@
 * [Train and host Scikit-Learn models in Amazon SageMaker by building a Scikit Docker container](https://aws.amazon.com/blogs/machine-learning/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/)
 * [Create a Word-Pronunciation sequence-to-sequence model using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-a-word-pronunciation-sequence-to-sequence-model-using-amazon-sagemaker/)
 
+-----------------------------
 
 ### Microsoft AI
 
-
+* [Four Big Bets For Better AI Research: A Personal Journey](https://www.microsoft.com/en-us/research/blog/four-big-bets-better-ai-research-personal-journey/)
+* [Typing in the Virtual Office Environment: Examining the Effects of Keyboard and Hand Representation in VR](https://www.microsoft.com/en-us/research/blog/typing-in-the-virtual-office-environment-examining-the-effects-of-keyboard-and-hand-representation-in-vr/)
+* [Microsoft Shines at NSDI ’18](https://www.microsoft.com/en-us/research/blog/microsoft-shines-nsdi-18/)
+* [Microsoft and Tsinghua University Work Together on Open Academic Data Research](https://www.microsoft.com/en-us/research/blog/microsoft-tsinghua-university-work-together-open-academic-data-research/)
+* [Microsoft Pix’s AI gets even smarter, Business Card feature works with LinkedIn to make it easier than ever to manage your contacts](https://www.microsoft.com/en-us/research/blog/microsoft-pixs-ai-gets-even-smarter-business-card-feature-works-linkedin-make-easier-ever-manage-contacts/)
+* [Touching the Virtual: How Microsoft Research is Making Virtual Reality Tangible](https://www.microsoft.com/en-us/research/blog/touching-virtual-microsoft-research-making-virtual-reality-tangible/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 ### Nvidia AI
 
 
