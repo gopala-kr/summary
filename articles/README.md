@@ -290,6 +290,8 @@
 
 ### Microsoft AI
 
+![microsoft-ai](https://github.com/gopala-kr/summary/blob/master/articles/microsoft-ai.PNG)
+
 * [Four Big Bets For Better AI Research: A Personal Journey](https://www.microsoft.com/en-us/research/blog/four-big-bets-better-ai-research-personal-journey/)
 * [Typing in the Virtual Office Environment: Examining the Effects of Keyboard and Hand Representation in VR](https://www.microsoft.com/en-us/research/blog/typing-in-the-virtual-office-environment-examining-the-effects-of-keyboard-and-hand-representation-in-vr/)
 * [Microsoft Shines at NSDI ’18](https://www.microsoft.com/en-us/research/blog/microsoft-shines-nsdi-18/)
