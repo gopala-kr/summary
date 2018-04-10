@@ -553,9 +553,33 @@
 * [Retro Contest](https://blog.openai.com/retro-contest/)
 * [OpenAI Charter](https://blog.openai.com/openai-charter/)
 
-
+---------------------------
 
 ### Biadu AI
 
+* [Neural Voice Cloning with a Few Samples](http://research.baidu.com/neural-voice-cloning-samples/)
+* [Baidu Research Showcased at Top Artificial Intelligence Conferences](http://research.baidu.com/baidu-research-showcased-2018-association-advancement-artificial-intelligence-conference/)
+* [Baidu Research Announces the Hiring of Three World-Renowned AI Scientists](http://research.baidu.com/baidu-research-announces-hiring-three-world-renowned-ai-scientists/)
+* [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes](http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/)
+* [Deep Learning Scaling is Predictable, Empirically](http://research.baidu.com/deep-learning-scaling-predictable-empirically/)
+* [Deep Speech 3: Even more end-to-end speech recognition](http://research.baidu.com/deep-speech-3%EF%BC%9Aexploring-neural-transducers-end-end-speech-recognition/)
+* [Deep Voice 3: 2000-Speaker Neural Text-to-Speech](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)
+* [Mixed Precision Training](http://research.baidu.com/mixed-precision-training/)
+* [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/)
+* [Baidu Research Announces Next Generation Open Source Deep Learning Benchmark Tool](http://research.baidu.com/baidu-research-announces-next-generation-open-source-deep-learning-benchmark-tool/)
+* [Learning to Speak via Interaction](http://research.baidu.com/learning-speak-via-interaction/)
+* [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](http://research.baidu.com/deep-voice-2-multi-speaker-neural-text-speech/)
+* [Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition](http://research.baidu.com/deep-speaker-end-end-system-large-scale-speaker-recognition/)
+* [An AI agent with human-like language acquisition in a virtual environment](http://research.baidu.com/ai-agent-human-like-language-acquisition-virtual-environment/)
+* [Introducing SwiftScribe: A Breakthrough in AI-Powered Transcription Software](http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/)
+* [PaddlePaddle’s New API Simplifies Deep Learning Programs](http://research.baidu.com/paddlepaddles-new-api-simplifies-deep-learning-programs/)
+* [Gram CTC: Speech Recognition with Word Piece Targets](http://research.baidu.com/gram-ctc-speech-recognition-word-piece-targets/)
+* [Deep Voice: Real-Time Neural Text-to-Speech for Production](http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/)
+* [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
+* [PaddlePaddle and Kubernetes Join Forces, Helping Developers Efficiently Train Deep Learning Models](http://research.baidu.com/paddlepaddle-kubernetes-join-forces-helping-developers-efficiently-train-deep-learning-models/)
+* [Baidu’s Melody: AI-Powered Conversational Bot for Doctors and Patients](http://research.baidu.com/baidus-melody-ai-powered-conversational-bot-doctors-patients/)
+* [Baidu Research Announces New Open Source Deep Learning Benchmark](http://research.baidu.com/baidu-research-announces-new-open-source-deep-learning-benchmark/)
+* [Baidu’s Duer Personal Assistant Has New Talent: Sports Commentary](http://research.baidu.com/baidus-duer-personal-assistant-new-talent-sports-commentary/)
+* [Baidu’s Silicon Valley AI Lab is Hiring!](http://research.baidu.com/baidus-silicon-valley-ai-lab-hiringbaidu-office/)
 
-### Accenture
+-----------------------------
