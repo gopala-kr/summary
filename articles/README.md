@@ -384,6 +384,43 @@
 
 ### IBM AI
 
+* [IBM GPU-Accelerated Semantic Similarity Search at Scale Shows ~30000x Speed Up](https://www.ibm.com/blogs/research/2018/03/ibm-search-30000x-speed-up/)
+* [IBM Sets Tera-scale Machine Learning Benchmark Record with POWER9 and NVIDIA GPUs; Available Soon in PowerAI](https://www.ibm.com/blogs/research/2018/03/machine-learning-benchmark/)
+* [Deep Learning Advances from IBM Research](https://www.ibm.com/blogs/research/2018/03/deep-learning-advances/)
+* [Capturing the value of place and time with geospatial-temporal insights](https://www.ibm.com/blogs/research/2018/03/geospatial-temporal-insights/)
+* [Changing the Way the World Works: IBM Research’s “5 in 5”](https://www.ibm.com/blogs/research/2018/03/ibm-research-5-in-5-2018/)
+* [Charity Models Supply Chain Performance with IBM](https://www.ibm.com/blogs/research/2018/02/supply-chain-social-good/)
+* [Demystifying Social Entrepreneurship: A Data-Driven Approach](https://www.ibm.com/blogs/research/2017/09/demystifying-social-entrepreneurship/)
+* [Deep Learning Training Times Get Significant Reduction](https://www.ibm.com/blogs/research/2018/02/deep-learning-training/)
+* [Mitigating Bias in AI Models](https://www.ibm.com/blogs/research/2018/02/mitigating-bias-ai-models/)
+* [Tapping Machine Learning to Foster Greater Use of Biomimicry for Innovation](https://www.ibm.com/blogs/research/2018/02/machine-learning-biomimicry/)
+* [Automating Code Generation for Deep Learning Models from Research Papers](https://www.ibm.com/blogs/research/2018/02/deep-learning-models/)
+* [End-to-End Open-Domain QA via Multi-Passage Reading Comprehension](https://www.ibm.com/blogs/research/2018/02/open-domain-qa/)
+* [IBM Research AI at the AAAI Conference on Artificial Intelligence](https://www.ibm.com/blogs/research/2018/02/ibm-research-ai-aaai18/)
+* [How AI can help enterprise workers automatically triage conversations](https://www.ibm.com/blogs/research/2018/01/ai-enterprise-workers-triage-convos/)
+* [Prediction of psychotic onset with AI: words portend the future](https://www.ibm.com/blogs/research/2018/01/ai-words-portend-future/)
+* [ROMEO Seeks to Improve Wind Farms with Machine Learning and IoT at the Edge](https://www.ibm.com/blogs/research/2017/12/romeo-seeks-improve-wind-farms-machine-learning-iot-edge/)
+* [Distributing Control of Deep Learning Training Delivers 10x Performance Improvement](https://www.ibm.com/blogs/research/2017/12/deep-learning-training-10x-improvement/)
+* [Pruning AI networks without performance loss](https://www.ibm.com/blogs/research/2017/12/pruning-ai-networks/)
+* [New AI algorithm recommends right products at the right time](https://www.ibm.com/blogs/research/2017/12/ai-algorithm-recommends-products/)
+* [Making interaction with AI systems more natural with textual grounding](https://www.ibm.com/blogs/research/2017/12/ai-textual-grounding/)
+* [TJBot goes digital, and more playground adventures](https://www.ibm.com/blogs/research/2017/12/tjbot-goes-digital/)
+* [Reducing discrimination in AI with new methodology](https://www.ibm.com/blogs/research/2017/12/ai-reducing-discrimination/)
+* [Publishing in The Lancet’s EBioMedicine: New research in AI pushes frontiers in epileptic seizure prediction](https://www.ibm.com/blogs/research/2017/12/ai-epileptic-seizure-prediction/)
+* [How dictionaries act as strong foundations for training AI systems](https://www.ibm.com/blogs/research/2017/12/dictionaries-training-ai-systems/)
+* [IBM scientists demonstrate 10x faster large-scale machine learning using GPUs](https://www.ibm.com/blogs/research/2017/12/10x-faster-using-gpu/)
+* [Using Neural Networks to Predict Outcomes of Organic Chemistry](https://www.ibm.com/blogs/research/2017/12/neural-networks-organic-chemistry/)
+* [Helping AI master video understanding](https://www.ibm.com/blogs/research/2017/12/ai-video-understanding/)
+* [IBM Research showcases AI advances @ NIPS 2017](https://www.ibm.com/blogs/research/2017/12/ibm-research-ai-nips2017/)
+* [Automated knowledge base construction solution wins at ISWC 2017](https://www.ibm.com/blogs/research/2017/11/knowledge-base-construction-iswc-2017/)
+* [Interactive supervision with TensorBoard](https://www.ibm.com/blogs/research/2017/11/interactive-supervision-tensorboard/)
+* [QISKit for quantum computation](https://www.ibm.com/blogs/research/2018/02/qiskit-index/)
+* [How inventing became a passion: Developing autonomous vehicles to help support healthy aging and people with disabilities](https://www.ibm.com/blogs/research/2018/03/developing-accessible-autonomous-vehicles/)
+* [Building a winning team using AI](https://www.ibm.com/blogs/research/2018/03/build-winning-teams-using-ai/)
+
+
+------------------
+
 ### Deepmind
 
 
