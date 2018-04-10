@@ -357,6 +357,31 @@
 
 ### Uber AI
 
+* [VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution](https://eng.uber.com/vine/)
+* [Introducing the Uber AI Residency](https://eng.uber.com/uber-ai-residency/)
+* [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
+* [Year in Review: 2017 Highlights from the Uber Engineering Blog](https://eng.uber.com/2017-highlights/)
+* [Welcoming the Era of Deep Neuroevolution](https://eng.uber.com/deep-neuroevolution/)
+* [Gleaning Insights from Uber’s Partner Activity Matrix with Genomic Biclustering and Machine Learning](https://eng.uber.com/activity-matrix/)
+* [Welcoming Peter Dayan to Uber AI Labs](https://eng.uber.com/peter-dayan/)
+* [Engineering More Reliable Transportation with Machine Learning and AI at Uber](https://eng.uber.com/machine-learning/)
+* [Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language](https://eng.uber.com/pyro/)
+* [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/)
+* [Presenting the Engineering Behind Uber at Our Technology Day](https://eng.uber.com/uber-technology-day/)
+* [Rewriting Uber Engineering’s Android Rider App with Deep Scope Hierarchies](https://eng.uber.com/deep-scope-hierarchies/)
+* [Powering UberEATS with React Native and Uber Engineering](https://eng.uber.com/ubereats-react-native/)
+* [Engineering Stability in Migrations: Moving to Immutable Collections in Uber’s Android Apps](https://eng.uber.com/immutable-collections/)
+* [Redesigning Uber Engineering’s Mobile Content Delivery Ecosystem](https://eng.uber.com/mobile-content-delivery/)
+* [The Journey To Android Monorepo: The History Of Uber Engineering’s Android Codebase Organization](https://eng.uber.com/android-monorepo/)
+* [Engineering Signature Rendering on iOS with UberSignature](https://eng.uber.com/ubersignature/)
+* [Demystifying RxJava Backpressure on Android at Uber Engineering](https://eng.uber.com/rxjava-backpressure/)
+* [How Uber Engineering Verifies Data at Runtime with the Annotations You Already Use](https://eng.uber.com/rave/)
+* [Driver Profiles: How Uber Engineering Celebrates Drivers](https://eng.uber.com/driver-profiles/)
+* [Building More Reliable Apps with Uber Engineering’s Startup Reason Reporter](https://eng.uber.com/startup-reason-reporter/)
+
+-----------------------
+
+
 ### IBM AI
 
 ### Deepmind
