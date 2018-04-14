@@ -42,6 +42,8 @@ summaries of papers on deep learning.
 - The Sound of Pixels,2018. [arxiv](https://arxiv.org/abs/1804.03160v1)
 - Imagine This! Scripts to Compositions to Videos, 2018. [arxiv](https://arxiv.org/abs/1804.03608v1)
 - Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition, 2018. [arxiv](https://arxiv.org/abs/1804.03209v1)
+- Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks, 2018. [arxiv](https://arxiv.org/abs/1804.03126v1)
+- 
 
 
 ********************************
