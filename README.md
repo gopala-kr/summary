@@ -38,7 +38,7 @@ summaries of papers on deep learning.
 - Capsules for Object Segmentation , 2018.[arxiv](https://arxiv.org/abs/1804.04241v1)
 - Spherical CNNs, 2018.[arxiv](https://arxiv.org/abs/1801.10130v3)
 - Training a Ranking Function for Open-Domain Question Answering , 2018.[arxiv](https://arxiv.org/abs/1804.04264v1)
--  , 2018.[arxiv]()
+- Word2Vec applied to Recommendation: Hyperparameters Matter , 2018.[arxiv](https://arxiv.org/abs/1804.04212v1)
 
 
 ********************************
