@@ -37,7 +37,7 @@ summaries of papers on deep learning.
 - YOLOv3: An Incremental Improvement, 2018. [arxiv](https://arxiv.org/abs/1804.02767v1)
 - Capsules for Object Segmentation , 2018.[arxiv](https://arxiv.org/abs/1804.04241v1)
 - Spherical CNNs, 2018.[arxiv](https://arxiv.org/abs/1801.10130v3)
--  , 2018.[arxiv]()
+- Training a Ranking Function for Open-Domain Question Answering , 2018.[arxiv](https://arxiv.org/abs/1804.04264v1)
 -  , 2018.[arxiv]()
 
 
