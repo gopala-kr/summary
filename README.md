@@ -355,6 +355,18 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 
 ----------------------
 
+Nips registration
+
+
+![0](https://blogs.nvidia.com/wp-content/uploads/2017/12/3-nips-registration-672x408.png)
+![1](https://pbs.twimg.com/media/Cv-qC4TVIAEZ9Tp.jpg)
+![2](https://pbs.twimg.com/media/Cv-qC4TUsAART6U.jpg)
+
+
+
+----------------
+
+
 ### conferences
 
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
