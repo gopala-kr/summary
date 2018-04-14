@@ -40,6 +40,7 @@ summaries of papers on deep learning.
 - Training a Ranking Function for Open-Domain Question Answering , 2018.[arxiv](https://arxiv.org/abs/1804.04264v1)
 - Word2Vec applied to Recommendation: Hyperparameters Matter , 2018.[arxiv](https://arxiv.org/abs/1804.04212v1)
 - The Sound of Pixels,2018. [arxiv](https://arxiv.org/abs/1804.03160v1)
+- Imagine This! Scripts to Compositions to Videos, 2018. [arxiv](https://arxiv.org/abs/1804.03608v1)
 
 ********************************
 
