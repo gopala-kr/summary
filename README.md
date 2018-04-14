@@ -34,6 +34,11 @@ summaries of papers on deep learning.
 - An End-to-end Neural Natural Language Interface for Databases. 2018. [arxiv](https://arxiv.org/abs/1804.00401v1)
 - DeSIGN: Design Inspiration from Generative Networks. 2018. [arxiv](https://arxiv.org/abs/1804.00921v1)
 - End-to-End Learning of Motion Representation for Video Understanding. 2018. [arxiv](https://arxiv.org/abs/1804.00413v1)
+- YOLOv3: An Incremental Improvement, 2018. [arxiv](https://arxiv.org/abs/1804.02767v1)
+-  , 2018.[arxiv]()
+-  , 2018.[arxiv]()
+-  , 2018.[arxiv]()
+-  , 2018.[arxiv]()
 
 
 ********************************
