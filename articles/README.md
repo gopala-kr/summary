@@ -592,4 +592,14 @@
 * [Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory](https://arxiv.org/abs/1503.07469)
 * [How do neurons operate on sparse distributed representations? A mathematical theory of sparsity, neurons and active dendrites](https://arxiv.org/abs/1601.00720)
 * [Continuous Online Sequence Learning with an Unsupervised Neural Network Model](https://numenta.com/resources/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/)
-* []()
+* [Unsupervised Real-Time Anomaly Detection for Streaming Data](https://numenta.com/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/)
+* [The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Distributed Coding](https://numenta.com/resources/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/)
+* [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://numenta.com/resources/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)
+* [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
+
+
+---------------
+
+
+
+
