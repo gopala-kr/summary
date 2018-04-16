@@ -584,10 +584,10 @@
 
 -----------------------------
 
-## Numenta
+### Numenta
 
 * [Porting HTM Models to the Heidelberg Neuromorphic Computing Platform](https://arxiv.org/abs/1505.02142)
-* []()
+* [Encoding Data for HTM Systems](https://arxiv.org/abs/1602.05925)
 * []()
 * []()
 * []()
