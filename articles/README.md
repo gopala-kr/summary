@@ -583,3 +583,13 @@
 * [Baidu’s Silicon Valley AI Lab is Hiring!](http://research.baidu.com/baidus-silicon-valley-ai-lab-hiringbaidu-office/)
 
 -----------------------------
+
+## Numenta
+
+* [Porting HTM Models to the Heidelberg Neuromorphic Computing Platform](https://arxiv.org/abs/1505.02142)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
