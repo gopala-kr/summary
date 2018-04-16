@@ -588,7 +588,7 @@
 
 * [Porting HTM Models to the Heidelberg Neuromorphic Computing Platform](https://arxiv.org/abs/1505.02142)
 * [Encoding Data for HTM Systems](https://arxiv.org/abs/1602.05925)
-* []()
+* [Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark](https://arxiv.org/abs/1510.03336)
 * []()
 * []()
 * []()
