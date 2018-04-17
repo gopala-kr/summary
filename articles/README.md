@@ -603,3 +603,7 @@
 
 ### [minds.ai](https://www.minds.ai)
 
+
+### [h2o.ai](https://www.h2o.ai/#)
+
+
