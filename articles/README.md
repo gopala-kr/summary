@@ -607,3 +607,4 @@
 ### [h2o.ai](https://www.h2o.ai/#)
 
 
+### [deepsense.ai](https://deepsense.ai/)
