@@ -638,3 +638,7 @@
 
 
 ### [layer6.ai](https://layer6.ai/)
+
+### [spacy](https://spacy.io/)
+
+
