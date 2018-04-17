@@ -618,3 +618,5 @@
 ### [hyperscience](https://www.hyperscience.com/)
 
 
+### [crowdai](https://crowdai.com/)
+
