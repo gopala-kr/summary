@@ -65,9 +65,9 @@ summaries of papers on deep learning.
 - MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices. 2018, [[arxiv](https://arxiv.org/abs/1804.07573v1)]
 - Now you see me: evaluating performance in long-term visual tracking. 2018, [[arxiv](https://arxiv.org/abs/1804.07056v1)]
 - Unspeech: Unsupervised Speech Context Embeddings. 2018, [[arxiv](https://arxiv.org/abs/1804.06775v1)]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
+- Alquist: The Alexa Prize Socialbot. 2018, [[arxiv](https://arxiv.org/abs/1804.06705v1)]
+- PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation. 2018, [[arxiv](https://arxiv.org/abs/1804.06604v1)]
+- Video based Contextual Question Answering. 2018, [[arxiv](https://arxiv.org/abs/1804.07399v1)]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
 
