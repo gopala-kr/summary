@@ -68,8 +68,12 @@ summaries of papers on deep learning.
 - Alquist: The Alexa Prize Socialbot. 2018, [[arxiv](https://arxiv.org/abs/1804.06705v1)]
 - PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation. 2018, [[arxiv](https://arxiv.org/abs/1804.06604v1)]
 - Video based Contextual Question Answering. 2018, [[arxiv](https://arxiv.org/abs/1804.07399v1)]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
+- Generating Music using an LSTM Network. 2018, [[arxiv](https://arxiv.org/abs/1804.07300v1)]
+- Socially Guided Intrinsic Motivation for Robot Learning of Motor Skills. 2018, [[arxiv](https://arxiv.org/abs/1804.07269v1)]
+- Putting Question-Answering Systems into Practice: Transfer Learning for Efficient Domain Customization. 2018, [[arxiv](https://arxiv.org/abs/1804.07097v1)]
+- Sentences with Gapping: Parsing and Reconstructing Elided Predicates. 2018, [[arxiv](https://arxiv.org/abs/1804.06922v1)]
+- Phrase-Based & Neural Unsupervised Machine Translation. 2018, [[arxiv](https://arxiv.org/abs/1804.07755v1)]
+- Deep Probabilistic Programming Languages: A Qualitative Study. 2018, [[arxiv](https://arxiv.org/abs/1804.06458v1)]
 
 ********************************
 
