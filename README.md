@@ -44,12 +44,12 @@ summaries of papers on deep learning.
 - Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition, 2018. [arxiv](https://arxiv.org/abs/1804.03209v1)
 - Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks, 2018. [arxiv](https://arxiv.org/abs/1804.03126v1)
 - HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. 2018, [[arxiv](https://arxiv.org/abs/1804.07834v1)]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
+- Generalized Random Forests. 2018, [[arxiv](https://arxiv.org/abs/1610.01271v4)]
+- Unsupervised Natural Language Generation with Denoising Autoencoders. 2018, [[arxiv](https://arxiv.org/abs/1804.07899v1)]
+- Matching Fingerphotos to Slap Fingerprint Images. 2018, [[arxiv](https://arxiv.org/abs/1804.08122v1)]
+- BrainSlug: Transparent Acceleration of Deep Learning Through Depth-First Parallelism. 2018, [[arxiv](https://arxiv.org/abs/1804.08378v1)]
+- Autotune: A Derivative-free Optimization Framework for Hyperparameter Tuning. 2018, [[arxiv](https://arxiv.org/abs/1804.07824v1)]
+- Neural Response Generation with Dynamic Vocabularies. 2018, [[arxiv](https://arxiv.org/abs/1711.11191v1)]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
