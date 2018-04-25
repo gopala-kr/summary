@@ -55,16 +55,21 @@ summaries of papers on deep learning.
 - VLocNet++: Deep Multitask Learning for Semantic Visual Localization and Odometry. 2018, [[arxiv](https://arxiv.org/abs/1804.08366v1)]
 - Event Extraction with Generative Adversarial Imitation Learning. 2018, [[arxiv](https://arxiv.org/abs/1804.07881v1)]
 - Taskonomy: Disentangling Task Transfer Learning. 2018, [[arxiv](https://arxiv.org/abs/1804.08328v1)]
+- Pelee: A Real-Time Object Detection System on Mobile Devices. 2018, [[arxiv](https://arxiv.org/abs/1804.06882v1)]
+- Deep Triplet Ranking Networks for One-Shot Recognition. 2018, [[arxiv](https://arxiv.org/abs/1804.07275v1)]
+- Deep Face Recognition: A Survey. 2018, [[arxiv](https://arxiv.org/abs/1804.06655v1)]
+- A Study on Overfitting in Deep Reinforcement Learning. 2018, [[arxiv](https://arxiv.org/abs/1804.06893v2)]
+- Unveiling the Power of Deep Tracking. 2018, [[arxiv](https://arxiv.org/abs/1804.06833v1)]
+- SFace: An Efficient Network for Face Detection in Large Scale Variations. 2018, [[arxiv](https://arxiv.org/abs/1804.06559v2)]
+- To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression. 2018, [[arxiv](https://arxiv.org/abs/1804.07014v1)]
+- MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices. 2018, [[arxiv](https://arxiv.org/abs/1804.07573v1)]
+- Now you see me: evaluating performance in long-term visual tracking. 2018, [[arxiv](https://arxiv.org/abs/1804.07056v1)]
+- Unspeech: Unsupervised Speech Context Embeddings. 2018, [[arxiv](https://arxiv.org/abs/1804.06775v1)]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
 - . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-- . 2018, [[arxiv]()]
-
 
 ********************************
 
