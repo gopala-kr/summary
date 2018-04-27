@@ -634,9 +634,6 @@
 
 
 
-### [datasift](https://datasift.com/)
-
-
 ### [layer6.ai](https://layer6.ai/)
 
 
