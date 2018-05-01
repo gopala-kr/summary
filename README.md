@@ -74,6 +74,7 @@ summaries of papers on deep learning.
 - Sentences with Gapping: Parsing and Reconstructing Elided Predicates. 2018, [[arxiv](https://arxiv.org/abs/1804.06922v1)]
 - Phrase-Based & Neural Unsupervised Machine Translation. 2018, [[arxiv](https://arxiv.org/abs/1804.07755v1)]
 - Deep Probabilistic Programming Languages: A Qualitative Study. 2018, [[arxiv](https://arxiv.org/abs/1804.06458v1)]
+- The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation, 2018. [[arxiv](https://arxiv.org/abs/1804.09849v2)]
 
 ********************************
 
