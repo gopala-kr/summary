@@ -77,6 +77,7 @@ summaries of papers on deep learning.
 - The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation, 2018. [[arxiv](https://arxiv.org/abs/1804.09849v2)]
 - Factors Influencing the Surprising Instability of Word Embeddings, 2018. [[arxiv](https://arxiv.org/abs/1804.09692v1)]
 - Surveillance Face Recognition Challenge, 2018. [[arxiv](https://arxiv.org/abs/1804.09691v2)]
+- Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models, 2018. [[arxiv](https://arxiv.org/abs/1804.09299v1)] [[code](https://github.com/HendrikStrobelt/Seq2Seq-Vis)]
 
 ********************************
 
