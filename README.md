@@ -74,12 +74,15 @@ summaries of papers on deep learning.
 - Sentences with Gapping: Parsing and Reconstructing Elided Predicates. 2018, [[arxiv](https://arxiv.org/abs/1804.06922v1)]
 - Phrase-Based & Neural Unsupervised Machine Translation. 2018, [[arxiv](https://arxiv.org/abs/1804.07755v1)]
 - Deep Probabilistic Programming Languages: A Qualitative Study. 2018, [[arxiv](https://arxiv.org/abs/1804.06458v1)]
+
+30-01
+
 - The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation, 2018. [[arxiv](https://arxiv.org/abs/1804.09849v2)]
 - Factors Influencing the Surprising Instability of Word Embeddings, 2018. [[arxiv](https://arxiv.org/abs/1804.09692v1)]
 - Surveillance Face Recognition Challenge, 2018. [[arxiv](https://arxiv.org/abs/1804.09691v2)]
 - Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models, 2018. [[arxiv](https://arxiv.org/abs/1804.09299v1)] [[code](https://github.com/HendrikStrobelt/Seq2Seq-Vis)]
 - A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications, 2018. [[arxiv](https://arxiv.org/abs/1804.09635v1)]
-
+- Pay Attention to Virality: understanding popularity of social media videos with the attention mechanism, 2018. [[arxiv](https://arxiv.org/abs/1804.09949v1)]
 ********************************
 
 ----------------------
