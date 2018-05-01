@@ -78,6 +78,7 @@ summaries of papers on deep learning.
 - Factors Influencing the Surprising Instability of Word Embeddings, 2018. [[arxiv](https://arxiv.org/abs/1804.09692v1)]
 - Surveillance Face Recognition Challenge, 2018. [[arxiv](https://arxiv.org/abs/1804.09691v2)]
 - Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models, 2018. [[arxiv](https://arxiv.org/abs/1804.09299v1)] [[code](https://github.com/HendrikStrobelt/Seq2Seq-Vis)]
+- A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications, 2018. [[arxiv](https://arxiv.org/abs/1804.09635v1)]
 
 ********************************
 
