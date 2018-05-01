@@ -83,6 +83,13 @@ summaries of papers on deep learning.
 - Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models, 2018. [[arxiv](https://arxiv.org/abs/1804.09299v1)] [[code](https://github.com/HendrikStrobelt/Seq2Seq-Vis)]
 - A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications, 2018. [[arxiv](https://arxiv.org/abs/1804.09635v1)]
 - Pay Attention to Virality: understanding popularity of social media videos with the attention mechanism, 2018. [[arxiv](https://arxiv.org/abs/1804.09949v1)]
+- Automatic Cropping Fingermarks: Latent Fingerprint Segmentation, 2018. [[arxiv](https://arxiv.org/abs/1804.09650v1)]
+- Improving Native Ads CTR Prediction by Large Scale Event Embedding and Recurrent Networks, 2018. [[arxiv](https://arxiv.org/abs/1804.09133v1)]
+- Sim-to-Real: Learning Agile Locomotion For Quadruped Robots, 2018. [[arxiv](https://arxiv.org/abs/1804.10332v1)]
+- dhSegment: A generic deep-learning approach for document segmentation, 2018. [[arxiv](https://arxiv.org/abs/1804.10371v1)]
+- Deep Complex Networks, 2018. [[arxiv](https://arxiv.org/abs/1705.09792v4)]
+- Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation,2018. [[arxiv](https://arxiv.org/abs/1804.10343v1)]
+
 ********************************
 
 ----------------------
