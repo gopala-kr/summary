@@ -89,6 +89,10 @@ summaries of papers on deep learning.
 - dhSegment: A generic deep-learning approach for document segmentation, 2018. [[arxiv](https://arxiv.org/abs/1804.10371v1)]
 - Deep Complex Networks, 2018. [[arxiv](https://arxiv.org/abs/1705.09792v4)]
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation,2018. [[arxiv](https://arxiv.org/abs/1804.10343v1)]
+- The Intelligent ICU Pilot Study: Using Artificial Intelligence Technology for Autonomous Patient Monitoring, 2018. [[arxiv](https://arxiv.org/abs/1804.10201v1)]
+- Who Let The Dogs Out? Modeling Dog Behavior From Visual Data, 2018. [[arxiv](https://arxiv.org/abs/1803.10827v1)]
+- Multi-objective Architecture Search for CNNs, 2018. [[arxiv](https://arxiv.org/abs/1804.09081v1)]
+- Integrating Local Context and Global Cohesiveness for Open Information Extraction. 2018. [[arxiv](https://arxiv.org/abs/1804.09931v1)]
 
 ********************************
 
