@@ -31,6 +31,10 @@ summaries of papers on deep learning.
 
 *  AGI Safety Literature Review, 2018. [arxiv](https://arxiv.org/abs/1805.01109v1)
 *  Datasheets for Datasets, 2018. [arxiv](https://arxiv.org/abs/1803.09010v1)
+*  Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review, 2018. [arxiv](https://arxiv.org/abs/1805.00909v2)
+*  SIPS: Unsupervised Succinct Interest Points, 2018. [arxiv](https://arxiv.org/abs/1805.01358v1)
+*  A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild, 2018. [arxiv](https://arxiv.org/abs/1805.01452v1)
+*  Siamese networks for generating adversarial examples, 2018. [arxiv](https://arxiv.org/abs/1805.01431v1)
 
 
 ------------------
