@@ -29,6 +29,7 @@ summaries of papers on deep learning.
 
 05/2018
 
+*  AGI Safety Literature Review, 2018. [arxiv](https://arxiv.org/abs/1805.01109v1)
 
 ------------------
 
