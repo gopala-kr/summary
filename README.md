@@ -27,6 +27,11 @@ summaries of papers on deep learning.
 
 --------------
 
+05/2018
+
+
+------------------
+
 04/2018
 
 - Self-Organization and Artificial Life: A Review. 2018. [arxiv](https://arxiv.org/abs/1804.01144v1)
