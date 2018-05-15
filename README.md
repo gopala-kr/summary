@@ -39,6 +39,22 @@ summaries of papers on deep learning.
 * FEVER: a large-scale dataset for Fact Extraction and VERification, 2018. [[arxiv](https://arxiv.org/abs/1803.05355v2)]
 * Dense and Diverse Capsule Networks: Making the Capsules Learn Better, 2018. [[arxiv](https://arxiv.org/abs/1805.04001v1)]
 * From Word to Sense Embeddings: A Survey on Vector Representations of Meaning, 2018. [[arxiv](https://arxiv.org/abs/1805.04032v1)]
+* Improv Chat: Second Response Generation for Chatbot, 2018. [[arxiv](https://arxiv.org/abs/1805.03900v1)]
+* Automatic Article Commenting: the Task and Dataset, 2018. [[arxiv](https://arxiv.org/abs/1805.03668v2)]
+* A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization, 2018. [[arxiv](https://arxiv.org/abs/1805.03616v1)]
+* A Unified Knowledge Representation and Context-aware Recommender System in Internet of Things, 2018. [[arxiv](https://arxiv.org/abs/1805.04007v1)]
+* OK Google, What Is Your Ontology? Or: Exploring Freebase Classification to Understand Google's Knowledge Graph, 2018. [[arxiv](https://arxiv.org/abs/1805.03885v1)]
+* A comparable study of modeling units for end-to-end Mandarin speech recognition, 2018. [[arxiv](https://arxiv.org/abs/1805.03832v1)]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
+* , 2018. [[arxiv]()]
 
 ------------------
 
