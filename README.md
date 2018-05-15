@@ -38,6 +38,7 @@ summaries of papers on deep learning.
 *  Learning to See in the Dark, 2018. [[arxiv](https://arxiv.org/abs/1805.01934v1)] [[code](https://github.com/cchen156/Learning-to-See-in-the-Dark)]
 * FEVER: a large-scale dataset for Fact Extraction and VERification, 2018. [[arxiv](https://arxiv.org/abs/1803.05355v2)]
 * Dense and Diverse Capsule Networks: Making the Capsules Learn Better, 2018. [[arxiv](https://arxiv.org/abs/1805.04001v1)]
+* From Word to Sense Embeddings: A Survey on Vector Representations of Meaning, 2018. [[arxiv](https://arxiv.org/abs/1805.04032v1)]
 
 ------------------
 
