@@ -61,6 +61,7 @@ summaries of papers on deep learning.
 * Fighting Fake News: Image Splice Detection via Learned Self-Consistency, 2018. [[arxiv](https://arxiv.org/abs/1805.04096v1)]
 * Learning to Teach, 2018. [[arxiv](https://arxiv.org/abs/1805.03643v1)]
 * Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration, 2018. [[arxiv](https://arxiv.org/abs/1805.03857v1)]
+* Universal Language Model Fine-tuning for Text Classification,2018. [[arxiv](https://arxiv.org/abs/1801.06146v4)]
 
 ------------------
 
