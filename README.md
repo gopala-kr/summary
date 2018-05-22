@@ -66,8 +66,7 @@ summaries of papers on deep learning.
 * Terabyte-scale Deep Multiple Instance Learning for Classification and Localization in Pathology, 2018. [[arxiv](https://arxiv.org/abs/1805.06983v1)
 * Sequential Neural Likelihood: Fast Likelihood-free Inference with Autoregressive Flows, 2018. [[arxiv](https://arxiv.org/abs/1805.07226v1)
 * Imagine it for me: Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts,2018. [[arxiv](https://arxiv.org/abs/1712.01381v2)
-* ,2018. [[arxiv]
-* ,2018. [[arxiv]
+* Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer,2018. [[arxiv](https://arxiv.org/abs/1804.06437v1)]
 
 
 
