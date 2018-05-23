@@ -455,7 +455,7 @@ Nips registration
 ![0](https://blogs.nvidia.com/wp-content/uploads/2017/12/3-nips-registration-672x408.png)
 ![1](https://pbs.twimg.com/media/Cv-qC4TVIAEZ9Tp.jpg)
 ![2](https://pbs.twimg.com/media/Cv-qC4TUsAART6U.jpg)
-
+![compute_diagram](https://blog.openai.com/content/images/2018/05/compute_diagram-log@2x-3.png)
 
 
 ----------------
