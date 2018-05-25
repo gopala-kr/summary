@@ -39,8 +39,17 @@ summaries of papers on deep learning.
 * AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. [[arxiv](https://arxiv.org/abs/1805.07440v1)]
 * Fake News Detection with Deep Diffusive Network Model. [[arxiv](https://arxiv.org/abs/1805.08751v1)]
 * Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior. [[arxiv](https://arxiv.org/abs/1805.08010v1)]
-* 
-
+* Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer. [[arxiv](https://arxiv.org/abs/1805.07685v1)]
+* Episodic Memory Deep Q-Networks. [arxiv](https://arxiv.org/abs/1805.07603v1)
+* The EuroCity Persons Dataset: A Novel Benchmark for Object Detection. [arxiv](https://arxiv.org/abs/1805.07193v1)
+* Learning Real-World Robot Policies by Dreaming. [arxiv](https://arxiv.org/abs/1805.07813v1)
+* Self-Attention Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1805.08318v1)]
+* geomstats: a Python Package for Riemannian Geometry in Machine Learning. [[arxiv](https://arxiv.org/abs/1805.08308v1)] [[code](https://github.com/geomstats/geomstats)]
+* The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks. [[arxiv](https://arxiv.org/abs/1803.03635v3)]
+* Adding One Neuron Can Eliminate All Bad Local Minima. [[arxiv](https://arxiv.org/abs/1805.08671v1)]
+* Pushing the bounds of dropout. [[arxiv](https://arxiv.org/abs/1805.09208v1)]
+* Step Size Matters in Deep Learning. [[arxiv](https://arxiv.org/abs/1805.08890v1)]
+* A Universal Music Translation Network. [[arxiv](https://arxiv.org/abs/1805.07848v2)]
 
 ********************************
 
