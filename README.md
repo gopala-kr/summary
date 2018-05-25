@@ -24,7 +24,7 @@ summaries of papers on deep learning.
 * [[Jan-2018](https://github.com/gopala-kr/summary/tree/master/summaries/Jan-2018)]
 * [[Feb-2018](https://github.com/gopala-kr/summary/tree/master/summaries/Feb-2018)]
 * [[March-2018](https://github.com/gopala-kr/summary/tree/master/summaries/March-2018)]
-* [[April](https://github.com/gopala-kr/summary/blob/master/summaries/April-2018/README.md)]
+* [[April-2018](https://github.com/gopala-kr/summary/blob/master/summaries/April-2018/README.md)]
 
 --------------
 
