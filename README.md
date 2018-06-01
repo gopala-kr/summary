@@ -40,7 +40,7 @@ summaries of papers on deep learning.
 * Fake News Detection with Deep Diffusive Network Model. [[arxiv](https://arxiv.org/abs/1805.08751v1)]
 * Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior. [[arxiv](https://arxiv.org/abs/1805.08010v1)]
 * Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer. [[arxiv](https://arxiv.org/abs/1805.07685v1)]
-* Episodic Memory Deep Q-Networks. [arxiv](https://arxiv.org/abs/1805.07603v1)
+* Episodic Memory Deep Q-Networks. [arxiv](https://arxiv.org/abs/1805.07603v1) [IJCAI 2018]
 * The EuroCity Persons Dataset: A Novel Benchmark for Object Detection. [arxiv](https://arxiv.org/abs/1805.07193v1)
 * Learning Real-World Robot Policies by Dreaming. [arxiv](https://arxiv.org/abs/1805.07813v1)
 * Self-Attention Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1805.08318v1)]
