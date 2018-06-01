@@ -34,7 +34,7 @@ summaries of papers on deep learning.
 * Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer,2018. [[arxiv](https://arxiv.org/abs/1804.06437v1)]
 * Prefrontal cortex as a meta-reinforcement learning system. [[nature](https://www.biorxiv.org/content/biorxiv/early/2018/04/06/295964.full.pdf)]
 * Dynamic learning rate using Mutual Information. [[arxiv](https://arxiv.org/abs/1805.07249v1)]
-* Solving the Rubik's Cube Without Human Knowledge [[arxiv](https://arxiv.org/abs/1805.07470v1)]
+* Solving the Rubik's Cube Without Human Knowledge [[arxiv](https://arxiv.org/abs/1805.07470v1)] [NIPS 2018]
 * VideoCapsuleNet: A Simplified Network for Action Detection. [[arxiv](https://arxiv.org/abs/1805.08162v1)]
 * AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. [[arxiv](https://arxiv.org/abs/1805.07440v1)]
 * Fake News Detection with Deep Diffusive Network Model. [[arxiv](https://arxiv.org/abs/1805.08751v1)]
