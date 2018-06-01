@@ -50,6 +50,8 @@ summaries of papers on deep learning.
 * Pushing the bounds of dropout. [[arxiv](https://arxiv.org/abs/1805.09208v1)]
 * Step Size Matters in Deep Learning. [[arxiv](https://arxiv.org/abs/1805.08890v1)]
 * A Universal Music Translation Network. [[arxiv](https://arxiv.org/abs/1805.07848v2)]
+* Observe and Look Further: Achieving Consistent Performance on Atari. [arxiv](https://arxiv.org/abs/1805.11593v1)
+* Playing hard exploration games by watching YouTube. [arxiv]()
 
 ********************************
 
