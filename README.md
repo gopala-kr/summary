@@ -52,6 +52,9 @@ summaries of papers on deep learning.
 * A Universal Music Translation Network. [[arxiv](https://arxiv.org/abs/1805.07848v2)]
 * Observe and Look Further: Achieving Consistent Performance on Atari. [arxiv](https://arxiv.org/abs/1805.11593v1)
 * Playing hard exploration games by watching YouTube. [arxiv](https://arxiv.org/abs/1805.11592v1)
+* CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation. [arxiv](https://arxiv.org/abs/1805.11535v1)
+* Quantum-inspired Complex Word Embedding. [arxiv](https://arxiv.org/abs/1805.11351v1)
+* Neural networks for stock price prediction. [arxiv]()
 
 ********************************
 
