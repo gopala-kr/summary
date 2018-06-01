@@ -54,7 +54,18 @@ summaries of papers on deep learning.
 * Playing hard exploration games by watching YouTube. [arxiv](https://arxiv.org/abs/1805.11592v1)
 * CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation. [arxiv](https://arxiv.org/abs/1805.11535v1)
 * Quantum-inspired Complex Word Embedding. [arxiv](https://arxiv.org/abs/1805.11351v1)
-* Neural networks for stock price prediction. [arxiv]()
+* Neural networks for stock price prediction. [arxiv](https://arxiv.org/abs/1805.11317v1)
+* Table-to-Text: Describing Table Region with Natural Language. [arxiv](https://arxiv.org/abs/1805.11234v1)
+* Getting to Know Low-light Images with The Exclusively Dark Dataset. [arxiv](https://arxiv.org/abs/1805.11227v1)
+* Bi-Directional Neural Machine Translation with Synthetic Parallel Data. [arxiv](https://arxiv.org/abs/1805.11213v1) [WNMT 2018]
+* Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting. [arxiv](https://arxiv.org/abs/1805.11080v1) [ACL 2018]
+* More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch. [arxiv](https://arxiv.org/abs/1805.11085v1)
+* Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces. [arxiv](https://arxiv.org/abs/1805.10190v1)
+* Evolutionary Algorithms. [arxiv](https://arxiv.org/abs/1805.11014v1)
+* A Stochastic Decoder for Neural Machine Translation. [arxiv](https://arxiv.org/abs/1805.10844v1) [ACL 2018]
+* Do Better ImageNet Models Transfer Better?. [arxiv](https://arxiv.org/abs/1805.08974v1)
+* Distilling Knowledge for Search-based Structured Prediction. [arxiv](https://arxiv.org/abs/1805.11224v1) [ACL 2018]
+
 
 ********************************
 
