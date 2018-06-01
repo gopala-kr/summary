@@ -45,7 +45,7 @@ summaries of papers on deep learning.
 * Learning Real-World Robot Policies by Dreaming. [arxiv](https://arxiv.org/abs/1805.07813v1)
 * Self-Attention Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1805.08318v1)]
 * geomstats: a Python Package for Riemannian Geometry in Machine Learning. [[arxiv](https://arxiv.org/abs/1805.08308v1)] [[code](https://github.com/geomstats/geomstats)]
-* The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks. [[arxiv](https://arxiv.org/abs/1803.03635v3)]
+* The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks. [[arxiv](https://arxiv.org/abs/1803.03635v3)] [NIPS Submission]
 * Adding One Neuron Can Eliminate All Bad Local Minima. [[arxiv](https://arxiv.org/abs/1805.08671v1)]
 * Pushing the bounds of dropout. [[arxiv](https://arxiv.org/abs/1805.09208v1)]
 * Step Size Matters in Deep Learning. [[arxiv](https://arxiv.org/abs/1805.08890v1)]
