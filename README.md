@@ -66,7 +66,7 @@ summaries of papers on deep learning.
 * A Stochastic Decoder for Neural Machine Translation. [arxiv](https://arxiv.org/abs/1805.10844v1) [ACL 2018]
 * Do Better ImageNet Models Transfer Better?. [arxiv](https://arxiv.org/abs/1805.08974v1)
 * Distilling Knowledge for Search-based Structured Prediction. [arxiv](https://arxiv.org/abs/1805.11224v1) [ACL 2018]
-
+* Personalising Mobile Advertising Based on Users Installed Apps. [arxiv](https://arxiv.org/abs/1503.00587v1)
 
 ********************************
 
