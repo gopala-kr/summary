@@ -31,6 +31,7 @@ summaries of papers on deep learning.
 05/2018
 
 * AGI Safety Literature Review, 2018. [arxiv](https://arxiv.org/abs/1805.01109v1) (IJCAI), 2018
+* When Will AI Exceed Human Performance? Evidence from AI Experts. [arxiv](https://arxiv.org/abs/1705.08807v3)
 * Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer,2018. [[arxiv](https://arxiv.org/abs/1804.06437v1)] [NAACL 2018]
 * Prefrontal cortex as a meta-reinforcement learning system. [[nature](https://www.biorxiv.org/content/biorxiv/early/2018/04/06/295964.full.pdf)]
 * Dynamic learning rate using Mutual Information. [[arxiv](https://arxiv.org/abs/1805.07249v1)]
