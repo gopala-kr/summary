@@ -72,7 +72,7 @@ summaries of papers on deep learning.
 
 ----------------------
 
-> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”,](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
+> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
 
 || [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) + [AI100_2](https://www.cbinsights.com/research/artificial-intelligence-top-startups/) | [ai-angelList](https://angel.co/artificial-intelligence) | [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys) ||
 
