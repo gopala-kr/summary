@@ -192,6 +192,7 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 * [aideadlin.es](https://aideadlin.es/)
 * [/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)
 * [conference paper templates](https://github.com/wk910930/paper-template)
+* [AI Conferences in 2018](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf)
 
 
 <table class="conferences">
