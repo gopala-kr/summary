@@ -193,7 +193,7 @@ to dive in [db-readings](https://github.com/rxin/db-readings)
 * [/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)
 * [conference paper templates](https://github.com/wk910930/paper-template)
 * [AI Conferences in 2018](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf)
-
+* [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
 <table class="conferences">
    <thead>
