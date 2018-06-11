@@ -26,6 +26,13 @@ summaries of papers on deep learning.
 * [[March-2018](https://github.com/gopala-kr/summary/tree/master/summaries/March-2018)]
 * [[April-2018](https://github.com/gopala-kr/summary/blob/master/summaries/April-2018/README.md)]
 
+-----------------------
+
+06/2018
+
+- [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261v1)
+- [Playing Atari with Six Neurons](https://arxiv.org/abs/1806.01363v1)
+
 --------------
 
 05/2018
