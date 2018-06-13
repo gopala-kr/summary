@@ -177,7 +177,7 @@ Quora
 
 ----------------------
 
-to dive in [db-readings](https://github.com/rxin/db-readings) [db's](https://github.com/gopala-kr/summary/blob/master/db-readings/db.md)
+to dive in [db-readings](https://github.com/rxin/db-readings) | [db's](https://github.com/gopala-kr/summary/blob/master/db-readings/db.md)
 
 * [Week-1]
 * [Week-2]
