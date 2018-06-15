@@ -30,8 +30,14 @@ summaries of papers on deep learning.
 
 06/2018
 
+
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261v1)
+
+
+RL
+
 - [Playing Atari with Six Neurons](https://arxiv.org/abs/1806.01363v1)
+- [Unsupervised Meta-Learning for Reinforcement Learning](https://arxiv.org/pdf/1806.04640v1.pdf)
 
 
 --------------
