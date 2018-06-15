@@ -32,7 +32,9 @@ summaries of papers on deep learning.
 
 
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261v1)
-
+- A Question-Answering framework for plots using Deep learning. [arxiv](https://arxiv.org/abs/1806.04655v1)
+- Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances. [arxiv](https://arxiv.org/abs/1806.03577v1)
+- [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v1.pdf)
 
 RL
 
