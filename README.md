@@ -34,7 +34,14 @@ summaries of papers on deep learning.
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261v1)
 - A Question-Answering framework for plots using Deep learning. [arxiv](https://arxiv.org/abs/1806.04655v1)
 - Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances. [arxiv](https://arxiv.org/abs/1806.03577v1)
+- [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393v1)
+
+
+nlp
+
 - [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v1.pdf)
+- [Scaling Neural Machine Translation](https://arxiv.org/abs/1806.00187v1)
+- [A Survey on Open Information Extraction](https://arxiv.org/abs/1806.05599v1)
 
 RL
 
