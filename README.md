@@ -33,6 +33,7 @@ summaries of papers on deep learning.
 
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261v1)
 - A Question-Answering framework for plots using Deep learning. [arxiv](https://arxiv.org/abs/1806.04655v1)
+- [Neural Stethoscopes: Unifying Analytic, Auxiliary and Adversarial Network Probing](https://arxiv.org/abs/1806.05502v1)
 
 vision
 
