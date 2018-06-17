@@ -99,6 +99,7 @@ RL
 * Do Better ImageNet Models Transfer Better?. [arxiv](https://arxiv.org/abs/1805.08974v1)
 * Distilling Knowledge for Search-based Structured Prediction. [arxiv](https://arxiv.org/abs/1805.11224v1) [ACL 2018]
 * Personalising Mobile Advertising Based on Users Installed Apps. [arxiv](https://arxiv.org/abs/1503.00587v1)
+- [Efficient Traffic-Sign Recognition with Scale-aware CNN](https://arxiv.org/abs/1805.12289v1)
 
 ********************************
 
