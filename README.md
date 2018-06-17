@@ -43,6 +43,7 @@ vision
 
 nlp
 
+- [On Accurate Evaluation of GANs for Language Generation](https://arxiv.org/abs/1806.04936v2)
 - Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances. [arxiv](https://arxiv.org/abs/1806.03577v1)
 - [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v1.pdf)
 - [Scaling Neural Machine Translation](https://arxiv.org/abs/1806.00187v1)
