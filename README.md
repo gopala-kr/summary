@@ -35,12 +35,13 @@ summaries of papers on deep learning.
 - A Question-Answering framework for plots using Deep learning. [arxiv](https://arxiv.org/abs/1806.04655v1)
 - [Neural Stethoscopes: Unifying Analytic, Auxiliary and Adversarial Network Probing](https://arxiv.org/abs/1806.05502v1)
 - [Autoregressive Quantile Networks for Generative Modeling](https://arxiv.org/abs/1806.05575v1)
-- [Drive2Vec: Multiscale State-Space Embedding of
-Vehicular Sensor Data](https://arxiv.org/pdf/1806.04795v1.pdf)
+- [Drive2Vec: Multiscale State-Space Embedding of Vehicular Sensor Data](https://arxiv.org/pdf/1806.04795v1.pdf)
 
 vision
 
 - [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393v1)
+- [Copycat CNN: Stealing Knowledge by Persuading
+Confession with Random Non-Labeled Data](https://arxiv.org/pdf/1806.05476v1.pdf)
 
 
 nlp
