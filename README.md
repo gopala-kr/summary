@@ -40,7 +40,7 @@ summaries of papers on deep learning.
 - [Deep Neural Decision Trees](https://arxiv.org/abs/1806.06988v1).2018 ICML Workshop
 - [StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing](https://arxiv.org/abs/1806.07832v1). 	ACL 2018
 - [Insights on representational similarity in neural networks with canonical correlation](https://arxiv.org/abs/1806.05759v1). 	NIPS 2018
-- [Non-local Neural Networks](https://arxiv.org/abs/1711.07971v3). CVPR 2018
+- [Non-local Neural Networks](https://arxiv.org/abs/1711.07971v3). CVPR 2018 [[code](https://github.com/facebookresearch/video-nonlocal-net)]
 
 
 vision
