@@ -36,6 +36,12 @@ summaries of papers on deep learning.
 - [Neural Stethoscopes: Unifying Analytic, Auxiliary and Adversarial Network Probing](https://arxiv.org/abs/1806.05502v1)
 - [Autoregressive Quantile Networks for Generative Modeling](https://arxiv.org/abs/1806.05575v1)
 - [Drive2Vec: Multiscale State-Space Embedding of Vehicular Sensor Data](https://arxiv.org/pdf/1806.04795v1.pdf)
+- [On Machine Learning and Structure for Mobile Robots](https://arxiv.org/abs/1806.06003v1)
+- [Deep Neural Decision Trees](https://arxiv.org/abs/1806.06988v1).2018 ICML Workshop
+- [StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing](https://arxiv.org/abs/1806.07832v1). 	ACL 2018
+- [Insights on representational similarity in neural networks with canonical correlation](https://arxiv.org/abs/1806.05759v1). 	NIPS 2018
+- [Non-local Neural Networks](https://arxiv.org/abs/1711.07971v3). CVPR 2018
+
 
 vision
 
@@ -51,6 +57,7 @@ nlp
 - [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v1.pdf)
 - [Scaling Neural Machine Translation](https://arxiv.org/abs/1806.00187v1)
 - [A Survey on Open Information Extraction](https://arxiv.org/abs/1806.05599v1)
+- [Extracting News Events from Microblogs](https://arxiv.org/abs/1806.07573v1)
 
 RL
 
