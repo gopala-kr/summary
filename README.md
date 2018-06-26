@@ -43,6 +43,7 @@ summaries of papers on deep learning.
 - [Non-local Neural Networks](https://arxiv.org/abs/1711.07971v3). CVPR 2018 [[code](https://github.com/facebookresearch/video-nonlocal-net)]
 - [End-to-End Speech Recognition From the Raw Waveform](https://arxiv.org/abs/1806.07098v2)
 - [Polynomial Regression As an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850v1.pdf)
+- [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/pdf/1806.07755.pdf). [[code](https://github.com/xuqiantong/GAN-Metrics)]
 
 
 vision
