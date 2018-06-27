@@ -44,7 +44,7 @@ summaries of papers on deep learning.
 - [End-to-End Speech Recognition From the Raw Waveform](https://arxiv.org/abs/1806.07098v2)
 - [Polynomial Regression As an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850v1.pdf)
 - [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/pdf/1806.07755.pdf). [[code](https://github.com/xuqiantong/GAN-Metrics)]
-- [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/pdf/1806.08756.pdf) [code](https://github.com/RobotLocomotion/pytorch-dense-correspondence)
+- [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/pdf/1806.08756.pdf) [[code](https://github.com/RobotLocomotion/pytorch-dense-correspondence)]
 
 vision
 
