@@ -72,6 +72,47 @@ RL
 - [A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress](https://arxiv.org/pdf/1806.06877v1.pdf)
 
 
+2018 so far..
+
+
+- Deep Reinforcement Fuzzing. [[arxiv](https://arxiv.org/abs/1801.04589)]
+- Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [[arxiv](https://arxiv.org/abs/1801.05453)]
+- Moments in Time Dataset: one million videos for event understanding. [[arxiv](https://arxiv.org/abs/1801.03150)]
+- DeepMind Control Suite. [[arxiv](https://arxiv.org/abs/1801.00690v1)]
+- Neural Speed Reading via Skim-RNN. [[arxiv](https://arxiv.org/abs/1711.02085)]
+- Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [[arxiv](https://arxiv.org/abs/1801.00388)]
+- Adversarial Patch. [[arxiv](https://arxiv.org/abs/1712.09665?utm_content=buffered226&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]
+- Recent Advances in Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1801.01078?utm_content=buffer47e6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+
+
+> interesting blogs
+
+- [High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)
+- [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
+- [The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://services.google.com/fb/forms/tpusignup/)
+- [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
+- [Four deep learning trends from ACL 2017](http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html)
+- [Fitting larger networks into memory.](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9)
+- [NIPS 2017: Policy Field Notes](https://medium.com/@timhwang/nips-2017-policy-field-notes-55176da092d1)
+- [Introducing the CVPR 2018 Learned Image Compression Challenge](https://ai.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html)
+- [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://github.com/facebookresearch/wav2letter?utm_content=buffer07d64&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Automated Bug Triaging](http://bugtriage.mybluemix.net/?utm_content=buffer18b2e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Interpreting Deep Neural Networks](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/?utm_content=buffer36f84&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/?utm_content=buffer616c9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
+- [Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
+- [Ray RLlib: Scalable Reinforcement Learning](http://ray.readthedocs.io/en/latest/rllib.html)
+- [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+
 --------------
 
 05/2018
