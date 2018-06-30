@@ -24,14 +24,25 @@
 - [Transfer Your Font Style with GANs](http://bair.berkeley.edu/blog/2018/03/13/mcgan/)
 - [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)
 - [Deepmind: Understanding deep learning through neuron deletion](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
+- [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
+- [Learning Inside of Dreams for RL Agents](https://worldmodels.github.io/)
+- [Classification Interpretability with Generative Adversarial Networks](https://medium.com/square-corner-blog/making-ai-interpretable-with-generative-adversarial-networks-766abc953edf)
+- [Deepmind: Learning to Navigate Without Maps](https://deepmind.com/blog/learning-to-navigate-cities-without-a-map/)
+- [A Linear Algebra Companion Guide to the Goodfellow-Bengio Deep Learning Book](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
+- [Learning Location Embeddings](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
+- [France’s AI Strategy](https://www.wired.com/story/emmanuel-macron-talks-to-wired-about-frances-ai-strategy/)
+- [Highlights from the TensorFlow Developer Summit, 2018](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2)
+- [Predicting Bipolar States with Phone Data and Neural Networks](https://www.technologyreview.com/the-download/610768/mood-disorders-could-be-diagnosed-by-the-way-you-fiddle-with-your-phone/)
+- [China’s Rolled Out Their AI-Based Social Credit System](https://motherboard.vice.com/en_us/article/wj7n74/china-jaywalking-facial-recognition-camera)
+- [The NIH Starts Taking Data Science Seriously - Publishes Strategic Plan and RFI](https://nexus.od.nih.gov/all/2018/03/05/requesting-your-input-on-the-draft-nih-strategic-plan-for-data-science/)
+- [Stanford Releases a New Deep Learning Benchmark Focused on Cost & Time](http://dawn.cs.stanford.edu/benchmark/)
+- [March Madness is Over - Queue the Statistical Analyses](http://www.seanabu.com/2018/04/04/Ranking-Every-Year-of-March-Madness/)
+- [Apple Poaches Google’s AI Chief](https://www.nytimes.com/2018/04/03/business/apple-hires-googles-ai-chief.html)
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-
 
 ---------------
 
