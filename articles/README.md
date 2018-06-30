@@ -5,7 +5,9 @@
 
 
 
-#### Jan,Feb,March 2018
+---------------
+
+#### Jan2March 2018
 
 
 - [High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)
