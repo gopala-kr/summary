@@ -52,6 +52,21 @@
 - [Europe Debates Robot Personhood](https://www.politico.eu/article/europe-divided-over-robot-ai-artificial-intelligence-personhood/)
 - [Caffe2 Merges With PyTorch](https://medium.com/@Synced/caffe2-merges-with-pytorch-a89c70ad9eb7)
 - [Accessibility of AI](http://www.fast.ai/2018/04/10/stanford-salon/)
+
+May
+
+- [Neural Nets Can Process and Predict Chaos](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
+- [A New Metric to Gauge Bias in Your Word Vectors](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)
+- [Reward Shaping is Not a Dirty Word in Reinforcement Learning](http://www.argmin.net/2018/04/16/ethical-rewards/)
+- [MobileNet - v2 Explained](http://machinethink.net/blog/mobilenet-v2/)
+- [RNN’s for Non-ML Folk (Artists) Who Use JavaScript](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/)
+- [Removing Background Noises from Your Audio](https://gab41.lab41.org/source-contrastive-estimation-it-removes-noise-too-dc8626835e8e)
+- [EU Countries Team Up to Collaborate on AI to Keep Up with the Rest of the World](https://ec.europa.eu/digital-single-market/en/news/communication-artificial-intelligence-europe)
+- [New NLU Benchmark Centered Around Generalization is Released](https://gluebenchmark.com/)
+- [Michael Jordan Thinks the AI Revolution Hasn’t Even Started Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
+- [Using ML to Predict Bacteria Behavior](https://phys.org/news/2018-04-machine-learning-software-behavior-bacteria.html)
+- [Facebook Enters the AI Chip-Game](https://www.bloomberg.com/news/articles/2018-04-18/facebook-is-forming-a-team-to-design-its-own-chips)
+- [Google’s Use of AI for Security](https://security.googleblog.com/2018/04/leveraging-ai-to-protect-our-users-and.html)
 - []()
 - []()
 - []()
