@@ -54,6 +54,14 @@ Interesting Articles on AI research/progress/applications
 - A Survey on Learning to Hash. [[arxiv](https://arxiv.org/abs/1606.00185)]
 - Closed-loop stimulation of temporal cortex rescues functional networks and improves memory. [[nature](https://www.nature.com/articles/s41467-017-02753-0)]
 - The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities. [[arxiv](https://arxiv.org/abs/1803.03453)]
+- code2vec: Learning Distributed Representations of Code. [[arxiv](https://arxiv.org/abs/1803.09473)]
+- Forward-Backward Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1803.10227)]
+- An Analysis of Neural Language Modeling at Multiple Scales. [[arxiv](https://arxiv.org/abs/1803.08240)]
+- Attention-based Group Recommendation. [[arxiv](https://arxiv.org/pdf/1804.04327.pdf)]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
+- [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
@@ -61,8 +69,9 @@ Interesting Articles on AI research/progress/applications
 - [Future Directions for NLP & Deep Learning Research](http://ruder.io/requests-for-research/)
 - [Parameter Free Hierarchical Graph-Based Clustering for Analyzing Continuous Word Embeddings](http://aclweb.org/anthology/W/W17/W17-2404.pdf?utm_content=buffer5aee5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [MusicVAE: Creating a palette for musical scores with machine learning.](https://magenta.tensorflow.org/music-vae)
-
-
+- [Differentiable Plasticity: A New Method for Learning to Learn](https://eng.uber.com/differentiable-plasticity/)
+- [Generative Adversarial Networks 
+for Extreme Learned Image Compression](https://data.vision.ee.ethz.ch/aeirikur/extremecompression/)
 
 
 ********************************
