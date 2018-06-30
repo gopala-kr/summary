@@ -72,8 +72,11 @@ RL
 - [A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress](https://arxiv.org/pdf/1806.06877v1.pdf)
 
 
+----------------------
+
 2018 so far..
 
+> interesting papers
 
 - Deep Reinforcement Fuzzing. [[arxiv](https://arxiv.org/abs/1801.04589)]
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [[arxiv](https://arxiv.org/abs/1801.05453)]
@@ -84,16 +87,20 @@ RL
 - Adversarial Patch. [[arxiv](https://arxiv.org/abs/1712.09665?utm_content=buffered226&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]
 - Recent Advances in Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1801.01078?utm_content=buffer47e6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]
 - Diversity is All You Need:Learning Diverse Skills without a Reward Function. [[arxiv](https://arxiv.org/pdf/1802.06070.pdf)]
+- The AdobeIndoorNav Dataset: Towards Deep Reinforcement Learning based Real-world Indoor Robot Visual Navigation.[[arxiv](https://arxiv.org/abs/1802.08824)]
+- A Survey on Learning to Hash. [[arxiv](https://arxiv.org/abs/1606.00185)]
+- Closed-loop stimulation of temporal cortex rescues functional networks and improves memory. [[nature](https://www.nature.com/articles/s41467-017-02753-0)]
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
-- [[arxiv]()]
-- [[arxiv]()]
+- [Future Directions for NLP & Deep Learning Research](http://ruder.io/requests-for-research/)
 - [Parameter Free Hierarchical Graph-Based Clustering for Analyzing Continuous Word Embeddings](http://aclweb.org/anthology/W/W17/W17-2404.pdf?utm_content=buffer5aee5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-> interesting blogs
+> interesting articles on AI
+
+01/2018 - 03/2018 :
 
 - [High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)
 - [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
@@ -124,6 +131,23 @@ RL
 - [Cloud TPU machine learning accelerators now available in beta](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html)
 - [China overtakes US in AI startup funding with a focus on facial recognition and chips](https://www.theverge.com/2018/2/22/17039696/china-us-ai-funding-startup-comparison)
 - [OpenAI: Preparing for Malicious Uses of AI](https://blog.openai.com/preparing-for-malicious-uses-of-ai/?utm_content=buffer8903c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Deep Learning + Survival Analysis: Our Approach to Multi-Task Frameworks](https://medium.com/square-corner-blog/deep-neural-networks-for-survival-analysis-based-on-a-multi-task-framework-ded8697be85c)
+- [Self-driving cars offer huge benefits—but have a dark side](https://www.economist.com/leaders/2018/03/01/self-driving-cars-offer-huge-benefits-but-have-a-dark-side)
+- [Google Unveils Their Current Progress on Quantum Computing](https://ai.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html)
+- [Deep Learning to Create New Sounds and Music](https://www.blog.google/technology/ai/making-music-using-new-sounds-generated-machine-learning/)
+- [Stanford Employs ML to Understand Conflict in Internet (Reddit) Communities](https://snap.stanford.edu/conflict/)
+- [A WalkThrough on Real Time Video Segmentation](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
+- [Neural Spelling Corrections and the Importance of Accuracy](https://medium.com/scribd-data-science-engineering/neural-spelling-corrections-and-the-importance-of-accuracy-977c0063d20f)
+- [Containerization Made Easy for Data Science](https://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/)
+- [How to build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
+- [Impacts of System Memory vs Computing Speed for AI Algorithms & Chips](http://semiengineering.com/how-ai-impacts-memory-systems/)
+- [Google Helps the Military with Interpreting their Drone Imagery for Threats](https://theintercept.com/2018/03/06/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project/)
+- [Combining the Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+
+
+04/2018 - 06/2018 :
+
+
 
 
 --------------
