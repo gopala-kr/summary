@@ -58,7 +58,7 @@ Interesting Articles on AI research/progress/applications
 - Forward-Backward Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1803.10227)]
 - An Analysis of Neural Language Modeling at Multiple Scales. [[arxiv](https://arxiv.org/abs/1803.08240)]
 - Attention-based Group Recommendation. [[arxiv](https://arxiv.org/pdf/1804.04327.pdf)]
-- [[arxiv]()]
+- NAIS-Net: Stable Deep Networks from Non-Autonomous Differential Equations. [[arxiv](https://arxiv.org/abs/1804.07209)]
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
@@ -72,6 +72,8 @@ Interesting Articles on AI research/progress/applications
 - [Differentiable Plasticity: A New Method for Learning to Learn](https://eng.uber.com/differentiable-plasticity/)
 - [Generative Adversarial Networks 
 for Extreme Learned Image Compression](https://data.vision.ee.ethz.ch/aeirikur/extremecompression/)
+- [Reverse Curriculum Generation
+for Reinforcement Learning](http://proceedings.mlr.press/v78/florensa17a/florensa17a.pdf)
 
 
 ********************************
