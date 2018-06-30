@@ -1,3 +1,48 @@
+
+05/2018
+
+* AGI Safety Literature Review, 2018. [arxiv](https://arxiv.org/abs/1805.01109v1) (IJCAI), 2018
+* When Will AI Exceed Human Performance? Evidence from AI Experts. [arxiv](https://arxiv.org/abs/1705.08807v3)
+* Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer,2018. [[arxiv](https://arxiv.org/abs/1804.06437v1)] [NAACL 2018]
+* Prefrontal cortex as a meta-reinforcement learning system. [[nature](https://www.biorxiv.org/content/biorxiv/early/2018/04/06/295964.full.pdf)]
+* Dynamic learning rate using Mutual Information. [[arxiv](https://arxiv.org/abs/1805.07249v1)]
+* Solving the Rubik's Cube Without Human Knowledge [[arxiv](https://arxiv.org/abs/1805.07470v1)] [NIPS 2018]
+* VideoCapsuleNet: A Simplified Network for Action Detection. [[arxiv](https://arxiv.org/abs/1805.08162v1)]
+* AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. [[arxiv](https://arxiv.org/abs/1805.07440v1)]
+* Fake News Detection with Deep Diffusive Network Model. [[arxiv](https://arxiv.org/abs/1805.08751v1)]
+* Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior. [[arxiv](https://arxiv.org/abs/1805.08010v1)]
+* Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer. [[arxiv](https://arxiv.org/abs/1805.07685v1)] [ACL 2018]
+* Episodic Memory Deep Q-Networks. [arxiv](https://arxiv.org/abs/1805.07603v1) [IJCAI 2018]
+* The EuroCity Persons Dataset: A Novel Benchmark for Object Detection. [arxiv](https://arxiv.org/abs/1805.07193v1)
+* Learning Real-World Robot Policies by Dreaming. [arxiv](https://arxiv.org/abs/1805.07813v1)
+* Self-Attention Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1805.08318v1)]
+* geomstats: a Python Package for Riemannian Geometry in Machine Learning. [[arxiv](https://arxiv.org/abs/1805.08308v1)] [[code](https://github.com/geomstats/geomstats)]
+* The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks. [[arxiv](https://arxiv.org/abs/1803.03635v3)] [NIPS Submission]
+* Adding One Neuron Can Eliminate All Bad Local Minima. [[arxiv](https://arxiv.org/abs/1805.08671v1)]
+* Pushing the bounds of dropout. [[arxiv](https://arxiv.org/abs/1805.09208v1)]
+* Step Size Matters in Deep Learning. [[arxiv](https://arxiv.org/abs/1805.08890v1)]
+* A Universal Music Translation Network. [[arxiv](https://arxiv.org/abs/1805.07848v2)]
+* Observe and Look Further: Achieving Consistent Performance on Atari. [arxiv](https://arxiv.org/abs/1805.11593v1)
+* Playing hard exploration games by watching YouTube. [arxiv](https://arxiv.org/abs/1805.11592v1)
+* CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation. [arxiv](https://arxiv.org/abs/1805.11535v1)
+* Quantum-inspired Complex Word Embedding. [arxiv](https://arxiv.org/abs/1805.11351v1)
+* Neural networks for stock price prediction. [arxiv](https://arxiv.org/abs/1805.11317v1)
+* Table-to-Text: Describing Table Region with Natural Language. [arxiv](https://arxiv.org/abs/1805.11234v1)
+* Getting to Know Low-light Images with The Exclusively Dark Dataset. [arxiv](https://arxiv.org/abs/1805.11227v1)
+* Bi-Directional Neural Machine Translation with Synthetic Parallel Data. [arxiv](https://arxiv.org/abs/1805.11213v1) [WNMT 2018]
+* Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting. [arxiv](https://arxiv.org/abs/1805.11080v1) [ACL 2018]
+* More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch. [arxiv](https://arxiv.org/abs/1805.11085v1)
+* Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces. [arxiv](https://arxiv.org/abs/1805.10190v1)
+* Evolutionary Algorithms. [arxiv](https://arxiv.org/abs/1805.11014v1)
+* A Stochastic Decoder for Neural Machine Translation. [arxiv](https://arxiv.org/abs/1805.10844v1) [ACL 2018]
+* Do Better ImageNet Models Transfer Better?. [arxiv](https://arxiv.org/abs/1805.08974v1)
+* Distilling Knowledge for Search-based Structured Prediction. [arxiv](https://arxiv.org/abs/1805.11224v1) [ACL 2018]
+* Personalising Mobile Advertising Based on Users Installed Apps. [arxiv](https://arxiv.org/abs/1503.00587v1)
+- [Efficient Traffic-Sign Recognition with Scale-aware CNN](https://arxiv.org/abs/1805.12289v1)
+
+
+---------------
+
 *  Datasheets for Datasets, 2018. [arxiv](https://arxiv.org/abs/1803.09010v1)
 *  Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review, 2018. [arxiv](https://arxiv.org/abs/1805.00909v2)
 *  SIPS: Unsupervised Succinct Interest Points, 2018. [arxiv](https://arxiv.org/abs/1805.01358v1)
