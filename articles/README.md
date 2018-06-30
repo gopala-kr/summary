@@ -4,6 +4,56 @@
 > Blog posts/articles from pioneers in AI(industrial)
 
 
+
+#### Jan,Feb,March 2018
+
+
+- [High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)
+- [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
+- [The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://services.google.com/fb/forms/tpusignup/)
+- [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
+- [Four deep learning trends from ACL 2017](http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html)
+- [Fitting larger networks into memory.](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9)
+- [NIPS 2017: Policy Field Notes](https://medium.com/@timhwang/nips-2017-policy-field-notes-55176da092d1)
+- [Introducing the CVPR 2018 Learned Image Compression Challenge](https://ai.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html)
+- [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://github.com/facebookresearch/wav2letter?utm_content=buffer07d64&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Automated Bug Triaging](http://bugtriage.mybluemix.net/?utm_content=buffer18b2e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Interpreting Deep Neural Networks](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/?utm_content=buffer36f84&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/?utm_content=buffer616c9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
+- [Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
+- [Ray RLlib: Scalable Reinforcement Learning](http://ray.readthedocs.io/en/latest/rllib.html)
+- [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+- [Elon Musk Steps Down From Open Source AI Group](https://blog.openai.com/openai-supporters/)
+- [AAAS AMA: Hi, we’re researchers from Google, Microsoft, and Facebook who study Artificial Intelligence. Ask us anything!](https://www.reddit.com/r/science/comments/7yegux/aaas_ama_hi_were_researchers_from_google/?utm_content=buffer930f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Algorithmic Impact Assessments: Toward Accountable Automation in Public Agencies](https://medium.com/@AINowInstitute/algorithmic-impact-assessments-toward-accountable-automation-in-public-agencies-bd9856e6fdde)
+- ['Memtransistor' Forms Foundational Circuit Element to Neuromorphic Computing](https://spectrum.ieee.org/nanoclast/semiconductors/devices/memtransistor-forms-foundational-circuit-element-to-neuromorphic-computing?utm_content=buffere4f83&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+- [Google AI Education](https://ai.google/education)
+- [Deep Learning, Structure and Innate Priors: A Discussion between Yann LeCun and Christopher Manning](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html?utm_content=buffer6c184&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [An in-depth look at Google’s first Tensor Processing Unit (TPU)](https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu?utm_content=buffer78a07&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats?utm_content=buffer5733d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Cloud TPU machine learning accelerators now available in beta](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html)
+- [China overtakes US in AI startup funding with a focus on facial recognition and chips](https://www.theverge.com/2018/2/22/17039696/china-us-ai-funding-startup-comparison)
+- [OpenAI: Preparing for Malicious Uses of AI](https://blog.openai.com/preparing-for-malicious-uses-of-ai/?utm_content=buffer8903c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Deep Learning + Survival Analysis: Our Approach to Multi-Task Frameworks](https://medium.com/square-corner-blog/deep-neural-networks-for-survival-analysis-based-on-a-multi-task-framework-ded8697be85c)
+- [Self-driving cars offer huge benefits—but have a dark side](https://www.economist.com/leaders/2018/03/01/self-driving-cars-offer-huge-benefits-but-have-a-dark-side)
+- [Google Unveils Their Current Progress on Quantum Computing](https://ai.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html)
+- [Deep Learning to Create New Sounds and Music](https://www.blog.google/technology/ai/making-music-using-new-sounds-generated-machine-learning/)
+- [Stanford Employs ML to Understand Conflict in Internet (Reddit) Communities](https://snap.stanford.edu/conflict/)
+- [A WalkThrough on Real Time Video Segmentation](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
+- [Neural Spelling Corrections and the Importance of Accuracy](https://medium.com/scribd-data-science-engineering/neural-spelling-corrections-and-the-importance-of-accuracy-977c0063d20f)
+- [Containerization Made Easy for Data Science](https://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/)
+- [How to build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
+- [Impacts of System Memory vs Computing Speed for AI Algorithms & Chips](http://semiengineering.com/how-ai-impacts-memory-systems/)
+- [Google Helps the Military with Interpreting their Drone Imagery for Threats](https://theintercept.com/2018/03/06/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project/)
+- [Combining the Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+
+
+-----------------
+-----------
+
 ### Intel AI
 
 * [Checking in with the Intel® AI Lab](https://ai.intel.com/checking-in-with-the-intel-ai-lab/)
