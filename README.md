@@ -21,63 +21,19 @@ summaries of papers on deep learning.
 
 ----------------------------------
 
-* [[Jan-2018](https://github.com/gopala-kr/summary/tree/master/summaries/Jan-2018)]
-* [[Feb-2018](https://github.com/gopala-kr/summary/tree/master/summaries/Feb-2018)]
-* [[March-2018](https://github.com/gopala-kr/summary/tree/master/summaries/March-2018)]
-* [[April-2018](https://github.com/gopala-kr/summary/blob/master/summaries/April-2018/README.md)]
+- [[Jan-2018](https://github.com/gopala-kr/summary/tree/master/summaries/Jan-2018)]
+- [[Feb-2018](https://github.com/gopala-kr/summary/tree/master/summaries/Feb-2018)]
+- [[March-2018](https://github.com/gopala-kr/summary/tree/master/summaries/March-2018)]
+- [[April-2018](https://github.com/gopala-kr/summary/blob/master/summaries/April-2018/README.md)]
 - [[May-2018](https://github.com/gopala-kr/summary/blob/master/summaries/May-2018/README.md)]
+- [[June-2018](https://github.com/gopala-kr/summary/blob/master/summaries/June-2018/README.md)]
+- [[2018 so far](#2018-so-far)]
+- Interesting Articles on AI research - [[Jan2March 2018](https://github.com/gopala-kr/summary/tree/master/articles#jan2march-2018)]  [[April2June 2018](https://github.com/gopala-kr/summary/tree/master/articles#april2june-2018)]
 
 -----------------------
 
-06/2018
 
-
-- [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261v1)
-- A Question-Answering framework for plots using Deep learning. [arxiv](https://arxiv.org/abs/1806.04655v1)
-- [Neural Stethoscopes: Unifying Analytic, Auxiliary and Adversarial Network Probing](https://arxiv.org/abs/1806.05502v1)
-- [Autoregressive Quantile Networks for Generative Modeling](https://arxiv.org/abs/1806.05575v1)
-- [Drive2Vec: Multiscale State-Space Embedding of Vehicular Sensor Data](https://arxiv.org/pdf/1806.04795v1.pdf)
-- [On Machine Learning and Structure for Mobile Robots](https://arxiv.org/abs/1806.06003v1)
-- [Deep Neural Decision Trees](https://arxiv.org/abs/1806.06988v1).2018 ICML Workshop
-- [StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing](https://arxiv.org/abs/1806.07832v1). 	ACL 2018
-- [Insights on representational similarity in neural networks with canonical correlation](https://arxiv.org/abs/1806.05759v1). 	NIPS 2018
-- [Non-local Neural Networks](https://arxiv.org/abs/1711.07971v3). CVPR 2018 [[code](https://github.com/facebookresearch/video-nonlocal-net)]
-- [End-to-End Speech Recognition From the Raw Waveform](https://arxiv.org/abs/1806.07098v2)
-- [Polynomial Regression As an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850v1.pdf)
-- [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/pdf/1806.07755.pdf). [[code](https://github.com/xuqiantong/GAN-Metrics)]
-- [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/pdf/1806.08756.pdf) [[code](https://github.com/RobotLocomotion/pytorch-dense-correspondence)]
-- [DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055v1.pdf). [[code](https://github.com/quark0/darts)]
-- [Towards Practical Visual Search Engine within Elasticsearch](https://arxiv.org/pdf/1806.08896v1.pdf)
-
-
-vision
-
-- [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393v1)
-- [Copycat CNN: Stealing Knowledge by Persuading
-Confession with Random Non-Labeled Data](https://arxiv.org/pdf/1806.05476v1.pdf)
-
-
-nlp
-
-- [On Accurate Evaluation of GANs for Language Generation](https://arxiv.org/abs/1806.04936v2)
-- Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances. [arxiv](https://arxiv.org/abs/1806.03577v1)
-- [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v1.pdf)
-- [Scaling Neural Machine Translation](https://arxiv.org/abs/1806.00187v1)
-- [A Survey on Open Information Extraction](https://arxiv.org/abs/1806.05599v1)
-- [Extracting News Events from Microblogs](https://arxiv.org/abs/1806.07573v1)
-
-RL
-
-- [Playing Atari with Six Neurons](https://arxiv.org/abs/1806.01363v1)
-- [Unsupervised Meta-Learning for Reinforcement Learning](https://arxiv.org/pdf/1806.04640v1.pdf)
-- [A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress](https://arxiv.org/pdf/1806.06877v1.pdf)
-
-
-----------------------
-
-2018 so far..
-
-> interesting papers
+#### 2018 so far
 
 - Deep Reinforcement Fuzzing. [[arxiv](https://arxiv.org/abs/1801.04589)]
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [[arxiv](https://arxiv.org/abs/1801.05453)]
@@ -101,75 +57,6 @@ RL
 - [MusicVAE: Creating a palette for musical scores with machine learning.](https://magenta.tensorflow.org/music-vae)
 
 
-> interesting articles on AI
-
-01/2018 - 03/2018 :
-
-- [High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)
-- [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
-- [The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://services.google.com/fb/forms/tpusignup/)
-- [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
-- [Four deep learning trends from ACL 2017](http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html)
-- [Fitting larger networks into memory.](https://medium.com/tensorflow/fitting-larger-networks-into-memory-583e3c758ff9)
-- [NIPS 2017: Policy Field Notes](https://medium.com/@timhwang/nips-2017-policy-field-notes-55176da092d1)
-- [Introducing the CVPR 2018 Learned Image Compression Challenge](https://ai.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html)
-- [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://github.com/facebookresearch/wav2letter?utm_content=buffer07d64&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Automated Bug Triaging](http://bugtriage.mybluemix.net/?utm_content=buffer18b2e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Interpreting Deep Neural Networks](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/?utm_content=buffer36f84&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/?utm_content=buffer616c9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
-- [Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
-- [Ray RLlib: Scalable Reinforcement Learning](http://ray.readthedocs.io/en/latest/rllib.html)
-- [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
-- [Elon Musk Steps Down From Open Source AI Group](https://blog.openai.com/openai-supporters/)
-- [AAAS AMA: Hi, we’re researchers from Google, Microsoft, and Facebook who study Artificial Intelligence. Ask us anything!](https://www.reddit.com/r/science/comments/7yegux/aaas_ama_hi_were_researchers_from_google/?utm_content=buffer930f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Algorithmic Impact Assessments: Toward Accountable Automation in Public Agencies](https://medium.com/@AINowInstitute/algorithmic-impact-assessments-toward-accountable-automation-in-public-agencies-bd9856e6fdde)
-- ['Memtransistor' Forms Foundational Circuit Element to Neuromorphic Computing](https://spectrum.ieee.org/nanoclast/semiconductors/devices/memtransistor-forms-foundational-circuit-element-to-neuromorphic-computing?utm_content=buffere4f83&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
-- [Google AI Education](https://ai.google/education)
-- [Deep Learning, Structure and Innate Priors: A Discussion between Yann LeCun and Christopher Manning](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html?utm_content=buffer6c184&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [An in-depth look at Google’s first Tensor Processing Unit (TPU)](https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu?utm_content=buffer78a07&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats?utm_content=buffer5733d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Cloud TPU machine learning accelerators now available in beta](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html)
-- [China overtakes US in AI startup funding with a focus on facial recognition and chips](https://www.theverge.com/2018/2/22/17039696/china-us-ai-funding-startup-comparison)
-- [OpenAI: Preparing for Malicious Uses of AI](https://blog.openai.com/preparing-for-malicious-uses-of-ai/?utm_content=buffer8903c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Deep Learning + Survival Analysis: Our Approach to Multi-Task Frameworks](https://medium.com/square-corner-blog/deep-neural-networks-for-survival-analysis-based-on-a-multi-task-framework-ded8697be85c)
-- [Self-driving cars offer huge benefits—but have a dark side](https://www.economist.com/leaders/2018/03/01/self-driving-cars-offer-huge-benefits-but-have-a-dark-side)
-- [Google Unveils Their Current Progress on Quantum Computing](https://ai.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html)
-- [Deep Learning to Create New Sounds and Music](https://www.blog.google/technology/ai/making-music-using-new-sounds-generated-machine-learning/)
-- [Stanford Employs ML to Understand Conflict in Internet (Reddit) Communities](https://snap.stanford.edu/conflict/)
-- [A WalkThrough on Real Time Video Segmentation](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
-- [Neural Spelling Corrections and the Importance of Accuracy](https://medium.com/scribd-data-science-engineering/neural-spelling-corrections-and-the-importance-of-accuracy-977c0063d20f)
-- [Containerization Made Easy for Data Science](https://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/)
-- [How to build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
-- [Impacts of System Memory vs Computing Speed for AI Algorithms & Chips](http://semiengineering.com/how-ai-impacts-memory-systems/)
-- [Google Helps the Military with Interpreting their Drone Imagery for Threats](https://theintercept.com/2018/03/06/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project/)
-- [Combining the Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
-
-
-04/2018 - 06/2018 :
-
-
-- [Microsoft Reaches Human Parity in Translating News Stories from Chinese to English](https://blogs.microsoft.com/ai/machine-translation-news-test-set-human-parity/)
-- [The Machine Learning Reproducibility Crisis](https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/)
-- [A Look at Alibaba's AI Strategy](https://www.technologyreview.com/s/610219/inside-the-chinese-lab-that-plans-to-rewire-the-world-with-ai/)
-- [The Linux Foundation Launches a Deep Learning Foundation](https://www.linuxfoundation.org/projects/deep-learning/)
-- [Using Machine Learning and WiFi-Like-Signals to Detect Alzheimer's Early On](https://www.technologyreview.com/s/609236/ai-can-spot-signs-of-alzheimers-before-your-family-does/)
-- [Identifying Instances of Simpson’s Paradox in Your Data](https://blog.acolyer.org/2018/02/21/can-you-trust-the-trend-discovering-simpsons-paradoxes-in-social-data/)
-- [Beginners Guide to Monte Carlo Tree Search](https://int8.io/monte-carlo-tree-search-beginners-guide/)
-- [Diving into Deep Convolutional Semantic Segmentation Networks and Deeplab_V3](https://medium.freecodecamp.org/diving-into-deep-convolutional-semantic-segmentation-networks-and-deeplab-v3-4f094fa387df)
-- [Marketing for Data Science: A 7 Step ‘Go-to-Market’ Plan for Your Next Data Product](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55)
-- [Transfer Your Font Style with GANs](http://bair.berkeley.edu/blog/2018/03/13/mcgan/)
-- [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)
-- [Deepmind: Understanding deep learning through neuron deletion](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 
 ********************************
