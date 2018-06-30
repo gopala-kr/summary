@@ -12,6 +12,26 @@
 
 ### April2June 2018
 
+- [Microsoft Reaches Human Parity in Translating News Stories from Chinese to English](https://blogs.microsoft.com/ai/machine-translation-news-test-set-human-parity/)
+- [The Machine Learning Reproducibility Crisis](https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/)
+- [A Look at Alibaba's AI Strategy](https://www.technologyreview.com/s/610219/inside-the-chinese-lab-that-plans-to-rewire-the-world-with-ai/)
+- [The Linux Foundation Launches a Deep Learning Foundation](https://www.linuxfoundation.org/projects/deep-learning/)
+- [Using Machine Learning and WiFi-Like-Signals to Detect Alzheimer's Early On](https://www.technologyreview.com/s/609236/ai-can-spot-signs-of-alzheimers-before-your-family-does/)
+- [Identifying Instances of Simpson’s Paradox in Your Data](https://blog.acolyer.org/2018/02/21/can-you-trust-the-trend-discovering-simpsons-paradoxes-in-social-data/)
+- [Beginners Guide to Monte Carlo Tree Search](https://int8.io/monte-carlo-tree-search-beginners-guide/)
+- [Diving into Deep Convolutional Semantic Segmentation Networks and Deeplab_V3](https://medium.freecodecamp.org/diving-into-deep-convolutional-semantic-segmentation-networks-and-deeplab-v3-4f094fa387df)
+- [Marketing for Data Science: A 7 Step ‘Go-to-Market’ Plan for Your Next Data Product](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55)
+- [Transfer Your Font Style with GANs](http://bair.berkeley.edu/blog/2018/03/13/mcgan/)
+- [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)
+- [Deepmind: Understanding deep learning through neuron deletion](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ---------------
 
