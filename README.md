@@ -83,6 +83,7 @@ RL
 - Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [[arxiv](https://arxiv.org/abs/1801.00388)]
 - Adversarial Patch. [[arxiv](https://arxiv.org/abs/1712.09665?utm_content=buffered226&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]
 - Recent Advances in Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1801.01078?utm_content=buffer47e6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]
+- Diversity is All You Need:Learning Diverse Skills without a Reward Function. [[arxiv](https://arxiv.org/pdf/1802.06070.pdf)]
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
@@ -90,8 +91,7 @@ RL
 - [[arxiv]()]
 - [[arxiv]()]
 - [[arxiv]()]
-- [[arxiv]()]
-
+- [Parameter Free Hierarchical Graph-Based Clustering for Analyzing Continuous Word Embeddings](http://aclweb.org/anthology/W/W17/W17-2404.pdf?utm_content=buffer5aee5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 > interesting blogs
 
@@ -112,6 +112,19 @@ RL
 - [Ray RLlib: Scalable Reinforcement Learning](http://ray.readthedocs.io/en/latest/rllib.html)
 - [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+- [Elon Musk Steps Down From Open Source AI Group](https://blog.openai.com/openai-supporters/)
+- [AAAS AMA: Hi, we’re researchers from Google, Microsoft, and Facebook who study Artificial Intelligence. Ask us anything!](https://www.reddit.com/r/science/comments/7yegux/aaas_ama_hi_were_researchers_from_google/?utm_content=buffer930f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Algorithmic Impact Assessments: Toward Accountable Automation in Public Agencies](https://medium.com/@AINowInstitute/algorithmic-impact-assessments-toward-accountable-automation-in-public-agencies-bd9856e6fdde)
+- ['Memtransistor' Forms Foundational Circuit Element to Neuromorphic Computing](https://spectrum.ieee.org/nanoclast/semiconductors/devices/memtransistor-forms-foundational-circuit-element-to-neuromorphic-computing?utm_content=buffere4f83&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+- [Google AI Education](https://ai.google/education)
+- [Deep Learning, Structure and Innate Priors: A Discussion between Yann LeCun and Christopher Manning](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html?utm_content=buffer6c184&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [An in-depth look at Google’s first Tensor Processing Unit (TPU)](https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu?utm_content=buffer78a07&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats?utm_content=buffer5733d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Cloud TPU machine learning accelerators now available in beta](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html)
+- [China overtakes US in AI startup funding with a focus on facial recognition and chips](https://www.theverge.com/2018/2/22/17039696/china-us-ai-funding-startup-comparison)
+- [OpenAI: Preparing for Malicious Uses of AI](https://blog.openai.com/preparing-for-malicious-uses-of-ai/?utm_content=buffer8903c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 
 --------------
 
