@@ -69,9 +69,6 @@ Interesting Articles on AI research/progress/applications
 - DeepPhys: Video-Based Physiological Measurement Using Convolutional Attention Networks. [[arxiv](https://arxiv.org/abs/1805.07888)]
 - Relational inductive biases, deep learning, and graph networks. [[arxiv](https://arxiv.org/abs/1806.01261)]
 - Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks. [[arxiv](https://arxiv.org/pdf/1805.12076.pdf)]
-- [[arxiv]()]
-- [[arxiv]()]
-- [[arxiv]()]
 - [Future Directions for NLP & Deep Learning Research](http://ruder.io/requests-for-research/)
 - [Parameter Free Hierarchical Graph-Based Clustering for Analyzing Continuous Word Embeddings](http://aclweb.org/anthology/W/W17/W17-2404.pdf?utm_content=buffer5aee5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [MusicVAE: Creating a palette for musical scores with machine learning.](https://magenta.tensorflow.org/music-vae)
@@ -81,6 +78,9 @@ for Extreme Learned Image Compression](https://data.vision.ee.ethz.ch/aeirikur/e
 - [Reverse Curriculum Generation
 for Reinforcement Learning](http://proceedings.mlr.press/v78/florensa17a/florensa17a.pdf)
 - [Exploring the Limits of Weakly Supervised Pretraining](https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/)
+- [Augmented space planning: Using procedural generation to automate desk layouts](http://journals.sagepub.com/eprint/KumUk4AE8tsngPnqENDX/full)
+- [FontCode: Embedding Information in Text Documents using Glyph Perturbation](http://www.cs.columbia.edu/cg/fontcode/)
+- [Eye In-Painting with Exemplar Generative Adversarial Networks](https://research.fb.com/publications/eye-in-painting-with-exemplar-generative-adversarial-networks/)
 
 
 ********************************
