@@ -87,8 +87,6 @@ for Reinforcement Learning](http://proceedings.mlr.press/v78/florensa17a/florens
 
 ----------------------
 
-> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
-
 || [dl-research-groups](https://github.com/gopala-kr/summary/tree/master/dl-research-groups) | [dl-frameworks](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks) | [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)+[dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md) | [awesome-dl](https://github.com/terryum/awesome-deep-learning-papers)+[roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)+[ml](https://github.com/josephmisiti/awesome-machine-learning) | [CB-Insights_AI-100](https://s3-us-west-2.amazonaws.com/cbi-content/research-reports/CB-Insights_AI-100-2017.pdf) + [AI100_2](https://www.cbinsights.com/research/artificial-intelligence-top-startups/) | [ai-angelList](https://angel.co/artificial-intelligence) | [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys) ||
 
 || [a--rnn](https://github.com/kjw0612/awesome-rnn) | [a-deep-vision](https://github.com/kjw0612/awesome-deep-vision) | [a--random-forest](https://github.com/kjw0612/awesome-random-forest) | [a-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | [a-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | [a-p](https://github.com/abhshkdz/papers) | [d-l-p](https://github.com/sbrugman/deep-learning-papers) | [drlp](https://github.com/junhyukoh/deep-reinforcement-learning-papers) | [DeepLearningImplementations](https://github.com/tdeboissiere/DeepLearningImplementations) | [drlp2](https://github.com/muupan/deep-reinforcement-learning-papers) | [dl-papernotes](https://github.com/dennybritz/deeplearning-papernotes) | [dl-r](https://github.com/endymecy/awesome-deeplearning-resources) | [med-appl](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) | [very-dl](https://github.com/daviddao/awesome-very-deep-learning) | [nn.papers](https://github.com/robertsdionne/neural-network-papers) | [a-GAN](https://github.com/nightrome/really-awesome-gan) | [rl.papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)| [dnn.med](https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare) | [cuda.programming](https://github.com/Erkaman/Awesome-CUDA) | [caltech.cuda](http://courses.cms.caltech.edu/cs179/) | [rtb-papers](https://github.com/wnzhang/rtb-papers) || 
@@ -196,203 +194,24 @@ to dive in [db-readings](https://github.com/rxin/db-readings) | [db's](https://g
 * [Week-7]
 * [Week-8]
 
-
-
-
-
 ------------------
 
-**Machine Learning / Deep Learning conferences in 2017 and 2018**
+**Machine Learning / Deep Learning conferences in 2018**
 
 * [aideadlin.es](https://aideadlin.es/)
 * [/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)
 * [conference paper templates](https://github.com/wk910930/paper-template)
 * [AI Conferences in 2018](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf)
 * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
+* [guide2research](http://www.guide2research.com/topconf/machine-learning)
 
-<table class="conferences">
-   <thead>
-      <tr>
-         <th>Conference</th>
-        <th>Location</th>
-         <th>Date</th>
-         <th>Submission Deadline</th>
-         <th>Comments</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td class="left">
-            <a hf="https://ai-europe.com/" target="_blank">
-            AI Erope
-           <spaclass="label label-dark">NON-TECHNICAL</span>
-            </a>-         </td>
-         <td>London, UK</td>
-         <td class="left">Nov 20 - Nov 21, 2017</td>
-         <td class="expired">Expired</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="http://www.datascicon.tech/" target="_blank">
-            DataSciCon.Tech
-            </a>
-         </td>
-         <td>Atlanta, GA</td>
-         <td class="left">Nov 29 - Dec 1, 2017</td>
-         <td class="expired">Expired (Aug 1, 2017)</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://sites.google.com/view/socml/" target="_blank">
-            Self-Organizing Conference on Machine Learning
-            </a>
-         </td>
-         <td>Sunnyvale, CA</td>
-         <td class="left">Nov 30 - Dec 1, 2017</td>
-         <td class="expired">Expired (Sep 26, 2017)</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://nips.cc/" target="_blank">
-           NIPS
-            <span class="label label-dark">ACADEMIC</span>
-            </a>
-         </td>
-         <td>Long Beach, CA</td>
-         <td class="left">Dec 4 - Dec 9, 2017</td>
-         <td>NA</td>
-         <td></td>
-     </tr>
-     <tr>
-         <td class="left">
-            <a href="https://mlconference.ai/" target="_blank">
-            ML Conference
-            </a>
-         </td>
-         <td>Berlin, Germany</td>
-        <td class="left">Dec 4 - Dec 6, 2017</td>
-         <td>Open / No deadline</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="http://www.aidataconf.com/" target="_blank">
-           AI Data Conf: Capital Markets
-           <span class="label label-dark">NON-TECHNICAL</span>
-            </a>
-         </td>
-         <td>New York, NY</td>
-         <td class="left">Dec 6 - Dec 7, 2017</td>
-         <td>Open / No deadline</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://aiworld.com/" target="_blank">
-            AI World
-            <span class="label label-dark">NON-TECHNICAL</span>
-            </a>
-         </td>
-         <td>Boston, MA</td>
-         <td class="left">Dec 11 - Dec 13, 2017</td>
-         <td class="expired">Expired</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://www.gputechconf.jp/" target="_blank">
-            GPU Tech Conference Japan
-            </a>
-         </td>
-         <td>Tokyo, Japan</td>
-         <td class="left">Dec 12 - Dec 13, 2017</td>
-         <td>Open / No deadline</td>
-         <td></td>
-      </tr>
-     <tr>
-         <td class="left">
-            <a href="https://datascience.salon/la/" target="_blank">
-            Data Science Salon (Media &amp; Entertainment)
-            </a>
-         </td>
-         <td>Los Angeles, CA</td>
-         <td class="left">Dec 14, 2017</td>
-         <td>Open / No deadline</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://www.re-work.co/events/deep-learning-summit-san-francisco-2018" target="_blank">
-            Rework&#39;s Deep Learning Summit
-            </a>
-         </td>
-         <td>San Francisco, CA</td>
-         <td class="left">Jan 25 - Jan 26, 2018</td>
-         <td>NA</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://datascience.salon/miami/" target="_blank">
-            Data Science Salon (Finance &amp; Health)
-            </a>
-         </td>
-         <td>Miami, FL</td>
-         <td class="left">Feb 8 - Feb 9, 2018</td>
-         <td>Open / No deadline</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://www.datainnovationsummit.com" target="_blank">
-            Data Innovation Summit
-            <span class="label label-dark">NON-TECHNICAL</span>
-            </a>
-         </td>
-         <td>Stockholm, Sweden</td>
-         <td class="left">Mar 22, 2018</td>
-         <td class="expired">Expired</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="http://www.gputechconf.com/" target="_blank">
-            GTC 2018
-            </a>
-         </td>
-         <td>Silicon Valley, CA</td>
-         <td class="left">Mar 26 - Mar 29, 2018</td>
-         <td>Open</td>
-         <td><a href="#gtc-2018-2018-03-26">comment</a></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="http://www.iclr.cc/doku.php?id=ICLR2018:main" target="_blank">
-            ICRL
-            <span class="label label-dark">ACADEMIC</span>
-            </a>
-         </td>
-         <td>Vancouver, Canada</td>
-         <td class="left">Apr 30 - May 3, 2018</td>
-         <td class="expired">Expired (Oct 27, 2017)</td>
-         <td></td>
-      </tr>
-      <tr>
-         <td class="left">
-            <a href="https://conferences.oreilly.com/artificial-intelligence/ai-ny" target="_blank">
-            O&#39;Reilly AI Conference
-            </a>
-         </td>
-         <td>New York, NY</td>
-         <td class="left">Apr 30 - May 2, 2018</td>
-  <td class="expired">Expired (Nov 14, 2017)</td>
-        <td></td>
-      </tr>
-   </tbody>
-</table>
+**Conference Papers:**
+
+- [JMLR Papers list](http://www.jmlr.org/papers/)
+- [JAIR Paper list](https://www.jair.org/index.php/jair/issue/archive)
+- [Google Scholar AI track](https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
+- [KDD explorations](http://www.kdd.org/explorations)
+- [CVPR Open Access](http://openaccess.thecvf.com/menu.py)
 
 ----------------
 
