@@ -29,6 +29,12 @@
 
 --------------------
 
+
+information retrieval - | [ir-wiki](https://en.wikipedia.org/wiki/Information_retrieval) | [arxiv.ir](https://arxiv.org/list/cs.IR/recent) | [goog-research-IR.Web](https://research.google.com/pubs/InformationRetrievalandtheWeb.html) | [Stanford-IR resources](https://nlp.stanford.edu/IR-book/information-retrieval.html) + [slides](https://nlp.stanford.edu/IR-book/newslides.html) | [search-tools](http://www.searchtools.com/info/index.html) | [cs.ucy.ac.cy](http://www.cs.ucy.ac.cy/courses/EPL660/resources.html) | [web-search.wiki](https://en.wikipedia.org/wiki/Web_search_engine) | [outline of internet search](https://github.com/gopala-kr/summary/tree/master/information-retrieval) | [ir.cat.wiki](https://en.wikipedia.org/wiki/Category:Information_retrieval) |
+
+
+---------------------
+
 <div role="navigation" class="navbox" aria-labelledby="Internet_search" style="padding:3px">
 <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
 <tr>
