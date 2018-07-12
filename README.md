@@ -41,7 +41,21 @@ Articles
 
 07/2018
 
-
+- [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
+- [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/pdf/1807.02876v1.pdf)
+- [Quasi-Dilemmas for Artificial Moral Agents](https://arxiv.org/pdf/1807.02572v1.pdf)
+- [Gaussian Processes and Kernel Methods: A Review on Connections and Equivalences](https://arxiv.org/abs/1807.02582v1)
+- [Comparing Dynamics: Deep Neural Networks versus Glassy Systems](https://arxiv.org/abs/1803.06969v2)
+- [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787v1)
+- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383v1)
+- [Video Summarisation by Classification with Deep Reinforcement Learning](https://arxiv.org/abs/1807.03089v2)
+- [Generative models on accelerated neuromorphic hardware](https://arxiv.org/pdf/1807.02389v1.pdf)
+- [A Survey of Knowledge Representation and Retrieval for Learning in Service Robotics](https://arxiv.org/pdf/1807.02192v1.pdf)
+- [Zipf's law in 50 languages: its structural pattern, linguistic interpretation, and cognitive motivation](https://arxiv.org/abs/1807.01855v1)
+- [JUMPER: Learning When to Make Classification Decisions in Reading](https://arxiv.org/pdf/1807.02314v1.pdf)
+- [Universal Word Segmentation: Implementation and Interpretation](https://arxiv.org/abs/1807.02974v1)
+- [End-to-End Race Driving with Deep Reinforcement Learning](https://arxiv.org/abs/1807.02371v1)
+- [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328.pdf)
 
 
 ********************************
