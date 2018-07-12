@@ -53,6 +53,7 @@
 - [Caffe2 Merges With PyTorch](https://medium.com/@Synced/caffe2-merges-with-pytorch-a89c70ad9eb7)
 - [Accessibility of AI](http://www.fast.ai/2018/04/10/stanford-salon/)
 
+
 May
 
 - [Neural Nets Can Process and Predict Chaos](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
