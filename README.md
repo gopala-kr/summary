@@ -30,15 +30,16 @@ summaries of papers on deep learning.
 - [[June-2018](https://github.com/gopala-kr/summary/blob/master/summaries/June-2018/README.md)]
 
 
-Interesting Articles on AI research/progress/applications 
+Articles
 
 - [[Jan2March 2018](https://github.com/gopala-kr/summary/tree/master/articles#jan2march-2018)]  
 - [[April2June 2018](https://github.com/gopala-kr/summary/tree/master/articles#april2june-2018)]
 - [[2018 so far](https://github.com/gopala-kr/summary/blob/master/summaries/2018%20so%20far/README.md)]
 
 
-
 -----------------------
+
+07/2018
 
 
 
