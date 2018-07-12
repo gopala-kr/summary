@@ -1,5 +1,6 @@
 ## Database and data models
 
+
 - Model types
     + Flat
     + Relational
