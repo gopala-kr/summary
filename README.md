@@ -60,7 +60,7 @@ Articles
 - Hierarchical Multi Task Learning With CTC. [arxiv](https://arxiv.org/abs/1807.07104v1)
 - When deep learning meets security. [arxiv](https://arxiv.org/abs/1807.04739v1)
 - Object Detection with Deep Learning: A Review. [arxiv](https://arxiv.org/abs/1807.05511v1)
-- [arxiv]()
+- Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search. [arxiv](https://arxiv.org/abs/1807.06906v1)
 - [arxiv]()
 - [arxiv]()
 
