@@ -56,7 +56,13 @@ Articles
 - [Universal Word Segmentation: Implementation and Interpretation](https://arxiv.org/abs/1807.02974v1)
 - [End-to-End Race Driving with Deep Reinforcement Learning](https://arxiv.org/abs/1807.02371v1)
 - [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328.pdf)
-
+- ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech. [arxiv](https://arxiv.org/abs/1807.07281v1)
+- [arxiv]()
+- [arxiv]()
+- [arxiv]()
+- [arxiv]()
+- [arxiv]()
+- [arxiv]()
 
 ********************************
 
