@@ -59,7 +59,7 @@ Articles
 - ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech. [arxiv](https://arxiv.org/abs/1807.07281v1)
 - Hierarchical Multi Task Learning With CTC. [arxiv](https://arxiv.org/abs/1807.07104v1)
 - When deep learning meets security. [arxiv](https://arxiv.org/abs/1807.04739v1)
-- [arxiv]()
+- Object Detection with Deep Learning: A Review. [arxiv](https://arxiv.org/abs/1807.05511v1)
 - [arxiv]()
 - [arxiv]()
 - [arxiv]()
