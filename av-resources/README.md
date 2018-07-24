@@ -284,9 +284,6 @@ Different media sources where we can find self-driving car related topics, ideas
 * NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
 * NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
-#### Blogs
-
-* [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
 
 ----------------
 -------------------------------
