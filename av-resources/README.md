@@ -314,9 +314,7 @@ Different media sources where we can find self-driving car related topics, ideas
 ![chartoftheday_11690_the_top_reasons_startups_fail](https://infographic.statista.com/normal/chartoftheday_11690_the_top_reasons_startups_fail_n.jpg)
 
 
-![Txv7gopw94JSxMDF15cfC8SUchSf13d4](https://assets.weforum.org/editor/d_V93AY1R0-Txv7gopw94JSxMDF15cfC8SUchSf13d4.png)
 
 
-![the-unicorn-universities](https://infographic.statista.com/normal/chartoftheday_9205_the_unicorn_universities_n.jpg)
 
 -------------------------------
