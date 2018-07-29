@@ -62,6 +62,9 @@ Articles
 - Object Detection with Deep Learning: A Review. [arxiv](https://arxiv.org/abs/1807.05511v1)
 - Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search. [arxiv](https://arxiv.org/abs/1807.06906v1)
 - [Implementing Neural Turing Machines](https://arxiv.org/abs/1807.08518v1)
+- [Talk the Walk: Navigating New York City through Grounded Dialogue](https://arxiv.org/abs/1807.03367)
+- [The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+- [Learning by Asking Questions](https://arxiv.org/abs/1712.01238v1)
 
 
 ********************************
