@@ -66,6 +66,23 @@ Articles
 - [The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 - [Learning by Asking Questions](https://arxiv.org/abs/1712.01238v1)
 - [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
+- [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/pdf/1807.09341v1.pdf),  	ICML / IJCAI / AAMAS 2018 Workshop on Planning and Learning (PAL-18).
+- [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559v3)
+- [Variational Bayesian Reinforcement Learning with Regret Bounds](https://arxiv.org/abs/1807.09647v1)
+- [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205v1)
+- [Learning from Delayed Outcomes with Intermediate Observations](https://arxiv.org/abs/1807.09387v1)
+- [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854v1)
+- [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/abs/1807.07706v1)
+- [The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720v1)
+- [Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures](https://arxiv.org/abs/1807.04587v1)
+- [TherML: Thermodynamics of Machine Learning](https://arxiv.org/abs/1807.04162v2)
+- [Neural Processes](https://arxiv.org/abs/1807.01622v1)
+- [GAN Q-learning](https://arxiv.org/abs/1805.04874v3)
+- [LaneNet: Real-Time Lane Detection Networks for Autonomous Driving](https://arxiv.org/abs/1807.01726v1)
+- [TextWorld: A Learning Environment for Text-based Games](https://arxiv.org/abs/1806.11532v1), ICML/IJCAI 2018.
+- [Perceptrons from Memristors](https://arxiv.org/abs/1807.04912v1)
+
+
 
 ********************************
 
