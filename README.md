@@ -65,7 +65,7 @@ Articles
 - [Talk the Walk: Navigating New York City through Grounded Dialogue](https://arxiv.org/abs/1807.03367)
 - [The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 - [Learning by Asking Questions](https://arxiv.org/abs/1712.01238v1)
-
+- [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
 
 ********************************
 
