@@ -66,7 +66,7 @@ Articles
 - [The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 - [Learning by Asking Questions](https://arxiv.org/abs/1712.01238v1)
 - [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
-- [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/pdf/1807.09341v1.pdf),  	ICML / IJCAI / AAMAS 2018 Workshop on Planning and Learning (PAL-18).
+- [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/pdf/1807.09341v1.pdf), ICML / IJCAI / AAMAS 2018 Workshop on(PAL-18).
 - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559v3)
 - [Variational Bayesian Reinforcement Learning with Regret Bounds](https://arxiv.org/abs/1807.09647v1)
 - [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205v1)
