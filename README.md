@@ -72,7 +72,6 @@ Articles
 - [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205v1)
 - [Learning from Delayed Outcomes with Intermediate Observations](https://arxiv.org/abs/1807.09387v1)
 - [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854v1)
-- [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/abs/1807.07706v1)
 - [The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720v1)
 - [Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures](https://arxiv.org/abs/1807.04587v1)
 - [TherML: Thermodynamics of Machine Learning](https://arxiv.org/abs/1807.04162v2)
