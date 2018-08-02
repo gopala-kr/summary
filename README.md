@@ -81,7 +81,9 @@ Articles
 - [LaneNet: Real-Time Lane Detection Networks for Autonomous Driving](https://arxiv.org/abs/1807.01726v1)
 - [TextWorld: A Learning Environment for Text-based Games](https://arxiv.org/abs/1806.11532v1), ICML/IJCAI 2018.
 - [Perceptrons from Memristors](https://arxiv.org/abs/1807.04912v1)
-
+- [Efficient Probabilistic Inference in the Quest for
+Physics Beyond the Standard Model
+](https://arxiv.org/pdf/1807.07706v1.pdf)
 
 
 ********************************
