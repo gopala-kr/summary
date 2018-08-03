@@ -323,7 +323,7 @@ Physics Beyond the Standard Model
 -  [ Natalie Hammel and Lorraine Yurshansky](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html)  
 - [Steve Jurvetson (and panel) at VLAB in Stanford](https://www.youtube.com/watch?v=czLI3oLDe8M)   
 - [Leo Isikdogan at Motorola Mobility HQ](https://www.youtube.com/watch?v=FoO8qDB8gUU) 
-
+- [CS224u: Natural Language Understanding](https://github.com/cgpotts/cs224u)
 
 ------------------
 
