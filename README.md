@@ -83,6 +83,7 @@ Articles
 - [Efficient Probabilistic Inference in the Quest for
 Physics Beyond the Standard Model
 ](https://arxiv.org/pdf/1807.07706v1.pdf)
+- [Large-Scale Visual Speech Recognition](https://arxiv.org/abs/1807.05162)
 
 
 ********************************
