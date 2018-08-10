@@ -325,6 +325,8 @@ Physics Beyond the Standard Model
 - [Steve Jurvetson (and panel) at VLAB in Stanford](https://www.youtube.com/watch?v=czLI3oLDe8M)   
 - [Leo Isikdogan at Motorola Mobility HQ](https://www.youtube.com/watch?v=FoO8qDB8gUU) 
 - [CS224u: Natural Language Understanding](https://github.com/cgpotts/cs224u)
+- [Deep Learning – a cookbook view](http://on-demand.gputechconf.com/gtc-eu/2017/presentation/23245-sorin-cheran-hpes-deep-learning-cookbook.pdf)
+
 
 ------------------
 
