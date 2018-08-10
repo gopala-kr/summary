@@ -39,6 +39,30 @@ Articles
 
 -----------------------
 
+08/2018
+
+- [Backprop Evolution](https://arxiv.org/pdf/1808.02822v1.pdf)
+- [Sparse and Dense Data with CNNs: Depth Completion and Semantic Segmentation](https://arxiv.org/abs/1808.00769v1)
+- Large Scale Language Modeling: Converging on 40GB of Text in Four Hours. [paper](https://arxiv.org/pdf/1808.01371v1.pdf)
+- [PCN: Point Completion Network](https://arxiv.org/abs/1808.00671v2)
+- [RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://arxiv.org/pdf/1808.00720v1.pdf)
+- [Neural Arithmetic Logic Units](https://arxiv.org/pdf/1808.00508v1.pdf)
+- [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/abs/1808.01244v1)
+- [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974v1.pdf)
+- [YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud](https://arxiv.org/pdf/1808.02350v1.pdf)
+- [Dialog-context aware end-to-end speech recognition](https://arxiv.org/pdf/1808.02171v1.pdf)
+- [An Efficient Deep Reinforcement Learning Model for Urban Traffic Control](https://arxiv.org/pdf/1808.01876v1.pdf)
+- [Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis](https://arxiv.org/pdf/1808.01410v1.pdf)
+- [GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware](https://arxiv.org/pdf/1808.01363v1.pdf)
+- [Application of End-to-End Deep Learning in Wireless Communications Systems](https://arxiv.org/pdf/1808.02394v1.pdf)
+- [A Short Note about Kinetics-600](https://arxiv.org/pdf/1808.01340v1.pdf)
+- [Smart City Development with Urban Transfer Learning](https://arxiv.org/abs/1808.01552v1)
+- [Deep Learning Advances on Different 3D Data Representations: A Survey](https://arxiv.org/pdf/1808.01462v1.pdf)
+
+
+------------------
+
+
 07/2018
 
 - [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341v1.pdf)
