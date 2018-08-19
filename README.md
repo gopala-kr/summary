@@ -44,7 +44,6 @@ Articles
 - [Backprop Evolution](https://arxiv.org/pdf/1808.02822v1.pdf)
 - [Sparse and Dense Data with CNNs: Depth Completion and Semantic Segmentation](https://arxiv.org/abs/1808.00769v1)
 - Large Scale Language Modeling: Converging on 40GB of Text in Four Hours. [paper](https://arxiv.org/pdf/1808.01371v1.pdf)
-- [PCN: Point Completion Network](https://arxiv.org/abs/1808.00671v2)
 - [RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://arxiv.org/pdf/1808.00720v1.pdf)
 - [Neural Arithmetic Logic Units](https://arxiv.org/pdf/1808.00508v1.pdf)
 - [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/abs/1808.01244v1)
