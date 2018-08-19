@@ -882,6 +882,11 @@ June
     + [AWS Machine Learning Competency Partners](https://aws.amazon.com/blogs/machine-learning/introducing-the-inaugural-aws-machine-learning-competency-partners/)
 - [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome)
 
+
+
+
+- [Magic Quadrant for Data Science and Machine-Learning Platforms](https://www.gartner.com/doc/reprints?id=1-4RNH03T&ct=180222&st=sb)
+
 -------------------------
 
 
