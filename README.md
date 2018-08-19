@@ -58,7 +58,16 @@ Articles
 - [A Short Note about Kinetics-600](https://arxiv.org/pdf/1808.01340v1.pdf)
 - [Smart City Development with Urban Transfer Learning](https://arxiv.org/abs/1808.01552v1)
 - [Deep Learning Advances on Different 3D Data Representations: A Survey](https://arxiv.org/pdf/1808.01462v1.pdf)
-
+- Skill Rating for Generative Models. [paper](https://arxiv.org/pdf/1808.04888v1.pdf)
+- Fundamentals of Recurrent Neural Network (RNN)
+and Long Short-Term Memory (LSTM) Network. [paper](https://arxiv.org/pdf/1808.03314v1.pdf)
+- Hierarchical Attention: What Really Counts in
+Various NLP Tasks
+. [paper](https://arxiv.org/pdf/1808.03728v1.pdf)
+- Neural Architecture Search: A Survey. [paper](https://arxiv.org/pdf/1808.05377v1.pdf)
+- Rapid Adaptation of Neural Machine Translation to New Languages. [paper](https://arxiv.org/pdf/1808.04189v1.pdf)
+- A Survey on Sentiment and Emotion Analysis for
+Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
 
 ------------------
 
