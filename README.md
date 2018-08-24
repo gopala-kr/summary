@@ -67,6 +67,8 @@ Various NLP Tasks
 - Rapid Adaptation of Neural Machine Translation to New Languages. [paper](https://arxiv.org/pdf/1808.04189v1.pdf)
 - A Survey on Sentiment and Emotion Analysis for
 Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
+- Video-to-Video Synthesis. [arxiv](https://arxiv.org/abs/1808.06601v1)  [[code](https://github.com/NVIDIA/vid2vid)]
+- CoQA: A Conversational Question Answering Challenge. [arxiv](https://arxiv.org/abs/1808.07042v1)
 
 ------------------
 
