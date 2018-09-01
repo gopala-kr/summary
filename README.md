@@ -71,6 +71,8 @@ Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
 - CoQA: A Conversational Question Answering Challenge. [arxiv](https://arxiv.org/abs/1808.07042v1)
 - QuAC : Question Answering in Context. [arxiv](https://arxiv.org/pdf/1808.07036v1.pdf)
 - Everybody Dance Now. [paper](https://arxiv.org/pdf/1808.07371v1.pdf)
+- Contextual Parameter Generation for Universal Neural Machine Translation. [paper](https://arxiv.org/pdf/1808.08493v1.pdf)
+- 
 
 ------------------
 
