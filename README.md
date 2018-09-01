@@ -70,6 +70,7 @@ Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
 - Video-to-Video Synthesis. [arxiv](https://arxiv.org/abs/1808.06601v1)  [[code](https://github.com/NVIDIA/vid2vid)]
 - CoQA: A Conversational Question Answering Challenge. [arxiv](https://arxiv.org/abs/1808.07042v1)
 - QuAC : Question Answering in Context. [arxiv](https://arxiv.org/pdf/1808.07036v1.pdf)
+- Everybody Dance Now. [paper](https://arxiv.org/pdf/1808.07371v1.pdf)
 
 ------------------
 
