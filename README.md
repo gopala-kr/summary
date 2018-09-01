@@ -72,7 +72,11 @@ Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
 - QuAC : Question Answering in Context. [arxiv](https://arxiv.org/pdf/1808.07036v1.pdf)
 - Everybody Dance Now. [paper](https://arxiv.org/pdf/1808.07371v1.pdf)
 - Contextual Parameter Generation for Universal Neural Machine Translation. [paper](https://arxiv.org/pdf/1808.08493v1.pdf)
-- 
+- Fusion++: Volumetric Object-Level SLAM. [paper](https://arxiv.org/pdf/1808.08378v2.pdf)
+- [Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs](https://arxiv.org/pdf/1808.07724v1.pdf)
+- [FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations](https://arxiv.org/pdf/1808.09945v1.pdf)
+- [Generalisation in humans and deep neural networks](https://arxiv.org/pdf/1808.08750v1.pdf)
+
 
 ------------------
 
