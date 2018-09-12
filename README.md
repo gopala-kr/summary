@@ -39,6 +39,16 @@ Articles
 
 -----------------------
 
+09/2018
+
+- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165v1.pdf)
+- [Unity: A General Platform for Intelligent Agents](https://arxiv.org/pdf/1809.02627v1.pdf)
+- [Five lessons from building a deep neural network recommender
+for marketplaces](https://arxiv.org/pdf/1809.02131v1.pdf)
+
+
+-------------
+
 08/2018
 
 - [Backprop Evolution](https://arxiv.org/pdf/1808.02822v1.pdf)
