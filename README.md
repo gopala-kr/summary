@@ -45,6 +45,7 @@ Articles
 - [Unity: A General Platform for Intelligent Agents](https://arxiv.org/pdf/1809.02627v1.pdf)
 - [Five lessons from building a deep neural network recommender
 for marketplaces](https://arxiv.org/pdf/1809.02131v1.pdf)
+- [Focus Group on Artificial Intelligence for Health](https://arxiv.org/ftp/arxiv/papers/1809/1809.04797.pdf)
 
 
 -------------
