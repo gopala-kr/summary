@@ -86,7 +86,7 @@ Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
 - [Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs](https://arxiv.org/pdf/1808.07724v1.pdf)
 - [FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations](https://arxiv.org/pdf/1808.09945v1.pdf)
 - [Generalisation in humans and deep neural networks](https://arxiv.org/pdf/1808.08750v1.pdf)
-
+- [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/pdf/1808.09115v2.pdf)
 
 ------------------
 
