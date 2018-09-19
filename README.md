@@ -41,12 +41,22 @@ Articles
 
 09/2018
 
+- [Hamiltonian Descent Methods](https://arxiv.org/pdf/1809.05042v1.pdf)
 - [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165v1.pdf)
 - [Unity: A General Platform for Intelligent Agents](https://arxiv.org/pdf/1809.02627v1.pdf)
 - [Five lessons from building a deep neural network recommender
 for marketplaces](https://arxiv.org/pdf/1809.02131v1.pdf)
 - [Focus Group on Artificial Intelligence for Health](https://arxiv.org/ftp/arxiv/papers/1809/1809.04797.pdf)
-
+- [Deep Learning in Information Security](https://arxiv.org/pdf/1809.04332v1.pdf)
+- [LiveBot: Generating Live Video Comments Based on Visual and Textual Contexts](https://arxiv.org/pdf/1809.04938v1.pdf)
+- [IncSQL: Training Incremental Text-to-SQL Parsers with Non-Deterministic Oracles](https://arxiv.org/pdf/1809.05054v1.pdf)
+- [Identifying Real Estate Opportunities
+using Machine Learning](https://arxiv.org/pdf/1809.04933v1.pdf)
+- [Deep Learning Towards Mobile Applications](https://arxiv.org/pdf/1809.03559v1.pdf)
+- [HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments](https://arxiv.org/pdf/1801.07746v2.pdf)
+- [Urban morphology meets deep learning: Exploring
+urban forms in one million cities, town and villages
+across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 
 -------------
 
