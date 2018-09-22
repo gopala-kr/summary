@@ -57,6 +57,7 @@ using Machine Learning](https://arxiv.org/pdf/1809.04933v1.pdf)
 - [Urban morphology meets deep learning: Exploring
 urban forms in one million cities, town and villages
 across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
+- [Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679v1.pdf)
 
 -------------
 
