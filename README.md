@@ -59,6 +59,7 @@ urban forms in one million cities, town and villages
 across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679v1.pdf)
 - [Identifying Generalization Properties in Neural Networks](https://arxiv.org/pdf/1809.07402v1.pdf)
+- [Towards Deep and Representation Learning for Talent Search at LinkedIn](https://arxiv.org/pdf/1809.06473v1.pdf)
 
 -------------
 
