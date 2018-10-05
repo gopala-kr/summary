@@ -39,6 +39,11 @@ Articles
 
 -----------------------
 
+10/2018
+
+- [The Profiling Machine: Active Generalization over Knowledge](https://arxiv.org/pdf/1810.00782v1.pdf)
+- [AI Benchmark: Running Deep Neural Networks
+on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 
 
 -----------
@@ -72,7 +77,7 @@ across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration](https://arxiv.org/pdf/1809.11165v2.pdf)
 - [Stakeholders in Explainable AI](https://arxiv.org/pdf/1810.00184v1.pdf)
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
-
+- [Audio-Visual Speech Recognition With A Hybrid CTC/Attention Architecture](https://arxiv.org/pdf/1810.00108v1.pdf)
 
 -------------
 
@@ -114,6 +119,7 @@ Computational Literary Studies. [paper](https://arxiv.org/pdf/1808.03137v1.pdf)
 - [FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations](https://arxiv.org/pdf/1808.09945v1.pdf)
 - [Generalisation in humans and deep neural networks](https://arxiv.org/pdf/1808.08750v1.pdf)
 - [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/pdf/1808.09115v2.pdf)
+
 
 ------------------
 
