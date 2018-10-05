@@ -39,6 +39,10 @@ Articles
 
 -----------------------
 
+
+
+-----------
+
 09/2018
 
 - [Hamiltonian Descent Methods](https://arxiv.org/pdf/1809.05042v1.pdf)
@@ -60,6 +64,15 @@ across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679v1.pdf)
 - [Identifying Generalization Properties in Neural Networks](https://arxiv.org/pdf/1809.07402v1.pdf)
 - [Towards Deep and Representation Learning for Talent Search at LinkedIn](https://arxiv.org/pdf/1809.06473v1.pdf)
+- [Cellular automata as convolutional neural networks](https://arxiv.org/pdf/1809.02942v1.pdf)
+- [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://arxiv.org/pdf/1804.09170v2.pdf)
+- [AlphaSeq: Sequence Discovery with Deep Reinforcement Learning](https://arxiv.org/pdf/1810.01218v1.pdf)
+- [Learning to Interpret Satellite Images Using Wikipedia](https://arxiv.org/pdf/1809.10236v1.pdf)
+- [Visual Analytics for Automated Model Discovery](https://arxiv.org/pdf/1809.10782v2.pdf)
+- [GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration](https://arxiv.org/pdf/1809.11165v2.pdf)
+- [Stakeholders in Explainable AI](https://arxiv.org/pdf/1810.00184v1.pdf)
+- [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
+
 
 -------------
 
