@@ -44,6 +44,19 @@ Articles
 - [The Profiling Machine: Active Generalization over Knowledge](https://arxiv.org/pdf/1810.00782v1.pdf)
 - [AI Benchmark: Running Deep Neural Networks
 on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
+- [A deep learning pipeline for product recognition on store shelves](https://arxiv.org/pdf/1810.01733v2.pdf)
+- [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/ftp/arxiv/papers/1810/1810.02272.pdf)
+- [Quantum Artificial Life in an IBM Quantum Computer](https://arxiv.org/pdf/1711.09442v2.pdf)
+- [Finding Solutions to Generative Adversarial Privacy](https://arxiv.org/pdf/1810.02069v1.pdf)
+- [Towards Fast and Energy-Efficient Binarized Neural Network Inference on FPGA](https://arxiv.org/pdf/1810.02068v1.pdf)
+- [Scaling Video Analytics Systems to Large Camera Deployments](https://arxiv.org/pdf/1809.02318v2.pdf)
+- [From Soft Classifiers to Hard Decisions: How fair can we be?](https://arxiv.org/pdf/1810.02003v1.pdf)
+- [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/pdf/1810.01943v1.pdf)
+- [Comparison of Reinforcement Learning algorithms applied to the Cart Pole problem](https://arxiv.org/ftp/arxiv/papers/1810/1810.01940.pdf)
+- [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/pdf/1806.10282v2.pdf)
+- [An Overview on Application of Machine Learning
+Techniques in Optical Networks](https://arxiv.org/pdf/1803.07976v3.pdf)
+
 
 
 -----------
