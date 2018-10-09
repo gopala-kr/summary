@@ -434,6 +434,10 @@ Physics Beyond the Standard Model
 - [CVPR Open Access](http://openaccess.thecvf.com/menu.py)
 
 
+-------
+
+![ai_talent](https://github.com/gopala-kr/summary/blob/master/ai_talent.PNG)
+
 ----------------------
 -------------------------------
 
