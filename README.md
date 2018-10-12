@@ -57,6 +57,8 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [An Overview on Application of Machine Learning
 Techniques in Optical Networks](https://arxiv.org/pdf/1803.07976v3.pdf)
 - [A Tale of Three Probabilistic Families: Discriminative, Descriptive and Generative Models](https://arxiv.org/pdf/1810.04261v1.pdf)
+- [Transfer Metric Learning: Algorithms, Applications and Outlooks](https://arxiv.org/pdf/1810.03944v2.pdf)
+- [Secure Deep Learning Engineering: A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf)
 
 
 -----------
