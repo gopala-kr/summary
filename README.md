@@ -56,7 +56,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/pdf/1806.10282v2.pdf)
 - [An Overview on Application of Machine Learning
 Techniques in Optical Networks](https://arxiv.org/pdf/1803.07976v3.pdf)
-
+- [A Tale of Three Probabilistic Families: Discriminative, Descriptive and Generative Models](https://arxiv.org/pdf/1810.04261v1.pdf)
 
 
 -----------
