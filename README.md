@@ -35,7 +35,7 @@ Articles
 - [[Jan2March 2018](https://github.com/gopala-kr/summary/tree/master/articles#jan2march-2018)]  
 - [[April2June 2018](https://github.com/gopala-kr/summary/tree/master/articles#april2june-2018)]
 - [[2018 so far](https://github.com/gopala-kr/summary/blob/master/summaries/2018%20so%20far/README.md)]
-
+- [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 
 -----------------------
 
