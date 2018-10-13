@@ -1,4 +1,4 @@
-# Deep learning
+### Deep learning
 
 - Accelerating CNN inference on FPGAs: A Survey. [`arxiv`](https://arxiv.org/abs/1806.01683) 
 - Adaptive Neural Trees. [`arxiv`](https://arxiv.org/abs/1807.06699)
