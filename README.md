@@ -61,6 +61,7 @@ Techniques in Optical Networks](https://arxiv.org/pdf/1803.07976v3.pdf)
 - [Secure Deep Learning Engineering: A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf)
 - [BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding](https://arxiv.org/pdf/1810.04805v1.pdf)
+- [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/pdf/1810.05587v1.pdf)
 
 -----------
 
