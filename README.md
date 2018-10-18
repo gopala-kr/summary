@@ -62,6 +62,8 @@ Techniques in Optical Networks](https://arxiv.org/pdf/1803.07976v3.pdf)
 - [BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding](https://arxiv.org/pdf/1810.04805v1.pdf)
 - [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/pdf/1810.05587v1.pdf)
+- [CURIOUS: Intrinsically Motivated Multi-Task, Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1810.06284v1.pdf)
+
 
 -----------
 
