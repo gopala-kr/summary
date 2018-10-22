@@ -64,6 +64,8 @@ Language Understanding](https://arxiv.org/pdf/1810.04805v1.pdf)  [[code](https:/
 - [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/pdf/1810.05587v1.pdf)
 - [CURIOUS: Intrinsically Motivated Multi-Task, Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1810.06284v1.pdf)
 - [On the Margin Theory of Feedforward Neural Networks](https://arxiv.org/pdf/1810.05369v1.pdf)
+- [Private Machine Learning in TensorFlow
+using Secure Computation](https://arxiv.org/pdf/1810.08130v1.pdf)
 
 -----------
 
