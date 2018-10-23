@@ -66,6 +66,9 @@ Language Understanding](https://arxiv.org/pdf/1810.04805v1.pdf)  [[code](https:/
 - [On the Margin Theory of Feedforward Neural Networks](https://arxiv.org/pdf/1810.05369v1.pdf)
 - [Private Machine Learning in TensorFlow
 using Secure Computation](https://arxiv.org/pdf/1810.08130v1.pdf)
+- [Applications of Deep Reinforcement Learning in
+Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
+
 
 -----------
 
