@@ -103,7 +103,7 @@ across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Audio-Visual Speech Recognition With A Hybrid CTC/Attention Architecture](https://arxiv.org/pdf/1810.00108v1.pdf)
 - [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/pdf/1803.04311v2.pdf)
-
+- [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332v1.pdf)
 
 -------------
 
