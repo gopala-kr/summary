@@ -70,6 +70,7 @@ using Secure Computation](https://arxiv.org/pdf/1810.08130v1.pdf)
 Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs](https://arxiv.org/pdf/1810.09868v1.pdf)
 - [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://arxiv.org/pdf/1810.08647v1.pdf)
+- [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/pdf/1810.09136v1.pdf)
 
 -----------
 
