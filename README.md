@@ -72,6 +72,8 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://arxiv.org/pdf/1810.08647v1.pdf)
 - [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/pdf/1810.09136v1.pdf)
 - [Neighbourhood Consensus Networks](https://arxiv.org/pdf/1810.10510v1.pdf)
+- [The Uncertainty Bellman Equation and Exploration](https://arxiv.org/pdf/1709.05380.pdf)
+
 
 -----------
 
