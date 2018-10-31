@@ -84,10 +84,8 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Fast and accurate object detection in high resolution 4K and 8K video using GPUs](https://arxiv.org/pdf/1810.10551v1.pdf)
 - [Towards Efficient Large-Scale Graph Neural Network Computing](https://arxiv.org/pdf/1810.08403v1.pdf)
 - [An Exploration of Dropout with RNNs for Natural Language Inference](https://arxiv.org/pdf/1810.08606v1.pdf)
-- []()
-- []()
-- []()
-- []()
+- [Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells](https://arxiv.org/pdf/1810.10804v1.pdf)
+- [Memory Replay GANs: learning to generate images from new categories without forgetting](https://arxiv.org/pdf/1809.02058v2.pdf)
 
 
 
