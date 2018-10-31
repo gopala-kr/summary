@@ -73,6 +73,23 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/pdf/1810.09136v1.pdf)
 - [Neighbourhood Consensus Networks](https://arxiv.org/pdf/1810.10510v1.pdf)
 - [The Uncertainty Bellman Equation and Exploration](https://arxiv.org/pdf/1709.05380.pdf)
+- [Humans are still the best lossy image compressors](https://arxiv.org/pdf/1810.11137v2.pdf)
+- [Model-Based Active Exploration](https://arxiv.org/pdf/1810.12162v1.pdf)
+- [Reversible Recurrent Neural Networks](https://arxiv.org/pdf/1810.10999v1.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 
 -----------
