@@ -39,6 +39,29 @@ Articles
 
 -----------------------
 
+AI/DL/ML/DS/DM Conferences - 2018 So far
+
+
+- [kdd2018](https://www.kdd.org/kdd2018/accepted-papers) [[DL Day](https://www.kdd.org/kdd2018/deep-learning-day)]
+- [Oreilly AI Conference -2018-NY](https://www.oreilly.com/library/view/the-artificial-intelligence/9781492025979/?utm_source=oreilly&utm_medium=newsite&utm_campaign=ai-ny-18-keynote-highlight-post-text-cta) [[San Francisco ](https://www.oreilly.com/library/view/the-artificial-intelligence/9781492025832/)] [[]()]
+- [NIPS-2018](https://nips.cc/Conferences/2018)
+- [Data Science Pop-up](https://popup.dominodatalab.com/)
+- [mlconf-sf-2018](https://mlconf.com/events/mlconf-sf-2018/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+-------------
 10/2018
 
 - [The Profiling Machine: Active Generalization over Knowledge](https://arxiv.org/pdf/1810.00782v1.pdf)
