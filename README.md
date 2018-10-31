@@ -53,13 +53,30 @@ AI/DL/ML/DS/DM Conferences - 2018 So far
 - [NVIDIA’s GPU Technology Conference-2018 W.DC](https://gtcwashingtondc2018.smarteventscloud.com/connect/search.ww#loadSearch-searchPhrase=&searchType=session&tc=0&sortBy=titleSort&p=)
 - [F8-2018](https://developers.facebook.com/videos)
 - [naacl2018](http://naacl2018.org/)
-- []()
-- []()
-- []()
-- []()
-
-
-
+- [Computing2018](http://saiconference.com/Conferences/Computing2018)
+- [icml2018](https://icml.cc/Conferences/2018)
+- [aamas18](http://celweb.vuse.vanderbilt.edu/aamas18)
+- [ICDM](http://www.data-mining-forum.de/)
+- [ijcai-18](https://www.ijcai-18.org/)
+- [acl2018](https://acl2018.org/)
+- [uai2018](http://auai.org/uai2018/cfp.php)
+- [SIGGRAPH 2018 Montreal](https://s2018.siggraph.org/)
+- [icpr2018](http://www.icpr2018.org/)
+- [IntelliSys2018](http://saiconference.com/Conferences/IntelliSys2018)
+- [eccv2018](https://eccv2018.org/)
+- [cvpr2018](http://cvpr2018.thecvf.com/)
+- [iclr2018](https://www.iclr.cc/Conferences/2018)
+- [AAAI-18](https://aaai.org/Conferences/AAAI-18/)
+- [icmla18](https://www.icmla-conference.org/icmla18/)
+- [wsdm2018](http://www.wsdm-conference.org/2018/)
+- [accv2018](http://accv2018.net/)
+- [recsys18](https://recsys.acm.org/recsys18/)
+- [ICASSP 2018](https://2018.ieeeicassp.org/)
+- [colt2018](http://www.learningtheory.org/colt2018/)
+- [RSS-18](http://www.roboticsproceedings.org/rss14/index.html)
+- [iros2018](https://www.iros2018.org/)
+- [emnlp2018](http://emnlp2018.org/)
+- [conll18](http://www.conll.org/2018)
 
 -------------
 10/2018
