@@ -60,7 +60,7 @@ Techniques in Optical Networks](https://arxiv.org/pdf/1803.07976v3.pdf)
 - [Transfer Metric Learning: Algorithms, Applications and Outlooks](https://arxiv.org/pdf/1810.03944v2.pdf)
 - [Secure Deep Learning Engineering: A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf)
 - [BERT: Pre-training of Deep Bidirectional Transformers for
-Language Understanding](https://arxiv.org/pdf/1810.04805v1.pdf)  [[code](https://github.com/codertimo/BERT-pytorch)]
+Language Understanding](https://arxiv.org/pdf/1810.04805v1.pdf)  [[code](https://github.com/codertimo/BERT-pytorch)] [[code](https://github.com/google-research/bert)]
 - [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/pdf/1810.05587v1.pdf)
 - [CURIOUS: Intrinsically Motivated Multi-Task, Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1810.06284v1.pdf)
 - [On the Margin Theory of Feedforward Neural Networks](https://arxiv.org/pdf/1810.05369v1.pdf)
