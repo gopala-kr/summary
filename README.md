@@ -40,7 +40,7 @@ Articles
 -----------------------
 11/2018
 
-- [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf)
+- [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf) [[code](https://github.com/facebookresearch/Horizon)]
 - [Applications of Deep Learning to Nuclear Fusion Research](https://arxiv.org/pdf/1811.00333v1.pdf)
 
 
