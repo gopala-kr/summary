@@ -38,7 +38,13 @@ Articles
 - [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
 -----------------------
+11/2018
 
+- [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf)
+- [Applications of Deep Learning to Nuclear Fusion Research](https://arxiv.org/pdf/1811.00333v1.pdf)
+
+
+------------
 10/2018
 
 - [The Profiling Machine: Active Generalization over Knowledge](https://arxiv.org/pdf/1810.00782v1.pdf)
@@ -92,9 +98,8 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Democratizing Production-Scale Distributed Deep Learning](https://arxiv.org/pdf/1811.00143v1.pdf)
 - [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://arxiv.org/pdf/1811.00145v1.pdf)
 - [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/pdf/1811.00002v1.pdf)
-- [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf)
 - [Dial2Desc: End-to-end Dialogue Description Generation](https://arxiv.org/pdf/1811.00185v1.pdf)
-- [Applications of Deep Learning to Nuclear Fusion Research](https://arxiv.org/pdf/1811.00333v1.pdf)
+
 
 -----------
 
