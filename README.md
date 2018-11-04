@@ -42,7 +42,7 @@ Articles
 
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf) [[code](https://github.com/facebookresearch/Horizon)]
 - [Applications of Deep Learning to Nuclear Fusion Research](https://arxiv.org/pdf/1811.00333v1.pdf)
-
+- [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196v1.pdf)
 
 ------------
 10/2018
@@ -94,7 +94,6 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Memory Replay GANs: learning to generate images from new categories without forgetting](https://arxiv.org/pdf/1809.02058v2.pdf)
 - [You May Not Need Attention](https://arxiv.org/pdf/1810.13409.pdf) [[code](https://github.com/ofirpress/YouMayNotNeedAttention)]
 - [Face Recognition: From Traditional to Deep Learning Methods](https://arxiv.org/pdf/1811.00116v1.pdf)
-- [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196v1.pdf)
 - [Democratizing Production-Scale Distributed Deep Learning](https://arxiv.org/pdf/1811.00143v1.pdf)
 - [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://arxiv.org/pdf/1811.00145v1.pdf)
 - [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/pdf/1811.00002v1.pdf)
