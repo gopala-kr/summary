@@ -48,7 +48,8 @@ Articles
 - [Algorithms for screening of Cervical Cancer: A chronological review](https://arxiv.org/ftp/arxiv/papers/1811/1811.00849.pdf)
 - [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770v1.pdf)
 - [The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale](https://arxiv.org/pdf/1811.00982v1.pdf)
-
+- [A Fast Algorithm for Clustering of High
+Dimensional Feature Vectors](https://arxiv.org/pdf/1811.00956v1.pdf)
 
 ------------
 10/2018
