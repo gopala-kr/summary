@@ -43,6 +43,12 @@ Articles
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf) [[code](https://github.com/facebookresearch/Horizon)]
 - [Applications of Deep Learning to Nuclear Fusion Research](https://arxiv.org/pdf/1811.00333v1.pdf)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196v1.pdf)
+- [CariGANs: Unpaired Photo-to-Caricature Translation](https://arxiv.org/pdf/1811.00222v2.pdf)
+- [Predicting Demographics, Moral Foundations, and Human Values from Digital Behaviors](https://arxiv.org/abs/1712.01930v3)
+- [Algorithms for screening of Cervical Cancer: A chronological review](https://arxiv.org/ftp/arxiv/papers/1811/1811.00849.pdf)
+- [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770v1.pdf)
+- [The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale](https://arxiv.org/pdf/1811.00982v1.pdf)
+
 
 ------------
 10/2018
