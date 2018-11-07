@@ -52,12 +52,9 @@ Articles
 Dimensional Feature Vectors](https://arxiv.org/pdf/1811.00956v1.pdf)
 - [Toward an AI Physicist for Unsupervised Learning](https://arxiv.org/pdf/1810.10525v2.pdf)
 - [You Only Search Once: Single Shot Neural Architecture Search via Direct Sparse Optimization](https://arxiv.org/pdf/1811.01567v1.pdf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Evolutionary Data Measures: Understanding the Difficulty of Text
+Classification Tasks](https://arxiv.org/pdf/1811.01910v1.pdf)
+
 
 ------------
 10/2018
