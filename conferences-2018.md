@@ -47,6 +47,6 @@
 
 --------------
 
-![OpenReviewData](https://github.com/shaohua0116/ICLR2019-OpenReviewData)
+![OpenReviewData](https://raw.githubusercontent.com/shaohua0116/ICLR2019-OpenReviewData/master/asset/frequency.png)
 
 ----------
