@@ -6,7 +6,7 @@
 
 
 - [openreview](https://openreview.net/)
-
+- [Proceedings of Machine Learning Research](http://proceedings.mlr.press/)
 
 --------
 - [kdd2018](https://www.kdd.org/kdd2018/accepted-papers) [[DL Day](https://www.kdd.org/kdd2018/deep-learning-day)]
