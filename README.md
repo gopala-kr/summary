@@ -50,6 +50,7 @@ Articles
 - [The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale](https://arxiv.org/pdf/1811.00982v1.pdf)
 - [A Fast Algorithm for Clustering of High
 Dimensional Feature Vectors](https://arxiv.org/pdf/1811.00956v1.pdf)
+- [Toward an AI Physicist for Unsupervised Learning](https://arxiv.org/pdf/1810.10525v2.pdf)
 
 ------------
 10/2018
