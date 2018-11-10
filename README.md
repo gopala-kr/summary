@@ -59,6 +59,7 @@ Classification Tasks](https://arxiv.org/pdf/1811.01910v1.pdf)
 - [Are Deep Policy Gradient Algorithms
 Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Learning from Demonstration in the Wild](https://arxiv.org/pdf/1811.03516v1.pdf)
+- [A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective](https://arxiv.org/pdf/1811.03402v1.pdf)
 
 ------------
 10/2018
