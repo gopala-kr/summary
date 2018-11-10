@@ -54,10 +54,12 @@ Dimensional Feature Vectors](https://arxiv.org/pdf/1811.00956v1.pdf)
 - [You Only Search Once: Single Shot Neural Architecture Search via Direct Sparse Optimization](https://arxiv.org/pdf/1811.01567v1.pdf)
 - [Evolutionary Data Measures: Understanding the Difficulty of Text
 Classification Tasks](https://arxiv.org/pdf/1811.01910v1.pdf)
-- [Security for Machine Learning-based Systems: Attacks and Challenges during Training and Inference](https://arxiv.org/abs/1811.01463v1) :star:
-- [Language GANs Falling Short](https://arxiv.org/pdf/1811.02549v2.pdf) :star:
+- [Security for Machine Learning-based Systems: Attacks and Challenges during Training and Inference](https://arxiv.org/abs/1811.01463v1)
+- [Language GANs Falling Short](https://arxiv.org/pdf/1811.02549v2.pdf) 
 - [Are Deep Policy Gradient Algorithms
-Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf) :star:
+Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
+- [Learning from Demonstration in the Wild](https://arxiv.org/pdf/1811.03516v1.pdf)
+
 ------------
 10/2018
 
