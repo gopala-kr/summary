@@ -70,6 +70,8 @@
 * <p><a href="http://www.comp.nus.edu.sg/%7Edbsystem/#">DBsystem group</a> @ National University of Singapore</p>
 </div>						
 
+- [Machine Learning Research Groups in India](http://ml-india.org/people/#research-groups)
+
 ## Researchers
 
 1. [Aaron Courville](http://aaroncourville.wordpress.com)
