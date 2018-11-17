@@ -63,8 +63,10 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084v1.pdf)
 - [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233v1)
 - [Natural Environment Benchmarks for Reinforcement Learning](https://arxiv.org/abs/1811.06032v1)
+- [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521v1)
 
 ------------
+
 10/2018
 
 - [The Profiling Machine: Active Generalization over Knowledge](https://arxiv.org/pdf/1810.00782v1.pdf)
