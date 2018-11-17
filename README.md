@@ -64,6 +64,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233v1)
 - [Natural Environment Benchmarks for Reinforcement Learning](https://arxiv.org/abs/1811.06032v1)
 - [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521v1)
+- [Mathematical Analysis of Adversarial Attacks](https://arxiv.org/abs/1811.06492v1)
 
 ------------
 
