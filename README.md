@@ -66,6 +66,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521v1)
 - [Mathematical Analysis of Adversarial Attacks](https://arxiv.org/abs/1811.06492v1)
 - [Going Deeper with Semantics: Video Activity Interpretation using Semantic Contextualization](https://arxiv.org/abs/1708.03725v3)
+- [Towards Explainable Deep Learning for Credit Lending: A Case Study](https://arxiv.org/abs/1811.06471v1)
 
 ------------
 
