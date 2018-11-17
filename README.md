@@ -118,7 +118,7 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/pdf/1811.00002v1.pdf)
 - [Dial2Desc: End-to-end Dialogue Description Generation](https://arxiv.org/pdf/1811.00185v1.pdf)
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf)
-
+- [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386v4)
 -----------
 
 09/2018
