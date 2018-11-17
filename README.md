@@ -61,7 +61,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Learning from Demonstration in the Wild](https://arxiv.org/pdf/1811.03516v1.pdf)
 - [A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective](https://arxiv.org/pdf/1811.03402v1.pdf)
 - [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084v1.pdf)
-
+- [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233v1)
 
 ------------
 10/2018
