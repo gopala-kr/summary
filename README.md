@@ -69,6 +69,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Towards Explainable Deep Learning for Credit Lending: A Case Study](https://arxiv.org/abs/1811.06471v1)
 - [Preliminary Studies on a Large Face Database](https://arxiv.org/abs/1811.06446v1)
 - [Effect of data reduction on sequence-to-sequence neural TTS](https://arxiv.org/abs/1811.06315v1)
+- [Effects of Dataset properties on the training of GANs](https://arxiv.org/abs/1811.02850v3)
 
 ------------
 
