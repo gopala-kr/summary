@@ -65,6 +65,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Natural Environment Benchmarks for Reinforcement Learning](https://arxiv.org/abs/1811.06032v1)
 - [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521v1)
 - [Mathematical Analysis of Adversarial Attacks](https://arxiv.org/abs/1811.06492v1)
+- [Going Deeper with Semantics: Video Activity Interpretation using Semantic Contextualization](https://arxiv.org/abs/1708.03725v3)
 
 ------------
 
