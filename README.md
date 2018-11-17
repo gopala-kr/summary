@@ -68,6 +68,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Going Deeper with Semantics: Video Activity Interpretation using Semantic Contextualization](https://arxiv.org/abs/1708.03725v3)
 - [Towards Explainable Deep Learning for Credit Lending: A Case Study](https://arxiv.org/abs/1811.06471v1)
 - [Preliminary Studies on a Large Face Database](https://arxiv.org/abs/1811.06446v1)
+- [Effect of data reduction on sequence-to-sequence neural TTS](https://arxiv.org/abs/1811.06315v1)
 
 ------------
 
