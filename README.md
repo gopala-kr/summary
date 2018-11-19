@@ -81,11 +81,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Activation Maximization Generative Adversarial Nets](https://arxiv.org/abs/1703.02000v9)
 - [CADP: A Novel Dataset for CCTV Traffic Camera based Accident Analysis](https://arxiv.org/abs/1809.05782v2)
 - [Streaming End-to-end Speech Recognition For Mobile Devices](https://arxiv.org/abs/1811.06621v1)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Economics of Human-AI Ecosystem: Value Bias and Lost Utility in Multi-Dimensional Gaps](https://arxiv.org/abs/1811.06606v1)
 
 
 
