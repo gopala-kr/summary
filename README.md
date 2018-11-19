@@ -71,6 +71,23 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Effect of data reduction on sequence-to-sequence neural TTS](https://arxiv.org/abs/1811.06315v1)
 - [Effects of Dataset properties on the training of GANs](https://arxiv.org/abs/1811.02850v3)
 - [On-line Adaptative Curriculum Learning for GANs](https://arxiv.org/abs/1808.00020v4)
+- [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/abs/1811.06965v1)
+- [Active Inverse Reward Design](https://arxiv.org/abs/1809.03060v2)
+- [DropFilter: A Novel Regularization Method for Learning Convolutional Neural Networks](https://arxiv.org/abs/1811.06783v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 ------------
 
