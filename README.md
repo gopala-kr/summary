@@ -109,7 +109,17 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Watermark Retrieval from 3D Printed Objects via Convolutional Neural Networks](https://arxiv.org/abs/1811.07640v1)
 - [Deep Active Learning with a Neural Architecture Search](https://arxiv.org/abs/1811.07579v1)
 - [iQIYI-VID: A Large Dataset for Multi-modal Person Identification](https://arxiv.org/abs/1811.07548v1)
-
+- [HAQ: Hardware-Aware Automated Quantization](https://arxiv.org/abs/1811.08886v1)
+- [Artificial Intelligence-Defined 5G Radio Access Networks](https://arxiv.org/abs/1811.08792v1)
+- [Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs](https://arxiv.org/abs/1811.08634v1)
+- [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/abs/1811.10104v1)
+- [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813v3)
+- [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/abs/1811.03804v1)
+- [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597v1)
+- [Context-Aware Crowd Counting](https://arxiv.org/abs/1811.10452v1)
+- [InstaNAS: Instance-aware Neural Architecture Search](https://arxiv.org/abs/1811.10201v1)
+- [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/1811.09886v1)
+- [Machine Learning for Health (ML4H) Workshop at NeurIPS 2018](https://arxiv.org/abs/1811.07216v2)
 
 
 ------------
