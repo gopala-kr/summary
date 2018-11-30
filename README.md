@@ -134,7 +134,8 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [TimbreTron: A WaveNet(CycleGAN(CQT(Audio))) Pipeline for Musical Timbre Transfer](https://arxiv.org/abs/1811.09620v1)
 - [A computational perspective of the role of Thalamus in cognition](https://arxiv.org/abs/1803.00997v3)
 - [Towards Long-Term Memory for Social Robots: Proposing a New Challenge for the RoboCup@Home League](https://arxiv.org/abs/1811.10758v1)
-
+- [Automated Algorithm Selection: Survey and Perspectives](https://arxiv.org/abs/1811.11597v1)
+- [LRW-1000: A Naturally-Distributed Large-Scale Benchmark for Lip Reading in the Wild](https://arxiv.org/abs/1810.06990v4)
 
 ------------
 
