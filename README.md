@@ -142,6 +142,8 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Actor-Critic Policy Optimization in Partially Observable Multiagent Environments](https://arxiv.org/abs/1810.09026v3)
 - [Prioritizing Starting States for Reinforcement Learning](https://arxiv.org/abs/1811.11298v1)
 - [DLHub: Model and Data Serving for Science](https://arxiv.org/abs/1811.11213v1)
+- [Towards Identifying and Managing Sources of Uncertainty in AI and Machine Learning Models - An Overview](https://arxiv.org/abs/1811.11669v1)
+- [Kalman filter demystified: from intuition to probabilistic graphical model to real case in financial markets](https://arxiv.org/abs/1811.11618v1)
 
 ------------
 
