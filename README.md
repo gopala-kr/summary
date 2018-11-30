@@ -146,6 +146,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Kalman filter demystified: from intuition to probabilistic graphical model to real case in financial markets](https://arxiv.org/abs/1811.11618v1)
 
 
+
 ------------
 
 10/2018
