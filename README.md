@@ -146,8 +146,10 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Kalman filter demystified: from intuition to probabilistic graphical model to real case in financial markets](https://arxiv.org/abs/1811.11618v1)
 - [Snap ML: A Hierarchical Framework for Machine Learning](https://arxiv.org/abs/1803.06333v3)
 - [Face Detection in the Operating Room: Comparison of State-of-the-art Methods and a Self-supervised Approach](https://arxiv.org/abs/1811.12296v1)
-
-
+- [Demonstrating Advantages of Neuromorphic Computation: A Pilot Study](https://arxiv.org/abs/1811.03618v3)
+- [ShelfNet for Real-time Semantic Segmentation](https://arxiv.org/abs/1811.11254v1)
+- [Attentive Relational Networks for Mapping Images to Scene Graphs](https://arxiv.org/abs/1811.10696v1)
+- [ApolloCar3D: A Large 3D Car Instance Understanding Benchmark for Autonomous Driving](https://arxiv.org/abs/1811.12222v1)
 ------------
 
 10/2018
