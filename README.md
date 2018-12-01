@@ -144,8 +144,8 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [DLHub: Model and Data Serving for Science](https://arxiv.org/abs/1811.11213v1)
 - [Towards Identifying and Managing Sources of Uncertainty in AI and Machine Learning Models - An Overview](https://arxiv.org/abs/1811.11669v1)
 - [Kalman filter demystified: from intuition to probabilistic graphical model to real case in financial markets](https://arxiv.org/abs/1811.11618v1)
-
-
+- [Snap ML: A Hierarchical Framework for Machine Learning](https://arxiv.org/abs/1803.06333v3)
+- [Face Detection in the Operating Room: Comparison of State-of-the-art Methods and a Self-supervised Approach](https://arxiv.org/abs/1811.12296v1)
 
 
 ------------
