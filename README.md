@@ -122,7 +122,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Machine Learning for Health (ML4H) Workshop at NeurIPS 2018](https://arxiv.org/abs/1811.07216v2)
 - [Representation Mixing for TTS Synthesis](https://arxiv.org/abs/1811.07240v2)
 - [Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search](https://arxiv.org/abs/1811.06272v1)
-- [Robust Artificial Intelligence and Robust Human Organizations](https://arxiv.org/abs/1811.10840v1)
+- [Robust Artificial Intelligence and Robust Human Organizations](https://arxiv.org/abs/1811.10840v1) :star:
 - [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v1)
 - [MLModelScope: Evaluate and Measure ML Models within AI Pipelines](https://arxiv.org/abs/1811.09737v1)
 - [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830v1)
@@ -150,6 +150,7 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [ShelfNet for Real-time Semantic Segmentation](https://arxiv.org/abs/1811.11254v1)
 - [Attentive Relational Networks for Mapping Images to Scene Graphs](https://arxiv.org/abs/1811.10696v1)
 - [ApolloCar3D: A Large 3D Car Instance Understanding Benchmark for Autonomous Driving](https://arxiv.org/abs/1811.12222v1)
+
 ------------
 
 10/2018
