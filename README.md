@@ -150,6 +150,13 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [ShelfNet for Real-time Semantic Segmentation](https://arxiv.org/abs/1811.11254v1)
 - [Attentive Relational Networks for Mapping Images to Scene Graphs](https://arxiv.org/abs/1811.10696v1)
 - [ApolloCar3D: A Large 3D Car Instance Understanding Benchmark for Autonomous Driving](https://arxiv.org/abs/1811.12222v1)
+- [Recurrent Relational Networks](https://arxiv.org/abs/1711.08028v4)
+- [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://arxiv.org/abs/1806.08317v2)
+- [A Century Long Commitment to Assessing Artificial Intelligence and its Impact on Society](https://arxiv.org/abs/1808.07899v1)
+- [Foot Pressure from Video: A Deep Learning Approach to Predict Dynamics from Kinematics](https://arxiv.org/abs/1811.12607v1)
+- [Measure, Manifold, Learning, and Optimization: A Theory Of Neural Networks](https://arxiv.org/abs/1811.12783v1)
+- [Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects](https://arxiv.org/abs/1806.01794v2)
+
 
 ------------
 
