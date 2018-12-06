@@ -50,6 +50,7 @@ Articles
 - [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332v1)
 - [Brief survey of Mobility Analyses based on Mobile Phone Datasets](https://arxiv.org/abs/1812.01077v1)
 - [Wireless Data Acquisition for Edge Learning: Importance Aware Retransmission](https://arxiv.org/abs/1812.02030v1)
+- [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560v2)
 
 -------------
 11/2018
