@@ -46,7 +46,7 @@ Articles
 - [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601v1)
 - [MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language](https://arxiv.org/abs/1812.01053v1)
 - [Designing quantum experiments with a genetic algorithm](https://arxiv.org/abs/1812.01032v1)
-- []()
+- [SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications]()
 - []()
 - []()
 - []()
