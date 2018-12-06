@@ -41,6 +41,7 @@ Articles
 
 12/2018
 
+- [Theory of Cognitive Relativity: A Promising Paradigm for True AI](https://arxiv.org/abs/1812.00136v1)
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/abs/1812.01569v1)
 - [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187v1)
 - [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601v1)
