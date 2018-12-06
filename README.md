@@ -45,7 +45,7 @@ Articles
 - [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187v1)
 - [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601v1)
 - [MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language](https://arxiv.org/abs/1812.01053v1)
-- []()
+- [Designing quantum experiments with a genetic algorithm](https://arxiv.org/abs/1812.01032v1)
 - []()
 - []()
 - []()
