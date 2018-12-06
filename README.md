@@ -46,10 +46,10 @@ Articles
 - [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601v1)
 - [MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language](https://arxiv.org/abs/1812.01053v1)
 - [Designing quantum experiments with a genetic algorithm](https://arxiv.org/abs/1812.01032v1)
-- [SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications]()
-- []()
-- []()
-- []()
+- [SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications](https://arxiv.org/abs/1812.02132v1)
+- [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332v1)
+- [Brief survey of Mobility Analyses based on Mobile Phone Datasets](https://arxiv.org/abs/1812.01077v1)
+- [Wireless Data Acquisition for Edge Learning: Importance Aware Retransmission](https://arxiv.org/abs/1812.02030v1)
 
 -------------
 11/2018
