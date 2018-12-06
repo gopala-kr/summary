@@ -38,6 +38,20 @@ Articles
 - [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
 -----------------------
+
+12/2018
+
+- [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/abs/1812.01569v1)
+- [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187v1)
+- [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601v1)
+- [MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language](https://arxiv.org/abs/1812.01053v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+-------------
 11/2018
 
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/pdf/1811.00260v1.pdf) [[code](https://github.com/facebookresearch/Horizon)]
