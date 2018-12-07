@@ -52,6 +52,18 @@ Articles
 - [Brief survey of Mobility Analyses based on Mobile Phone Datasets](https://arxiv.org/abs/1812.01077v1)
 - [Wireless Data Acquisition for Edge Learning: Importance Aware Retransmission](https://arxiv.org/abs/1812.02030v1)
 - [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560v2)
+- [Visual Object Networks: Image Generation with Disentangled 3D Representation](https://arxiv.org/abs/1812.02725v1)
+- [Project Rosetta: A Childhood Social, Emotional, and Behavioral Developmental Ontology](https://arxiv.org/abs/1812.02722v1)
+- [Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks](https://arxiv.org/abs/1811.03081v2)
+- [Online Model Distillation for Efficient Video Inference](https://arxiv.org/abs/1812.02699v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -------------
 11/2018
