@@ -77,6 +77,12 @@ Articles
 - [EENMF: An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](https://arxiv.org/abs/1812.01190v2)
 - [Visual Attention for Behavioral Cloning in Autonomous Driving](https://arxiv.org/abs/1812.01802v1)
 - [Law and Adversarial Machine Learning](https://arxiv.org/abs/1810.10731v3)
+- [A Style-Based Generator Architecture for Generative Adversarial Network](https://arxiv.org/abs/1812.04948v1)
+- [Improving fairness in machine learning systems: What do industry practitioners need?](https://arxiv.org/abs/1812.05239v1)
+- [Gaussian Process Deep Belief Networks: A Smooth Generative Model of Shape with Uncertainty Propagation](https://arxiv.org/abs/1812.05477v1)
+- [IRLAS: Inverse Reinforcement Learning for Architecture Search](https://arxiv.org/abs/1812.05285v1)
+- [Learning to Communicate: A Machine Learning Framework for Heterogeneous Multi-Agent Robotic Systems](https://arxiv.org/abs/1812.05256v1)
+- [Adversarial Transfer Learning](https://arxiv.org/abs/1812.02849v1)
 
 -------------
 11/2018
