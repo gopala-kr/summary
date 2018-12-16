@@ -83,6 +83,18 @@ Articles
 - [IRLAS: Inverse Reinforcement Learning for Architecture Search](https://arxiv.org/abs/1812.05285v1)
 - [Learning to Communicate: A Machine Learning Framework for Heterogeneous Multi-Agent Robotic Systems](https://arxiv.org/abs/1812.05256v1)
 - [Adversarial Transfer Learning](https://arxiv.org/abs/1812.02849v1)
+- [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267v2)
+- [Revisiting Exploration-Conscious Reinforcement Learning](https://arxiv.org/abs/1812.05551v1)
+- [Deep Face Image Retrieval: a Comparative Study with Dictionary Learning](https://arxiv.org/abs/1812.05490v1)
+- [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271v1)
+- [A comparison of cluster algorithms as applied to unsupervised surveys](https://arxiv.org/abs/1811.12210v2)
+- [On-line Adaptative Curriculum Learning for GANs](https://arxiv.org/abs/1808.00020v5)
+- [Transfer Learning using Representation Learning in Massive Online Open Courses](https://arxiv.org/abs/1812.05043v1)
+- [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872v2)
+- [Linking Artificial Intelligence Principles](https://arxiv.org/abs/1812.04814v1)
+- [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://arxiv.org/abs/1811.00145v2)
+- [Gaussian Process Deep Belief Networks: A Smooth Generative Model of Shape with Uncertainty Propagation](https://arxiv.org/abs/1812.05477v1)
+- [Comixify: Transform video into a comics](https://arxiv.org/abs/1812.03473v1)
 
 -------------
 11/2018
