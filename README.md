@@ -103,6 +103,18 @@ Articles
 - [TechKG: A Large-Scale Chinese Technology-Oriented Knowledge Graph](https://arxiv.org/abs/1812.06722v1)
 - [Towards Real-Time Accurate Object Detection in Both Images and Videos Based on Dual Refinement](https://arxiv.org/abs/1807.08638v3)
 - [The Entropy of Artificial Intelligence and a Case Study of AlphaZero from Shannon's Perspective](https://arxiv.org/abs/1812.05794v2)
+- [Contingency-Aware Exploration in Reinforcement Learning](https://arxiv.org/abs/1811.01483v2)
+- [Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference](https://arxiv.org/abs/1809.01357v2)
+- [Latent Dirichlet Allocation in Generative Adversarial Networks](https://arxiv.org/abs/1812.06571v1)
+- [Quantum Memristors in Quantum Photonics](https://arxiv.org/abs/1709.07808v2)
+- [A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Software](https://arxiv.org/abs/1812.05944v1)
+- [Evolutionary Neural Architecture Search for Image Restoration](https://arxiv.org/abs/1812.05866v1)
+- [DVC: An End-to-end Deep Video Compression Framework](https://arxiv.org/abs/1812.00101v2)
+- [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905v1)
+- [Imitation Learning for End to End Vehicle Longitudinal Control with Forward Camera](https://arxiv.org/abs/1812.05841v1)
+- [End to End Video Segmentation for Driving : Lane Detection For Autonomous Car](https://arxiv.org/abs/1812.05914v1)
+- [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
+- [Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://arxiv.org/abs/1808.08946v3)
 
 -------------
 11/2018
