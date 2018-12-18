@@ -95,6 +95,14 @@ Articles
 - [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation](https://arxiv.org/abs/1811.00145v2)
 - [Gaussian Process Deep Belief Networks: A Smooth Generative Model of Shape with Uncertainty Propagation](https://arxiv.org/abs/1812.05477v1)
 - [Comixify: Transform video into a comics](https://arxiv.org/abs/1812.03473v1)
+- [Policy Search in Continuous Action Domains: an Overview](https://arxiv.org/abs/1803.04706v4)
+- [Transfer Learning in Brain-Computer Interfaces with Adversarial Variational Autoencoders](https://arxiv.org/abs/1812.06857v1)
+- [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855v1)
+- [A Tutorial on Deep Latent Variable Models of Natural Language](https://arxiv.org/abs/1812.06834v1)
+- [Traceability of Deep Neural Networks](https://arxiv.org/abs/1812.06744v1)
+- [TechKG: A Large-Scale Chinese Technology-Oriented Knowledge Graph](https://arxiv.org/abs/1812.06722v1)
+- [Towards Real-Time Accurate Object Detection in Both Images and Videos Based on Dual Refinement](https://arxiv.org/abs/1807.08638v3)
+- [The Entropy of Artificial Intelligence and a Case Study of AlphaZero from Shannon's Perspective](https://arxiv.org/abs/1812.05794v2)
 
 -------------
 11/2018
