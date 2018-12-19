@@ -115,6 +115,8 @@ Articles
 - [End to End Video Segmentation for Driving : Lane Detection For Autonomous Car](https://arxiv.org/abs/1812.05914v1)
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
 - [Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://arxiv.org/abs/1808.08946v3)
+- [Scaling shared model governance via model splitting](https://arxiv.org/abs/1812.05979v1)
+
 
 -------------
 11/2018
