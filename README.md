@@ -116,7 +116,7 @@ Articles
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
 - [Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://arxiv.org/abs/1808.08946v3)
 - [Scaling shared model governance via model splitting](https://arxiv.org/abs/1812.05979v1)
-
+- [FML: Face Model Learning from Videos](https://arxiv.org/abs/1812.07603v1)
 
 -------------
 11/2018
