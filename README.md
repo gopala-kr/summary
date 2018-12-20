@@ -117,6 +117,7 @@ Articles
 - [Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://arxiv.org/abs/1808.08946v3)
 - [Scaling shared model governance via model splitting](https://arxiv.org/abs/1812.05979v1)
 - [FML: Face Model Learning from Videos](https://arxiv.org/abs/1812.07603v1)
+- [Generative One-Shot Learning (GOL): A Semi-Parametric Approach to One-Shot Learning in Autonomous Vision](https://arxiv.org/abs/1812.07567v1)
 
 -------------
 11/2018
