@@ -119,6 +119,8 @@ Articles
 - [FML: Face Model Learning from Videos](https://arxiv.org/abs/1812.07603v1)
 - [Generative One-Shot Learning (GOL): A Semi-Parametric Approach to One-Shot Learning in Autonomous Vision](https://arxiv.org/abs/1812.07567v1)
 - [Machine Learning in Cyber-Security - Problems, Challenges and Data Sets](https://arxiv.org/abs/1812.07858v1)
+- [Deep Paper Gestalt](https://arxiv.org/abs/1812.08775v1)
+- [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718v1)
 
 -------------
 11/2018
