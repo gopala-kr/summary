@@ -123,6 +123,8 @@ Articles
 - [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718v1)
 - [Learning On-Road Visual Control for Self-Driving Vehicles with Auxiliary Tasks](https://arxiv.org/abs/1812.07760v1)
 - [Progressive Data Science: Potential and Challenges](https://arxiv.org/abs/1812.08032v1)
+- [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699v1)
+- [Molecular Dynamics with Neural-Network Potentials](https://arxiv.org/abs/1812.07676v1)
 
 -------------
 11/2018
