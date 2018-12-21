@@ -121,6 +121,8 @@ Articles
 - [Machine Learning in Cyber-Security - Problems, Challenges and Data Sets](https://arxiv.org/abs/1812.07858v1)
 - [Deep Paper Gestalt](https://arxiv.org/abs/1812.08775v1)
 - [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718v1)
+- [Learning On-Road Visual Control for Self-Driving Vehicles with Auxiliary Tasks](https://arxiv.org/abs/1812.07760v1)
+- [Progressive Data Science: Potential and Challenges](https://arxiv.org/abs/1812.08032v1)
 
 -------------
 11/2018
