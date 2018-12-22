@@ -125,6 +125,7 @@ Articles
 - [Progressive Data Science: Potential and Challenges](https://arxiv.org/abs/1812.08032v1)
 - [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699v1)
 - [Molecular Dynamics with Neural-Network Potentials](https://arxiv.org/abs/1812.07676v1)
+- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434v1)
 
 -------------
 11/2018
