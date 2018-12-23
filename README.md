@@ -129,6 +129,7 @@ Articles
 - [wav2letter++: The Fastest Open-source Speech Recognition System](https://arxiv.org/abs/1812.07625v1)
 - [Learning On-Road Visual Control for Self-Driving Vehicles with Auxiliary Tasks](https://arxiv.org/abs/1812.07760v1)
 - [A Survey of Hierarchy Identification in Social Networks](https://arxiv.org/abs/1812.08425v1)
+- [nocaps: novel object captioning at scale](https://arxiv.org/abs/1812.08658v1)
 
 -------------
 11/2018
