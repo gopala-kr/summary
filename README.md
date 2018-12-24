@@ -127,9 +127,12 @@ Articles
 - [Molecular Dynamics with Neural-Network Potentials](https://arxiv.org/abs/1812.07676v1)
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434v1)
 - [wav2letter++: The Fastest Open-source Speech Recognition System](https://arxiv.org/abs/1812.07625v1)
-- [Learning On-Road Visual Control for Self-Driving Vehicles with Auxiliary Tasks](https://arxiv.org/abs/1812.07760v1)
 - [A Survey of Hierarchy Identification in Social Networks](https://arxiv.org/abs/1812.08425v1)
 - [nocaps: novel object captioning at scale](https://arxiv.org/abs/1812.08658v1)
+- [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838v3.pdf)
+- [Deep Graph Infomax](https://arxiv.org/abs/1809.10341v2)
+- [Variational Cross-domain Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1812.08879v1)
+- [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/abs/1812.08989v1)
 
 -------------
 11/2018
