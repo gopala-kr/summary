@@ -156,6 +156,7 @@ Articles
 - [A General Approach to Domain Adaptation with Applications in Astronomy](https://arxiv.org/abs/1812.08839v1)
 - [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/abs/1812.09449v1)
 - [Parallelized Interactive Machine Learning on Autonomous Vehicles](https://arxiv.org/abs/1812.09724v1)
+- [Machine learning and AI research for Patient Benefit: 20 Critical Questions on Transparency, Replicability, Ethics and Effectiveness](https://arxiv.org/abs/1812.10404v1)
 
 -------------
 11/2018
