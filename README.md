@@ -154,6 +154,8 @@ Articles
 - [Photo Wake-Up: 3D Character Animation from a Single Photo](https://arxiv.org/abs/1812.02246v1)
 - [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296v4)
 - [A General Approach to Domain Adaptation with Applications in Astronomy](https://arxiv.org/abs/1812.08839v1)
+- [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/abs/1812.09449v1)
+- [Parallelized Interactive Machine Learning on Autonomous Vehicles](https://arxiv.org/abs/1812.09724v1)
 
 -------------
 11/2018
