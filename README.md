@@ -160,6 +160,7 @@ Articles
 - [Training Deep Capsule Networks](https://arxiv.org/abs/1812.09707v1)
 - [Deep Learning for Inferring the Surface Solar Irradiance from Sky Imagery](https://arxiv.org/abs/1812.09793v1)
 - [Learning Not to Learn: Training Deep Neural Networks with Biased Data](https://arxiv.org/abs/1812.10352v1)
+- [RegNet: Learning the Optimization of Direct Image-to-Image Pose Registration](https://arxiv.org/abs/1812.10212v1)
 
 
 -------------
