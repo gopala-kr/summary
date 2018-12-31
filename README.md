@@ -163,7 +163,8 @@ Articles
 - [RegNet: Learning the Optimization of Direct Image-to-Image Pose Registration](https://arxiv.org/abs/1812.10212v1)
 - [GaussianProcesses.jl: A Nonparametric Bayes package for the Julia Language](https://arxiv.org/abs/1812.09064v1)
 - [Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755v1)
-
+- [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/abs/1812.10464v1)
+- []()
 
 -------------
 11/2018
