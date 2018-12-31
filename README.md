@@ -172,6 +172,7 @@ Articles
 - [A Multi-Stream Convolutional Neural Network Framework for Group Activity Recognition](https://arxiv.org/abs/1812.10328v1)
 - [Reward Constrained Policy Optimization](https://arxiv.org/abs/1805.11074v3)
 - [Perceptrons from Memristors](https://arxiv.org/abs/1807.04912v2)
+- [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826v2)
 
 -------------
 11/2018
