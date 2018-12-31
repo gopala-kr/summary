@@ -157,7 +157,7 @@ Articles
 - [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/abs/1812.09449v1)
 - [Parallelized Interactive Machine Learning on Autonomous Vehicles](https://arxiv.org/abs/1812.09724v1)
 - [Machine learning and AI research for Patient Benefit: 20 Critical Questions on Transparency, Replicability, Ethics and Effectiveness](https://arxiv.org/abs/1812.10404v1)
-- [Training Deep Capsule Networks](https://arxiv.org/abs/1812.09707v1)
+- [Training Deep Capsule Networks](https://arxiv.org/abs/1812.09707v1) :star:
 - [Deep Learning for Inferring the Surface Solar Irradiance from Sky Imagery](https://arxiv.org/abs/1812.09793v1)
 - [Learning Not to Learn: Training Deep Neural Networks with Biased Data](https://arxiv.org/abs/1812.10352v1)
 - [RegNet: Learning the Optimization of Direct Image-to-Image Pose Registration](https://arxiv.org/abs/1812.10212v1)
