@@ -173,6 +173,7 @@ Articles
 - [Reward Constrained Policy Optimization](https://arxiv.org/abs/1805.11074v3)
 - [Perceptrons from Memristors](https://arxiv.org/abs/1807.04912v2)
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826v2)
+- [Optimizing Market Making using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1812.10252v1)
 
 -------------
 11/2018
