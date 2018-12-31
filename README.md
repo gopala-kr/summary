@@ -171,7 +171,7 @@ Articles
 - [Informative Object Annotations: Tell Me Something I Don't Know](https://arxiv.org/abs/1812.10358v1)
 - [A Multi-Stream Convolutional Neural Network Framework for Group Activity Recognition](https://arxiv.org/abs/1812.10328v1)
 - [Reward Constrained Policy Optimization](https://arxiv.org/abs/1805.11074v3)
-- []()
+- [Perceptrons from Memristors](https://arxiv.org/abs/1807.04912v2)
 
 -------------
 11/2018
