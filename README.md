@@ -167,6 +167,7 @@ Articles
 - [Structure Learning of Sparse GGMs over Multiple Access Networks](https://arxiv.org/abs/1812.10437v1)
 - [Large Multistream Data Analytics for Monitoring and Diagnostics in Manufacturing Systems](https://arxiv.org/abs/1812.10430v1)
 - [ECG Segmentation by Neural Networks: Errors and Correction](https://arxiv.org/abs/1812.10386v1)
+- [A Review on The Use of Deep Learning in Android Malware Detection](https://arxiv.org/abs/1812.10360v1)
 
 -------------
 11/2018
