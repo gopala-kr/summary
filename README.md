@@ -174,6 +174,10 @@ Articles
 - [Perceptrons from Memristors](https://arxiv.org/abs/1807.04912v2)
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826v2)
 - [Optimizing Market Making using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1812.10252v1)
+- [End-to-End Latent Fingerprint Search](https://arxiv.org/abs/1812.10213v1)
+- [When Does Stochastic Gradient Algorithm Work Well?](https://arxiv.org/abs/1801.06159v2)
+- [General Video Game AI: a Multi-Track Framework for Evaluating Agents, Games and Content Generation Algorithms](https://arxiv.org/abs/1802.10363v3)
+- [Portfolio Optimization for Cointelated Pairs: SDEs vs. Machine Learning](https://arxiv.org/abs/1812.10183v1)
 
 -------------
 11/2018
