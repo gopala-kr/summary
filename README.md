@@ -298,7 +298,27 @@ Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553v1.pdf)
 - [Foot Pressure from Video: A Deep Learning Approach to Predict Dynamics from Kinematics](https://arxiv.org/abs/1811.12607v1)
 - [Measure, Manifold, Learning, and Optimization: A Theory Of Neural Networks](https://arxiv.org/abs/1811.12783v1)
 - [Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects](https://arxiv.org/abs/1806.01794v2)
-
+- [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v1) :star:
+- [Fingerprint Presentation Attack Detection: Generalization and Efficiency](https://arxiv.org/abs/1812.11574v1)
+- [Tied Hidden Factors in Neural Networks for End-to-End Speaker Recognition](https://arxiv.org/abs/1812.11946v1)
+- [SLIM LSTMs](https://arxiv.org/abs/1812.11391v1)
+- [Partially Non-Recurrent Controllers for Memory-Augmented Neural Networks](https://arxiv.org/abs/1812.11485v1)
+- [ATHENA: Automated Tuning of Genomic Error Correction Algorithms using Language Models](https://arxiv.org/abs/1812.11467v1)
+- [Deep Residual Learning in the JPEG Transform Domain](https://arxiv.org/abs/1812.11690v1)
+- [A dataset of 40K naturalistic 6-degree-of-freedom robotic grasp demonstrations](https://arxiv.org/abs/1812.11683v1)
+- [ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Method of Multipliers](https://arxiv.org/abs/1812.11677v1)
+- [Predicting Aircraft Trajectories: A Deep Generative Convolutional Recurrent Neural Networks Approach](https://arxiv.org/abs/1812.11670v1)
+- [Improving fairness in machine learning systems: What do industry practitioners need?](https://arxiv.org/abs/1812.05239v1)
+- [Meta Reinforcement Learning with Distribution of Exploration Parameters Learned by Evolution Strategies](https://arxiv.org/abs/1812.11314v1)
+- [Greedy Layerwise Learning Can Scale to ImageNet](https://arxiv.org/abs/1812.11446v1)
+- [CamLoc: Pedestrian Location Detection from Pose Estimation on Resource-constrained Smart-cameras](https://arxiv.org/abs/1812.11209v1)
+- [Learn to Interpret Atari Agents](https://arxiv.org/abs/1812.11276v1)
+- [BNN+: Improved Binary Network Training](https://arxiv.org/abs/1812.11800v1)
+- [AIR5: Five Pillars of Artificial Intelligence Research](https://arxiv.org/abs/1812.11509v1)
+- [Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching](https://arxiv.org/abs/1812.11561v1)
+- [CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences](https://arxiv.org/abs/1812.11501v1)
+- [ORIGAMI: A Heterogeneous Split Architecture for In-Memory Acceleration of Learning](https://arxiv.org/abs/1812.11473v1)
+- [Learning to Design RNA](https://arxiv.org/abs/1812.11951v1)
 
 ------------
 
