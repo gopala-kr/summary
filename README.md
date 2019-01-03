@@ -199,6 +199,7 @@ Articles
 - [CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences](https://arxiv.org/abs/1812.11501v1)
 - [ORIGAMI: A Heterogeneous Split Architecture for In-Memory Acceleration of Learning](https://arxiv.org/abs/1812.11473v1)
 - [Learning to Design RNA](https://arxiv.org/abs/1812.11951v1)
+- [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/abs/1812.08342v2)
 
 -------------
 11/2018
