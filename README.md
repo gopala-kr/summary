@@ -42,6 +42,7 @@ Articles
 01/2019
 
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v1)
+- [Face Recognition: A Novel Multi-Level Taxonomy based Survey](https://arxiv.org/abs/1901.00713v1)
 
 
 -------------
