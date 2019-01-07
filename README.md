@@ -43,7 +43,7 @@ Articles
 
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v1)
 - [Face Recognition: A Novel Multi-Level Taxonomy based Survey](https://arxiv.org/abs/1901.00713v1)
-
+- [DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation](https://arxiv.org/abs/1801.02805v2) [[code](https://github.com/lexfridman/deeptraffic)]
 
 -------------
 
@@ -207,6 +207,7 @@ Articles
 - [ORIGAMI: A Heterogeneous Split Architecture for In-Memory Acceleration of Learning](https://arxiv.org/abs/1812.11473v1)
 - [Learning to Design RNA](https://arxiv.org/abs/1812.11951v1)
 - [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/abs/1812.08342v2)
+- [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
 
 -------------
 11/2018
