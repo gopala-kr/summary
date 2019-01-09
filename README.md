@@ -44,6 +44,38 @@ Articles
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v1)
 - [Face Recognition: A Novel Multi-Level Taxonomy based Survey](https://arxiv.org/abs/1901.00713v1)
 - [DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation](https://arxiv.org/abs/1801.02805v2) [[code](https://github.com/lexfridman/deeptraffic)]
+- [Optimal Decision-Making in Mixed-Agent Partially Observable Stochastic Environments via Reinforcement Learning](https://arxiv.org/abs/1901.01325v1)
+- [Floyd-Warshall Reinforcement Learning: Learning from Past Experiences to Reach New Goals](https://arxiv.org/abs/1809.09318v4)
+- [A Critical Investigation of Deep Reinforcement Learning for Navigation](https://arxiv.org/abs/1802.02274v2)
+- [Adversarial Examples versus Cloud-based Detectors: A Black-box Empirical Study](https://arxiv.org/abs/1901.01223v1)
+- [Sheaves: A Topological Approach to Big Data](https://arxiv.org/abs/1901.01341v1)
+- [AVA-ActiveSpeaker: An Audio-Visual Dataset for Active Speaker Detection](https://arxiv.org/abs/1901.01342v1)
+- [Tencent ML-Images: A Large-Scale Multi-Label Image Database for Visual Representation Learning](https://arxiv.org/abs/1901.01703v1)
+- [Text2Scene: Generating Compositional Scenes from Textual Descriptions](https://arxiv.org/abs/1809.01110v2)
+- [Addressing Objects and Their Relations: The Conversational Entity Dialogue Model](https://arxiv.org/abs/1901.01466v1)
+- [Designing for Democratization: Introducing Novices to Artificial Intelligence Via Maker Kits](https://arxiv.org/abs/1805.10723v3)
+- [Elimination of All Bad Local Minima in Deep Learning](https://arxiv.org/abs/1901.00279v1)
+- [Location-Centered House Price Prediction: A Multi-Task Learning Approach](https://arxiv.org/abs/1901.01774v1)
+- [Credit Assignment Techniques in Stochastic Computation Graphs](https://arxiv.org/abs/1901.01761v1)
+- [Human Pose Estimation with Spatial Contextual Information](https://arxiv.org/abs/1901.01760v1)
+- [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://arxiv.org/abs/1901.01751v1)
+- [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074v2)
+- [Quaternion Recurrent Neural Networks](https://arxiv.org/abs/1806.04418v3)
+- [Ten ways to fool the masses with machine learning](https://arxiv.org/abs/1901.01686v1)
+- [Unrepresentative video data: A review and evaluation](https://arxiv.org/abs/1811.11815v2)
+- [Automated Pruning for Deep Neural Network Compression](https://arxiv.org/abs/1712.01721v2)
+- [Learning Combinations of Activation Functions](https://arxiv.org/abs/1801.09403v2)
+- [Bandwidth Reduction using Importance Weighted Pruning on Ring AllReduce](https://arxiv.org/abs/1901.01544v1)
+- [Exploring applications of deep reinforcement learning for real-world autonomous driving systems](https://arxiv.org/abs/1901.01536v1) :star:
+- [RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials](https://arxiv.org/abs/1901.01535v1)
+- [Gauges, Loops, and Polynomials for Partition Functions of Graphical Models](https://arxiv.org/abs/1811.04713v4)
+- [Channel Locality Block: A Variant of Squeeze-and-Excitation](https://arxiv.org/abs/1901.01493v1)
+- [What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning](https://arxiv.org/abs/1901.01492v1)
+- [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641v4)
+- [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://arxiv.org/abs/1901.01484v1)
+- [Rethinking the Artificial Neural Networks: A Mesh of Subnets with a Central Mechanism for Storing and Predicting the Data](https://arxiv.org/abs/1901.01462v1)
+- [Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud](https://arxiv.org/abs/1809.03428v3)
+- [The ISTI Rapid Response on Exploring Cloud Computing 2018](https://arxiv.org/abs/1901.01331v1)
 
 -------------
 
@@ -209,6 +241,7 @@ Articles
 - [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/abs/1812.08342v2)
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
 - [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/abs/1808.07647v2)
+- [Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3](https://arxiv.org/abs/1812.10968v1)
 
 -------------
 11/2018
