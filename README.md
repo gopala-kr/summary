@@ -208,6 +208,7 @@ Articles
 - [Learning to Design RNA](https://arxiv.org/abs/1812.11951v1)
 - [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/abs/1812.08342v2)
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
+- [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/abs/1808.07647v2)
 
 -------------
 11/2018
