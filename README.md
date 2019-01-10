@@ -76,6 +76,11 @@ Articles
 - [Rethinking the Artificial Neural Networks: A Mesh of Subnets with a Central Mechanism for Storing and Predicting the Data](https://arxiv.org/abs/1901.01462v1)
 - [Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud](https://arxiv.org/abs/1809.03428v3)
 - [The ISTI Rapid Response on Exploring Cloud Computing 2018](https://arxiv.org/abs/1901.01331v1)
+- [FIGR: Few-shot Image Generation with Reptile](https://arxiv.org/abs/1901.02199v1)
+- [Multi-stream CNN based Video Semantic Segmentation for Automated Driving](https://arxiv.org/abs/1901.02511v1)
+- [Multi-style Generative Reading Comprehension](https://arxiv.org/abs/1901.02262v1)
+- [GILT: Generating Images from Long Text](https://arxiv.org/abs/1901.02404v1)
+- [On the Capabilities and Limitations of Reasoning for Natural Language Understanding](https://arxiv.org/abs/1901.02522v1)
 
 -------------
 
@@ -242,6 +247,7 @@ Articles
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
 - [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/abs/1808.07647v2)
 - [Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3](https://arxiv.org/abs/1812.10968v1)
+- [An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents](https://arxiv.org/abs/1812.07069v1)
 
 -------------
 11/2018
