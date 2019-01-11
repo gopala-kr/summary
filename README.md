@@ -88,9 +88,11 @@ Articles
 - [Explaining AlphaGo: Interpreting Contextual Effects in Neural Networks](https://arxiv.org/abs/1901.02184v1)
 - [Asteroids Detection Technique: Classic "Blink" An Automated Approch](https://arxiv.org/abs/1901.02542v1)
 - [Machine learning topological phases in real space](https://arxiv.org/abs/1901.01963v1)
-- []()
-- []()
-- []()
+- [Dirichlet Variational Autoencoder](https://arxiv.org/abs/1901.02739v1)
+- [Recurrent Control Nets for Deep Reinforcement Learning](https://arxiv.org/abs/1901.01994v1)
+- [Spherical CNNs on Unstructured Grids](https://arxiv.org/abs/1901.02039v1)
+- [Risk-Aware Active Inverse Reinforcement Learning](https://arxiv.org/abs/1901.02161v1)
+- [Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks](https://arxiv.org/abs/1901.02671v1)
 
 -------------
 
@@ -471,7 +473,7 @@ across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [Audio-Visual Speech Recognition With A Hybrid CTC/Attention Architecture](https://arxiv.org/pdf/1810.00108v1.pdf)
 - [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/pdf/1803.04311v2.pdf)
 - [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332v1.pdf)
-
+- [Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1810.05934v3)
 
 -------------
 
