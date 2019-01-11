@@ -81,6 +81,7 @@ Articles
 - [Multi-style Generative Reading Comprehension](https://arxiv.org/abs/1901.02262v1)
 - [GILT: Generating Images from Long Text](https://arxiv.org/abs/1901.02404v1)
 - [On the Capabilities and Limitations of Reasoning for Natural Language Understanding](https://arxiv.org/abs/1901.02522v1)
+- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860v1)
 
 -------------
 
