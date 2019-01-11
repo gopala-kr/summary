@@ -83,6 +83,14 @@ Articles
 - [On the Capabilities and Limitations of Reasoning for Natural Language Understanding](https://arxiv.org/abs/1901.02522v1)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860v1)
 - [Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera](https://arxiv.org/abs/1901.02571v1)
+- [Choosing the Right Word: Using Bidirectional LSTM Tagger for Writing Support Systems](https://arxiv.org/abs/1901.02490v1)
+- [The Lingering of Gradients: How to Reuse Gradients over Time](https://arxiv.org/abs/1901.02871v1)
+- [Explaining AlphaGo: Interpreting Contextual Effects in Neural Networks](https://arxiv.org/abs/1901.02184v1)
+- [Asteroids Detection Technique: Classic "Blink" An Automated Approch](https://arxiv.org/abs/1901.02542v1)
+- [Machine learning topological phases in real space](https://arxiv.org/abs/1901.01963v1)
+- []()
+- []()
+- []()
 
 -------------
 
