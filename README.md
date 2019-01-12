@@ -260,6 +260,10 @@ Articles
 - [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/abs/1808.07647v2)
 - [Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3](https://arxiv.org/abs/1812.10968v1)
 - [An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents](https://arxiv.org/abs/1812.07069v1)
+- [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v1)
+- [Revealing interpretable object representations from human behavior](https://arxiv.org/abs/1901.02915v1)
+- [Deep Learning for Human Affect Recognition: Insights and New Developments](https://arxiv.org/abs/1901.02884v1)
+- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860v1)
 
 -------------
 11/2018
