@@ -98,6 +98,17 @@ Articles
 - [Revealing interpretable object representations from human behavior](https://arxiv.org/abs/1901.02915v1)
 - [Deep Learning for Human Affect Recognition: Insights and New Developments](https://arxiv.org/abs/1901.02884v1)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860v1) [[code](https://github.com/kimiyoung/transformer-xl)]
+- [Exploring Weight Symmetry in Deep Neural Networks](https://arxiv.org/abs/1812.11027v2)
+- [Variable Importance Clouds: A Way to Explore Variable Importance for the Set of Good Models](https://arxiv.org/abs/1901.03209v1)
+- [Motion Perception in Reinforcement Learning with Dynamic Objects](https://arxiv.org/abs/1901.03162v1)
+- [Brief Review of Computational Intelligence Algorithms](https://arxiv.org/abs/1901.00983v2) :star:
+- [PVSS: A Progressive Vehicle Search System for Video Surveillance Networks](https://arxiv.org/abs/1901.03062v1)
+- [Learning Face Age Progression: A Pyramid Architecture of GANs](https://arxiv.org/abs/1711.10352v4)
+- [Machine Teaching for Inverse Reinforcement Learning: Algorithms and Applications](https://arxiv.org/abs/1805.07687v4)
+- [PFML-based Semantic BCI Agent for Game of Go Learning and Prediction](https://arxiv.org/abs/1901.02999v1)
+- [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v1)
+- [Accelerated Flow for Probability distributions](https://arxiv.org/abs/1901.03317v1)
+- [On Finding Gray Pixels](https://arxiv.org/abs/1901.03198v1)
 
 -------------
 
