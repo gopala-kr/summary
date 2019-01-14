@@ -109,6 +109,9 @@ Articles
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v1)
 - [Accelerated Flow for Probability distributions](https://arxiv.org/abs/1901.03317v1)
 - [On Finding Gray Pixels](https://arxiv.org/abs/1901.03198v1)
+- [RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free](https://arxiv.org/abs/1901.03353v1)
+- [Motion Perception in Reinforcement Learning with Dynamic Objects](https://arxiv.org/abs/1901.03162v1)
+- [Deep Learning for Anomaly Detection: A Survey](https://arxiv.org/abs/1901.03407v1)
 
 -------------
 
