@@ -112,6 +112,11 @@ Articles
 - [RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free](https://arxiv.org/abs/1901.03353v1)
 - [Motion Perception in Reinforcement Learning with Dynamic Objects](https://arxiv.org/abs/1901.03162v1)
 - [Deep Learning for Anomaly Detection: A Survey](https://arxiv.org/abs/1901.03407v1)
+- [An investigation of model-free planning](https://arxiv.org/abs/1901.03559v1)
+- [Dialog System Technology Challenge 7](https://arxiv.org/abs/1901.03461v1)
+- [On Event Causality Detection in Tweets](https://arxiv.org/abs/1901.03526v1)
+- [A Biologically Inspired Visual Working Memory for Deep Networks](https://arxiv.org/abs/1901.03665v1)
+- [Agent-Agnostic Human-in-the-Loop Reinforcement Learning](https://arxiv.org/abs/1701.04079v1)
 
 -------------
 
