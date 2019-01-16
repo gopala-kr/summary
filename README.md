@@ -117,7 +117,30 @@ Articles
 - [On Event Causality Detection in Tweets](https://arxiv.org/abs/1901.03526v1)
 - [A Biologically Inspired Visual Working Memory for Deep Networks](https://arxiv.org/abs/1901.03665v1)
 - [Agent-Agnostic Human-in-the-Loop Reinforcement Learning](https://arxiv.org/abs/1701.04079v1) :star:
-
+- [Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes](https://arxiv.org/abs/1901.03796v1)
+- [Using Scene Graph Context to Improve Image Generation](https://arxiv.org/abs/1901.03762v1)
+- [Real-time Joint Object Detection and Semantic Segmentation Network for Automated Driving](https://arxiv.org/abs/1901.03912v1)
+- [Summarization and Visualization of Large Volumes of Broadcast Video Data](https://arxiv.org/abs/1901.03842v1)
+- [Trace-back Along Capsules and Its Application on Semantic Segmentation](https://arxiv.org/abs/1901.02920v1)
+- [LiFF: Light Field Features in Scale and Depth](https://arxiv.org/abs/1901.03916v1)
+- [Human few-shot learning of compositional instructions](https://arxiv.org/abs/1901.04587v1)
+- [Self-Supervised Deep Active Accelerated MRI](https://arxiv.org/abs/1901.04547v1)
+- [Deep Fusion: An Attention Guided Factorized Bilinear Pooling for Audio-video Emotion Recognition](https://arxiv.org/abs/1901.04889v1)
+- [Toward Explainable Fashion Recommendation](https://arxiv.org/abs/1901.04870v1)
+- [A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection](https://arxiv.org/abs/1901.04787v1)
+- [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://arxiv.org/abs/1901.04780v1)
+- [Transfer Learning for Prosthetics Using Imitation Learning](https://arxiv.org/abs/1901.04772v1)
+- [Approaching Ethical Guidelines for Data Scientists](https://arxiv.org/abs/1901.04824v1)
+- [Identifying and Correcting Label Bias in Machine Learning](https://arxiv.org/abs/1901.04966v1)
+- [Low Precision Constant Parameter CNN on FPGA](https://arxiv.org/abs/1901.04969v1)
+- [Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1901.04713v1)
+- [Tango: A Deep Neural Network Benchmark Suite for Various Accelerators](https://arxiv.org/abs/1901.04987v1)
+- [Fair and Unbiased Algorithmic Decision Making: Current State and Future Challenges](https://arxiv.org/abs/1901.04730v1)
+- [AutoPhase: Compiler Phase-Ordering for High Level Synthesis with Deep Reinforcement Learning](https://arxiv.org/abs/1901.04615v1)
+- [The Limitations of Adversarial Training and the Blind-Spot Attack](https://arxiv.org/abs/1901.04684v1)
+- [ALiPy: Active Learning in Python](https://arxiv.org/abs/1901.03802v1)
+- [Hybrid Recommender Systems: A Systematic Literature Review](https://arxiv.org/abs/1901.03888v1)
+- [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338v2)
 
 -------------
 
