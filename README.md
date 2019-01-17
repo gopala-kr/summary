@@ -143,7 +143,9 @@ Articles
 - [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338v2)
 - [Recombination of Artificial Neural Networks](https://arxiv.org/abs/1901.03900v1)
 - [Dual Generator Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1901.04604v1)
-
+- [A deep learning approach to solar-irradiance forecasting in sky-videos](https://arxiv.org/abs/1901.04881v1)
+- [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592v1)
+- [Cascade Decoder: A Universal Decoding Method for Biomedical Image Segmentation](https://arxiv.org/abs/1901.04949v1)
 
 -------------
 
