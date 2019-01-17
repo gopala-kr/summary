@@ -141,6 +141,9 @@ Articles
 - [ALiPy: Active Learning in Python](https://arxiv.org/abs/1901.03802v1)
 - [Hybrid Recommender Systems: A Systematic Literature Review](https://arxiv.org/abs/1901.03888v1)
 - [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338v2)
+- [Recombination of Artificial Neural Networks](https://arxiv.org/abs/1901.03900v1)
+- [Dual Generator Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1901.04604v1)
+
 
 -------------
 
