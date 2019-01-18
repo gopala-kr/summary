@@ -39,6 +39,7 @@ Articles
 - [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
 -----------------------
+
 01/2019
 
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v1)
