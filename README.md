@@ -164,6 +164,7 @@ Articles
 - [Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/abs/1812.05069v1)
 - [Towards Building the Semantic Map from a Monocular Camera with a Multi-task Network](https://arxiv.org/abs/1901.05807v1)
 - [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103v1)
+- [Auto-Retoucher(ART) - A framework for Background Replacement and Image Editing](https://arxiv.org/abs/1901.03954v1)
 
 -------------
 
