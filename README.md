@@ -155,6 +155,7 @@ Articles
 - [VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control](https://arxiv.org/abs/1802.00265v4)
 - [AuxNet: Auxiliary tasks enhanced Semantic Segmentation for Automated Driving](https://arxiv.org/abs/1901.05808v1)
 - [Artificial Neural Networks](https://arxiv.org/abs/1901.05639v1)
+- [Applying SVGD to Bayesian Neural Networks for Cyclical Time-Series Prediction and Inference](https://arxiv.org/abs/1901.05906v1)
 
 -------------
 
