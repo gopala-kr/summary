@@ -150,6 +150,7 @@ Articles
 - [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/pdf/1901.05350v1.pdf)
 - [Attentive Neural Processes](https://arxiv.org/abs/1901.05761v1) :star:
 - [Convolutional Neural Networks combined with Runge-Kutta Methods](https://arxiv.org/abs/1802.08831v6)
+- [Learning from Dialogue after Deployment: Feed Yourself, Chatbot!](https://arxiv.org/abs/1901.05415v1)
 
 -------------
 
