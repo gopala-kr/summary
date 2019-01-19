@@ -158,7 +158,7 @@ Articles
 - [Applying SVGD to Bayesian Neural Networks for Cyclical Time-Series Prediction and Inference](https://arxiv.org/abs/1901.05906v1)
 - [Assessing BERT's Syntactic Abilities](https://arxiv.org/abs/1901.05287v1)
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884v1)
-
+- [UltraCompression: Framework for High Density Compression of Ultrasound Volumes using Physics Modeling Deep Neural Networks](https://arxiv.org/abs/1901.05880v1)
 
 -------------
 
