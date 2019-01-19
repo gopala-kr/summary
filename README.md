@@ -159,6 +159,7 @@ Articles
 - [Assessing BERT's Syntactic Abilities](https://arxiv.org/abs/1901.05287v1)
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884v1)
 - [UltraCompression: Framework for High Density Compression of Ultrasound Volumes using Physics Modeling Deep Neural Networks](https://arxiv.org/abs/1901.05880v1)
+- [Primitive-based 3D Building Modeling, Sensor Simulation, and Estimation](https://arxiv.org/abs/1901.05554v1)
 
 -------------
 
