@@ -161,6 +161,7 @@ Articles
 - [UltraCompression: Framework for High Density Compression of Ultrasound Volumes using Physics Modeling Deep Neural Networks](https://arxiv.org/abs/1901.05880v1)
 - [Primitive-based 3D Building Modeling, Sensor Simulation, and Estimation](https://arxiv.org/abs/1901.05554v1)
 - [The Oracle of DLphi](https://arxiv.org/abs/1901.05744v1)
+- [Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/abs/1812.05069v1)
 
 -------------
 
