@@ -160,6 +160,7 @@ Articles
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884v1)
 - [UltraCompression: Framework for High Density Compression of Ultrasound Volumes using Physics Modeling Deep Neural Networks](https://arxiv.org/abs/1901.05880v1)
 - [Primitive-based 3D Building Modeling, Sensor Simulation, and Estimation](https://arxiv.org/abs/1901.05554v1)
+- [The Oracle of DLphi](https://arxiv.org/abs/1901.05744v1)
 
 -------------
 
