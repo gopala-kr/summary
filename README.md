@@ -165,6 +165,7 @@ Articles
 - [Towards Building the Semantic Map from a Monocular Camera with a Multi-task Network](https://arxiv.org/abs/1901.05807v1)
 - [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103v1)
 - [Auto-Retoucher(ART) - A framework for Background Replacement and Image Editing](https://arxiv.org/abs/1901.03954v1)
+- [Ensemble Feature for Person Re-Identification](https://arxiv.org/abs/1901.05798v1)
 
 -------------
 
