@@ -151,6 +151,8 @@ Articles
 - [Attentive Neural Processes](https://arxiv.org/abs/1901.05761v1) :star:
 - [Convolutional Neural Networks combined with Runge-Kutta Methods](https://arxiv.org/abs/1802.08831v6)
 - [Learning from Dialogue after Deployment: Feed Yourself, Chatbot!](https://arxiv.org/abs/1901.05415v1)
+- [Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails](https://arxiv.org/abs/1901.05599v1)
+
 
 -------------
 
