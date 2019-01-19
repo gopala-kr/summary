@@ -147,8 +147,8 @@ Articles
 - [A deep learning approach to solar-irradiance forecasting in sky-videos](https://arxiv.org/abs/1901.04881v1)
 - [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592v1)
 - [Cascade Decoder: A Universal Decoding Method for Biomedical Image Segmentation](https://arxiv.org/abs/1901.04949v1)
-- [
-TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/pdf/1901.05350v1.pdf)
+- [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/pdf/1901.05350v1.pdf)
+- [Attentive Neural Processes](https://arxiv.org/abs/1901.05761v1)
 
 -------------
 
