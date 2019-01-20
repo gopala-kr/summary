@@ -172,6 +172,7 @@ Articles
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085v2)
 - [Learning to Design Circuits](https://arxiv.org/abs/1812.02734v3)
 - [Video-Based Pedestrian Attribute Recognition](https://arxiv.org/abs/1901.05742v1)
+- [Genetic Algorithms and the Traveling Salesman Problem a historical Review](https://arxiv.org/abs/1901.05737v1)
 
 -------------
 
