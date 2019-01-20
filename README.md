@@ -174,7 +174,7 @@ Articles
 - [Video-Based Pedestrian Attribute Recognition](https://arxiv.org/abs/1901.05742v1)
 - [Genetic Algorithms and the Traveling Salesman Problem a historical Review](https://arxiv.org/abs/1901.05737v1)
 - [Evolving embodied intelligence from materials to machines](https://arxiv.org/abs/1901.05704v1)
-
+- [CodeX: Bit-Flexible Encoding for Streaming-based FPGA Acceleration of DNNs](https://arxiv.org/abs/1901.05582v1)
 
 -------------
 
