@@ -175,6 +175,8 @@ Articles
 - [Genetic Algorithms and the Traveling Salesman Problem a historical Review](https://arxiv.org/abs/1901.05737v1)
 - [Evolving embodied intelligence from materials to machines](https://arxiv.org/abs/1901.05704v1)
 - [CodeX: Bit-Flexible Encoding for Streaming-based FPGA Acceleration of DNNs](https://arxiv.org/abs/1901.05582v1)
+- [Survey of Bayesian Networks Applications on Unmanned Intelligent Autonomous Vehicles](https://arxiv.org/abs/1901.05517v1)
+
 
 -------------
 
