@@ -170,6 +170,7 @@ Articles
 - [Predicting Variable Types in Dynamically Typed Programming Languages](https://arxiv.org/abs/1901.05138v1)
 - [Light-Field for RF](https://arxiv.org/abs/1901.03953v1)
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085v2)
+- [Learning to Design Circuits](https://arxiv.org/abs/1812.02734v3)
 
 -------------
 
