@@ -179,6 +179,7 @@ Articles
 - [Deep learning-based electroencephalography analysis: a systematic review](https://arxiv.org/abs/1901.05498v1)
 - [Evolutionarily-Curated Curriculum Learning for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1901.05431v1)
 - [Optimization Models for Machine Learning: A Survey](https://arxiv.org/abs/1901.05331v1)
+- [Solar-Sail Trajectory Design of Multiple Near Earth Asteroids Exploration Based on Deep Neural Network](https://arxiv.org/abs/1901.02172v2)
 
 -------------
 
