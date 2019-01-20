@@ -177,6 +177,7 @@ Articles
 - [CodeX: Bit-Flexible Encoding for Streaming-based FPGA Acceleration of DNNs](https://arxiv.org/abs/1901.05582v1)
 - [Survey of Bayesian Networks Applications on Unmanned Intelligent Autonomous Vehicles](https://arxiv.org/abs/1901.05517v1)
 - [Deep learning-based electroencephalography analysis: a systematic review](https://arxiv.org/abs/1901.05498v1)
+- [Evolutionarily-Curated Curriculum Learning for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1901.05431v1)
 
 -------------
 
