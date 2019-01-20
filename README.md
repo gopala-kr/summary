@@ -168,6 +168,8 @@ Articles
 - [Ensemble Feature for Person Re-Identification](https://arxiv.org/abs/1901.05798v1)
 - [Machine Learning Techniques for Brand-Influencer Matchmaking on the Instagram Social Network](https://arxiv.org/abs/1901.05949v1)
 - [Predicting Variable Types in Dynamically Typed Programming Languages](https://arxiv.org/abs/1901.05138v1)
+- [Light-Field for RF](https://arxiv.org/abs/1901.03953v1)
+
 
 -------------
 
