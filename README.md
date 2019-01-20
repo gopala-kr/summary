@@ -173,6 +173,8 @@ Articles
 - [Learning to Design Circuits](https://arxiv.org/abs/1812.02734v3)
 - [Video-Based Pedestrian Attribute Recognition](https://arxiv.org/abs/1901.05742v1)
 - [Genetic Algorithms and the Traveling Salesman Problem a historical Review](https://arxiv.org/abs/1901.05737v1)
+- [Evolving embodied intelligence from materials to machines](https://arxiv.org/abs/1901.05704v1)
+
 
 -------------
 
