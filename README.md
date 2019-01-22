@@ -42,6 +42,7 @@ Articles
 
 01/2019
 
+- [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/abs/1901.06085v1)
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v1)
 - [Face Recognition: A Novel Multi-Level Taxonomy based Survey](https://arxiv.org/abs/1901.00713v1)
 - [DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation](https://arxiv.org/abs/1801.02805v2) [[code](https://github.com/lexfridman/deeptraffic)]
