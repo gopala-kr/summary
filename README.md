@@ -181,6 +181,7 @@ Articles
 - [Optimization Models for Machine Learning: A Survey](https://arxiv.org/abs/1901.05331v1)
 - [Solar-Sail Trajectory Design of Multiple Near Earth Asteroids Exploration Based on Deep Neural Network](https://arxiv.org/abs/1901.02172v2)
 - [Block Argumentation](https://arxiv.org/abs/1901.06378v1)
+- [Natively Interpretable Machine Learning and Artificial Intelligence: Preliminary Results and Future Directions](https://arxiv.org/abs/1901.00246v2)
 
 -------------
 
