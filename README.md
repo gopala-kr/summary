@@ -184,6 +184,7 @@ Articles
 - [Block Argumentation](https://arxiv.org/abs/1901.06378v1)
 - [Natively Interpretable Machine Learning and Artificial Intelligence: Preliminary Results and Future Directions](https://arxiv.org/abs/1901.00246v2)
 - [NeuNetS: An Automated Synthesis Engine for Neural Network Design](https://arxiv.org/abs/1901.06261v1)
+- [WALL-E: An Efficient Reinforcement Learning Research Framework](https://arxiv.org/abs/1901.06086v1)
 
 -------------
 
