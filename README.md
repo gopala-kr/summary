@@ -348,7 +348,7 @@ Articles
 - [CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences](https://arxiv.org/abs/1812.11501v1)
 - [ORIGAMI: A Heterogeneous Split Architecture for In-Memory Acceleration of Learning](https://arxiv.org/abs/1812.11473v1)
 - [Learning to Design RNA](https://arxiv.org/abs/1812.11951v1)
-- [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/abs/1812.08342v2)
+- [Safety and Trustworthiness of Deep Neural Networks: A Survey](https://arxiv.org/abs/1812.08342v2) :star:
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202v1)
 - [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/abs/1808.07647v2)
 - [Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3](https://arxiv.org/abs/1812.10968v1)
