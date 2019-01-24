@@ -185,7 +185,11 @@ Articles
 - [Natively Interpretable Machine Learning and Artificial Intelligence: Preliminary Results and Future Directions](https://arxiv.org/abs/1901.00246v2)
 - [NeuNetS: An Automated Synthesis Engine for Neural Network Design](https://arxiv.org/abs/1901.06261v1)
 - [WALL-E: An Efficient Reinforcement Learning Research Framework](https://arxiv.org/abs/1901.06086v1)
-
+- [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177v5)
+- [Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656v1)
+- [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517v1)
+- [cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291v1)
+- [DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/abs/1901.07223v1)
 
 -------------
 
