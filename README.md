@@ -190,6 +190,9 @@ Articles
 - [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517v1)
 - [cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291v1)
 - [DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/abs/1901.07223v1)
+- [Improved Selective Refinement Network for Face Detection](https://arxiv.org/abs/1901.06651v1)
+- [Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks](https://arxiv.org/abs/1901.06523v1)
+- [Design of Real-time Semantic Segmentation Decoder for Automated Driving](https://arxiv.org/abs/1901.06580v1)
 
 -------------
 
