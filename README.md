@@ -193,6 +193,8 @@ Articles
 - [Improved Selective Refinement Network for Face Detection](https://arxiv.org/abs/1901.06651v1)
 - [Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks](https://arxiv.org/abs/1901.06523v1)
 - [Design of Real-time Semantic Segmentation Decoder for Automated Driving](https://arxiv.org/abs/1901.06580v1)
+- [Causal Reasoning from Meta-reinforcement Learning](https://arxiv.org/abs/1901.08162v1)
+- [Automated Essay Scoring based on Two-Stage Learning](https://arxiv.org/abs/1901.07744v1)
 
 -------------
 
