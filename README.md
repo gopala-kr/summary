@@ -195,6 +195,16 @@ Articles
 - [Design of Real-time Semantic Segmentation Decoder for Automated Driving](https://arxiv.org/abs/1901.06580v1)
 - [Causal Reasoning from Meta-reinforcement Learning](https://arxiv.org/abs/1901.08162v1)
 - [Automated Essay Scoring based on Two-Stage Learning](https://arxiv.org/abs/1901.07744v1)
+- [Decoupled Greedy Learning of CNNs](https://arxiv.org/abs/1901.08164v1)
+- [Open-ended Learning in Symmetric Zero-sum Games](https://arxiv.org/abs/1901.08106v1)
+- [Learning Neurosymbolic Generative Models via Program Synthesis](https://arxiv.org/abs/1901.08565v1)
+- [Emotion Detection and Analysis on Social Media](https://arxiv.org/abs/1901.08458v1)
+- [Large-Batch Training for LSTM and Beyond](https://arxiv.org/abs/1901.08256v1)
+- [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573v1)
+- [TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/abs/1901.08149v1)
+- [QGAN: Quantized Generative Adversarial Networks](https://arxiv.org/abs/1901.08263v1)
+
+
 
 -------------
 
