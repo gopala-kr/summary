@@ -203,7 +203,7 @@ Articles
 - [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573v1)
 - [TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/abs/1901.08149v1)
 - [QGAN: Quantized Generative Adversarial Networks](https://arxiv.org/abs/1901.08263v1)
-
+- [Explainable Failure Predictions with RNN Classifiers based on Time Series Data](https://arxiv.org/abs/1901.08554v1)
 
 
 -------------
