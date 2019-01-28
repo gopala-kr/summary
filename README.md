@@ -205,9 +205,8 @@ Articles
 - [QGAN: Quantized Generative Adversarial Networks](https://arxiv.org/abs/1901.08263v1)
 - [Explainable Failure Predictions with RNN Classifiers based on Time Series Data](https://arxiv.org/abs/1901.08554v1)
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261v2)
-- [Large-Batch Training for LSTM and Beyond](https://arxiv.org/abs/1901.08256v1)
 - [TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/abs/1901.08149v1)
-- [Open-ended Learning in Symmetric Zero-sum Games](https://arxiv.org/abs/1901.08106v1)
+
 
 -------------
 
