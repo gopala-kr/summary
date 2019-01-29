@@ -207,6 +207,7 @@ Articles
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261v2)
 - [TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/abs/1901.08149v1)
 - [Learning Neurosymbolic Generative Models via Program Synthesis](https://arxiv.org/abs/1901.08565v1)
+- [Three principles of data science: predictability, computability, and stability (PCS)](https://arxiv.org/abs/1901.08152v1)
 
 -------------
 
