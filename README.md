@@ -208,6 +208,7 @@ Articles
 - [TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/abs/1901.08149v1)
 - [Learning Neurosymbolic Generative Models via Program Synthesis](https://arxiv.org/abs/1901.08565v1)
 - [Three principles of data science: predictability, computability, and stability (PCS)](https://arxiv.org/abs/1901.08152v1)
+- [Understanding Geometry of Encoder-Decoder CNNs](https://arxiv.org/abs/1901.07647v1)
 
 -------------
 
