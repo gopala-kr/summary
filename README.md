@@ -218,7 +218,7 @@ Articles
 - [DELTA: DEep Learning Transfer using Feature Map with Attention for Convolutional Networks](https://arxiv.org/abs/1901.09229v1)
 - [Hierarchically Clustered Representation Learning](https://arxiv.org/abs/1901.09906v1)
 - [Close to Human Quality TTS with Transforme](https://arxiv.org/abs/1809.08895v2)
-- []()
+- [Lyapunov-based Safe Policy Optimization for Continuous Control](https://arxiv.org/abs/1901.10031v1)
 - []()
 - []()
 - []()
