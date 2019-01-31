@@ -221,6 +221,8 @@ Articles
 - [Lyapunov-based Safe Policy Optimization for Continuous Control](https://arxiv.org/abs/1901.10031v1)
 - [A deep learning framework for assessment of quality of rehabilitation exercises](https://arxiv.org/abs/1901.10435v1)
 - [Limitations of Assessing Active Learning Performance at Runtime](https://arxiv.org/abs/1901.10338v1)
+- [Evaluating Word Embedding Models: Methods and Experimental Results](https://arxiv.org/abs/1901.09785v2)
+- []()
 - []()
 - []()
 - []()
