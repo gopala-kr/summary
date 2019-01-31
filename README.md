@@ -210,7 +210,7 @@ Articles
 - [Three principles of data science: predictability, computability, and stability (PCS)](https://arxiv.org/abs/1901.08152v1)
 - [Understanding Geometry of Encoder-Decoder CNNs](https://arxiv.org/abs/1901.07647v1)
 - [PuppetGAN: Transferring Disentangled Properties from Synthetic to Real Images](https://arxiv.org/abs/1901.10024v1)
-- []()
+- [Finding Archetypal Spaces for Data Using Neural Networks](https://arxiv.org/abs/1901.09078v1)
 - []()
 - []()
 - []()
