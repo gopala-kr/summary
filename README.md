@@ -212,7 +212,7 @@ Articles
 - [PuppetGAN: Transferring Disentangled Properties from Synthetic to Real Images](https://arxiv.org/abs/1901.10024v1)
 - [Finding Archetypal Spaces for Data Using Neural Networks](https://arxiv.org/abs/1901.09078v1)
 - [Generating Textual Adversarial Examples for Deep Learning Models: A Survey](https://arxiv.org/abs/1901.06796v2)
-- []()
+- [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960v1)
 - []()
 - []()
 - []()
