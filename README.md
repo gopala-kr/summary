@@ -213,7 +213,7 @@ Articles
 - [Finding Archetypal Spaces for Data Using Neural Networks](https://arxiv.org/abs/1901.09078v1)
 - [Generating Textual Adversarial Examples for Deep Learning Models: A Survey](https://arxiv.org/abs/1901.06796v2)
 - [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960v1)
-- []()
+- [Non-computability of human intelligence](https://arxiv.org/abs/1810.06985v4)
 - []()
 - []()
 - []()
