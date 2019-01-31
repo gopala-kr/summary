@@ -214,7 +214,7 @@ Articles
 - [Generating Textual Adversarial Examples for Deep Learning Models: A Survey](https://arxiv.org/abs/1901.06796v2)
 - [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960v1)
 - [Non-computability of human intelligence](https://arxiv.org/abs/1810.06985v4)
-- []()
+- [Evaluating Generalization Ability of Convolutional Neural Networks and Capsule Networks for Image Classification via Top-2 Classification](https://arxiv.org/abs/1901.10112v1)
 - []()
 - []()
 - []()
