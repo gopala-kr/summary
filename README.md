@@ -222,10 +222,14 @@ Articles
 - [A deep learning framework for assessment of quality of rehabilitation exercises](https://arxiv.org/abs/1901.10435v1)
 - [Limitations of Assessing Active Learning Performance at Runtime](https://arxiv.org/abs/1901.10338v1)
 - [Evaluating Word Embedding Models: Methods and Experimental Results](https://arxiv.org/abs/1901.09785v2)
-- []()
-- []()
-- []()
-- []()
+- [Cloud-Net: An end-to-end Cloud Detection Algorithm for Landsat 8 Imagery](https://arxiv.org/abs/1901.10077v1)
+- [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746v2)
+- [Generalized Label Propagation Methods for Semi-Supervised Learning](https://arxiv.org/abs/1901.09993v1)
+- [Pay Less Attention with Lightweight and Dynamic Convolutions](https://arxiv.org/abs/1901.10430v1)
+- [FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals](https://arxiv.org/abs/1901.02212v1)
+- [Guiding Policies with Language via Meta-Learning](https://arxiv.org/abs/1811.07882v2)
+- [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634v1)
+- [MultiLock: Mobile Active Authentication based on Multiple Biometric and Behavioral Patterns](https://arxiv.org/abs/1901.10312v1)
 
 -------------
 
