@@ -216,7 +216,7 @@ Articles
 - [Non-computability of human intelligence](https://arxiv.org/abs/1810.06985v4)
 - [Evaluating Generalization Ability of Convolutional Neural Networks and Capsule Networks for Image Classification via Top-2 Classification](https://arxiv.org/abs/1901.10112v1)
 - [DELTA: DEep Learning Transfer using Feature Map with Attention for Convolutional Networks](https://arxiv.org/abs/1901.09229v1)
-- []()
+- [Hierarchically Clustered Representation Learning](https://arxiv.org/abs/1901.09906v1)
 - []()
 - []()
 - []()
