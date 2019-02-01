@@ -230,6 +230,15 @@ Articles
 - [Guiding Policies with Language via Meta-Learning](https://arxiv.org/abs/1811.07882v2)
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634v1)
 - [MultiLock: Mobile Active Authentication based on Multiple Biometric and Behavioral Patterns](https://arxiv.org/abs/1901.10312v1)
+- [Fair Regression for Health Care Spending](https://arxiv.org/abs/1901.10566v1)
+- [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005v1)
+- [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524v1)
+- [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912v1)
+- [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v1)
+- [DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals](https://arxiv.org/abs/1901.11082v1)
+- [The Evolved Transformer](https://arxiv.org/abs/1901.11117v1)
+- [HyperGAN: A Generative Model for Diverse, Performant Neural Networks](https://arxiv.org/abs/1901.11058v1)
+- [Twitter Job/Employment Corpus: A Dataset of Job-Related Discourse Built with Humans in the Loop](https://arxiv.org/abs/1901.10619v1)
 
 -------------
 
