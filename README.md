@@ -239,10 +239,12 @@ Articles
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117v1)
 - [HyperGAN: A Generative Model for Diverse, Performant Neural Networks](https://arxiv.org/abs/1901.11058v1)
 - [Twitter Job/Employment Corpus: A Dataset of Job-Related Discourse Built with Humans in the Loop](https://arxiv.org/abs/1901.10619v1)
+- [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373v1)
 
 -------------
 
 12/2018
+
 
 - [Theory of Cognitive Relativity: A Promising Paradigm for True AI](https://arxiv.org/abs/1812.00136v1)
 - [Modeling Theory of Mind for Autonomous Agents with Probabilistic Programs](https://arxiv.org/abs/1812.01569v1)
