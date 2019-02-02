@@ -241,6 +241,7 @@ Articles
 - [Twitter Job/Employment Corpus: A Dataset of Job-Related Discourse Built with Humans in the Loop](https://arxiv.org/abs/1901.10619v1)
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373v1)
 - [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524v1)
+- [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504v1)
 
 -------------
 
