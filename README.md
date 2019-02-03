@@ -242,6 +242,7 @@ Articles
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373v1)
 - [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524v1)
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504v1)
+- [Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue](https://arxiv.org/abs/1901.11528v1)
 
 -------------
 
