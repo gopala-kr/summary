@@ -245,6 +245,8 @@ Articles
 - [Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue](https://arxiv.org/abs/1901.11528v1)
 - [The Second Conversational Intelligence Challenge (ConvAI2)](https://arxiv.org/abs/1902.00098v1)
 - [Probabilistic Discriminative Learning with Layered Graphical Models](https://arxiv.org/abs/1902.00057v1)
+- [Towards Machine-assisted Meta-Studies: The Hubble Constant](https://arxiv.org/abs/1902.00027v1)
+- [DeepISP: Towards Learning an End-to-End Image Processing Pipeline](https://arxiv.org/abs/1801.06724v2)
 
 -------------
 
