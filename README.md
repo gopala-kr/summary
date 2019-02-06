@@ -40,6 +40,23 @@ Articles
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
 -----------------------
 
+02/2019
+
+- [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/abs/1902.00506v1)
+- [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046v1)
+- [Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey](https://arxiv.org/abs/1902.00753v1)
+- [The Natural Language of Actions](https://arxiv.org/abs/1902.01119v1)
+- [AlphaStar: An Evolutionary Computation Perspective]()
+- [Declarative Data Analytics: a Survey](https://arxiv.org/abs/1902.01304v1)
+- [CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning](https://arxiv.org/abs/1902.00641v1)
+- [A Multi-Resolution Word Embedding for Document Retrieval from Large Unstructured Knowledge Bases](https://arxiv.org/abs/1902.00663v1)
+- [Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era](https://arxiv.org/abs/1902.00522v1)
+- [Solving The Exam Scheduling Problems in Central Exams With Genetic Algorithms](https://arxiv.org/abs/1902.01360v1)
+- [Adaptive Gradient Refinement for Adversarial Perturbation Generation](https://arxiv.org/abs/1902.01220v1)
+
+
+-------------
+
 01/2019
 
 - [Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/abs/1901.06085v1)
@@ -247,6 +264,8 @@ Articles
 - [Probabilistic Discriminative Learning with Layered Graphical Models](https://arxiv.org/abs/1902.00057v1)
 - [Towards Machine-assisted Meta-Studies: The Hubble Constant](https://arxiv.org/abs/1902.00027v1)
 - [DeepISP: Towards Learning an End-to-End Image Processing Pipeline](https://arxiv.org/abs/1801.06724v2)
+- [Deep Neural Network Approximation for Custom Hardware: Where We've Been, Where We're Going](https://arxiv.org/abs/1901.06955v2)
+- [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/abs/1901.06437v1)
 
 -------------
 
@@ -594,6 +613,8 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [Dial2Desc: End-to-end Dialogue Description Generation](https://arxiv.org/pdf/1811.00185v1.pdf)
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/pdf/1810.13306v1.pdf)
 - [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386v4)
+
+
 -----------
 
 09/2018
