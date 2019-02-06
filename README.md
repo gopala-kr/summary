@@ -46,7 +46,7 @@ Articles
 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046v1)
 - [Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey](https://arxiv.org/abs/1902.00753v1)
 - [The Natural Language of Actions](https://arxiv.org/abs/1902.01119v1)
-- [AlphaStar: An Evolutionary Computation Perspective]()
+- [AlphaStar: An Evolutionary Computation Perspective](https://arxiv.org/abs/1902.01724v1)   :star:
 - [Declarative Data Analytics: a Survey](https://arxiv.org/abs/1902.01304v1)
 - [CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning](https://arxiv.org/abs/1902.00641v1)
 - [A Multi-Resolution Word Embedding for Document Retrieval from Large Unstructured Knowledge Bases](https://arxiv.org/abs/1902.00663v1)
