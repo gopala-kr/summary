@@ -53,7 +53,9 @@ Articles
 - [Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era](https://arxiv.org/abs/1902.00522v1)
 - [Solving The Exam Scheduling Problems in Central Exams With Genetic Algorithms](https://arxiv.org/abs/1902.01360v1)
 - [Adaptive Gradient Refinement for Adversarial Perturbation Generation](https://arxiv.org/abs/1902.01220v1)
-
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567v1)
+- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.01718v1)
+- [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718v1)
 
 -------------
 
