@@ -42,7 +42,7 @@ Articles
 
 02/2019
 
-- [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/abs/1902.00506v1)
+- [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/abs/1902.00506v1) :star:
 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046v1)
 - [Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey](https://arxiv.org/abs/1902.00753v1)
 - [The Natural Language of Actions](https://arxiv.org/abs/1902.01119v1)
@@ -56,6 +56,19 @@ Articles
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567v1)
 - [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.01718v1)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718v1)
+- [Discovering Implicational Knowledge in Wikidata](https://arxiv.org/abs/1902.00916v1)
+- [Graph Classification with Recurrent Variational Neural Networks](https://arxiv.org/abs/1902.02721v1)
+- [A Simple Baseline for Bayesian Uncertainty in Deep Learning](https://arxiv.org/abs/1902.02476v1)
+- [FDDB-360: Face Detection in 360-degree Fisheye Images](https://arxiv.org/abs/1902.02777v1)
+- [Reversible GANs for Memory-efficient Image-to-Image Translation](https://arxiv.org/abs/1902.02729v1)
+- [Review Conversational Reading Comprehension](https://arxiv.org/abs/1902.00821v1)
+- [Distilling Policy Distillation](https://arxiv.org/abs/1902.02186v1)
+- [Virtual Training for a Real Application: Accurate Object-Robot Relative Localization without Calibration](https://arxiv.org/abs/1902.02711v1)
+- [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671v1)
+- [Beholder-GAN: Generation and Beautification of Facial Images with Conditioning on Their Beauty Level](https://arxiv.org/abs/1902.02593v1)
+- [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1)
+- [Unsupervised Data Uncertainty Learning in Visual Retrieval Systems](https://arxiv.org/abs/1902.02586v1)
+- [Understanding Chat Messages for Sticker Recommendation in Hike Messenger](https://arxiv.org/abs/1902.02704v1)
 
 -------------
 
@@ -268,6 +281,7 @@ Articles
 - [DeepISP: Towards Learning an End-to-End Image Processing Pipeline](https://arxiv.org/abs/1801.06724v2)
 - [Deep Neural Network Approximation for Custom Hardware: Where We've Been, Where We're Going](https://arxiv.org/abs/1901.06955v2)
 - [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/abs/1901.06437v1)
+- [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v1)
 
 -------------
 
