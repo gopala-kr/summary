@@ -66,7 +66,7 @@ Articles
 - [Virtual Training for a Real Application: Accurate Object-Robot Relative Localization without Calibration](https://arxiv.org/abs/1902.02711v1)
 - [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671v1)
 - [Beholder-GAN: Generation and Beautification of Facial Images with Conditioning on Their Beauty Level](https://arxiv.org/abs/1902.02593v1)
-- [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1)
+- [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1) :star:
 - [Unsupervised Data Uncertainty Learning in Visual Retrieval Systems](https://arxiv.org/abs/1902.02586v1)
 - [Understanding Chat Messages for Sticker Recommendation in Hike Messenger](https://arxiv.org/abs/1902.02704v1)
 
