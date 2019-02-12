@@ -69,6 +69,11 @@ Articles
 - [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1) :star:
 - [Unsupervised Data Uncertainty Learning in Visual Retrieval Systems](https://arxiv.org/abs/1902.02586v1)
 - [Understanding Chat Messages for Sticker Recommendation in Hike Messenger](https://arxiv.org/abs/1902.02704v1)
+- [ML Health: Fitness Tracking for Production Models](https://arxiv.org/abs/1902.02808v1)
+- [AdaScale: Towards Real-time Video Object Detection Using Adaptive Scaling](https://arxiv.org/abs/1902.02910v1)
+- [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046v1)
+- [A Comprehensive Overview of Biometric Fusion](https://arxiv.org/abs/1902.02919v1)
+- [Obstacle Tower: A Generalization Challenge in Vision, Control, and Planning](https://arxiv.org/abs/1902.01378v1)
 
 -------------
 
