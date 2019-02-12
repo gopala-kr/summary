@@ -76,6 +76,7 @@ Articles
 - [Obstacle Tower: A Generalization Challenge in Vision, Control, and Planning](https://arxiv.org/abs/1902.01378v1)
 - [Software-Defined FPGA Accelerator Design for Mobile Deep Learning Applications](https://arxiv.org/abs/1902.03192v1)
 - [Fourier Neural Networks: A Comparative Study](https://arxiv.org/abs/1902.03011v1)
+- [Understanding Multi-Step Deep Reinforcement Learning: A Systematic Study of the DQN Target](https://arxiv.org/abs/1901.07510v2)
 
 -------------
 
