@@ -74,6 +74,7 @@ Articles
 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046v1)
 - [A Comprehensive Overview of Biometric Fusion](https://arxiv.org/abs/1902.02919v1)
 - [Obstacle Tower: A Generalization Challenge in Vision, Control, and Planning](https://arxiv.org/abs/1902.01378v1)
+- [Software-Defined FPGA Accelerator Design for Mobile Deep Learning Applications](https://arxiv.org/abs/1902.03192v1)
 
 -------------
 
