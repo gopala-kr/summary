@@ -77,6 +77,16 @@ Articles
 - [Software-Defined FPGA Accelerator Design for Mobile Deep Learning Applications](https://arxiv.org/abs/1902.03192v1)
 - [Fourier Neural Networks: A Comparative Study](https://arxiv.org/abs/1902.03011v1)
 - [Understanding Multi-Step Deep Reinforcement Learning: A Systematic Study of the DQN Target](https://arxiv.org/abs/1901.07510v2)
+- [ELF OpenGo: An Analysis and Open Reimplementation of AlphaZero](https://arxiv.org/abs/1902.04522v1)
+- [Task2Vec: Task Embedding for Meta-Learning](https://arxiv.org/abs/1902.03545v1)
+- [Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning](https://arxiv.org/abs/1808.03578v2)
+- [Yes, we GAN: Applying Adversarial Techniques for Autonomous Driving](https://arxiv.org/abs/1902.03442v1)
+- [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/abs/1902.04413v1)
+- [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502v1)
+- [Peeking into the Future: Predicting Future Person Activities and Locations in Videos](https://arxiv.org/abs/1902.03748v1)
+- [GET-AID: Visual Recognition of Human Rights Abuses via Global Emotional Traits](https://arxiv.org/abs/1902.03817v1)
+- [Deep learning and face recognition: the state of the art](https://arxiv.org/abs/1902.03524v1)
+- [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049v1)
 
 -------------
 
