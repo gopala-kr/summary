@@ -87,6 +87,8 @@ Articles
 - [GET-AID: Visual Recognition of Human Rights Abuses via Global Emotional Traits](https://arxiv.org/abs/1902.03817v1)
 - [Deep learning and face recognition: the state of the art](https://arxiv.org/abs/1902.03524v1)
 - [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049v1)
+- [NAIL: A General Interactive Fiction Agent](https://arxiv.org/abs/1902.04259v1)
+- [Toward Unsupervised Text Content Manipulation](https://arxiv.org/abs/1901.09501v2)
 
 -------------
 
