@@ -89,7 +89,7 @@ Articles
 - [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049v1)
 - [NAIL: A General Interactive Fiction Agent](https://arxiv.org/abs/1902.04259v1)
 - [Toward Unsupervised Text Content Manipulation](https://arxiv.org/abs/1901.09501v2)
-- [Quantum Entanglement in Deep Learning Architectures](https://arxiv.org/abs/1803.09780v3)
+- [Quantum Entanglement in Deep Learning Architectures](https://arxiv.org/abs/1803.09780v3) :star:
 - [Image Processing in Quantum Computers](https://arxiv.org/abs/1812.11042v3)
 - [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/abs/1902.05009v1)
 - [Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion](https://arxiv.org/abs/1812.08351v3)
