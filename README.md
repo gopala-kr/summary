@@ -89,6 +89,11 @@ Articles
 - [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049v1)
 - [NAIL: A General Interactive Fiction Agent](https://arxiv.org/abs/1902.04259v1)
 - [Toward Unsupervised Text Content Manipulation](https://arxiv.org/abs/1901.09501v2)
+- [Quantum Entanglement in Deep Learning Architectures](https://arxiv.org/abs/1803.09780v3)
+- [Image Processing in Quantum Computers](https://arxiv.org/abs/1812.11042v3)
+- [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/abs/1902.05009v1)
+- [Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion](https://arxiv.org/abs/1812.08351v3)
+- [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116v1)
 
 -------------
 
@@ -302,6 +307,7 @@ Articles
 - [Deep Neural Network Approximation for Custom Hardware: Where We've Been, Where We're Going](https://arxiv.org/abs/1901.06955v2)
 - [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/abs/1901.06437v1)
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v1)
+- [A Modular Benchmarking Infrastructure for High-Performance and Reproducible Deep Learning](https://arxiv.org/abs/1901.10183v1)
 
 -------------
 
