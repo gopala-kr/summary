@@ -94,6 +94,25 @@ Articles
 - [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/abs/1902.05009v1)
 - [Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion](https://arxiv.org/abs/1812.08351v3)
 - [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116v1)
+- [VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control](https://arxiv.org/abs/1802.00265v4)
+- [Pseudo-extended Markov chain Monte Carlo](https://arxiv.org/abs/1708.05239v2)
+- [Task2Vec: Task Embedding for Meta-Learning](https://arxiv.org/abs/1902.03545v1)
+- [Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey](https://arxiv.org/abs/1812.07127v3)
+- [Multi-task learning to improve natural language understanding](https://arxiv.org/abs/1812.06876v2)
+- [Deep Reinforcement Learning Based High-level Driving Behavior Decision-making Model in Heterogeneous Traffic](https://arxiv.org/abs/1902.05772v1)
+- [AutoQB: AutoML for Network Quantization and Binarization on Mobile Devices](https://arxiv.org/abs/1902.05690v1)
+- [Crime Analysis using Open Source Information](https://arxiv.org/abs/1902.05684v1)
+- [Going Deep in Medical Image Analysis: Concepts, Methods, Challenges and Future Directions](https://arxiv.org/abs/1902.05655v1)
+- [WaveletFCNN: A Deep Time Series Classification Model for Wind Turbine Blade Icing Detection](https://arxiv.org/abs/1902.05625v1)
+- [GeoGAN: A Conditional GAN with Reconstruction and Style Loss to Generate Standard Layer of Maps from Satellite Images](https://arxiv.org/abs/1902.05611v1)
+- [Video Object Segmentation using Teacher-Student Adaptation in a Human Robot Interaction (HRI) Setting](https://arxiv.org/abs/1810.07733v2)
+- [Real-world Anomaly Detection in Surveillance Videos](https://arxiv.org/abs/1801.04264v3)
+- [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2)
+- [Transfer Learning for Sequence Labeling Using Source Model and Target Data](https://arxiv.org/abs/1902.05309v1)
+- [Experimental Implementation of a Quantum Autoencoder via Quantum Adders](https://arxiv.org/abs/1807.10643v2)
+- [Some Interesting Features of Memristor CNN](https://arxiv.org/abs/1902.05167v1) :star:
+- [Competitive Experience Replay](https://arxiv.org/abs/1902.00528v3)
+- [Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond](https://arxiv.org/abs/1902.05908v1)
 
 -------------
 
