@@ -113,6 +113,22 @@ Articles
 - [Some Interesting Features of Memristor CNN](https://arxiv.org/abs/1902.05167v1) :star:
 - [Competitive Experience Replay](https://arxiv.org/abs/1902.00528v3)
 - [Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond](https://arxiv.org/abs/1902.05908v1)
+- [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/abs/1902.06720v1)
+- [Contextual Word Representations: A Contextual Introduction](https://arxiv.org/abs/1902.06006v2)
+- [Deep Learning for Image Super-resolution: A Survey](https://arxiv.org/abs/1902.06068v1)
+- [Fast Efficient Hyperparameter Tuning for Policy Gradients](https://arxiv.org/abs/1902.06583v1)
+- [Seven Myths in Machine Learning Research](https://arxiv.org/abs/1902.06789v1)
+- [WIDER Face and Pedestrian Challenge 2018: Methods and Results](https://arxiv.org/abs/1902.06854v1)
+- [Towards Explainable AI: Significance Tests for Neural Networks](https://arxiv.org/abs/1902.06021v1)
+- [Investigating Generalisation in Continuous Deep Reinforcement Learning](https://arxiv.org/abs/1902.07015v1)
+- [CrossNorm: Normalization for Off-Policy TD Reinforcement Learning](https://arxiv.org/abs/1902.05605v1)
+- [Depthwise Convolution is All You Need for Learning Multiple Visual Domains](https://arxiv.org/abs/1902.00927v2)
+- [CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model](https://arxiv.org/abs/1902.06423v1)
+- [Parenting: Safe Reinforcement Learning from Human Input](https://arxiv.org/abs/1902.06766v1)
+- [Learned In Speech Recognition: Contextual Acoustic Word Embeddings](https://arxiv.org/abs/1902.06833v1)
+- [Using Machine Learning to Guide Cognitive Modeling: A Case Study in Moral Reasoning](https://arxiv.org/abs/1902.06744v1)
+- [Towards Hardware Implementation of Neural Network-based Communication Algorithms](https://arxiv.org/abs/1902.06939v1)
+
 
 -------------
 
