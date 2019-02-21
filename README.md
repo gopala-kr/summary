@@ -128,6 +128,7 @@ Articles
 - [Learned In Speech Recognition: Contextual Acoustic Word Embeddings](https://arxiv.org/abs/1902.06833v1)
 - [Using Machine Learning to Guide Cognitive Modeling: A Case Study in Moral Reasoning](https://arxiv.org/abs/1902.06744v1)
 - [Towards Hardware Implementation of Neural Network-based Communication Algorithms](https://arxiv.org/abs/1902.06939v1)
+- [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[code](https://github.com/openai/gpt-2)]  :star:
 
 
 -------------
