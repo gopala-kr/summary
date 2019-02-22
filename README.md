@@ -129,6 +129,33 @@ Articles
 - [Using Machine Learning to Guide Cognitive Modeling: A Case Study in Moral Reasoning](https://arxiv.org/abs/1902.06744v1)
 - [Towards Hardware Implementation of Neural Network-based Communication Algorithms](https://arxiv.org/abs/1902.06939v1)
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[code](https://github.com/openai/gpt-2)]  :star:
+- [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://arxiv.org/abs/1902.06838v1)
+- [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638v1)
+- [ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing](https://arxiv.org/abs/1902.07669v2)
+- [Attentive Neural Processes](https://arxiv.org/abs/1901.05761v1)
+- [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208v1)
+- [An Autoencoder-based Learned Image Compressor: Description of Challenge Proposal by NCTU](https://arxiv.org/abs/1902.07385v1)
+- [Video Face Recognition: Component-wise Feature Aggregation Network (C-FAN)](https://arxiv.org/abs/1902.07327v1)
+- [POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds](https://arxiv.org/abs/1901.01060v2)
+- [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/abs/1902.06720v1)
+- [GSLAM: A General SLAM Framework and Benchmark](https://arxiv.org/abs/1902.07995v1)
+- [The Devil is in the Decoder: Classification, Regression and GANs](https://arxiv.org/abs/1707.05847v3)
+- [Going Deeper in Spiking Neural Networks: VGG and Residual Architectures](https://arxiv.org/abs/1802.02627v4)
+- [Towards Real-time Eyeblink Detection in The Wild:Dataset,Theory and Practices](https://arxiv.org/abs/1902.07891v1)
+- [Cloud-Based Autonomous Indoor Navigation: A Case Study](https://arxiv.org/abs/1902.08052v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+- []()
+
+
+
+
 
 
 -------------
