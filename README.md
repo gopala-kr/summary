@@ -156,10 +156,9 @@ Articles
 - [A Joint Deep Learning Approach for Automated Liver and Tumor Segmentation](https://arxiv.org/abs/1902.07971v1)
 - [Evaluation of Algorithms for Multi-Modality Whole Heart Segmentation: An Open-Access Grand Challenge](https://arxiv.org/abs/1902.07880v1)
 - [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142v1)
-
-
-
-
+- [Topology of Learning in Artificial Neural Networks](https://arxiv.org/abs/1902.08160v1)
+- [Evolutionary Neural AutoML for Deep Learning](https://arxiv.org/abs/1902.06827v1)
+- [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153v1)
 
 
 
