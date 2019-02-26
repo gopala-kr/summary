@@ -159,6 +159,7 @@ Articles
 - [Topology of Learning in Artificial Neural Networks](https://arxiv.org/abs/1902.08160v1)
 - [Evolutionary Neural AutoML for Deep Learning](https://arxiv.org/abs/1902.06827v1)
 - [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153v1)
+- [Adversarial Generation of Time-Frequency Features with application in audio synthesis](https://arxiv.org/abs/1902.04072v1)
 
 
 
