@@ -377,6 +377,8 @@ Articles
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v1)
 - [A Modular Benchmarking Infrastructure for High-Performance and Reproducible Deep Learning](https://arxiv.org/abs/1901.10183v1)
 - [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902v3)
+- [Deep Discriminative Representation Learning with Attention Map for Scene Classification](https://arxiv.org/abs/1902.07967v1)
+- [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/abs/1902.06720v1)
 
 -------------
 
