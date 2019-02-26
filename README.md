@@ -376,6 +376,7 @@ Articles
 - [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/abs/1901.06437v1)
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v1)
 - [A Modular Benchmarking Infrastructure for High-Performance and Reproducible Deep Learning](https://arxiv.org/abs/1901.10183v1)
+- [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902v3)
 
 -------------
 
