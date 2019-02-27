@@ -170,6 +170,15 @@ Articles
 - [Liability, Ethics, and Culture-Aware Behavior Specification using Rulebooks](https://arxiv.org/abs/1902.09355v1)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243v1)
 - [GANSynth: Adversarial Neural Audio Synthesis](https://arxiv.org/abs/1902.08710v1)
+- [Latent Translation: Crossing Modalities by Bridging Generative Models](https://arxiv.org/abs/1902.08261v1)
+- [Scalable Hyperbolic Recommender Systems](https://arxiv.org/abs/1902.08648v1)
+- [Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368v1)
+- [Improving Robustness of Machine Translation with Synthetic Noise](https://arxiv.org/abs/1902.09508v1)
+- [A Survey of Crowdsourcing in Medical Image Analysis](https://arxiv.org/abs/1902.09159v1)
+- [A large annotated medical image dataset for the development and evaluation of segmentation algorithms](https://arxiv.org/abs/1902.09063v1)
+- [FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation](https://arxiv.org/abs/1902.09513v1)
+- [DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145v1)
+
 -------------
 
 01/2019
@@ -386,6 +395,7 @@ Articles
 - [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902v3)
 - [Deep Discriminative Representation Learning with Attention Map for Scene Classification](https://arxiv.org/abs/1902.07967v1)
 - [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/abs/1902.06720v1)
+- [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321v1) :star:
 
 -------------
 
