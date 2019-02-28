@@ -185,6 +185,8 @@ Articles
 - [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635v1)
 - [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/abs/1902.10250v1)
 - [TraVeLGAN: Image-to-image Translation by Transformation Vector Learning](https://arxiv.org/abs/1902.09631v1)
+- [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383v1)
+- [Multi-Scale Quasi-RNN for Next Item Recommendation](https://arxiv.org/abs/1902.09849v1)
 
 -------------
 
