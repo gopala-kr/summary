@@ -182,6 +182,8 @@ Articles
 - [Artificial Intelligence for Prosthetics - challenge solutions](https://arxiv.org/abs/1902.02441v1)
 - [Coloring Big Graphs with AlphaGoZero](https://arxiv.org/abs/1902.10162v1)
 - [Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era](https://arxiv.org/abs/1902.10078v1)
+- [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635v1)
+- [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/abs/1902.10250v1)
 
 -------------
 
