@@ -190,6 +190,7 @@ Articles
 - [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445v1)
 - [Social Credibility Incorporating Semantic Analysis and Machine Learning: A Survey of the State-of-the-Art and Future Research Directions](https://arxiv.org/abs/1902.10402v1)
 - [Adaptive Caching via Deep Reinforcement Learning](https://arxiv.org/abs/1902.10301v1)
+- [TensorMap: Lidar-Based Topological Mapping and Localization via Tensor Decompositions](https://arxiv.org/abs/1902.10226v1)
 
 -------------
 
