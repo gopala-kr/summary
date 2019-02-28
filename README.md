@@ -178,6 +178,8 @@ Articles
 - [A large annotated medical image dataset for the development and evaluation of segmentation algorithms](https://arxiv.org/abs/1902.09063v1)
 - [FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation](https://arxiv.org/abs/1902.09513v1)
 - [DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145v1)
+- [The Termination Critic](https://arxiv.org/abs/1902.09996v1)
+- [Artificial Intelligence for Prosthetics - challenge solutions](https://arxiv.org/abs/1902.02441v1)
 
 -------------
 
