@@ -184,6 +184,7 @@ Articles
 - [Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era](https://arxiv.org/abs/1902.10078v1)
 - [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635v1)
 - [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/abs/1902.10250v1)
+- [TraVeLGAN: Image-to-image Translation by Transformation Vector Learning](https://arxiv.org/abs/1902.09631v1)
 
 -------------
 
@@ -402,6 +403,7 @@ Articles
 - [Deep Discriminative Representation Learning with Attention Map for Scene Classification](https://arxiv.org/abs/1902.07967v1)
 - [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/abs/1902.06720v1)
 - [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321v1) :star:
+- [Predictive Maintenance in Photovoltaic Plants with a Big Data Approach](https://arxiv.org/abs/1901.10855v1)
 
 -------------
 
