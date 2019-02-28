@@ -180,6 +180,8 @@ Articles
 - [DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145v1)
 - [The Termination Critic](https://arxiv.org/abs/1902.09996v1)
 - [Artificial Intelligence for Prosthetics - challenge solutions](https://arxiv.org/abs/1902.02441v1)
+- [Coloring Big Graphs with AlphaGoZero](https://arxiv.org/abs/1902.10162v1)
+- [Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era](https://arxiv.org/abs/1902.10078v1)
 
 -------------
 
