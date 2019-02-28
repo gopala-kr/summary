@@ -187,6 +187,9 @@ Articles
 - [TraVeLGAN: Image-to-image Translation by Transformation Vector Learning](https://arxiv.org/abs/1902.09631v1)
 - [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383v1)
 - [Multi-Scale Quasi-RNN for Next Item Recommendation](https://arxiv.org/abs/1902.09849v1)
+- [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445v1)
+- [Social Credibility Incorporating Semantic Analysis and Machine Learning: A Survey of the State-of-the-Art and Future Research Directions](https://arxiv.org/abs/1902.10402v1)
+- [Adaptive Caching via Deep Reinforcement Learning](https://arxiv.org/abs/1902.10301v1)
 
 -------------
 
