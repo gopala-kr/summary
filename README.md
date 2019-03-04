@@ -192,7 +192,7 @@ Articles
 - [Adaptive Caching via Deep Reinforcement Learning](https://arxiv.org/abs/1902.10301v1)
 - [TensorMap: Lidar-Based Topological Mapping and Localization via Tensor Decompositions](https://arxiv.org/abs/1902.10226v1)
 - [Coloring Big Graphs with AlphaGoZero](https://arxiv.org/abs/1902.10162v2)
-- [An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v1)
+- [An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v1) :star:
 - [The Termination Critic](https://arxiv.org/abs/1902.09996v1)
 - [How Large a Vocabulary Does Text Classification Need? A Variational Approach to Vocabulary Selection](https://arxiv.org/abs/1902.10339v1)
 - [Planning in Hierarchical Reinforcement Learning: Guarantees for Using Local Policies](https://arxiv.org/abs/1902.10140v1)
