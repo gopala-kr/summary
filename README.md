@@ -210,6 +210,10 @@ Articles
 - [Domain-Constrained Advertising Keyword Generation](https://arxiv.org/abs/1902.10374v1)
 - [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461v2)
 - [StyleRemix: An Interpretable Representation for Neural Image Style Transfer](https://arxiv.org/abs/1902.10425v1)
+- [Provable Guarantees for Gradient-Based Meta-Learning](https://arxiv.org/abs/1902.10644v1)
+- [Deep Adversarial Network Alignment](https://arxiv.org/abs/1902.10307v1)
+- [Multi-task hypernetworks](https://arxiv.org/abs/1902.10404v1)
+- [Atomistic structure learning](https://arxiv.org/abs/1902.10501v1)
 
 -------------
 
