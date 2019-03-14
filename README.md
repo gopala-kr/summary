@@ -38,7 +38,14 @@ Articles
 - [[2018 so far](https://github.com/gopala-kr/summary/blob/master/summaries/2018%20so%20far/README.md)]
 - [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
+
 -----------------------
+
+03/2019
+
+- [Predicting Research Trends From Arxiv](https://arxiv.org/abs/1903.02831v1)
+
+----------------------------
 
 02/2019
 
