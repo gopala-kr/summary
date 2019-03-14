@@ -44,6 +44,8 @@ Articles
 03/2019
 
 - [Predicting Research Trends From Arxiv](https://arxiv.org/abs/1903.02831v1)
+- [Asynchronous Federated Optimization](https://arxiv.org/abs/1903.03934v2)
+- [Improving Transparency of Deep Neural Inference Process](https://arxiv.org/abs/1903.05501v1)
 
 ----------------------------
 
