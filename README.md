@@ -168,7 +168,7 @@ Articles
 - [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153v1)
 - [Adversarial Generation of Time-Frequency Features with application in audio synthesis](https://arxiv.org/abs/1902.04072v1)
 - [Latent Translation: Crossing Modalities by Bridging Generative Models](https://arxiv.org/abs/1902.08261v1)
-- [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/abs/1902.08295v1)
+- [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/abs/1902.08295v1) :star:
 - [E-LSTM-D: A Deep Learning Framework for Dynamic Network Link Prediction](https://arxiv.org/abs/1902.08329v1)
 - [Online Multi-Object Tracking with Instance-Aware Tracker and Dynamic Model Refreshment](https://arxiv.org/abs/1902.08231v1)
 - [Comparison of Deep Neural Networks and Deep Hierarchical Models for Spatio-Temporal Data](https://arxiv.org/abs/1902.08321v1)
