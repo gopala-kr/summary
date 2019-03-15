@@ -46,6 +46,9 @@ Articles
 - [Predicting Research Trends From Arxiv](https://arxiv.org/abs/1903.02831v1)
 - [Asynchronous Federated Optimization](https://arxiv.org/abs/1903.03934v2)
 - [Improving Transparency of Deep Neural Inference Process](https://arxiv.org/abs/1903.05501v1)
+- [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://arxiv.org/abs/1903.03894v1)
+- [Unsupervised Discovery of Parts, Structure, and Dynamics](https://arxiv.org/abs/1903.05136v1)
+- [Continual Learning via Neural Pruning](https://arxiv.org/abs/1903.04476v1)
 
 ----------------------------
 
