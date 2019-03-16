@@ -38,6 +38,15 @@ Articles
 - [[2018 so far](https://github.com/gopala-kr/summary/blob/master/summaries/2018%20so%20far/README.md)]
 - [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
+- [Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data](https://arxiv.org/abs/1810.08553v3)
+- [Hyperdrive: A Multi-Chip Systolically Scalable Binary-Weight CNN Inference Engine](https://arxiv.org/abs/1804.00623v3)
+- [High-Throughput CNN Inference on Embedded ARM big.LITTLE Multi-Core Processors](https://arxiv.org/abs/1903.05898v1)
+- [Survey of Text-based Epidemic Intelligence: A Computational Linguistic Perspective](https://arxiv.org/abs/1903.05801v1)
+- [AutoML @ NeurIPS 2018 challenge: Design and Results](https://arxiv.org/abs/1903.05263v2)
+- [MILDNet: A Lightweight Single Scaled Deep Ranking Architecture](https://arxiv.org/abs/1903.00905v2)
+- [AI2-THOR: An Interactive 3D Environment for Visual AI](https://arxiv.org/abs/1712.05474v2)
+- [VRKitchen: an Interactive 3D Virtual Environment for Task-oriented Learning](https://arxiv.org/abs/1903.05757v1)
+- [Natural Language Interaction with Explainable AI Models](https://arxiv.org/abs/1903.05720v1)
 
 -----------------------
 
