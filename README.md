@@ -38,15 +38,8 @@ Articles
 - [[2018 so far](https://github.com/gopala-kr/summary/blob/master/summaries/2018%20so%20far/README.md)]
 - [[2018-Jan-Sep](https://github.com/gopala-kr/summary/blob/master/summaries/2018-Jan-Sep.md)]
 - [[conferences-2018](https://github.com/gopala-kr/summary/blob/master/conferences-2018.md)]
-- [Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data](https://arxiv.org/abs/1810.08553v3)
-- [Hyperdrive: A Multi-Chip Systolically Scalable Binary-Weight CNN Inference Engine](https://arxiv.org/abs/1804.00623v3)
-- [High-Throughput CNN Inference on Embedded ARM big.LITTLE Multi-Core Processors](https://arxiv.org/abs/1903.05898v1)
-- [Survey of Text-based Epidemic Intelligence: A Computational Linguistic Perspective](https://arxiv.org/abs/1903.05801v1)
-- [AutoML @ NeurIPS 2018 challenge: Design and Results](https://arxiv.org/abs/1903.05263v2)
-- [MILDNet: A Lightweight Single Scaled Deep Ranking Architecture](https://arxiv.org/abs/1903.00905v2)
-- [AI2-THOR: An Interactive 3D Environment for Visual AI](https://arxiv.org/abs/1712.05474v2)
-- [VRKitchen: an Interactive 3D Virtual Environment for Task-oriented Learning](https://arxiv.org/abs/1903.05757v1)
-- [Natural Language Interaction with Explainable AI Models](https://arxiv.org/abs/1903.05720v1)
+
+
 
 -----------------------
 
@@ -58,6 +51,31 @@ Articles
 - [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://arxiv.org/abs/1903.03894v1)
 - [Unsupervised Discovery of Parts, Structure, and Dynamics](https://arxiv.org/abs/1903.05136v1)
 - [Continual Learning via Neural Pruning](https://arxiv.org/abs/1903.04476v1)
+- [Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data](https://arxiv.org/abs/1810.08553v3)
+- [Hyperdrive: A Multi-Chip Systolically Scalable Binary-Weight CNN Inference Engine](https://arxiv.org/abs/1804.00623v3)
+- [High-Throughput CNN Inference on Embedded ARM big.LITTLE Multi-Core Processors](https://arxiv.org/abs/1903.05898v1)
+- [Survey of Text-based Epidemic Intelligence: A Computational Linguistic Perspective](https://arxiv.org/abs/1903.05801v1)
+- [AutoML @ NeurIPS 2018 challenge: Design and Results](https://arxiv.org/abs/1903.05263v2)
+- [MILDNet: A Lightweight Single Scaled Deep Ranking Architecture](https://arxiv.org/abs/1903.00905v2)
+- [AI2-THOR: An Interactive 3D Environment for Visual AI](https://arxiv.org/abs/1712.05474v2)
+- [VRKitchen: an Interactive 3D Virtual Environment for Task-oriented Learning](https://arxiv.org/abs/1903.05757v1)
+- [Natural Language Interaction with Explainable AI Models](https://arxiv.org/abs/1903.05720v1)
+- [Rectified Decision Trees: Towards Interpretability, Compression and Empirical Soundness](https://arxiv.org/abs/1903.05965v1)
+- [Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/abs/1903.05942v1)
+- [Lipschitz Generative Adversarial Nets](https://arxiv.org/abs/1902.05687v2)
+- [Scalable Facial Image Compression with Deep Feature Reconstruction](https://arxiv.org/abs/1903.05921v1)
+- [AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming](https://arxiv.org/abs/1810.00457v2)
+- [MirrorGAN: Learning Text-to-image Generation by Redescription](https://arxiv.org/abs/1903.05854v1)
+- [A Deep Patent Landscaping Model using Transformer and Graph Convolutional Network](https://arxiv.org/abs/1903.05823v1)
+- [MILDNet: A Lightweight Single Scaled Deep Ranking Architecture](https://arxiv.org/abs/1903.00905v2)
+- [Simulating Emergent Properties of Human Driving Behavior Using Multi-Agent Reward Augmented Imitation Learning](https://arxiv.org/abs/1903.05766v1)
+- [Reinforcement Learning and Inverse Reinforcement Learning with System 1 and System 2](https://arxiv.org/abs/1811.08549v2)
+- [Cleaning tasks knowledge transfer between heterogeneous robots: a deep learning approach](https://arxiv.org/abs/1903.05635v1)
+- [Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis](https://arxiv.org/abs/1903.05628v1) [[code](https://github.com/HelenMao/MSGAN)]
+- [RVOS: End-to-End Recurrent Network for Video Object Segmentation](https://arxiv.org/abs/1903.05612v1) [[code](https://imatge-upc.github.io/rvos/)]
+- [Improving Transparency of Deep Neural Inference Process](https://arxiv.org/abs/1903.05501v1)
+- [Visual Semantic Information Pursuit: A Survey](https://arxiv.org/abs/1903.05434v1)
+
 
 ----------------------------
 
