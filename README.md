@@ -75,7 +75,21 @@ Articles
 - [RVOS: End-to-End Recurrent Network for Video Object Segmentation](https://arxiv.org/abs/1903.05612v1) [[code](https://imatge-upc.github.io/rvos/)]
 - [Improving Transparency of Deep Neural Inference Process](https://arxiv.org/abs/1903.05501v1)
 - [Visual Semantic Information Pursuit: A Survey](https://arxiv.org/abs/1903.05434v1)
-
+- [Assessing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1810.12282v2)
+- [On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models](https://arxiv.org/abs/1903.06620v1)
+- [Policy Distillation and Value Matching in Multiagent Reinforcement Learning](https://arxiv.org/abs/1903.06592v1)
+- [Selective Kernel Networks](https://arxiv.org/abs/1903.06586v1)
+- [Neuromorphic Hardware learns to learn](https://arxiv.org/abs/1903.06493v1)
+- [DeepHuman: 3D Human Reconstruction from a Single Image](https://arxiv.org/abs/1903.06473v1)
+- [Benchmarking Natural Language Understanding Services for building Conversational Agents](https://arxiv.org/abs/1903.05566v2)
+- [A Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks](https://arxiv.org/abs/1903.06464v1)
+- [BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving](https://arxiv.org/abs/1903.06405v1)
+- [Enabling Spike-based Backpropagation in State-of-the-art Deep Neural Network Architectures](https://arxiv.org/abs/1903.06379v1)
+- [A Multi-Agent Off-Policy Actor-Critic Algorithm for Distributed Reinforcement Learning](https://arxiv.org/abs/1903.06372v1)
+- [ROS2Learn: a reinforcement learning framework for ROS 2](https://arxiv.org/abs/1903.06282v1)
+- [Show, Translate and Tell](https://arxiv.org/abs/1903.06275v1)
+- [Improving Neural Architecture Search Image Classifiers via Ensemble Learning](https://arxiv.org/abs/1903.06236v1)
+- [Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition](https://arxiv.org/abs/1903.06150v1)
 
 ----------------------------
 
