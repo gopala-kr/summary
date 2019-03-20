@@ -90,6 +90,15 @@ Articles
 - [Show, Translate and Tell](https://arxiv.org/abs/1903.06275v1)
 - [Improving Neural Architecture Search Image Classifiers via Ensemble Learning](https://arxiv.org/abs/1903.06236v1)
 - [Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition](https://arxiv.org/abs/1903.06150v1)
+- [Autoregressive Models for Sequences of Graphs](https://arxiv.org/abs/1903.07299v1)
+- [Human Activity Recognition for Edge Devices](https://arxiv.org/abs/1903.07563v1)
+- [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://arxiv.org/abs/1903.07520v1)
+- [Interpretable Deep Learning in Drug Discovery](https://arxiv.org/abs/1903.02788v2)
+- [Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1903.07499v1)
+- [Communication-Efficient Federated Deep Learning with Asynchronous Model Update and Temporally Weighted Aggregation](https://arxiv.org/abs/1903.07424v1)
+- [Neutron: An Implementation of the Transformer Translation Model and its Variants](https://arxiv.org/abs/1903.07402v1)
+- [Scheduled Intrinsic Drive: A Hierarchical Take on Intrinsically Motivated Exploration](https://arxiv.org/abs/1903.07400v1)
+- [Beyond Turing: Intelligent Agents Centered on the User](https://arxiv.org/abs/1901.06613v2)
 
 ----------------------------
 
