@@ -99,6 +99,13 @@ Articles
 - [Neutron: An Implementation of the Transformer Translation Model and its Variants](https://arxiv.org/abs/1903.07402v1)
 - [Scheduled Intrinsic Drive: A Hierarchical Take on Intrinsically Motivated Exploration](https://arxiv.org/abs/1903.07400v1)
 - [Beyond Turing: Intelligent Agents Centered on the User](https://arxiv.org/abs/1901.06613v2)
+- [Deep Reinforcement Learning with Feedback-based Exploration](https://arxiv.org/abs/1903.06151v1)
+- [Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly](https://arxiv.org/abs/1903.06694v1)
+- [The Missing Ingredient in Zero-Shot Neural Machine Translation](https://arxiv.org/abs/1903.07091v1)
+- [Responses to a Critique of Artificial Moral Agents](https://arxiv.org/abs/1903.07021v1)
+- [Inserting Videos into Videos](https://arxiv.org/abs/1903.06571v1)
+
+
 
 ----------------------------
 
