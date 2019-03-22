@@ -106,6 +106,25 @@ Articles
 - [Inserting Videos into Videos](https://arxiv.org/abs/1903.06571v1)
 - [Learning Correspondence from the Cycle-Consistency of Time](https://arxiv.org/abs/1903.07593v1)
 - [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527v1)
+- [CoCoNet: A Collaborative Convolutional Network](https://arxiv.org/abs/1901.09886v2)
+- [A Principled Approach for Learning Task Similarity in Multitask Learning](https://arxiv.org/abs/1903.09109v1)
+- [Memorable Maps: A Framework for Re-defining Places in Visual Place Recognition](https://arxiv.org/abs/1811.03529v2)
+- [Learning to Caption Images through a Lifetime by Asking Questions](https://arxiv.org/abs/1812.00235v3)
+- [Megapixel Photon-Counting Color Imaging using Quanta Image Sensor](https://arxiv.org/abs/1903.09036v1)
+- [Recent advances in conversational NLP : Towards the standardization of Chatbot building](https://arxiv.org/abs/1903.09025v1)
+- [Localization of Unmanned Aerial Vehicles in Corridor Environments using Deep Learning](https://arxiv.org/abs/1903.09021v1)
+- [Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer](https://arxiv.org/abs/1903.08953v1)
+- [Dynamic Power Management for Neuromorphic Many-Core Systems](https://arxiv.org/abs/1903.08941v1)
+- [Towards Characterizing Divergence in Deep Q-Learning](https://arxiv.org/abs/1903.08894v1)
+- [Understanding Convolutional Neural Networks with Information Theory: An Initial Exploration](https://arxiv.org/abs/1804.06537v3)
+- [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701v1)
+- [A Graph-structured Dataset for Wikipedia Research](https://arxiv.org/abs/1903.08597v1)
+- [Artificial Intelligence : from Research to Application ; the Upper-Rhine Artificial Intelligence Symposium (UR-AI 2019)](https://arxiv.org/abs/1903.08495v1)
+- [Regularize, Expand and Compress: Multi-task based Lifelong Learning via NonExpansive AutoML](https://arxiv.org/abs/1903.08362v1)
+- [Machine Learning for Data-Driven Movement Generation: a Review of the State of the Art](https://arxiv.org/abs/1903.08356v1)
+- [A Methodology for Search Space Reduction in QoS Aware Semantic Web Service Composition](https://arxiv.org/abs/1809.07045v2)
+- [Varifocal-Net: A Chromosome Classification Approach using Deep Convolutional Networks](https://arxiv.org/abs/1810.05943v4)
+
 
 ----------------------------
 
