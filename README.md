@@ -104,8 +104,8 @@ Articles
 - [The Missing Ingredient in Zero-Shot Neural Machine Translation](https://arxiv.org/abs/1903.07091v1)
 - [Responses to a Critique of Artificial Moral Agents](https://arxiv.org/abs/1903.07021v1)
 - [Inserting Videos into Videos](https://arxiv.org/abs/1903.06571v1)
-
-
+- [Learning Correspondence from the Cycle-Consistency of Time](https://arxiv.org/abs/1903.07593v1)
+- [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527v1)
 
 ----------------------------
 
