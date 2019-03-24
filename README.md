@@ -125,6 +125,8 @@ Articles
 - [A Methodology for Search Space Reduction in QoS Aware Semantic Web Service Composition](https://arxiv.org/abs/1809.07045v2)
 - [Varifocal-Net: A Chromosome Classification Approach using Deep Convolutional Networks](https://arxiv.org/abs/1810.05943v4)
 - [Generative Models For Deep Learning with Very Scarce Data](https://arxiv.org/abs/1903.09030v1)
+- [Progressive Sparse Local Attention for Video object detection](https://arxiv.org/abs/1903.09126v1)
+
 
 ----------------------------
 
