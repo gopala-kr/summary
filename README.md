@@ -126,7 +126,14 @@ Articles
 - [Varifocal-Net: A Chromosome Classification Approach using Deep Convolutional Networks](https://arxiv.org/abs/1810.05943v4)
 - [Generative Models For Deep Learning with Very Scarce Data](https://arxiv.org/abs/1903.09030v1)
 - [Progressive Sparse Local Attention for Video object detection](https://arxiv.org/abs/1903.09126v1)
-
+- [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291v1)
+- [Combining Model and Parameter Uncertainty in Bayesian Neural Networks](https://arxiv.org/abs/1903.07594v2)
+- [Photometric Mesh Optimization for Video-Aligned 3D Object Reconstruction](https://arxiv.org/abs/1903.08642v1)
+- [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images](https://arxiv.org/abs/1903.08469v1)
+- [IvaNet: Learning to jointly detect and segment objets with the help of Local Top-Down Modules](https://arxiv.org/abs/1903.07360v1)
+- [Deep Models for Relational Databases](https://arxiv.org/abs/1903.09033v1)
+- [Efficient Reward-Based Structural Plasticity on a SpiNNaker 2 Prototype](https://arxiv.org/abs/1903.08500v1)
+- [Natural Language Generation at Scale: A Case Study for Open Domain Question Answering](Natural Language Generation at Scale: A Case Study for Open Domain Question Answering)
 
 ----------------------------
 
