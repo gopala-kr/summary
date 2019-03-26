@@ -134,6 +134,7 @@ Articles
 - [Deep Models for Relational Databases](https://arxiv.org/abs/1903.09033v1)
 - [Efficient Reward-Based Structural Plasticity on a SpiNNaker 2 Prototype](https://arxiv.org/abs/1903.08500v1)
 - [Natural Language Generation at Scale: A Case Study for Open Domain Question Answering](https://arxiv.org/abs/1903.08097v1)
+- [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/abs/1803.07485v1)
 
 ----------------------------
 
