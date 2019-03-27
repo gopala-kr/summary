@@ -135,6 +135,20 @@ Articles
 - [Efficient Reward-Based Structural Plasticity on a SpiNNaker 2 Prototype](https://arxiv.org/abs/1903.08500v1)
 - [Natural Language Generation at Scale: A Case Study for Open Domain Question Answering](https://arxiv.org/abs/1903.08097v1)
 - [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/abs/1803.07485v1)
+- [DeepCenterline: a Multi-task Fully Convolutional Network for Centerline Extraction](https://arxiv.org/abs/1903.10481v1)
+- [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation](https://arxiv.org/abs/1903.10427v1)
+- [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/abs/1903.10410v1)
+- [On the use of Deep Autoencoders for Efficient Embedded Reinforcement Learning](https://arxiv.org/abs/1903.10404v1)
+- [Learning-to-Learn Stochastic Gradient Descent with Biased Regularization](https://arxiv.org/abs/1903.10399v1)
+- [Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318v1)
+- [Audio Caption: Listen and Tell](https://arxiv.org/abs/1902.09254v3)
+- [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258v1)
+- [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120v2)
+- [Learning to Walk via Deep Reinforcement Learning](https://arxiv.org/abs/1812.11103v2)
+- [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195v1)
+- [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455v2)
+- [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://arxiv.org/abs/1903.10172v1)
+
 
 ----------------------------
 
