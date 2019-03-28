@@ -149,6 +149,21 @@ Articles
 - [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455v2)
 - [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://arxiv.org/abs/1903.10172v1)
 - [Continual Learning with Tiny Episodic Memories](https://arxiv.org/abs/1902.10486v2)
+- [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation](https://arxiv.org/abs/1903.10427v1)
+- [Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717v2)
+- [NengoDL: Combining deep learning and neuromorphic modelling methods](https://arxiv.org/abs/1805.11144v3)
+- [Autoregressive Policies for Continuous Control Deep Reinforcement Learning](https://arxiv.org/abs/1903.11524v1)
+- [Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems](https://arxiv.org/abs/1903.11508v1)
+- [A Sober Look at Neural Network Initializations](https://arxiv.org/abs/1903.11482v1)
+- [Using Monolingual Data in Neural Machine Translation: a Systematic Study](https://arxiv.org/abs/1903.11437v1)
+- [Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools](https://arxiv.org/abs/1903.11314v1)
+- [Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods](https://arxiv.org/abs/1903.11260v1)
+- [StructADMM: A Systematic, High-Efficiency Framework of Structured Weight Pruning for DNNs](https://arxiv.org/abs/1807.11091v3)
+- [GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving](https://arxiv.org/abs/1903.10955v2)
+- [A Review of Learning with Deep Generative Models from Perspective of Graphical Modeling](https://arxiv.org/abs/1808.01630v4)
+- [Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning](https://arxiv.org/abs/1812.00971v2)
+- [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027v1)
+- [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979v1)
 
 ----------------------------
 
