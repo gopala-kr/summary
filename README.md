@@ -134,7 +134,7 @@ Articles
 - [Deep Models for Relational Databases](https://arxiv.org/abs/1903.09033v1)
 - [Efficient Reward-Based Structural Plasticity on a SpiNNaker 2 Prototype](https://arxiv.org/abs/1903.08500v1)
 - [Natural Language Generation at Scale: A Case Study for Open Domain Question Answering](https://arxiv.org/abs/1903.08097v1)
-- [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/abs/1803.07485v1)
+- [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/abs/1803.07485v1) :star:
 - [DeepCenterline: a Multi-task Fully Convolutional Network for Centerline Extraction](https://arxiv.org/abs/1903.10481v1)
 - [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation](https://arxiv.org/abs/1903.10427v1)
 - [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/abs/1903.10410v1)
@@ -148,7 +148,7 @@ Articles
 - [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195v1)
 - [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455v2)
 - [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://arxiv.org/abs/1903.10172v1)
-
+- [Continual Learning with Tiny Episodic Memories](https://arxiv.org/abs/1902.10486v2)
 
 ----------------------------
 
