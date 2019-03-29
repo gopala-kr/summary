@@ -165,6 +165,7 @@ Articles
 - [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027v1)
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979v1)
 - [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200v2)
+- [BUT-FIT at SemEval-2019 Task 7: Determining the Rumour Stance with Pre-Trained Deep Bidirectional Transformers](https://arxiv.org/abs/1902.10126v2)
 
 ----------------------------
 
