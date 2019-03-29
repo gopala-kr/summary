@@ -164,6 +164,7 @@ Articles
 - [Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning](https://arxiv.org/abs/1812.00971v2)
 - [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027v1)
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979v1)
+- [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200v2)
 
 ----------------------------
 
