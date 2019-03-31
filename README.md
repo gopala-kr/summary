@@ -166,6 +166,12 @@ Articles
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979v1)
 - [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200v2)
 - [BUT-FIT at SemEval-2019 Task 7: Determining the Rumour Stance with Pre-Trained Deep Bidirectional Transformers](https://arxiv.org/abs/1902.10126v2)
+- [The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation](https://arxiv.org/abs/1903.01602v1)
+- [Random Language Model](https://arxiv.org/abs/1809.01201v2)
+- [Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation](https://arxiv.org/abs/1903.10963v1)
+- [Deep Radiomics for Brain Tumor Detection and Classification from Multi-Sequence MRI](https://arxiv.org/abs/1903.09240v1)
+- [A Quantum Annealing-Based Approach to Extreme Clustering](https://arxiv.org/abs/1903.08256v1)
+- [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/abs/1903.11059v1)
 
 ----------------------------
 
