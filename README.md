@@ -172,6 +172,7 @@ Articles
 - [Deep Radiomics for Brain Tumor Detection and Classification from Multi-Sequence MRI](https://arxiv.org/abs/1903.09240v1)
 - [A Quantum Annealing-Based Approach to Extreme Clustering](https://arxiv.org/abs/1903.08256v1)
 - [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/abs/1903.11059v1)
+- [Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717v2)
 
 ----------------------------
 
