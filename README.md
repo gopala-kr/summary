@@ -43,6 +43,13 @@ Articles
 
 -----------------------
 
+04/2019
+
+- Analysing Mathematical Reasoning Abilities of Neural Models. https://arxiv.org/pdf/1904.01557v1.pdf [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset)
+
+
+-------------
+
 03/2019
 
 - [Predicting Research Trends From Arxiv](https://arxiv.org/abs/1903.02831v1)
