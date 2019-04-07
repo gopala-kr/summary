@@ -180,6 +180,8 @@ Articles
 - [A Quantum Annealing-Based Approach to Extreme Clustering](https://arxiv.org/abs/1903.08256v1)
 - [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/abs/1903.11059v1)
 - [Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717v2)
+- [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174v1)
+- [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles](https://arxiv.org/abs/1903.12152v1)
 
 ----------------------------
 
