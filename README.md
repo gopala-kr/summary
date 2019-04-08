@@ -182,7 +182,7 @@ Articles
 - [Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717v2)
 - [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174v1)
 - [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles](https://arxiv.org/abs/1903.12152v1)
-
+- [Fast video object segmentation with Spatio-Temporal GANs](https://arxiv.org/abs/1903.12161v1)
 ----------------------------
 
 02/2019
