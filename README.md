@@ -183,6 +183,7 @@ Articles
 - [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174v1)
 - [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles](https://arxiv.org/abs/1903.12152v1)
 - [Fast video object segmentation with Spatio-Temporal GANs](https://arxiv.org/abs/1903.12161v1)
+- [Resilient Combination of Complementary CNN and RNN Features for Text Classification through Attention and Ensembling](https://arxiv.org/abs/1903.12157v1)
 ----------------------------
 
 02/2019
