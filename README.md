@@ -45,7 +45,19 @@ Articles
 
 04/2019
 
+- [A Systematic Literature Review about the impact of Artificial Intelligence on Autonomous Vehicle Safety](https://arxiv.org/abs/1904.02697v1)
 - Analysing Mathematical Reasoning Abilities of Neural Models. https://arxiv.org/pdf/1904.01557v1.pdf [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset)
+- [Libra R-CNN: Towards Balanced Learning for Object Detection](https://arxiv.org/abs/1904.02701v1)
+- [YOLACT: Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689v1)
+- [Advancing NLP with Cognitive Language Processing Signals](https://arxiv.org/abs/1904.02682v1)
+- [Visualizing Attention in Transformer-Based Language models](https://arxiv.org/abs/1904.02679v1)
+- [Recommendations for Datasets for Source Code Summarization](https://arxiv.org/abs/1904.02660v1)
+- [An End-to-End Baseline for Video Captioning](https://arxiv.org/abs/1904.02628v1)
+- [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232v1)
+- [Hyperbolic Image Embeddings](https://arxiv.org/abs/1904.02239v1)
+- [PaintBot: A Reinforcement Learning Approach for Natural Media Painting](https://arxiv.org/abs/1904.02201v1)
+- [Reducing BERT Pre-Training Time from 3 Days to 76 Minutes](https://arxiv.org/abs/1904.00962v1)
+- [DAGCN: Dual Attention Graph Convolutional Networks](https://arxiv.org/abs/1904.02278v1)
 
 
 -------------
