@@ -58,7 +58,8 @@ Articles
 - [PaintBot: A Reinforcement Learning Approach for Natural Media Painting](https://arxiv.org/abs/1904.02201v1)
 - [Reducing BERT Pre-Training Time from 3 Days to 76 Minutes](https://arxiv.org/abs/1904.00962v1)
 - [DAGCN: Dual Attention Graph Convolutional Networks](https://arxiv.org/abs/1904.02278v1)
-
+- [T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor](https://arxiv.org/abs/1904.02698v1)
+- [Computational Imaging for VLBI Image Reconstruction](https://arxiv.org/abs/1512.01413v2) (2016) :star:
 
 -------------
 
@@ -196,6 +197,9 @@ Articles
 - [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles](https://arxiv.org/abs/1903.12152v1)
 - [Fast video object segmentation with Spatio-Temporal GANs](https://arxiv.org/abs/1903.12161v1)
 - [Resilient Combination of Complementary CNN and RNN Features for Text Classification through Attention and Ensembling](https://arxiv.org/abs/1903.12157v1)
+- [Deep learning for molecular generation and optimization - a review of the state of the art](https://arxiv.org/abs/1903.04388v1)
+- [Needle in a Haystack: A Framework for Seeking Small Objects in Big Datasets](https://arxiv.org/abs/1903.10019v1)
+
 ----------------------------
 
 02/2019
