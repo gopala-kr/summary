@@ -60,6 +60,11 @@ Articles
 - [DAGCN: Dual Attention Graph Convolutional Networks](https://arxiv.org/abs/1904.02278v1)
 - [T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor](https://arxiv.org/abs/1904.02698v1)
 - [Computational Imaging for VLBI Image Reconstruction](https://arxiv.org/abs/1512.01413v2) (2016) :star:
+- [AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning](https://arxiv.org/abs/1904.04153v1)
+- [Deep-Sentiment: Sentiment Analysis Using Ensemble of CNN and Bi-LSTM Models](https://arxiv.org/abs/1904.04206v1)
+- [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123v1)
+- [Revisiting EmbodiedQA: A Simple Baseline and Beyond](https://arxiv.org/abs/1904.04166v1)
+- [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/abs/1904.04174v1)
 
 -------------
 
