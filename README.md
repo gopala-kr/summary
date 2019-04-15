@@ -66,10 +66,10 @@ Articles
 - [Revisiting EmbodiedQA: A Simple Baseline and Beyond](https://arxiv.org/abs/1904.04166v1)
 - [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/abs/1904.04174v1)
 - [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232v1)
-- [Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics](https://arxiv.org/abs/1811.07490v2)
 - [Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout](https://arxiv.org/abs/1904.04195v1)
 - [Streamlined Dense Video Captioning](https://arxiv.org/abs/1904.03870v1)
-
+- [Analysing Mathematical Reasoning Abilities of Neural Models](https://arxiv.org/abs/1904.01557v1)
+- [DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/abs/1904.01310v1)
 
 -------------
 
