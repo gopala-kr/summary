@@ -71,6 +71,8 @@ Articles
 - [Analysing Mathematical Reasoning Abilities of Neural Models](https://arxiv.org/abs/1904.01557v1)
 - [DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/abs/1904.01310v1)
 - [Density Matching for Bilingual Word Embedding](https://arxiv.org/abs/1904.02343v1)
+- [Characterizing the Social Interactions in the Artificial Bee Colony Algorithm](https://arxiv.org/abs/1904.04203v1)
+- [MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/abs/1902.03604v2)
 
 -------------
 
