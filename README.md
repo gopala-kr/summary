@@ -75,6 +75,9 @@ Articles
 - [MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/abs/1902.03604v2)
 - [From Coarse to Fine: Robust Hierarchical Localization at Large Scale](https://arxiv.org/abs/1812.03506v2)
 - [Transferring Knowledge Fragments for Learning Distance Metric from A Heterogeneous Domain](https://arxiv.org/abs/1904.04061v1)
+- [Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961v1)
+- [Sampling, Intervention, Prediction, Aggregation: A Generalized Framework for Model Agnostic Interpretations](https://arxiv.org/abs/1904.03959v1)
+- [Feature Learning Viewpoint of AdaBoost and a New Algorithm](https://arxiv.org/abs/1904.03953v1)
 
 -------------
 
