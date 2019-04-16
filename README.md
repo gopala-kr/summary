@@ -70,6 +70,7 @@ Articles
 - [Streamlined Dense Video Captioning](https://arxiv.org/abs/1904.03870v1)
 - [Analysing Mathematical Reasoning Abilities of Neural Models](https://arxiv.org/abs/1904.01557v1)
 - [DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/abs/1904.01310v1)
+- [Density Matching for Bilingual Word Embedding](https://arxiv.org/abs/1904.02343v1)
 
 -------------
 
