@@ -73,6 +73,8 @@ Articles
 - [Density Matching for Bilingual Word Embedding](https://arxiv.org/abs/1904.02343v1)
 - [Characterizing the Social Interactions in the Artificial Bee Colony Algorithm](https://arxiv.org/abs/1904.04203v1)
 - [MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/abs/1902.03604v2)
+- [From Coarse to Fine: Robust Hierarchical Localization at Large Scale](https://arxiv.org/abs/1812.03506v2)
+- [Transferring Knowledge Fragments for Learning Distance Metric from A Heterogeneous Domain](https://arxiv.org/abs/1904.04061v1)
 
 -------------
 
