@@ -78,6 +78,7 @@ Articles
 - [Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961v1)
 - [Sampling, Intervention, Prediction, Aggregation: A Generalized Framework for Model Agnostic Interpretations](https://arxiv.org/abs/1904.03959v1)
 - [Feature Learning Viewpoint of AdaBoost and a New Algorithm](https://arxiv.org/abs/1904.03953v1)
+- [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v2) (2019)
 
 -------------
 
