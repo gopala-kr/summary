@@ -81,6 +81,13 @@ Articles
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v2) [[code](https://github.com/ocimk/autodeeplab)]
 - [A Selective Overview of Deep Learning](https://arxiv.org/pdf/1904.05526v2.pdf)
 - [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828v1)
+- [Unsupervised Recurrent Neural Network Grammars](https://arxiv.org/abs/1904.03746v3)
+- [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://arxiv.org/abs/1904.07209v1)
+- [Tutorial: Safe and Reliable Machine Learning](https://arxiv.org/abs/1904.07204v1)
+- [A Discussion on Solving Partial Differential Equations using Neural Networks](https://arxiv.org/abs/1904.07200v1)
+- [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189v1)
+- [PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration](https://arxiv.org/abs/1901.09290v3)
+- [Recurrent Neural Network for (Un-)supervised Learning of Monocular VideoVisual Odometry and Depth](https://arxiv.org/abs/1904.07087v1)
 
 -------------
 
