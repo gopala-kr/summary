@@ -79,6 +79,7 @@ Articles
 - [Sampling, Intervention, Prediction, Aggregation: A Generalized Framework for Model Agnostic Interpretations](https://arxiv.org/abs/1904.03959v1)
 - [Feature Learning Viewpoint of AdaBoost and a New Algorithm](https://arxiv.org/abs/1904.03953v1)
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v2) [[code](https://github.com/ocimk/autodeeplab)]
+- [A Selective Overview of Deep Learning](https://arxiv.org/pdf/1904.05526v2.pdf)
 
 -------------
 
