@@ -88,6 +88,15 @@ Articles
 - [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189v1)
 - [PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration](https://arxiv.org/abs/1901.09290v3)
 - [Recurrent Neural Network for (Un-)supervised Learning of Monocular VideoVisual Odometry and Depth](https://arxiv.org/abs/1904.07087v1)
+- [Optimising Trotter-Suzuki Decompositions for Quantum Simulation Using Evolutionary Strategies](https://arxiv.org/abs/1904.01336v2)
+- [A Hitchhiker's Guide to Statistical Comparisons of Reinforcement Learning Algorithms](https://arxiv.org/abs/1904.06979v1)
+- [The Impact of Neural Network Overparameterization on Gradient Confusion and Stochastic Gradient Descent](https://arxiv.org/abs/1904.06963v1)
+- [On the Performance of Differential Evolution for Hyperparameter Tuning](https://arxiv.org/abs/1904.06960v1)
+- [GraphTSNE: A Visualization Technique for Graph-Structured Data](https://arxiv.org/abs/1904.06915v1)
+- [Learning Not to Learn: Training Deep Neural Networks with Biased Data](https://arxiv.org/abs/1812.10352v2)
+- [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836v1)
+- [An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search](https://arxiv.org/abs/1904.06834v1)
+
 
 -------------
 
