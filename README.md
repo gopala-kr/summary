@@ -80,7 +80,7 @@ Articles
 - [Feature Learning Viewpoint of AdaBoost and a New Algorithm](https://arxiv.org/abs/1904.03953v1)
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985v2) [[code](https://github.com/ocimk/autodeeplab)]
 - [A Selective Overview of Deep Learning](https://arxiv.org/pdf/1904.05526v2.pdf)
-- [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828v1)
+- [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828v1) :star:
 - [Unsupervised Recurrent Neural Network Grammars](https://arxiv.org/abs/1904.03746v3)
 - [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://arxiv.org/abs/1904.07209v1)
 - [Tutorial: Safe and Reliable Machine Learning](https://arxiv.org/abs/1904.07204v1)
@@ -96,7 +96,7 @@ Articles
 - [Learning Not to Learn: Training Deep Neural Networks with Biased Data](https://arxiv.org/abs/1812.10352v2)
 - [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836v1)
 - [An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search](https://arxiv.org/abs/1904.06834v1)
-
+- [Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation](https://arxiv.org/abs/1904.02357v1)
 
 -------------
 
