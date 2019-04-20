@@ -97,6 +97,7 @@ Articles
 - [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836v1)
 - [An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search](https://arxiv.org/abs/1904.06834v1)
 - [Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation](https://arxiv.org/abs/1904.02357v1)
+- [Precise Detection in Densely Packed Scenes](https://arxiv.org/abs/1904.00853v1)
 
 -------------
 
