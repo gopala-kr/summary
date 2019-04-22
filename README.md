@@ -98,6 +98,8 @@ Articles
 - [An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search](https://arxiv.org/abs/1904.06834v1)
 - [Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation](https://arxiv.org/abs/1904.02357v1)
 - [Precise Detection in Densely Packed Scenes](https://arxiv.org/abs/1904.00853v1)
+- [Deep neural networks can predict mortality from 12-lead electrocardiogram voltage data](https://arxiv.org/abs/1904.07032v1)
+- [Self-critical n-step Training for Image Captioning](https://arxiv.org/abs/1904.06861v1)
 
 -------------
 
