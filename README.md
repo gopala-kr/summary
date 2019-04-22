@@ -100,6 +100,11 @@ Articles
 - [Precise Detection in Densely Packed Scenes](https://arxiv.org/abs/1904.00853v1)
 - [Deep neural networks can predict mortality from 12-lead electrocardiogram voltage data](https://arxiv.org/abs/1904.07032v1)
 - [Self-critical n-step Training for Image Captioning](https://arxiv.org/abs/1904.06861v1)
+- [Pedestrian Detection in Thermal Images using Saliency Maps](https://arxiv.org/abs/1904.06859v1)
+- [Mini-batch Serialization: CNN Training with Inter-layer Data Reuse](https://arxiv.org/abs/1810.00307v3)
+- [ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging](https://arxiv.org/abs/1904.06830v1)
+- [Bounce and Learn: Modeling Scene Dynamics with Real-World Bounces](https://arxiv.org/abs/1904.06827v1)
+
 
 -------------
 
