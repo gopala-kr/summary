@@ -104,7 +104,20 @@ Articles
 - [Mini-batch Serialization: CNN Training with Inter-layer Data Reuse](https://arxiv.org/abs/1810.00307v3)
 - [ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging](https://arxiv.org/abs/1904.06830v1)
 - [Bounce and Learn: Modeling Scene Dynamics with Real-World Bounces](https://arxiv.org/abs/1904.06827v1)
-
+- [Fooling automated surveillance cameras: adversarial patches to attack person detection](https://arxiv.org/abs/1904.08653v1#)
+- [Unsupervised Part-Based Disentangling of Object Shape and Appearance](https://arxiv.org/abs/1903.06946v2)
+- [Natural Language Interactions in Autonomous Vehicles: Intent Detection and Slot Filling from Passenger Utterances](https://arxiv.org/abs/1904.10500v1)
+- [A General Neural Network Architecture for Persistence Diagrams and Graph Classification](https://arxiv.org/abs/1904.09378v1)
+- [Mercator: uncovering faithful hyperbolic embeddings of complex networks](https://arxiv.org/abs/1904.10814v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -------------
 
