@@ -119,6 +119,8 @@ Articles
 - [The Trajectron: Probabilistic Multi-Agent Trajectory Modeling with Dynamic Spatiotemporal Graphs](https://arxiv.org/abs/1810.05993v2)
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359v3)
 - [The MineRL Competition on Sample Efficient Reinforcement Learning using Human Priors](https://arxiv.org/abs/1904.10079v1)
+- [Neural Logic Reinforcement Learning](https://arxiv.org/abs/1904.10729v1)
+- [Segmenting the Future](https://arxiv.org/abs/1904.10666v1)
 
 -------------
 
