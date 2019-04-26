@@ -118,6 +118,7 @@ Articles
 - [Text Classification Algorithms: A Survey](https://arxiv.org/abs/1904.08067v2)
 - [The Trajectron: Probabilistic Multi-Agent Trajectory Modeling with Dynamic Spatiotemporal Graphs](https://arxiv.org/abs/1810.05993v2)
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359v3)
+- [The MineRL Competition on Sample Efficient Reinforcement Learning using Human Priors](https://arxiv.org/abs/1904.10079v1)
 
 -------------
 
