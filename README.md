@@ -122,6 +122,8 @@ Articles
 - [Neural Logic Reinforcement Learning](https://arxiv.org/abs/1904.10729v1)
 - [Segmenting the Future](https://arxiv.org/abs/1904.10666v1)
 - [Holistic Large Scale Video Understanding](https://arxiv.org/abs/1904.11451v1)
+- [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531v3)
+- [Machine learning for long-distance quantum communication](https://arxiv.org/abs/1904.10797v1)
 
 -------------
 
