@@ -121,6 +121,7 @@ Articles
 - [The MineRL Competition on Sample Efficient Reinforcement Learning using Human Priors](https://arxiv.org/abs/1904.10079v1)
 - [Neural Logic Reinforcement Learning](https://arxiv.org/abs/1904.10729v1)
 - [Segmenting the Future](https://arxiv.org/abs/1904.10666v1)
+- [Holistic Large Scale Video Understanding](https://arxiv.org/abs/1904.11451v1)
 
 -------------
 
