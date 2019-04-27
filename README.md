@@ -127,6 +127,8 @@ Articles
 - [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925v1)
 - [Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors](https://arxiv.org/abs/1904.10997)
 - [Differentiable Pruning Method for Neural Networks](https://arxiv.org/abs/1904.10921v1)
+- [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675v1) [[code](https://github.com/Tiiiger/bert_score)]
+
 -------------
 
 03/2019
