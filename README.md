@@ -124,7 +124,9 @@ Articles
 - [Holistic Large Scale Video Understanding](https://arxiv.org/abs/1904.11451v1)
 - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531v3)
 - [Machine learning for long-distance quantum communication](https://arxiv.org/abs/1904.10797v1)
-
+- [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925v1)
+- [Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors](https://arxiv.org/abs/1904.10997)
+- [Differentiable Pruning Method for Neural Networks](https://arxiv.org/abs/1904.10921v1)
 -------------
 
 03/2019
