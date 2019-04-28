@@ -128,6 +128,10 @@ Articles
 - [Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors](https://arxiv.org/abs/1904.10997)
 - [Differentiable Pruning Method for Neural Networks](https://arxiv.org/abs/1904.10921v1)
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675v1) [[code](https://github.com/Tiiiger/bert_score)]
+- [Out of the Box: A combined approach for handling occlusion in Human Pose Estimation](https://arxiv.org/abs/1904.11157v1)
+- [RepPoints: Point Set Representation for Object Detection](https://arxiv.org/abs/1904.11490v1)
+- [Generated Loss, Augmented Training, and Multiscale VAE](https://arxiv.org/abs/1904.10446v1)
+- [Latent Variable Algorithms for Multimodal Learning and Sensor Fusion](https://arxiv.org/abs/1904.10450v1)
 
 -------------
 
