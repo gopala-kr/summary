@@ -132,6 +132,7 @@ Articles
 - [RepPoints: Point Set Representation for Object Detection](https://arxiv.org/abs/1904.11490v1)
 - [Generated Loss, Augmented Training, and Multiscale VAE](https://arxiv.org/abs/1904.10446v1)
 - [Latent Variable Algorithms for Multimodal Learning and Sensor Fusion](https://arxiv.org/abs/1904.10450v1)
+- [Unsupervised Deep Learning by Neighbourhood Discovery](https://arxiv.org/abs/1904.11567v1)
 
 -------------
 
