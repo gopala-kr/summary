@@ -133,6 +133,29 @@ Articles
 - [Generated Loss, Augmented Training, and Multiscale VAE](https://arxiv.org/abs/1904.10446v1)
 - [Latent Variable Algorithms for Multimodal Learning and Sensor Fusion](https://arxiv.org/abs/1904.10450v1)
 - [Unsupervised Deep Learning by Neighbourhood Discovery](https://arxiv.org/abs/1904.11567v1)
+- [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848v1)
+- [HIGAN: Cosmic Neutral Hydrogen with Generative Adversarial Networks](https://arxiv.org/abs/1904.12846v1)
+- [Dynamic Demand Prediction for Expanding Electric Vehicle Sharing Systems](https://arxiv.org/abs/1903.04051v2)
+- [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/abs/1811.05577v2)
+- [Beyond Gradient Descent for Regularized Segmentation Losses](https://arxiv.org/abs/1809.02322v2)
+- [A Review of Modularization Techniques in Artificial Neural Networks](https://arxiv.org/abs/1904.12770v1)
+- [Localization, Detection and Tracking of Multiple Moving Sound Sources with a Convolutional Recurrent Neural Network](https://arxiv.org/abs/1904.12769v1)
+- [Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760v1)
+- [DAC: The Double Actor-Critic Architecture for Learning Options](https://arxiv.org/abs/1904.12691v1)
+- [Reinforcement Learning Scheduler for Vehicle-to-Vehicle Communications Outside Coverage](https://arxiv.org/abs/1904.12653v1)
+- [Adversarial Examples: Opportunities and Challenges](https://arxiv.org/abs/1809.04790v2)
+- [Provable limitations of deep learning](https://arxiv.org/abs/1812.06369v2) :star:
+- [Evaluating Recurrent Neural Network Explanations](https://arxiv.org/abs/1904.11829v2)
+- [Teaching AI, Ethics, Law and Policy](https://arxiv.org/abs/1904.12470v1)
+- [Challenges and Pitfalls of Reproducing Machine Learning Artifacts](https://arxiv.org/abs/1904.12437v1)
+- [Generating Artificial Data for Private Deep Learning](https://arxiv.org/abs/1803.03148v3)
+- [Exploring Urban Air Quality with MAPS: Mobile Air Pollution Sensing](https://arxiv.org/abs/1904.12303v1)
+- [Hierarchical Recurrent Neural Network for Video Summarization](https://arxiv.org/abs/1904.12251v1)
+- [On Exact Computation with an Infinitely Wide Neural Net](https://arxiv.org/abs/1904.11955v1) :star:
+- [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544v1)
+- [Knowing When to Stop: Evaluation and Verification of Conformity to Output-size Specifications](https://arxiv.org/abs/1904.12004v1)
+- [Wave Physics as an Analog Recurrent Neural Network](https://arxiv.org/abs/1904.12831v1)
+- [TVQA+: Spatio-Temporal Grounding for Video Question Answering](https://arxiv.org/abs/1904.11574v1)
 
 -------------
 
@@ -272,23 +295,7 @@ Articles
 - [Resilient Combination of Complementary CNN and RNN Features for Text Classification through Attention and Ensembling](https://arxiv.org/abs/1903.12157v1)
 - [Deep learning for molecular generation and optimization - a review of the state of the art](https://arxiv.org/abs/1903.04388v1)
 - [Needle in a Haystack: A Framework for Seeking Small Objects in Big Datasets](https://arxiv.org/abs/1903.10019v1)
-- [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848v1)
-- [HIGAN: Cosmic Neutral Hydrogen with Generative Adversarial Networks](https://arxiv.org/abs/1904.12846v1)
-- [Dynamic Demand Prediction for Expanding Electric Vehicle Sharing Systems](https://arxiv.org/abs/1903.04051v2)
-- [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/abs/1811.05577v2)
-- [Beyond Gradient Descent for Regularized Segmentation Losses](https://arxiv.org/abs/1809.02322v2)
-- [A Review of Modularization Techniques in Artificial Neural Networks](https://arxiv.org/abs/1904.12770v1)
-- [Localization, Detection and Tracking of Multiple Moving Sound Sources with a Convolutional Recurrent Neural Network](https://arxiv.org/abs/1904.12769v1)
-- [Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760v1)
-- [DAC: The Double Actor-Critic Architecture for Learning Options](https://arxiv.org/abs/1904.12691v1)
-- [Reinforcement Learning Scheduler for Vehicle-to-Vehicle Communications Outside Coverage](https://arxiv.org/abs/1904.12653v1)
-- [Adversarial Examples: Opportunities and Challenges](https://arxiv.org/abs/1809.04790v2)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 ----------------------------
 
