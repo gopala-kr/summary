@@ -43,6 +43,13 @@ Articles
 
 -----------------------
 
+05/2019
+
+- [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481v1.pdf) :star:
+
+
+---------------
+
 04/2019
 
 - [A Systematic Literature Review about the impact of Artificial Intelligence on Autonomous Vehicle Safety](https://arxiv.org/abs/1904.02697v1)
