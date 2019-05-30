@@ -52,10 +52,11 @@ Articles
 - [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773v1)
 - [VQVAE Unsupervised Unit Discovery and Multi-scale Code2Spec Inverter for Zerospeech Challenge 2019](https://arxiv.org/abs/1905.11449v2)
 - [Multi-Modal Graph Interaction for Multi-Graph Convolution Network in Urban Spatiotemporal Forecasting](https://arxiv.org/abs/1905.11395v1)
-- []()
-- []()
-- []()
-- []()
+- [Video-to-Video Translation for Visual Speech Synthesis](https://arxiv.org/abs/1905.12043v1)
+- [Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction](https://arxiv.org/abs/1905.08511v2)
+- [PyTorch-BigGraph: A Large-scale Graph Embedding System](https://arxiv.org/abs/1903.12287v3) :star:
+- [Trust but Verify: An Information-Theoretic Explanation for the Adversarial Fragility of Machine Learning Systems, and a General Defense against Adversarial Attacks](https://arxiv.org/abs/1905.11381v1)
+- [Provably Powerful Graph Networks](https://arxiv.org/abs/1905.11136v1)
 
 ---------------
 
