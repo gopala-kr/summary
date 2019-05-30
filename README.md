@@ -71,6 +71,18 @@ Articles
 - [Towards Neural Decompilation](https://arxiv.org/abs/1905.08325v1)
 - [Multi-Sample Dropout for Accelerated Training and Better Generalization](https://arxiv.org/abs/1905.09788v2)
 - [Discrete Flows: Invertible Generative Models of Discrete Data](https://arxiv.org/abs/1905.10347v1)
+- [Kervolutional Neural Networks](https://arxiv.org/abs/1904.03955v1)
+- [Deep Scale-spaces: Equivariance Over Scale](https://arxiv.org/abs/1905.11697v1)
+- [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197v1)
+- [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/abs/1904.12787v2)
+- [Embedding Human Knowledge in Deep Neural Network via Attention Map](https://arxiv.org/abs/1905.03540v1)
+- [The Information Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Models](https://arxiv.org/abs/1806.06514v2)
+- [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055v2) :star:
+- [Brain-mediated Transfer Learning of Convolutional Neural Networks](https://arxiv.org/abs/1905.10037v1)
+- [Evolving Rewards to Automate Reinforcement Learning](https://arxiv.org/abs/1905.07628v1)
+- [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263v4)
+- [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249v1)
+- [Magic: The Gathering is Turing Complete](https://arxiv.org/abs/1904.09828v2)
 
 ---------------
 
