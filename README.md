@@ -57,6 +57,12 @@ Articles
 - [PyTorch-BigGraph: A Large-scale Graph Embedding System](https://arxiv.org/abs/1903.12287v3) :star:
 - [Trust but Verify: An Information-Theoretic Explanation for the Adversarial Fragility of Machine Learning Systems, and a General Defense against Adversarial Attacks](https://arxiv.org/abs/1905.11381v1)
 - [Provably Powerful Graph Networks](https://arxiv.org/abs/1905.11136v1)
+- [Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network](https://arxiv.org/abs/1904.12200v1)
+- [Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265v1)
+- [Unsupervised Learning from Video with Deep Neural Embeddings](https://arxiv.org/abs/1905.11954v1)
+- [Discrete Infomax Codes for Meta-Learning](https://arxiv.org/abs/1905.11656v1)
+- [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233v1) :star:
+- []()
 
 ---------------
 
