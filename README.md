@@ -62,7 +62,15 @@ Articles
 - [Unsupervised Learning from Video with Deep Neural Embeddings](https://arxiv.org/abs/1905.11954v1)
 - [Discrete Infomax Codes for Meta-Learning](https://arxiv.org/abs/1905.11656v1)
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233v1) :star:
-- []()
+- [Neural Path Planning: Fixed Time, Near-Optimal Path Generation via Oracle Imitation](https://arxiv.org/abs/1904.11102v1)
+- [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175v2)
+- [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922v1)
+- [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604v5)
+- [Solving NP-Hard Problems on Graphs by Reinforcement Learning without Domain Knowledge](https://arxiv.org/abs/1905.11623v1)
+- [Object Discovery with a Copy-Pasting GAN](https://arxiv.org/abs/1905.11369v1)
+- [Towards Neural Decompilation](https://arxiv.org/abs/1905.08325v1)
+- [Multi-Sample Dropout for Accelerated Training and Better Generalization](https://arxiv.org/abs/1905.09788v2)
+- [Discrete Flows: Invertible Generative Models of Discrete Data](https://arxiv.org/abs/1905.10347v1)
 
 ---------------
 
