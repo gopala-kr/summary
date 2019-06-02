@@ -47,7 +47,7 @@ Articles
 
 - [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481v1.pdf) :star:
 - [Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616v1)
-- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v1)
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v1) [[EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)] :star:
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://arxiv.org/abs/1905.10006v1)
 - [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773v1)
 - [VQVAE Unsupervised Unit Discovery and Multi-scale Code2Spec Inverter for Zerospeech Challenge 2019](https://arxiv.org/abs/1905.11449v2)
