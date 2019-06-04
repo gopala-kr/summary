@@ -43,6 +43,12 @@ Articles
 
 -----------------------
 
+
+![D8C8rEWWwAAYMVU](https://pbs.twimg.com/media/D8C8rEWWwAAYMVU.jpg:large)
+
+
+------------
+
 05/2019
 
 - [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481v1.pdf) :star:
