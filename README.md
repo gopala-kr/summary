@@ -52,7 +52,7 @@ Articles
 
 - [Mesh R-CNN](https://arxiv.org/abs/1906.02739v1)
 - [Does Object Recognition Work for Everyone?](https://arxiv.org/abs/1906.02659v1)
-
+- [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243v1)
 
 
 ----------------------
@@ -102,6 +102,7 @@ Articles
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/abs/1904.12901v1)
 - [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424v1)
 - [Accelerating Proposal Generation Network for \\Fast Face Detection on Mobile Devices](https://arxiv.org/abs/1904.12094v1)
+- [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v2)
 
 ---------------
 
