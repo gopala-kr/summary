@@ -56,6 +56,8 @@ Articles
 - [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v1)
 - [Text-based Editing of Talking-head Video](https://arxiv.org/abs/1906.01524v1)
 - [A Multi-Pass GAN for Fluid Flow Super-Resolution](https://arxiv.org/abs/1906.01689v1)
+- [IoT Network Security from the Perspective of Adversarial Deep Learning](https://arxiv.org/abs/1906.00076v1)
+- [Deep learning for image segmentation-a short survey](https://arxiv.org/abs/1904.08483v2)
 
 ----------------------
 
