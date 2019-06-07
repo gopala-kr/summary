@@ -55,7 +55,7 @@ Articles
 - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243v1)
 - [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v1)
 - [Text-based Editing of Talking-head Video](https://arxiv.org/abs/1906.01524v1)
-- [Text-based Editing of Talking-head Video](https://arxiv.org/abs/1906.01524v1)
+- [A Multi-Pass GAN for Fluid Flow Super-Resolution](https://arxiv.org/abs/1906.01689v1)
 
 ----------------------
 
@@ -108,6 +108,7 @@ Articles
 - [Finding Friend and Foe in Multi-Agent Games](https://arxiv.org/abs/1906.02330v1)
 - [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899v1)
 - [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud](https://arxiv.org/abs/1905.08748v2)
+- [Examining Structure of Word Embeddings with PCA](https://arxiv.org/abs/1906.00114v1)
 
 ---------------
 
