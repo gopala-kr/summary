@@ -48,6 +48,14 @@ Articles
 
 
 ------------
+06/2019
+
+- [Mesh R-CNN](https://arxiv.org/abs/1906.02739v1)
+- [Does Object Recognition Work for Everyone?](https://arxiv.org/abs/1906.02659v1)
+
+
+
+----------------------
 
 05/2019
 
