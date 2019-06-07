@@ -53,7 +53,8 @@ Articles
 - [Mesh R-CNN](https://arxiv.org/abs/1906.02739v1)
 - [Does Object Recognition Work for Everyone?](https://arxiv.org/abs/1906.02659v1)
 - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243v1)
-
+- [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v1)
+- [Text-based Editing of Talking-head Video](https://arxiv.org/abs/1906.01524v1)
 
 ----------------------
 
@@ -105,6 +106,7 @@ Articles
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v2)
 - [Finding Friend and Foe in Multi-Agent Games](https://arxiv.org/abs/1906.02330v1)
 - [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899v1)
+
 
 ---------------
 
