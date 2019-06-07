@@ -103,6 +103,8 @@ Articles
 - [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424v1)
 - [Accelerating Proposal Generation Network for \\Fast Face Detection on Mobile Devices](https://arxiv.org/abs/1904.12094v1)
 - [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995v2)
+- [Finding Friend and Foe in Multi-Agent Games](https://arxiv.org/abs/1906.02330v1)
+- [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899v1)
 
 ---------------
 
