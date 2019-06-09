@@ -60,6 +60,10 @@ Articles
 - [Deep learning for image segmentation-a short survey](https://arxiv.org/abs/1904.08483v2)
 - [On the Realization of Compositionality in Neural Networks](https://arxiv.org/abs/1906.01634v2)
 - [Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256v1)
+- [Automated Machine Learning: State-of-The-Art and Open Challenges](https://arxiv.org/abs/1906.02287v1)
+- [Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise](https://arxiv.org/abs/1906.02355v1)
+- [Automated Machine Learning with Monte-Carlo Tree Search (Extended Version)](https://arxiv.org/abs/1906.00170v1)
+
 
 ----------------------
 
@@ -113,6 +117,9 @@ Articles
 - [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899v1)
 - [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud](https://arxiv.org/abs/1905.08748v2)
 - [Examining Structure of Word Embeddings with PCA](https://arxiv.org/abs/1906.00114v1)
+- [Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616v1)
+- [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://arxiv.org/abs/1906.00121v1)
+- [Consensus Clustering: An Embedding Perspective, Extension and Beyond](https://arxiv.org/abs/1906.00120v1)
 
 ---------------
 
