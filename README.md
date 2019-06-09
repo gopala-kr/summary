@@ -59,6 +59,7 @@ Articles
 - [IoT Network Security from the Perspective of Adversarial Deep Learning](https://arxiv.org/abs/1906.00076v1)
 - [Deep learning for image segmentation-a short survey](https://arxiv.org/abs/1904.08483v2)
 - [On the Realization of Compositionality in Neural Networks](https://arxiv.org/abs/1906.01634v2)
+- [Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256v1)
 
 ----------------------
 
