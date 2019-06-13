@@ -76,7 +76,8 @@ Articles
 - [What Kind of Language Is Hard to Language-Model?](https://arxiv.org/abs/1906.04726v1)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698v1)
 - [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423v2)
-
+- [DCEF: Deep Collaborative Encoder Framework for Unsupervised Clustering](https://arxiv.org/abs/1906.05173v1)
+- [Continual and Multi-Task Architecture Search](https://arxiv.org/abs/1906.05226v1)
 
 ----------------------
 
