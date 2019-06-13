@@ -71,6 +71,10 @@ Articles
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359v3)
 - [Monotonic Infinite Lookback Attention for Simultaneous Machine Translation](https://arxiv.org/abs/1906.05218v1)
 - [Is Deep Learning an RG Flow?](https://arxiv.org/abs/1906.05212v1)
+- [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341v1)
+- [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342v1)
+- [What Kind of Language Is Hard to Language-Model?](https://arxiv.org/abs/1906.04726v1)
+- [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698v1)
 
 ----------------------
 
