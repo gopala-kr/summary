@@ -67,7 +67,8 @@ Articles
 - [Automatic Reparameterisation of Probabilistic Programs](https://arxiv.org/abs/1906.03028v1)
 - [Modeling e-Learners' Cognitive and Metacognitive Strategy in Comparative Question Solving](https://arxiv.org/abs/1906.03074v1)
 - [Multi-modal Active Learning From Human Data: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1906.03098v1)
-
+- [KERMIT: Generative Insertion-Based Modeling for Sequences](https://arxiv.org/pdf/1906.01604v1.pdf) :star:
+- [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359v3)
 
 ----------------------
 
