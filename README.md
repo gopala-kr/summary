@@ -69,6 +69,8 @@ Articles
 - [Multi-modal Active Learning From Human Data: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1906.03098v1)
 - [KERMIT: Generative Insertion-Based Modeling for Sequences](https://arxiv.org/pdf/1906.01604v1.pdf) :star:
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359v3)
+- [Monotonic Infinite Lookback Attention for Simultaneous Machine Translation](https://arxiv.org/abs/1906.05218v1)
+- [Is Deep Learning an RG Flow?](https://arxiv.org/abs/1906.05212v1)
 
 ----------------------
 
