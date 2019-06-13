@@ -75,6 +75,8 @@ Articles
 - [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342v1)
 - [What Kind of Language Is Hard to Language-Model?](https://arxiv.org/abs/1906.04726v1)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698v1)
+- [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423v2)
+
 
 ----------------------
 
