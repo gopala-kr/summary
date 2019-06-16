@@ -86,6 +86,9 @@ Articles
 - [A Bayesian Perspective on the Deep Image Prior](https://arxiv.org/abs/1904.07457v1)
 - [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/abs/1906.05317v1)
 - [Topology-Preserving Deep Image Segmentation](https://arxiv.org/abs/1906.05404v1)
+- [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797v1)
+- [Learning from Dialogue after Deployment: Feed Yourself, Chatbot!](https://arxiv.org/abs/1901.05415v4)
+- [Is the winner really the best? A critical analysis of common research practice in biomedical image analysis competitions](https://arxiv.org/abs/1806.02051v1)
 
 ----------------------
 
