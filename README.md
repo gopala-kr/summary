@@ -79,6 +79,13 @@ Articles
 - [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423v2)
 - [DCEF: Deep Collaborative Encoder Framework for Unsupervised Clustering](https://arxiv.org/abs/1906.05173v1)
 - [Continual and Multi-Task Architecture Search](https://arxiv.org/abs/1906.05226v1)
+- [The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://arxiv.org/abs/1804.09849v2)
+- [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590v2)
+- [Jacobian Policy Optimizations](https://arxiv.org/abs/1906.05437v1)
+- [Deep Reinforcement Learning for Industrial Insertion Tasks with Visual Inputs and Natural Rewards](https://arxiv.org/abs/1906.05841v1)
+- [A Bayesian Perspective on the Deep Image Prior](https://arxiv.org/abs/1904.07457v1)
+- [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/abs/1906.05317v1)
+- [Topology-Preserving Deep Image Segmentation](https://arxiv.org/abs/1906.05404v1)
 
 ----------------------
 
@@ -135,6 +142,7 @@ Articles
 - [Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616v1)
 - [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://arxiv.org/abs/1906.00121v1)
 - [Consensus Clustering: An Embedding Perspective, Extension and Beyond](https://arxiv.org/abs/1906.00120v1)
+- [RAPID: Early Classification of Explosive Transients using Deep Learning](https://arxiv.org/abs/1904.00014v1)
 
 ---------------
 
