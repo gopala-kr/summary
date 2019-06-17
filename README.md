@@ -92,8 +92,15 @@ Articles
 - [Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256v1)
 - [A Survey on Deep Learning Architectures for Image-based Depth Reconstruction](https://arxiv.org/abs/1906.06113v1)
 - [Neural Spline Flows](https://arxiv.org/abs/1906.04032v1)
-- []()
-- []()
+- [NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language](https://arxiv.org/abs/1906.06187v1)
+- [Deep learning for molecular design - a review of the state of the art](https://arxiv.org/abs/1903.04388v3)
+- [Kernelized Capsule Networks](https://arxiv.org/abs/1906.03164v1)
+- [Unsupervised Representation Learning of DNA Sequences](https://arxiv.org/abs/1906.03087v1)
+- [Image Captioning: Transforming Objects into Words](https://arxiv.org/abs/1906.05963v1)
+- [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/1906.06310v1)
+- [Copy and Paste: A Simple But Effective Initialization Method for Black-Box Adversarial Attacks](https://arxiv.org/abs/1906.06086v1)
+- [Fast Calculation of Probabilistic Power Flow: A Model-based Deep Learning Approach](https://arxiv.org/abs/1906.06017v1)
+- [Machine Learning Approach to Earthquake Rupture Dynamics](https://arxiv.org/abs/1906.06250v1)
 
 ----------------------
 
