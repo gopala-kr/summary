@@ -89,6 +89,11 @@ Articles
 - [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797v1)
 - [Learning from Dialogue after Deployment: Feed Yourself, Chatbot!](https://arxiv.org/abs/1901.05415v4)
 - [Is the winner really the best? A critical analysis of common research practice in biomedical image analysis competitions](https://arxiv.org/abs/1806.02051v1)
+- [Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256v1)
+- [A Survey on Deep Learning Architectures for Image-based Depth Reconstruction](https://arxiv.org/abs/1906.06113v1)
+- [Neural Spline Flows](https://arxiv.org/abs/1906.04032v1)
+- []()
+- []()
 
 ----------------------
 
