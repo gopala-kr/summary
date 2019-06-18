@@ -101,6 +101,10 @@ Articles
 - [Copy and Paste: A Simple But Effective Initialization Method for Black-Box Adversarial Attacks](https://arxiv.org/abs/1906.06086v1)
 - [Fast Calculation of Probabilistic Power Flow: A Model-based Deep Learning Approach](https://arxiv.org/abs/1906.06017v1)
 - [Machine Learning Approach to Earthquake Rupture Dynamics](https://arxiv.org/abs/1906.06250v1)
+- [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/abs/1906.05909v1)
+- [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164v2)
+- [Large Scale Structure of Neural Network Loss Landscapes](https://arxiv.org/abs/1906.04724v1)
+- [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529v2) :star:
 
 ----------------------
 
