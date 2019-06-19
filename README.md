@@ -109,6 +109,9 @@ Articles
 - [Human Side of Tesla Autopilot:
 Exploration of Functional Vigilance
 in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-human-side.pdf)
+- [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/abs/1906.05909v1)
+- [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/abs/1811.10092v2)
+- [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543v2)
 
 ----------------------
 
