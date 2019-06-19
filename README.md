@@ -106,6 +106,9 @@ Articles
 - [Large Scale Structure of Neural Network Loss Landscapes](https://arxiv.org/abs/1906.04724v1)
 - [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529v2) :star:
 - [Accelerating Neural ODEs with Spectral Elements](https://arxiv.org/pdf/1906.07038.pdf)
+- [Human Side of Tesla Autopilot:
+Exploration of Functional Vigilance
+in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-human-side.pdf)
 
 ----------------------
 
