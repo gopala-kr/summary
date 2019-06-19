@@ -112,6 +112,11 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/abs/1906.05909v1)
 - [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/abs/1811.10092v2)
 - [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543v2)
+- [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://arxiv.org/abs/1906.05253v1)
+- [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/abs/1906.07155v1)
+- [Task Agnostic Continual Learning via Meta Learning](https://arxiv.org/abs/1906.05201v1)
+- [Show, Match and Segment: Joint Learning of Semantic Matching and Object Co-segmentation](https://arxiv.org/abs/1906.05857v1)
+- [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797v1)
 
 ----------------------
 
