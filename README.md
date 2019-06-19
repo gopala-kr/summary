@@ -105,6 +105,7 @@ Articles
 - [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164v2)
 - [Large Scale Structure of Neural Network Loss Landscapes](https://arxiv.org/abs/1906.04724v1)
 - [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529v2) :star:
+- [Accelerating Neural ODEs with Spectral Elements](https://arxiv.org/pdf/1906.07038.pdf)
 
 ----------------------
 
