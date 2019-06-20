@@ -117,6 +117,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Task Agnostic Continual Learning via Meta Learning](https://arxiv.org/abs/1906.05201v1)
 - [Show, Match and Segment: Joint Learning of Semantic Matching and Object Co-segmentation](https://arxiv.org/abs/1906.05857v1)
 - [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797v1)
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237v1) [[code](https://github.com/zihangdai/xlnet)] :star:
 
 ----------------------
 
