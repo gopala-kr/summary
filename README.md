@@ -125,6 +125,8 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Explaining Reinforcement Learning to Mere Mortals: An Empirical Study](https://arxiv.org/abs/1903.09708v2)
 - [EVDodge: Embodied AI For High-Speed Dodging On A Quadrotor Using Event Cameras](https://arxiv.org/abs/1906.02919v1)
 - [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329v1)
+- [Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751v1)
+- [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/abs/1906.07906v1)
 
 ----------------------
 
