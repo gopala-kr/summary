@@ -121,14 +121,10 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358v1)
 - [Model Compression by Entropy Penalized Reparameterization](https://arxiv.org/abs/1906.06624v1)
 - [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284v2)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [PyRobot: An Open-source Robotics Framework for Research and Benchmarking](https://arxiv.org/abs/1906.08236v1) :star:
+- [Explaining Reinforcement Learning to Mere Mortals: An Empirical Study](https://arxiv.org/abs/1903.09708v2)
+- [EVDodge: Embodied AI For High-Speed Dodging On A Quadrotor Using Event Cameras](https://arxiv.org/abs/1906.02919v1)
+- [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329v1)
 
 ----------------------
 
