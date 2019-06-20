@@ -118,6 +118,17 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Show, Match and Segment: Joint Learning of Semantic Matching and Object Co-segmentation](https://arxiv.org/abs/1906.05857v1)
 - [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797v1)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237v1) [[code](https://github.com/zihangdai/xlnet)] :star:
+- [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358v1)
+- [Model Compression by Entropy Penalized Reparameterization](https://arxiv.org/abs/1906.06624v1)
+- [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284v2)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ----------------------
 
