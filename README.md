@@ -129,6 +129,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/abs/1906.07906v1)
 - [Prune and Replace NAS](https://arxiv.org/pdf/1906.07528v1.pdf)
 - [The Functional Neural Process](https://arxiv.org/pdf/1906.08324v1.pdf)
+- [StoryGAN: A Sequential Conditional GAN for Story Visualization](https://arxiv.org/pdf/1812.02784v2.pdf)
 
 ----------------------
 
