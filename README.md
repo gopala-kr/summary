@@ -131,6 +131,8 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [The Functional Neural Process](https://arxiv.org/pdf/1906.08324v1.pdf)
 - [StoryGAN: A Sequential Conditional GAN for Story Visualization](https://arxiv.org/pdf/1812.02784v2.pdf)
 - [Large Scale Structure of Neural Network Loss Landscapes](https://arxiv.org/abs/1906.04724v1)
+- [Coupled Graph Neural Networks for Predicting the Popularity of Online Content](https://arxiv.org/abs/1906.09032v1)
+- [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://arxiv.org/abs/1905.07870v4)
 
 ----------------------
 
