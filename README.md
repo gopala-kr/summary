@@ -133,6 +133,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Large Scale Structure of Neural Network Loss Landscapes](https://arxiv.org/abs/1906.04724v1)
 - [Coupled Graph Neural Networks for Predicting the Popularity of Online Content](https://arxiv.org/abs/1906.09032v1)
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://arxiv.org/abs/1905.07870v4)
+- [Meta-learning of textual representations](https://arxiv.org/pdf/1906.08934v1.pdf)
 
 ----------------------
 
