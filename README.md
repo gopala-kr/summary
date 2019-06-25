@@ -134,6 +134,8 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Coupled Graph Neural Networks for Predicting the Popularity of Online Content](https://arxiv.org/abs/1906.09032v1)
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://arxiv.org/abs/1905.07870v4)
 - [Meta-learning of textual representations](https://arxiv.org/pdf/1906.08934v1.pdf)
+- [Deep Set Prediction Networks](https://arxiv.org/abs/1906.06565v1)
+- [Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1906.10025v1)
 
 ----------------------
 
