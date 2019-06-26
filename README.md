@@ -136,6 +136,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Meta-learning of textual representations](https://arxiv.org/pdf/1906.08934v1.pdf)
 - [Deep Set Prediction Networks](https://arxiv.org/abs/1906.06565v1)
 - [Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1906.10025v1)
+- [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/pdf/1906.10155v1.pdf)
 
 ----------------------
 
