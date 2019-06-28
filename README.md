@@ -139,6 +139,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/pdf/1906.10155v1.pdf)
 - [ORRB -- OpenAI Remote Rendering Backend](https://arxiv.org/abs/1906.11633v1)
 - [Inducing Syntactic Trees from BERT Representations](https://arxiv.org/abs/1906.11511v1)
+- [We Need No Pixels: Video Manipulation Detection Using Stream Descriptors](https://arxiv.org/abs/1906.08743v1)
 
 ----------------------
 
