@@ -137,6 +137,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Deep Set Prediction Networks](https://arxiv.org/abs/1906.06565v1)
 - [Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1906.10025v1)
 - [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/pdf/1906.10155v1.pdf)
+- [ORRB -- OpenAI Remote Rendering Backend](https://arxiv.org/abs/1906.11633v1)
 
 ----------------------
 
