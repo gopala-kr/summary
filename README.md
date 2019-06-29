@@ -313,6 +313,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [Knowing When to Stop: Evaluation and Verification of Conformity to Output-size Specifications](https://arxiv.org/abs/1904.12004v1)
 - [Wave Physics as an Analog Recurrent Neural Network](https://arxiv.org/abs/1904.12831v1)
 - [TVQA+: Spatio-Temporal Grounding for Video Question Answering](https://arxiv.org/abs/1904.11574v1)
+- [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766v1)
 
 -------------
 
