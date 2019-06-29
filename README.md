@@ -140,6 +140,8 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [ORRB -- OpenAI Remote Rendering Backend](https://arxiv.org/abs/1906.11633v1)
 - [Inducing Syntactic Trees from BERT Representations](https://arxiv.org/abs/1906.11511v1)
 - [We Need No Pixels: Video Manipulation Detection Using Stream Descriptors](https://arxiv.org/abs/1906.08743v1)
+- [End-to-End Visual Speech Recognition for Small-Scale Datasets](https://arxiv.org/abs/1904.01954v3)
+- [Eliciting Knowledge from Experts:Automatic Transcript Parsing for Cognitive Task Analysis](https://arxiv.org/abs/1906.11384v1)
 
 ----------------------
 
