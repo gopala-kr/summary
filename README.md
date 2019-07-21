@@ -48,6 +48,45 @@ Articles
 
 
 ------------
+
+07/2019
+
+- [Deep Learning for Spacecraft Pose Estimation from Photorealistic Rendering](https://arxiv.org/abs/1907.04298v1)
+- [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265v1)
+- [SVGD: A Virtual Gradients Descent Method for Stochastic Optimization](https://arxiv.org/pdf/1907.04021v1.pdf)
+- [A Review of Deep Learning with Special Emphasis on Architectures, Applications and Recent Trends](https://arxiv.org/pdf/1905.13294v3.pdf)
+- [Large Memory Layers with Product Keys](https://arxiv.org/pdf/1907.05242v1.pdf) :star:
+- [Large Scale Adversarial Representation Learning](https://arxiv.org/pdf/1907.02544v1.pdf)
+- [Regularizing Neural Networks for Future Trajectory Prediction via Inverse Reinforcement Learning](https://arxiv.org/pdf/1907.04525v1.pdf)
+- [Out-of-Distribution Detection Using Neural Rendering Generative Models](https://arxiv.org/pdf/1907.04572v1.pdf)
+- [City-GAN: Learning architectural styles using a custom Conditional GAN architecture](https://arxiv.org/pdf/1907.05280v1.pdf)
+- [Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds](https://arxiv.org/pdf/1907.05279v1.pdf)
+- [Listen, Attend, Spell and Adapt: Speaker Adapted Sequence-to-Sequence ASR](https://arxiv.org/pdf/1907.04916v1.pdf)
+- [A Review of Machine Learning Applications in Fuzzing](https://arxiv.org/pdf/1906.11133v1.pdf)
+- [GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/pdf/1902.09506v3.pdf)
+- [Machine Learning Kernel Method from a Quantum Generative Model](https://arxiv.org/pdf/1907.05103v1.pdf)
+- [A Neural Architecture for Designing Truthful and Efficient Auctions](https://arxiv.org/pdf/1907.05181v1.pdf)
+- [Fast geodesic shooting for landmark matching using CUDA](https://arxiv.org/ftp/arxiv/papers/1907/1907.04839.pdf)
+- [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534v1.pdf)
+- [PreCall: A Visual Interface for Threshold Optimization in ML Model Selection](https://arxiv.org/abs/1907.05131v1)
+- [Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges](https://arxiv.org/abs/1907.05019v1)
+- [Playing Go without Game Tree Search Using Convolutional Neural Networks](https://arxiv.org/abs/1907.04658v1)
+- [Incrementalizing RASA's Open-Source Natural Language Understanding Pipeline](https://arxiv.org/abs/1907.05403v1)
+- [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047v1)
+- [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/pdf/1907.05012v1.pdf)
+- [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
+- [What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374v1)
+- [Efficient Video Generation on Complex Datasets](https://arxiv.org/abs/1907.06571v1)
+- [NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/pdf/1907.05559v1.pdf)
+- [Artificial Intelligence as a Services (AI-aaS) on Software-Defined Infrastructure](https://arxiv.org/abs/1907.05505v1)
+- [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740v1)
+- [Task Selection Policies for Multitask Learning](https://arxiv.org/abs/1907.06214v1)
+- [Microsoft Translator at WMT 2019: Towards Large-Scale Document-Level Neural Machine Translation](https://arxiv.org/abs/1907.06170v1)
+- [A Neural Turing~Machine for Conditional Transition Graph Modeling](https://arxiv.org/abs/1907.06432v1)
+- [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587v2)
+
+-------------
+
 06/2019
 
 - [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf) :star:
