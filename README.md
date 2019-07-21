@@ -84,6 +84,10 @@ Articles
 - [Microsoft Translator at WMT 2019: Towards Large-Scale Document-Level Neural Machine Translation](https://arxiv.org/abs/1907.06170v1)
 - [A Neural Turing~Machine for Conditional Transition Graph Modeling](https://arxiv.org/abs/1907.06432v1)
 - [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587v2)
+- [OCC: A Smart Reply System for Efficient In-App Communications](https://arxiv.org/abs/1907.08167v1)
+- [A Survey of Data Quality Measurement and Monitoring Tools](https://arxiv.org/abs/1907.08138v1)
+- [User-Interactive Machine Learning Model for Identifying Structural Relationships of Code Features](https://arxiv.org/abs/1907.07679v1)
+- [ELG: An Event Logic Graph](https://arxiv.org/abs/1907.08015v1)
 
 -------------
 
