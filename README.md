@@ -88,6 +88,8 @@ Articles
 - [A Survey of Data Quality Measurement and Monitoring Tools](https://arxiv.org/abs/1907.08138v1)
 - [User-Interactive Machine Learning Model for Identifying Structural Relationships of Code Features](https://arxiv.org/abs/1907.07679v1)
 - [ELG: An Event Logic Graph](https://arxiv.org/abs/1907.08015v1)
+- [CraftAssist: A Framework for Dialogue-enabled Interactive Agents](https://arxiv.org/abs/1907.08584v1)
+- [HAKE: Human Activity Knowledge Engine](https://arxiv.org/abs/1904.06539v3)
 
 -------------
 
