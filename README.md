@@ -94,6 +94,10 @@ Articles
 - [Beyond Imitation: Generative and Variational Choreography via Machine Learning](https://arxiv.org/abs/1907.05297v1)
 - [HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/abs/1906.03327v1) :star:
 - [Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors](https://arxiv.org/abs/1907.09691v1)
+- [Compositional Deep Learning](https://arxiv.org/abs/1907.08292v1)
+- [SentiMATE: Learning to play Chess through Natural Language Processing](https://arxiv.org/abs/1907.08321v2)
+- [Convolutional Reservoir Computing for World Models](https://arxiv.org/abs/1907.08040v1)
+- [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902v1)
 
 -------------
 
