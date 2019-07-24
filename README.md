@@ -90,6 +90,10 @@ Articles
 - [ELG: An Event Logic Graph](https://arxiv.org/abs/1907.08015v1)
 - [CraftAssist: A Framework for Dialogue-enabled Interactive Agents](https://arxiv.org/abs/1907.08584v1)
 - [HAKE: Human Activity Knowledge Engine](https://arxiv.org/abs/1904.06539v3)
+- [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355v1)
+- [Beyond Imitation: Generative and Variational Choreography via Machine Learning](https://arxiv.org/abs/1907.05297v1)
+- [HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/abs/1906.03327v1) :star:
+- [Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors](https://arxiv.org/abs/1907.09691v1)
 
 -------------
 
