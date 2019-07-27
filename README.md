@@ -195,6 +195,7 @@ in Real-World Human-Machine Collaboration](https://hcai.mit.edu/tesla-autopilot-
 - [We Need No Pixels: Video Manipulation Detection Using Stream Descriptors](https://arxiv.org/abs/1906.08743v1)
 - [End-to-End Visual Speech Recognition for Small-Scale Datasets](https://arxiv.org/abs/1904.01954v3)
 - [Eliciting Knowledge from Experts:Automatic Transcript Parsing for Cognitive Task Analysis](https://arxiv.org/abs/1906.11384v1)
+- [A Power Efficient Artificial Neuron Using Superconducting Nanowires](https://arxiv.org/ftp/arxiv/papers/1907/1907.00263.pdf) :star:
 
 ----------------------
 
