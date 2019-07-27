@@ -98,6 +98,7 @@ Articles
 - [SentiMATE: Learning to play Chess through Natural Language Processing](https://arxiv.org/abs/1907.08321v2)
 - [Convolutional Reservoir Computing for World Models](https://arxiv.org/abs/1907.08040v1)
 - [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902v1)
+- [SlugBot: Developing a Computational Model andFramework of a Novel Dialogue Genre](https://arxiv.org/abs/1907.10658v1)
 
 -------------
 
