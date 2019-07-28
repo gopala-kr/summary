@@ -102,6 +102,8 @@ Articles
 - [Optuna: A Next-generation Hyperparameter Optimization Framework](https://arxiv.org/abs/1907.10902v1) :star:
 - [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773v1)
 - [Semi-parametric Object Synthesis](https://arxiv.org/abs/1907.10634v1)
+- [INS: An Interactive Chinese News Synthesis System](https://arxiv.org/pdf/1907.10781v1.pdf)
+- [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf) :star:
 
 -------------
 
