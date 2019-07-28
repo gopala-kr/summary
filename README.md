@@ -101,6 +101,7 @@ Articles
 - [SlugBot: Developing a Computational Model andFramework of a Novel Dialogue Genre](https://arxiv.org/abs/1907.10658v1)
 - [Optuna: A Next-generation Hyperparameter Optimization Framework](https://arxiv.org/abs/1907.10902v1) :star:
 - [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773v1)
+- [Semi-parametric Object Synthesis](https://arxiv.org/abs/1907.10634v1)
 
 -------------
 
