@@ -51,6 +51,7 @@ Articles
 
 07/2019
 
+- [How Did Humans Become So Creative? A Computational Approach](https://arxiv.org/abs/1308.5032v4) :star:
 - [Deep Learning for Spacecraft Pose Estimation from Photorealistic Rendering](https://arxiv.org/abs/1907.04298v1)
 - [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265v1)
 - [SVGD: A Virtual Gradients Descent Method for Stochastic Optimization](https://arxiv.org/pdf/1907.04021v1.pdf)
