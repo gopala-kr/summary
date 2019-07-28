@@ -104,6 +104,11 @@ Articles
 - [Semi-parametric Object Synthesis](https://arxiv.org/abs/1907.10634v1)
 - [INS: An Interactive Chinese News Synthesis System](https://arxiv.org/pdf/1907.10781v1.pdf)
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf) :star:
+- [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/pdf/1905.10985v1.pdf)
+- [U4D: Unsupervised 4D Dynamic Scene Understanding](https://arxiv.org/pdf/1907.09905v1.pdf)
+- [How to Manipulate CNNs to Make Them Lie: the GradCAM Case](https://arxiv.org/abs/1907.10901v1)
+- [SlimYOLOv3: Narrower, Faster and Better for Real-Time UAV Applications](https://arxiv.org/abs/1907.11093v1)
+- [Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo](https://arxiv.org/abs/1710.10967v3)
 
 -------------
 
