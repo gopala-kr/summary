@@ -100,6 +100,7 @@ Articles
 - [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902v1)
 - [SlugBot: Developing a Computational Model andFramework of a Novel Dialogue Genre](https://arxiv.org/abs/1907.10658v1)
 - [Optuna: A Next-generation Hyperparameter Optimization Framework](https://arxiv.org/abs/1907.10902v1) :star:
+- [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773v1)
 
 -------------
 
