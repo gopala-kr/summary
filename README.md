@@ -110,6 +110,7 @@ Articles
 - [How to Manipulate CNNs to Make Them Lie: the GradCAM Case](https://arxiv.org/abs/1907.10901v1)
 - [SlimYOLOv3: Narrower, Faster and Better for Real-Time UAV Applications](https://arxiv.org/abs/1907.11093v1)
 - [Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo](https://arxiv.org/abs/1710.10967v3)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692v1)
 
 -------------
 
