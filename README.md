@@ -111,6 +111,7 @@ Articles
 - [SlimYOLOv3: Narrower, Faster and Better for Real-Time UAV Applications](https://arxiv.org/abs/1907.11093v1)
 - [Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo](https://arxiv.org/abs/1710.10967v3)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692v1)
+- [Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701v1.pdf)
 
 -------------
 
