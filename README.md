@@ -115,6 +115,7 @@ Articles
 - [Towards AutoML in the presence of Drift: first results](https://arxiv.org/pdf/1907.10772v1.pdf)
 - [RNNbow: Visualizing Learning via Backpropagation Gradients in Recurrent Neural Networks](https://arxiv.org/pdf/1907.12545v1.pdf)
 - [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding](https://arxiv.org/pdf/1907.12412v1.pdf)
+- [Deep Reinforcement Learning for Personalized Search Story Recommendation](https://arxiv.org/abs/1907.11754v1)
 
 -------------
 
