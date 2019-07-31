@@ -116,6 +116,7 @@ Articles
 - [RNNbow: Visualizing Learning via Backpropagation Gradients in Recurrent Neural Networks](https://arxiv.org/pdf/1907.12545v1.pdf)
 - [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding](https://arxiv.org/pdf/1907.12412v1.pdf)
 - [Deep Reinforcement Learning for Personalized Search Story Recommendation](https://arxiv.org/abs/1907.11754v1)
+- [FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation](https://arxiv.org/abs/1907.12347v1)
 
 -------------
 
