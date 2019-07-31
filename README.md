@@ -118,6 +118,7 @@ Articles
 - [Deep Reinforcement Learning for Personalized Search Story Recommendation](https://arxiv.org/abs/1907.11754v1)
 - [FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation](https://arxiv.org/abs/1907.12347v1)
 - [Towards meta-learning for multi-target regression problems](https://arxiv.org/abs/1907.11277v1)
+- [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854v1.pdf)
 
 -------------
 
