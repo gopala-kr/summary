@@ -16,3 +16,8 @@ Quantum AI: Aug 2019 to Jan 2020
 - [Deep reinforcement learning for complex evaluation of one-loop diagrams in quantum field theory](https://arxiv.org/abs/1912.12322v1)
 - [Quantum Logic Gate Synthesis as a Markov Decision Process](https://arxiv.org/abs/1912.12002v1)
 - [Quantum Natural Gradient](https://arxiv.org/abs/1909.02108v2)
+- [Demonstration of Topological Data Analysis on a Quantum Processor](https://arxiv.org/abs/1801.06316v2)
+- [Variational Quantum Circuits for Quantum State Tomography](https://arxiv.org/abs/1912.07286v1)
+- [Optimizing Quantum Error Correction Codes with Reinforcement Learning](https://arxiv.org/abs/1812.08451v4)
+- [Learning Non-Markovian Quantum Noise from Moiré-Enhanced Swap Spectroscopy with Deep Evolutionary Algorithm](https://arxiv.org/abs/1912.04368v1)
+- [Online Learning of Quantum States](https://arxiv.org/abs/1802.09025v3)
