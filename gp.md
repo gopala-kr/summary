@@ -343,3 +343,7 @@ Tools
 - [Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063v1)
 - [Spiking Inception Module for Multi-layer Unsupervised Spiking Neural Networks](https://arxiv.org/abs/2001.10696v1)
 - [A quantum dynamic belief decision making model](https://arxiv.org/abs/1703.02386v1)
+- [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756v2)
+- [CSNNs: Unsupervised, Backpropagation-free Convolutional Neural Networks for Representation Learning](https://arxiv.org/abs/2001.10388v2)
+- [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807v3)
+- [Canadian Adverse Driving Conditions Dataset](https://arxiv.org/abs/2001.10117v1)
