@@ -26,7 +26,7 @@ April - 2020
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660v1)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093v1)
 
-----------
+
 ------------------
 March -2020
 
@@ -143,3 +143,22 @@ March -2020
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384v1) :star:
 - [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks](https://arxiv.org/abs/2003.13720v1) :star:
 - [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350v1)
+--------------
+Feb -2020
+
+- [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/abs/2002.06177v2) :star:
+- [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585v1) :star:
+- [FiniteNet: A Fully Convolutional LSTM Network Architecture for Time-Dependent Partial Differential Equations](https://arxiv.org/abs/2002.03014v1)
+- [Replacing Mobile Camera ISP with a Single Deep Learning Model](https://arxiv.org/abs/2002.05509v1)
+- [Up to two billion times acceleration of scientific simulations with deep neural architecture search](https://arxiv.org/abs/2001.08055v1) :star:
+- [Deep Verifier Networks: Verification of Deep Discriminative Models with Deep Generative Models](https://arxiv.org/abs/1911.07421v2)
+- [HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771v4)
+- [Neural MMO v1.3: A Massively Multiagent Game Environment for Training and Evaluating Neural Networks](https://arxiv.org/abs/2001.12004v1)
+- [Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680v1)
+- [BAS: An Answer Selection Method Using BERT Language Model](https://arxiv.org/abs/1911.01528v3)
+- [A deep-learning view of chemical space designed to facilitate drug discovery](https://arxiv.org/abs/2002.02948v1)
+- [Learning to Switch Between Machines and Humans](https://arxiv.org/abs/2002.04258v1)
+- [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://arxiv.org/abs/2002.05700v1)
+- [Cutting out the Middle-Man: Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616v1)
+- [Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820v1)
+- [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453v4) :star:
