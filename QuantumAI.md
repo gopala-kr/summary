@@ -61,3 +61,8 @@ Quantum AI: Aug 2019 to Jan 2020
 - [K-Means Clustering on Noisy Intermediate Scale Quantum Computers](https://arxiv.org/abs/1909.12183v1)
 - [Support Vector Machines on Noisy Intermediate Scale Quantum Computers](https://arxiv.org/abs/1909.11988v1)
 - [Quantum Inflation: A General Approach to Quantum Causal Compatibility](https://arxiv.org/abs/1909.10519v1)
+- [An Investigation of Quantum Deep Clustering Framework with Quantum Deep SVM & Convolutional Neural Network Feature Extractor](https://arxiv.org/abs/1909.09852v1)
+- [Quantum Unsupervised and Supervised Learning on Superconducting Processors](https://arxiv.org/abs/1909.04226v1)
+- [A Quantum Search Decoder for Natural Language Processing](https://arxiv.org/abs/1909.05023v1)
+- [Quantum Machine Learning Tensor Network States](https://arxiv.org/abs/1804.02398v2)
+- [Learning Algebraic Models of Quantum Entanglement](https://arxiv.org/abs/1908.10247v1)
