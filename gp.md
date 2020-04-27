@@ -347,3 +347,7 @@ Tools
 - [CSNNs: Unsupervised, Backpropagation-free Convolutional Neural Networks for Representation Learning](https://arxiv.org/abs/2001.10388v2)
 - [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807v3)
 - [Canadian Adverse Driving Conditions Dataset](https://arxiv.org/abs/2001.10117v1)
+- [Leveraging Schema Labels to Enhance Dataset Search](https://arxiv.org/abs/2001.10112v1)
+- [ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes](https://arxiv.org/abs/2001.10692v1)
+- [A Review on Object Pose Recovery: from 3D Bounding Box Detectors to Full 6D Pose Estimators](https://arxiv.org/abs/2001.10609v1)
+- [A Proof of Useful Work for Artificial Intelligence on the Blockchain](https://arxiv.org/abs/2001.09244v1)
