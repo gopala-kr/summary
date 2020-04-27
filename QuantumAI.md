@@ -21,3 +21,8 @@ Quantum AI: Aug 2019 to Jan 2020
 - [Optimizing Quantum Error Correction Codes with Reinforcement Learning](https://arxiv.org/abs/1812.08451v4)
 - [Learning Non-Markovian Quantum Noise from Moiré-Enhanced Swap Spectroscopy with Deep Evolutionary Algorithm](https://arxiv.org/abs/1912.04368v1)
 - [Online Learning of Quantum States](https://arxiv.org/abs/1802.09025v3)
+- [A quantum active learning algorithm for sampling against adversarial attacks](https://arxiv.org/abs/1912.03283v1)
+- [A Path Towards Quantum Advantage in Training Deep Generative Models with Quantum Annealers](https://arxiv.org/abs/1912.02119v1)
+- [Expressiveness and Learning of Hidden Quantum Markov Models](https://arxiv.org/abs/1912.02098v1)
+- [Quantum Computation with Machine-Learning-Controlled Quantum Stuff](https://arxiv.org/abs/1911.13282v1)
+- [Expressive power of tensor-network factorizations for probabilistic modeling, with applications from hidden Markov models to quantum machine learning](https://arxiv.org/abs/1907.03741v2)
