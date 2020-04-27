@@ -66,3 +66,8 @@ Quantum AI: Aug 2019 to Jan 2020
 - [A Quantum Search Decoder for Natural Language Processing](https://arxiv.org/abs/1909.05023v1)
 - [Quantum Machine Learning Tensor Network States](https://arxiv.org/abs/1804.02398v2)
 - [Learning Algebraic Models of Quantum Entanglement](https://arxiv.org/abs/1908.10247v1)
+- [Implications of Quantum Computing for Artificial Intelligence alignment research](https://arxiv.org/abs/1908.07613v3)
+- [Quantum algorithms for Second-Order Cone Programming and Support Vector Machines](https://arxiv.org/abs/1908.06720v2)
+- [Variational Quantum Circuits for Deep Reinforcement Learning ](https://arxiv.org/abs/1907.00397v2)
+- [Quantum adiabatic machine learning with zooming](https://arxiv.org/abs/1908.04480v1)
+- [Optimizing quantum heuristics with meta-learning](https://arxiv.org/abs/1908.03185v1)
