@@ -326,3 +326,8 @@ Tools
 - [Why Does My Model Fail? Contrastive Local Explanations for Retail Forecasting](https://arxiv.org/abs/1908.00085v2)
 - [Systematic Review of Approaches to Improve Peer Assessment at Scale](https://arxiv.org/abs/2001.10617v1)
 - [ManiGAN: Text-Guided Image Manipulation](https://arxiv.org/abs/1912.06203v1)
+- [Sideways: Depth-Parallel Training of Video Models](https://arxiv.org/abs/2001.06232v1)
+- [A Survey of Reinforcement Learning Informed by Natural Language](https://arxiv.org/abs/1906.03926v1)
+- [Multi-label Prediction in Time Series Data using Deep Neural Networks](https://arxiv.org/abs/2001.10098v1)
+- [CvxNets: Learnable Convex Decomposition](https://arxiv.org/abs/1909.05736v2)
+- [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243v1)
