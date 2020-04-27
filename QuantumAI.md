@@ -71,3 +71,10 @@ Quantum AI: Aug 2019 to Jan 2020
 - [Variational Quantum Circuits for Deep Reinforcement Learning ](https://arxiv.org/abs/1907.00397v2)
 - [Quantum adiabatic machine learning with zooming](https://arxiv.org/abs/1908.04480v1)
 - [Optimizing quantum heuristics with meta-learning](https://arxiv.org/abs/1908.03185v1)
+- [Quantum-enhanced least-square support vector machine: simplified quantum algorithm and sparse solutions](https://arxiv.org/abs/1908.01462v1)
+- [An Artificial Spiking Quantum Neuron](https://arxiv.org/abs/1907.06269v1)
+- [Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective](https://arxiv.org/abs/1906.11081v1)
+- [A Story of Two Streams: Reinforcement Learning Models from Human Behavior and Neuropsychiatry](https://arxiv.org/abs/1906.11286v5)
+- [Event-based Vision: A Survey](https://arxiv.org/abs/1904.08405v2)
+
+----------------------
