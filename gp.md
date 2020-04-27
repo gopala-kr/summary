@@ -351,3 +351,7 @@ Tools
 - [ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes](https://arxiv.org/abs/2001.10692v1)
 - [A Review on Object Pose Recovery: from 3D Bounding Box Detectors to Full 6D Pose Estimators](https://arxiv.org/abs/2001.10609v1)
 - [A Proof of Useful Work for Artificial Intelligence on the Blockchain](https://arxiv.org/abs/2001.09244v1)
+- [Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case](https://arxiv.org/abs/2001.08317v1)
+- [Feeling Anxious? Perceiving Anxiety in Tweets using Machine Learning](https://arxiv.org/abs/1909.06959v1)
+- [SRINet: Learning Strictly Rotation-Invariant Representations for Point Cloud Classification and Segmentation](https://arxiv.org/abs/1911.02163v1)
+- [Facebook Ads Monitor: An Independent Auditing System for Political Ads on Facebook](https://arxiv.org/abs/2001.10581v1)
