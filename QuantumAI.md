@@ -54,3 +54,10 @@ Quantum AI: Aug 2019 to Jan 2020
 - [Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning](https://arxiv.org/abs/1910.06151v1)
 - [On the Effects of Pseudo and Quantum Random Number Generators in Soft Computing](https://arxiv.org/abs/1910.04701v1)
 - [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682v2)
+- [Quantum Structure in Cognition: Human Language as a Boson Gas of Entangled Words](https://arxiv.org/abs/1909.06845v2) :star:
+- [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071v1)
+- [Programming multi-level quantum gates in disordered computing reservoirs via machine learning and TensorFlow](https://arxiv.org/abs/1905.05264v3)
+- [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264v1)
+- [K-Means Clustering on Noisy Intermediate Scale Quantum Computers](https://arxiv.org/abs/1909.12183v1)
+- [Support Vector Machines on Noisy Intermediate Scale Quantum Computers](https://arxiv.org/abs/1909.11988v1)
+- [Quantum Inflation: A General Approach to Quantum Causal Compatibility](https://arxiv.org/abs/1909.10519v1)
