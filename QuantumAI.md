@@ -49,3 +49,8 @@ Quantum AI: Aug 2019 to Jan 2020
 - [Variational Quantum Algorithms for Dimensionality Reduction and Classification](https://arxiv.org/abs/1910.12164v1)
 - [On the geometry of learning neural quantum states](https://arxiv.org/abs/1910.11163v1)
 - [Deep Reinforcement Learning Control of Quantum Cartpoles](https://arxiv.org/abs/1910.09200v2 )
+- [A simple approach to design quantum neural networks and its applications to kernel-learning methods](https://arxiv.org/abs/1910.08798v1)
+- [Modeling Sequences with Quantum States: A Look Under the Hood](https://arxiv.org/abs/1910.07425v1)
+- [Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning](https://arxiv.org/abs/1910.06151v1)
+- [On the Effects of Pseudo and Quantum Random Number Generators in Soft Computing](https://arxiv.org/abs/1910.04701v1)
+- [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682v2)
