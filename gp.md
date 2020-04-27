@@ -313,3 +313,16 @@ Survey
 - [TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/abs/2002.12620v1)
 - [MNN: A Universal and Efficient Inference Engine](https://arxiv.org/abs/2002.12418v1)
 - [Optimizing Memory-Access Patterns for Deep Learning Accelerators](https://arxiv.org/abs/2002.12798v1)
+--------------------
+
+Tools
+
+- [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977v1)
+- [Asymptotic Bayesian Generalization Error in Topic Model and Stochastic Matrix Factorization](https://arxiv.org/abs/1709.04212v7)
+- [ABCTracker: an easy-to-use, cloud-based application for tracking multiple objects](https://arxiv.org/abs/2001.10072v2)
+- [Facial Landmark Detection for Manga Images](https://arxiv.org/abs/1811.03214v1)
+- [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451v1)
+- [Extraction and Analysis of Fictional Character Networks: A Survey](https://arxiv.org/abs/1907.02704v2)
+- [Why Does My Model Fail? Contrastive Local Explanations for Retail Forecasting](https://arxiv.org/abs/1908.00085v2)
+- [Systematic Review of Approaches to Improve Peer Assessment at Scale](https://arxiv.org/abs/2001.10617v1)
+- [ManiGAN: Text-Guided Image Manipulation](https://arxiv.org/abs/1912.06203v1)
