@@ -2,3 +2,17 @@
 Quantum AI: Aug 2019 to Jan 2020
 
 - [Temporal Information Processing on Noisy Quantum Computers](https://arxiv.org/abs/2001.09498v1)
+- [Integration and Evaluation of Quantum Accelerators for Data-Driven User Functions](https://arxiv.org/abs/1912.06032v2)
+- [A Domain-agnostic, Noise-resistant, Hardware-efficient Evolutionary Variational Quantum Eigensolver](https://arxiv.org/abs/1910.09694v4)
+- [Reinforcement-learning-based architecture for automated quantum adiabatic algorithm design](https://arxiv.org/abs/1812.10797v2)
+- [Quantum and Classical Algorithms for Approximate Submodular Function Minimization](https://arxiv.org/abs/1907.05378v2)
+- [Machine learning enables completely automatic tuning of a quantum device faster than human experts](https://arxiv.org/abs/2001.02589v1)
+- [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843v2)
+- [Quantum Machine Learning Algorithm for Knowledge Graphs](https://arxiv.org/abs/2001.01077v1)
+- [Quantum Interference for Counting Clusters](https://arxiv.org/abs/2001.04251v1)
+- [Reinforcement Quantum Annealing: A Quantum-Assisted Learning Automata Approach](https://arxiv.org/abs/2001.00234v1)
+- [Quantum Adversarial Machine Learning](https://arxiv.org/abs/2001.00030v1)
+- [QDNN: DNN with Quantum Neural Network Layers](https://arxiv.org/abs/1912.12660v1)
+- [Deep reinforcement learning for complex evaluation of one-loop diagrams in quantum field theory](https://arxiv.org/abs/1912.12322v1)
+- [Quantum Logic Gate Synthesis as a Markov Decision Process](https://arxiv.org/abs/1912.12002v1)
+- [Quantum Natural Gradient](https://arxiv.org/abs/1909.02108v2)
