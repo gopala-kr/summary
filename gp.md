@@ -338,3 +338,8 @@ Tools
 - [A Gentle Introduction to Deep Learning for Graphs](https://arxiv.org/abs/1912.12693v1)
 - [FsNet: Feature Selection Network on High-dimensional Biological Data](https://arxiv.org/abs/2001.08322v1)
 - [Unsupervised Program Synthesis for Images using Tree-Structured LSTM](https://arxiv.org/abs/2001.10119v1)
+- [BERTje: A Dutch BERT Model](https://arxiv.org/abs/1912.09582v1)
+- [Landmark2Vec: An Unsupervised Neural Network-Based Landmark Positioning Method](https://arxiv.org/abs/2001.10568v1)
+- [Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063v1)
+- [Spiking Inception Module for Multi-layer Unsupervised Spiking Neural Networks](https://arxiv.org/abs/2001.10696v1)
+- [A quantum dynamic belief decision making model](https://arxiv.org/abs/1703.02386v1)
