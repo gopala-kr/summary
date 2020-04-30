@@ -77,5 +77,13 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Using light to encrypt communications](https://phys.org/news/2019-12-encrypt.html)
 - ['The Demon in the Machine' is named physics book of the year in UK](https://phys.org/news/2019-12-demon-machine-physics-year-uk.html)
 - [Novel PPPL invention could improve the efficiency of car and truck engines while reducing pollutants](https://phys.org/news/2019-12-pppl-efficiency-car-truck-pollutants.html)
+- [Researchers crack Newton's elusive three-body problem](https://phys.org/news/2019-12-newton-elusive-three-body-problem.html)
+- [Short story collection to entangle readers in the quantum world](https://phys.org/news/2019-12-short-story-entangle-readers-quantum.html)
+- [Camouflage made of quantum material could hide you from infrared cameras](https://phys.org/news/2019-12-camouflage-quantum-material-infrared-cameras.html)
+- [How to use entanglement for long-distance or free-space quantum communication](https://phys.org/news/2019-12-entanglement-long-distance-free-space-quantum.html)
+- [Physicist proposes a new approach in modeling the evolution of the universe](https://phys.org/news/2019-12-physicist-approach-evolution-universe.html)
+- [Is there dark matter at the center of the Milky Way?](https://phys.org/news/2019-12-dark-center-milky.html)
+- [New technology improves gravitational wave detectors by cutting quantum noise](https://phys.org/news/2019-12-technology-gravitational-detectors-quantum-noise.html)
+
 
 ------------------
