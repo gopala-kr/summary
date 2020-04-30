@@ -70,5 +70,12 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Rewriting quantum mechanics in their spare time](https://phys.org/news/2019-12-rewriting-quantum-mechanics.html)
 - [Radiophysicists study the properties of composites for 5G devices](https://phys.org/news/2019-12-radiophysicists-properties-composites-5g-devices.html)
 - [In leap for quantum computing, silicon quantum bits establish a long-distance relationship](https://phys.org/news/2019-12-quantum-silicon-bits-long-distance-relationship.html)
+- [First chip-to-chip quantum teleportation harnessing silicon photonic chip fabrication](https://phys.org/news/2019-12-chip-to-chip-quantum-teleportation-harnessing-silicon.html)
+- [MATRIEX imaging: Simultaneously seeing neurons in action in multiple regions of the brain](https://phys.org/news/2019-12-matriex-imaging-simultaneously-neurons-action.html)
+- [Lasers learn to accurately spot space junk](https://phys.org/news/2019-12-lasers-accurately-space-junk.html)
+- [Powder, not gas: A safer, more effective way to create a star on Earth](https://phys.org/news/2019-12-powder-gas-safer-effective-star.html)
+- [Using light to encrypt communications](https://phys.org/news/2019-12-encrypt.html)
+- ['The Demon in the Machine' is named physics book of the year in UK](https://phys.org/news/2019-12-demon-machine-physics-year-uk.html)
+- [Novel PPPL invention could improve the efficiency of car and truck engines while reducing pollutants](https://phys.org/news/2019-12-pppl-efficiency-car-truck-pollutants.html)
 
 ------------------
