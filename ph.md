@@ -98,8 +98,12 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [When laser beams meet plasma: New data addresses gap in fusion research](https://phys.org/news/2019-12-laser-plasma-gap-fusion.html)
 - [Student solves a 100-year-old physics enigma](https://phys.org/news/2019-12-student-year-old-physics-enigma.html)
 - [Bank on it: Gains in one type of force produced by fusion disruptions are offset by losses in another](https://phys.org/news/2019-12-bank-gains-fusion-disruptions-offset.html)
-
-
+- [New algorithms to determine eigenstates and thermal states on quantum computers](https://phys.org/news/2019-11-algorithms-eigenstates-thermal-states-quantum.html)
+- [Our place in the universe will change dramatically in the next 50 years – here's how](https://phys.org/news/2019-11-universe-years.html)
+- [Toward more efficient computing, with magnetic waves](https://phys.org/news/2019-11-efficient-magnetic.html)
+- [A fifth fundamental force could really exist, but we haven't found it yet](https://phys.org/news/2019-11-fundamental-havent.html)
+- [Eight asteroids Nasa spotted this year heading for Earth close encounters](https://metro.co.uk/2020/02/07/eight-asteroids-nasa-spotted-year-heading-earth-close-encounters-12199396/)
+- [Genome Browser Gateway](https://genome.ucsc.edu/cgi-bin/hgGateway?hgsid=798188913_jWx5i0kki8C32VT2diz29MA2LVa8)
 
 
 
