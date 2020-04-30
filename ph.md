@@ -24,4 +24,10 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Quantum experiments explore power of light for communications, computing](https://phys.org/news/2020-01-quantum-explore-power.html)
 - [Transformative 'green' accelerator achieves world's first 8-pass full energy recovery](https://phys.org/news/2020-01-green-world-pass-full-energy.html)
 - [Handbook of graphene manufacturing published](https://phys.org/news/2020-01-handbook-graphene-published.html) :star:
+- [Scientists take the first step towards extending the Standard Model in physics](https://phys.org/news/2020-01-scientists-standard-physics.html)
+- [A new strategy for directly detecting light particle dark matter](https://phys.org/news/2020-01-strategy-particle-dark.html)
+- [High-precision distributed sensing using an entangled quantum network](https://phys.org/news/2020-01-high-precision-entangled-quantum-network.html)
+- [New technique to study molecules and materials on quantum simulator discovered](https://phys.org/news/2020-01-technique-molecules-materials-quantum-simulator.html)
+- [Computing with spins of light](https://phys.org/news/2020-01-computing-with-spins-of-light.html)
+
 ------------------
