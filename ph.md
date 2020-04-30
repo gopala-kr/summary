@@ -54,5 +54,10 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Influential electrons? Physicists uncover a quantum relationship](https://phys.org/news/2020-01-influential-electrons-physicists-uncover-quantum.html)
 - [Memory storage for super cold computing](https://phys.org/news/2020-01-memory-storage-super-cold.html)
 - [Wave physics as an analog recurrent neural network](https://phys.org/news/2020-01-physics-analog-recurrent-neural-network.html)
-
+- [Satellite test shows objects in space fall at a rate to within two-trillionths of a percent of each other](https://phys.org/news/2020-01-satellite-space-fall-two-trillionths-percent.html)
+- [New approach for controlling qubits via microwave pulses reduces error rates and increases efficiency](https://phys.org/news/2020-01-approach-qubits-microwave-pulses-error.html)
+- [Researchers simulate quantum computer with up to 61 quantum bits using a supercomputer with data compression](https://phys.org/news/2020-01-simulate-quantum-bits-supercomputer-compression.html)
+- [A neural network as an anchor point](https://phys.org/news/2020-01-neural-network-anchor.html)
+- [Using relativistic effects for laser fusion: A new approach for clean power](https://phys.org/news/2020-01-relativistic-effects-laser-fusion-approach.html)
+- [New method produces robust transistors](https://phys.org/news/2020-01-method-robust-transistors.html)
 ------------------
