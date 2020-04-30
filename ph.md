@@ -29,5 +29,11 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [High-precision distributed sensing using an entangled quantum network](https://phys.org/news/2020-01-high-precision-entangled-quantum-network.html)
 - [New technique to study molecules and materials on quantum simulator discovered](https://phys.org/news/2020-01-technique-molecules-materials-quantum-simulator.html)
 - [Computing with spins of light](https://phys.org/news/2020-01-computing-with-spins-of-light.html)
+- [Ultrafast camera takes 1 trillion frames per second of transparent objects and phenomena](https://phys.org/news/2020-01-ultrafast-camera-trillion-transparent-phenomena.html)
+- [Record-breaking terahertz laser beam](https://phys.org/news/2020-01-record-breaking-terahertz-laser.html)
+- [Laser diode emits deep UV light](https://phys.org/news/2020-01-laser-diode-emits-deep-uv.html)
+- [Designing lasers based on quantum physics](https://phys.org/news/2020-01-lasers-based-quantum-physics.html)
+- [Walking with atoms—chemical bond making and breaking recorded in action](https://phys.org/news/2020-01-atomschemical-bond-action.html)
+- [Spider-Man-style robotic graspers defy gravity](https://phys.org/news/2020-01-spider-man-style-robotic-graspers-defy-gravity.html)
 
 ------------------
