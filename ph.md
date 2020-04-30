@@ -84,6 +84,14 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Physicist proposes a new approach in modeling the evolution of the universe](https://phys.org/news/2019-12-physicist-approach-evolution-universe.html)
 - [Is there dark matter at the center of the Milky Way?](https://phys.org/news/2019-12-dark-center-milky.html)
 - [New technology improves gravitational wave detectors by cutting quantum noise](https://phys.org/news/2019-12-technology-gravitational-detectors-quantum-noise.html)
+- [Cheers! Maxwell's electromagnetism extended to smaller scales](https://phys.org/news/2019-12-maxwell-electromagnetism-smaller-scales.html)
+- [The X17 factor: A particle new to physics might solve the dark matter mystery](https://phys.org/news/2019-12-x17-factor-particle-physics-dark.html)
+- [Spin on perovskite research advances potential for quantum computing](https://phys.org/news/2019-12-perovskite-advances-potential-quantum.html)
+- [Proton-hydrogen collision model could impact fusion research](https://phys.org/news/2019-12-proton-hydrogen-collision-impact-fusion.html)
+- [A platform for stable quantum computing, a playground for exotic physics](https://phys.org/news/2019-12-platform-stable-quantum-playground-exotic.html)
+- [Fusion by strong lasers](https://phys.org/news/2019-12-fusion-strong-lasers.html)
+- [Standard compression algorithm could revolutionize physical and biological computations, researchers say](https://phys.org/news/2019-12-standard-compression-algorithm-revolutionize-physical.html)
+
 
 
 ------------------
