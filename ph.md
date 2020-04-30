@@ -13,3 +13,11 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [A New Experiment Hopes to Solve Quantum Mechanics’ Biggest Mystery](https://www.smithsonianmag.com/science-nature/new-experiment-hopes-solve-quantum-mechanics-biggest-mystery-180974132/)
 
 ----------------------------
+- [Calculating Hawking radiation at the event horizon of a black hole](https://phys.org/news/2020-01-hawking-event-horizon-black-hole.html)
+- [How supercomputers are helping us link quantum entanglement to cold coffee](https://phys.org/news/2020-01-supercomputers-link-quantum-entanglement-cold.html)
+- [Exploring strangeness and the primordial Universe](https://phys.org/news/2020-01-exploring-strangeness-primordial-universe.html)
+- [Super accurate sensor could lead to producing even smaller chips](https://phys.org/news/2020-01-super-accurate-sensor-smaller-chips.html)
+- [An ultrafast microscope for the quantum world](https://phys.org/news/2020-01-ultrafast-microscope-quantum-world.html)
+- [Coupled quantum dots may offer a new way to store quantum information](https://phys.org/news/2020-01-coupled-quantum-dots.html)
+
+------------------
