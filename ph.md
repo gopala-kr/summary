@@ -41,4 +41,10 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [AlphaZero learns to rule the quantum world](https://phys.org/news/2020-01-alphazero-quantum-world.html) :star:
 - [Deep learning enables real-time imaging around corners](https://phys.org/news/2020-01-deep-enables-real-time-imaging-corners.html)
 - [High-gravity water waves](https://phys.org/news/2020-01-high-gravity.html)
+- [Verifying the output from a quantum computer by comparing it to the output of another quantum computer](https://phys.org/news/2020-01-output-quantum.html) :star:
+- [Brain-inspired computing for a post-Moore's Law era](https://phys.org/news/2020-01-brain-inspired-post-moore-law-era.html) :star:
+- [How to verify that quantum chips are computing correctly](https://phys.org/news/2020-01-quantum-chips-correctly.html)
+- [Magnetic storms originate closer to Earth than previously thought, threatening satellites](https://phys.org/news/2020-01-magnetic-storms-closer-earth-previously.html)
+- [Connecting the dots in the sky could shed new light on dark matter](https://phys.org/news/2020-01-dots-sky-dark.html)
+- [Reliable and extremely fast quantum calculations with germanium transistors](https://phys.org/news/2020-01-reliable-extremely-fast-quantum-germanium.html)
 ------------------
