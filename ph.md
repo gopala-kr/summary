@@ -35,5 +35,10 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Designing lasers based on quantum physics](https://phys.org/news/2020-01-lasers-based-quantum-physics.html)
 - [Walking with atoms—chemical bond making and breaking recorded in action](https://phys.org/news/2020-01-atomschemical-bond-action.html)
 - [Spider-Man-style robotic graspers defy gravity](https://phys.org/news/2020-01-spider-man-style-robotic-graspers-defy-gravity.html)
-
+- [How sensitive can a quantum detector be?](https://phys.org/news/2020-01-sensitive-quantum-detector.html)
+- [How biology creates networks that are cheap, robust, and efficient](https://phys.org/news/2020-01-biology-networks-cheap-robust-efficient.html)
+- [Study finds billions of quantum entangled electrons in 'strange metal'](https://phys.org/news/2020-01-strange-metals.html)
+- [AlphaZero learns to rule the quantum world](https://phys.org/news/2020-01-alphazero-quantum-world.html) :star:
+- [Deep learning enables real-time imaging around corners](https://phys.org/news/2020-01-deep-enables-real-time-imaging-corners.html)
+- [High-gravity water waves](https://phys.org/news/2020-01-high-gravity.html)
 ------------------
