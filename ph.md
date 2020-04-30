@@ -60,4 +60,15 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [A neural network as an anchor point](https://phys.org/news/2020-01-neural-network-anchor.html)
 - [Using relativistic effects for laser fusion: A new approach for clean power](https://phys.org/news/2020-01-relativistic-effects-laser-fusion-approach.html)
 - [New method produces robust transistors](https://phys.org/news/2020-01-method-robust-transistors.html)
+- [Attosecond control of an atomic electron cloud](https://phys.org/news/2020-01-attosecond-atomic-electron-cloud.html)
+- [Keeping dark matter detectors clean and accurate](https://phys.org/news/2020-01-dark-detectors-accurate.html)
+- [A quantum breakthrough brings a technique from astronomy to the nano-scale](https://phys.org/news/2020-01-quantum-breakthrough-technique-astronomy-nano-scale.html)
+- [The case of the elusive Majorana: The so-called 'angel particle' is still a mystery](https://phys.org/news/2020-01-case-elusive-majorana-so-called-angel.html)
+- [Researchers advance performance benchmark for quantum computers](https://phys.org/news/2020-01-advance-benchmark-quantum.html)
+- [Researchers build a particle accelerator that fits on a chip
+](https://phys.org/news/2020-01-particle-chip.html)
+- [Rewriting quantum mechanics in their spare time](https://phys.org/news/2019-12-rewriting-quantum-mechanics.html)
+- [Radiophysicists study the properties of composites for 5G devices](https://phys.org/news/2019-12-radiophysicists-properties-composites-5g-devices.html)
+- [In leap for quantum computing, silicon quantum bits establish a long-distance relationship](https://phys.org/news/2019-12-quantum-silicon-bits-long-distance-relationship.html)
+
 ------------------
