@@ -47,4 +47,12 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Magnetic storms originate closer to Earth than previously thought, threatening satellites](https://phys.org/news/2020-01-magnetic-storms-closer-earth-previously.html)
 - [Connecting the dots in the sky could shed new light on dark matter](https://phys.org/news/2020-01-dots-sky-dark.html)
 - [Reliable and extremely fast quantum calculations with germanium transistors](https://phys.org/news/2020-01-reliable-extremely-fast-quantum-germanium.html)
+- [New quantum loop provides testbed for quantum communication technology](https://phys.org/news/2020-01-quantum-loop-testbed-technology.html)
+- [Galactic gamma-ray sources reveal birthplaces of high-energy particles](https://phys.org/news/2020-01-galactic-gamma-ray-sources-reveal-birthplaces.html)
+- [Solving complex problems at the speed of light](https://phys.org/news/2020-01-complex-problems.html)
+- [Slow light to speed up LiDAR sensors development](https://phys.org/news/2020-01-lidar-sensors.html)
+- [Influential electrons? Physicists uncover a quantum relationship](https://phys.org/news/2020-01-influential-electrons-physicists-uncover-quantum.html)
+- [Memory storage for super cold computing](https://phys.org/news/2020-01-memory-storage-super-cold.html)
+- [Wave physics as an analog recurrent neural network](https://phys.org/news/2020-01-physics-analog-recurrent-neural-network.html)
+
 ------------------
