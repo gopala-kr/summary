@@ -19,5 +19,9 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [Super accurate sensor could lead to producing even smaller chips](https://phys.org/news/2020-01-super-accurate-sensor-smaller-chips.html)
 - [An ultrafast microscope for the quantum world](https://phys.org/news/2020-01-ultrafast-microscope-quantum-world.html)
 - [Coupled quantum dots may offer a new way to store quantum information](https://phys.org/news/2020-01-coupled-quantum-dots.html)
-
+- [How to take a picture of a light pulse](https://phys.org/news/2020-01-picture-pulse.html)
+- [On the way to quantum networks](https://phys.org/news/2020-01-quantum-networks.html)
+- [Quantum experiments explore power of light for communications, computing](https://phys.org/news/2020-01-quantum-explore-power.html)
+- [Transformative 'green' accelerator achieves world's first 8-pass full energy recovery](https://phys.org/news/2020-01-green-world-pass-full-energy.html)
+- [Handbook of graphene manufacturing published](https://phys.org/news/2020-01-handbook-graphene-published.html) :star:
 ------------------
