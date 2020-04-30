@@ -91,6 +91,15 @@ in a Carbon-Constrained World](https://energy.mit.edu/wp-content/uploads/2018/09
 - [A platform for stable quantum computing, a playground for exotic physics](https://phys.org/news/2019-12-platform-stable-quantum-playground-exotic.html)
 - [Fusion by strong lasers](https://phys.org/news/2019-12-fusion-strong-lasers.html)
 - [Standard compression algorithm could revolutionize physical and biological computations, researchers say](https://phys.org/news/2019-12-standard-compression-algorithm-revolutionize-physical.html)
+- [When laser beams meet plasma: New data addresses gap in fusion research](https://phys.org/news/2019-12-laser-plasma-gap-fusion.html)
+- [Student solves a 100-year-old physics enigma](https://phys.org/news/2019-12-student-year-old-physics-enigma.html)
+- [Bank on it: Gains in one type of force produced by fusion disruptions are offset by losses in another](https://phys.org/news/2019-12-bank-gains-fusion-disruptions-offset.html)
+- [A trick for taming terahertz transmissions](https://phys.org/news/2019-12-terahertz-transmissions.html)
+- [When laser beams meet plasma: New data addresses gap in fusion research](https://phys.org/news/2019-12-laser-plasma-gap-fusion.html)
+- [Student solves a 100-year-old physics enigma](https://phys.org/news/2019-12-student-year-old-physics-enigma.html)
+- [Bank on it: Gains in one type of force produced by fusion disruptions are offset by losses in another](https://phys.org/news/2019-12-bank-gains-fusion-disruptions-offset.html)
+
+
 
 
 
