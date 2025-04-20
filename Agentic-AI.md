@@ -1,5 +1,21 @@
 
 ### Agentic AI
+
+
+-------------
+---------------
+
+![image](https://github.com/user-attachments/assets/ea4f6fc2-1634-4b93-9f4e-4cd8ff769094)
+
+---------------
+![image](https://github.com/user-attachments/assets/b9a43390-2b26-4322-8ca2-d28bc11e0137)
+
+--------------
+
+![image](https://github.com/user-attachments/assets/752126ab-e139-4288-aacf-83429ff8dabc)
+
+
+
 -------------------
 -------------------
 ![image](https://github.com/user-attachments/assets/2c2a4b8e-201c-4b2b-8b2f-4f996c2ce805)
